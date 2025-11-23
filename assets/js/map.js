@@ -12,7 +12,6 @@ const categoryMap = {
     "성공": "success", "승진": "success", "목표": "success",
     "휴식": "relax", "힐링": "relax", "여행": "relax",
     "역사": "history", "전통": "history", "관광": "history"
-    // (가정, 예술은 삭제됨)
 };
 
 // 2. 구글 맵 초기화
@@ -22,16 +21,18 @@ async function initMap() {
     const { Map } = await google.maps.importLibrary("maps");
     const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
-    // 기본 중심 좌표 (데이터가 로드되면 자동으로 경계가 조절됩니다)
-    const initialCenter = { lat: 35.6895, lng: 139.6917 }; // 도쿄
+    // [수정됨] 기본 중심 좌표 (도쿄 신주쿠/황거 주변)
+    const initialCenter = { lat: 35.6895, lng: 139.6917 };
 
     map = new Map(document.getElementById("map"), {
-        zoom: 10,
+        zoom: 12, // [수정됨] 10 -> 12 (도쿄 시내가 더 잘 보이도록 확대)
         center: initialCenter,
         mapId: "2938bb3f7f034d78a2dbaf56",
         mapTypeControl: false,
         streetViewControl: false,
-        gestureHandling: "cooperative" // 모바일 스크롤 개선
+        
+        // [수정됨] '두 손가락' 안내 없이 한 손가락으로 이동 가능하게 변경
+        gestureHandling: "greedy" 
     });
 
     fetchBlogPosts(AdvancedMarkerElement, PinElement);
@@ -56,16 +57,16 @@ async function fetchBlogPosts(AdvancedMarkerElement, PinElement) {
     }
 }
 
-// 4. 데이터 처리 및 마커 생성 (Geocoding API 호출 제거됨)
+// 4. 데이터 처리 및 마커 생성
 function processBlogData(posts, AdvancedMarkerElement, PinElement) {
-    const bounds = new google.maps.LatLngBounds(); // 모든 마커를 포함할 범위
+    // [수정됨] 초기화면이 너무 광범위해지는 것을 막기 위해 bounds 로직 주석 처리
+    // const bounds = new google.maps.LatLngBounds(); 
 
     for (const post of posts) {
-        // [중요] 백엔드에서 이미 변환된 좌표(lat, lng)가 있는 경우에만 마커 생성
         if (post.lat && post.lng) {
             
             // 카테고리 결정 로직
-            let matchedTheme = 'history'; // 기본값
+            let matchedTheme = 'history'; 
             if (post.categories && post.categories.length > 0) {
                 for (let cat of post.categories) {
                     if (categoryMap[cat]) {
@@ -75,7 +76,6 @@ function processBlogData(posts, AdvancedMarkerElement, PinElement) {
                 }
             }
 
-            // 마커 데이터 구성
             const shrineData = {
                 name: post.title,
                 lat: post.lat,
@@ -88,29 +88,29 @@ function processBlogData(posts, AdvancedMarkerElement, PinElement) {
 
             createMarker(shrineData, AdvancedMarkerElement, PinElement);
             
-            // 지도 범위 확장
-            bounds.extend({ lat: post.lat, lng: post.lng });
+            // [수정됨] bounds 확장 로직 제거
+            // bounds.extend({ lat: post.lat, lng: post.lng });
         }
     }
 
-    // 모든 마커가 보이도록 지도 중심/줌 자동 조절
-    if (!bounds.isEmpty()) {
-        map.fitBounds(bounds);
-    }
+    // [수정됨] fitBounds 제거 (이것 때문에 지도가 일본 전체로 줌아웃 되었습니다)
+    // if (!bounds.isEmpty()) {
+    //     map.fitBounds(bounds);
+    // }
 }
 
 // 5. 마커 생성 함수
 function createMarker(shrine, AdvancedMarkerElement, PinElement) {
     // 테마별 색상
     const colors = {
-        wealth: "#FFD700",  // 재물 (황금색)
-        love: "#FF4081",    // 사랑 (핫핑크)
-        health: "#4CAF50",  // 건강 (초록)
-        study: "#2196F3",   // 학업 (파랑)
-        safety: "#607D8B",  // 안전 (청회색)
-        success: "#673AB7", // 성공 (보라)
-        relax: "#00BCD4",   // 휴식 (하늘색)
-        history: "#795548"  // 역사 (갈색)
+        wealth: "#FFD700",  // 재물
+        love: "#FF4081",    // 사랑
+        health: "#4CAF50",  // 건강
+        study: "#2196F3",   // 학업
+        safety: "#607D8B",  // 안전
+        success: "#673AB7", // 성공
+        relax: "#00BCD4",   // 휴식
+        history: "#795548"  // 역사
     };
     
     const markerColor = colors[shrine.theme] || colors['history'];
@@ -128,15 +128,12 @@ function createMarker(shrine, AdvancedMarkerElement, PinElement) {
         content: pin.element
     });
 
-    marker.category = shrine.theme; // 필터링용 속성 추가
+    marker.category = shrine.theme; 
 
-    // 길찾기 URL 생성
     const directionsUrl = `https://www.google.com/maps/dir/?api=1&destination=${shrine.lat},${shrine.lng}`;
 
-    // 인포윈도우 (팝업 내용) - [수정됨] 썸네일 경로 에러 처리 및 길찾기 버튼 추가
     const contentString = `
         <div class="infowindow-content">
-            <!-- 이미지 (에러시 로고 표시) -->
             <img src="${shrine.thumbnail}" 
                  alt="${shrine.name}" 
                  onerror="this.src='assets/images/JinjaMapLogo_Horizontal.png'">
@@ -162,16 +159,12 @@ function createMarker(shrine, AdvancedMarkerElement, PinElement) {
     });
 
     marker.addListener("click", () => {
-        // 다른 열린 창이 있다면 닫기 (선택사항)
-        // currentInfoWindow?.close(); 
         infowindow.open(map, marker);
-        // currentInfoWindow = infowindow;
     });
 
     markers.push(marker);
 }
 
-// 한글 테마명 변환
 function getKoreanThemeName(theme) {
     const names = {
         wealth: "재물", love: "사랑", health: "건강",
@@ -186,18 +179,16 @@ function setupFilterButtons() {
     const buttons = document.querySelectorAll('.theme-button');
     buttons.forEach(button => {
         button.addEventListener('click', () => {
-            // 버튼 활성화 스타일 처리
             buttons.forEach(btn => btn.classList.remove('active'));
             button.classList.add('active');
             
             const selectedTheme = button.getAttribute('data-theme');
             
-            // 마커 보이기/숨기기
             markers.forEach(marker => {
                 if (selectedTheme === 'all' || marker.category === selectedTheme) {
-                    marker.map = map; // 지도에 표시
+                    marker.map = map;
                 } else {
-                    marker.map = null; // 지도에서 제거
+                    marker.map = null;
                 }
             });
         });
