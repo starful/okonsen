@@ -21,6 +21,11 @@ CACHE_DURATION = 3600  # 1시간 (초 단위)
 def index():
     return send_from_directory('.', 'index.html')
 
+# [추가됨] 개인정보처리방침 페이지 연결
+@app.route('/privacy.html')
+def privacy():
+    return send_from_directory('.', 'privacy.html')
+
 @app.route('/api/shrines')
 def api_shrines():
     global cache_data, last_fetch_time

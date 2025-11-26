@@ -92,10 +92,16 @@ h1 {
 
 .theme-filter-buttons {
     display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    justify-content: center;
-    padding: 0 20px;
+    flex-wrap: nowrap; /* 줄바꿈 금지 */
+    overflow-x: auto; /* 가로 스크롤 허용 */
+    padding: 10px 15px;
+    gap: 10px;
+    -webkit-overflow-scrolling: touch; /* 부드러운 스크롤 */
+    /* 스크롤바 숨기기 */
+    scrollbar-width: none; 
+}
+.theme-filter-buttons::-webkit-scrollbar {
+    display: none;
 }
 
 .theme-button {
@@ -319,4 +325,97 @@ h1 {
 
 .card-btn:hover {
     text-decoration: underline;
+}
+
+/* --- 오미쿠지(운세) 스타일 --- */
+
+/* 1. 우측 하단 플로팅 버튼 (모바일에서도 누기 쉽게) */
+.omikuji-floating-btn {
+    position: fixed;
+    bottom: 30px;
+    left: 20px; /* 왼쪽에 배치 (오른쪽은 지도 버튼들이 있음) */
+    background-color: #d32f2f;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    cursor: pointer;
+    z-index: 1000;
+    transition: transform 0.2s;
+}
+
+.omikuji-floating-btn:hover {
+    transform: scale(1.05);
+    background-color: #b71c1c;
+}
+
+/* 2. 모달 팝업 배경 */
+.modal-overlay {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    z-index: 2000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 3. 모달 내용 박스 */
+.modal-content {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    width: 90%;
+    max-width: 350px;
+    position: relative;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    animation: popIn 0.3s ease;
+}
+
+@keyframes popIn {
+    from { transform: scale(0.8); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+}
+
+/* 닫기 버튼 */
+.close-modal {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #aaa;
+    cursor: pointer;
+}
+.close-modal:hover { color: #333; }
+
+/* 액션 버튼 */
+.action-btn {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+    width: 100%;
+    font-weight: bold;
+}
+
+/* 흔들리는 애니메이션 (뽑기 중) */
+.shake {
+    animation: shake 0.5s cubic-bezier(.36,.07,.19,.97) both infinite;
+}
+
+@keyframes shake {
+    10%, 90% { transform: translate3d(-1px, 0, 0); }
+    20%, 80% { transform: translate3d(2px, 0, 0); }
+    30%, 50%, 70% { transform: translate3d(-4px, 0, 0); }
+    40%, 60% { transform: translate3d(4px, 0, 0); }
 }
