@@ -38,7 +38,7 @@ if not GEMINI_API_KEY:
 
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash", # 또는 gemini-pro
+    model_name="gemini-pro-latest", # 또는 gemini-pro
     generation_config={"temperature": 0.7, "max_output_tokens": 8192}
 )
 
