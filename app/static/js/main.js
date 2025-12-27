@@ -139,7 +139,7 @@ async function updateMapMarkers(data) {
 
 // [4] Category Counts
 function updateCategoryCounts() {
-    const counts = { all: shrinesData.length, wealth: 0, love: 0, health: 0, study: 0, safety: 0, success: 0, history: 0 };
+    const counts = { all: shrinesData.length, wealth: 0, love: 0, health: 0, safety: 0, success: 0, history: 0 };
     
     shrinesData.forEach(shrine => {
         if(shrine.categories) {

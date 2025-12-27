@@ -47,7 +47,7 @@ CATEGORY_EN_MAP = {
     '재물': 'Wealth',
     '사랑': 'Love',
     '건강': 'Health',
-    '학업': 'Study',
+    '학업': 'Success',
     '안전': 'Safety',
     '성공': 'Success',
     '역사': 'History'
