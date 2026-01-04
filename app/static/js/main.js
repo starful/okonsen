@@ -9,8 +9,8 @@ let isMapLoaded = false;
 document.addEventListener('DOMContentLoaded', () => {
     fetchShrines();
     initThemeFilters();
-    initSearch();
     initOmikuji();
+    // initMap은 Google Maps Loader가 호출하거나, 로더가 없을 경우 window.initMap으로 실행됨
 });
 
 // [1] Fetch Data
@@ -37,7 +37,7 @@ async function fetchShrines() {
         updateCategoryCounts();
         renderCards(shrinesData);
 
-        // 지도 로드 후 데이터가 오면 마커 표시
+        // 지도 로드 후 데이터가 오면 마커 표시 및 뷰 조정
         if (isMapLoaded) {
             updateMapMarkers(shrinesData);
         }
@@ -48,6 +48,7 @@ async function fetchShrines() {
 }
 
 // [2] Google Maps Initialization
+// window 객체에 할당하여 모듈 외부(Google Loader)에서 호출 가능하게 함
 window.initMap = async function() {
     const mapEl = document.getElementById('map');
     if (!mapEl) return;
@@ -59,14 +60,17 @@ window.initMap = async function() {
         map = new Map(mapEl, {
             zoom: 5,
             center: center,
-            mapId: "DEMO_MAP_ID",
+            // [중요] 사용자가 생성한 실제 Map ID 적용
+            mapId: "2938bb3f7f034d78a2dbaf56", 
             disableDefaultUI: false,
             zoomControl: true,
-            streetViewControl: false
+            streetViewControl: false,
+            mapTypeControl: false,
         });
 
         isMapLoaded = true;
 
+        // 데이터가 이미 로드되었다면 마커 업데이트
         if (shrinesData.length > 0) {
             updateMapMarkers(shrinesData);
         }
@@ -76,36 +80,49 @@ window.initMap = async function() {
     }
 };
 
-// [3] Update Markers
+// [3] Update Markers (Modern Version with AdvancedMarkerElement)
 async function updateMapMarkers(data) {
     if (!map) return;
 
     // 기존 마커 삭제
     markers.forEach(m => m.map = null);
     markers = [];
+    
+    if (data.length === 0) {
+        return;
+    }
+
+    const bounds = new google.maps.LatLngBounds();
 
     try {
+        // [중요] AdvancedMarkerElement 라이브러리 로드
         const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
+        const { InfoWindow } = await google.maps.importLibrary("maps");
 
         data.forEach(shrine => {
+            const position = { lat: parseFloat(shrine.lat), lng: parseFloat(shrine.lng) };
+
+            // 커스텀 마커 아이콘 생성 (CSS 스타일 적용됨)
             const markerIcon = document.createElement('div');
             markerIcon.className = 'marker-icon';
+            
+            // 썸네일 이미지가 있으면 배경으로 설정
             if (shrine.thumbnail) {
                 markerIcon.style.backgroundImage = `url(${shrine.thumbnail})`;
                 markerIcon.style.backgroundSize = 'cover';
             }
 
+            // 고급 마커 생성
             const marker = new AdvancedMarkerElement({
                 map: map,
-                position: { lat: parseFloat(shrine.lat), lng: parseFloat(shrine.lng) },
+                position: position,
                 title: shrine.title,
-                content: markerIcon
+                content: markerIcon, // 커스텀 HTML 요소 사용
             });
 
             marker.addListener('click', () => {
                 if (currentInfoWindow) currentInfoWindow.close();
 
-                // [지도 정보창] 온천 뱃지 표시
                 const onsenTag = shrine.has_onsen 
                     ? '<span class="info-onsen-tag">♨️ Onsen Nearby</span>' 
                     : '';
@@ -125,12 +142,19 @@ async function updateMapMarkers(data) {
                     </div>
                 `;
                 
-                const infoWindow = new google.maps.InfoWindow({ content: infoContent });
+                const infoWindow = new InfoWindow({ content: infoContent, maxWidth: 250 });
                 infoWindow.open(map, marker);
                 currentInfoWindow = infoWindow;
             });
             markers.push(marker);
+
+            // 생성된 마커 위치를 경계에 포함
+            bounds.extend(position);
         });
+
+        // 모든 마커가 보이도록 뷰 자동 조절
+        map.fitBounds(bounds);
+
     } catch (e) {
         console.error("Marker Error:", e);
     }
@@ -143,8 +167,10 @@ function updateCategoryCounts() {
     shrinesData.forEach(shrine => {
         if(shrine.categories) {
             shrine.categories.forEach(cat => {
-                const key = cat.toLowerCase();
-                if (counts.hasOwnProperty(key)) counts[key]++;
+                const key = cat.toLowerCase().trim();
+                if (counts.hasOwnProperty(key)) {
+                    counts[key]++;
+                }
             });
         }
     });
@@ -168,13 +194,11 @@ function renderCards(data) {
     }
 
     data.forEach(shrine => {
-        // NEW 뱃지 계산
         const pubDate = new Date(shrine.published);
         const now = new Date();
         const diffDays = Math.ceil((now - pubDate) / (1000 * 60 * 60 * 24));
-        const isNew = diffDays <= 7;
+        const isNew = diffDays <= 14; 
 
-        // [카드 리스트] 온천 뱃지 표시
         const onsenBadge = shrine.has_onsen 
             ? '<span class="onsen-badge">♨️ Onsen</span>' 
             : '';
@@ -189,7 +213,7 @@ function renderCards(data) {
             </a>
             <div class="card-content">
                 <div class="card-meta">
-                    <span>${shrine.categories.join(', ')}</span> • <span>${shrine.published}</span>
+                    <span>${shrine.categories.join(', ')}</span> • <span>${shrine.published.replace(/-/g, '.')}</span>
                 </div>
                 <h3 class="card-title"><a href="${shrine.link}">${shrine.title}</a></h3>
                 <p class="card-summary">${shrine.summary}</p>
@@ -201,49 +225,27 @@ function renderCards(data) {
     });
 }
 
-// [6] Search & Filter Logic
-function initSearch() {
-    const searchInput = document.getElementById('search-input');
-    if (searchInput) {
-        searchInput.addEventListener('input', (e) => {
-            filterData(e.target.value.toLowerCase(), getCurrentTheme());
-        });
-    }
-}
-
+// [6] Filter Logic
 function initThemeFilters() {
     const buttons = document.querySelectorAll('.theme-button');
     buttons.forEach(btn => {
         btn.addEventListener('click', () => {
             buttons.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
-            filterData('', btn.dataset.theme);
+            filterByTheme(btn.dataset.theme);
         });
     });
 }
 
-function getCurrentTheme() {
-    const activeBtn = document.querySelector('.theme-button.active');
-    return activeBtn ? activeBtn.dataset.theme : 'all';
-}
-
-function filterData(keyword, theme) {
+function filterByTheme(theme) {
     let filtered = shrinesData;
 
     if (theme !== 'all') {
         filtered = filtered.filter(item => 
-            item.categories.some(cat => cat.toLowerCase() === theme.toLowerCase())
+            item.categories.some(cat => cat.toLowerCase().trim() === theme.toLowerCase())
         );
     }
-
-    if (keyword) {
-        filtered = filtered.filter(item => 
-            item.title.toLowerCase().includes(keyword) || 
-            item.address.toLowerCase().includes(keyword) || 
-            (item.tags && item.tags.some(tag => tag.toLowerCase().includes(keyword)))
-        );
-    }
-
+    
     renderCards(filtered);
     updateMapMarkers(filtered);
 }
@@ -257,7 +259,7 @@ function initOmikuji() {
     const step1 = document.getElementById('omikuji-step1');
     const step2 = document.getElementById('omikuji-step2');
     
-    if(!btn) return;
+    if(!btn || !modal || !close || !drawBtn || !step1 || !step2) return;
 
     btn.addEventListener('click', () => { 
         modal.style.display = 'flex'; 
@@ -292,7 +294,7 @@ function initOmikuji() {
         document.getElementById('result-desc').innerText = `Your lucky spot is:\n${randomShrine.title}`;
         
         const goBtn = document.getElementById('go-map-btn');
-        goBtn.innerText = "Go to Shrine";
+        goBtn.innerText = `Explore ${randomShrine.categories[0] || 'Shrine'}`;
         goBtn.onclick = () => { window.location.href = randomShrine.link; };
 
         if (typeof confetti === 'function') {
