@@ -1,8 +1,8 @@
-# ⛩️ JinjaMap - Your Interactive Guide to Japan's Sacred Power Spots
+# ⛩️ okJinja - Your Interactive Guide to Japan's Sacred Power Spots
 
 An interactive web application designed to help travelers discover and explore Japan's rich spiritual heritage. Find your fortune by filtering shrines based on themes like Wealth, Love, and Success.
 
-🔗 **Live Demo:** [https://jinjamap.com](https://jinjamap.com)
+🔗 **Live Demo:** [https://okjinja.com](https://okjinja.com)
 
 ---
 
@@ -39,7 +39,7 @@ This project leverages a modern "Jamstack-like" architecture within a Flask envi
 ## 📂 Project Structure
 
 ```text
-jinjaMap/
+okjinja/
 ├── app/
 │   ├── content/                 # Source Data (Markdown files)
 │   │   └── images/              # Optimized Images

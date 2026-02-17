@@ -1,5 +1,5 @@
 /**
- * JinjaMap - Global Multi-language Core Logic (EN, KO, JA)
+ * OkJinja - Global Multi-language Core Logic (EN, KO, JA)
  */
 
 let shrinesData = []; // 전체 원본 데이터
