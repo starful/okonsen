@@ -7,7 +7,7 @@ from datetime import datetime
 
 # [중요] 스크립트 위치가 script/ 폴더이므로, 프로젝트 루트는 부모의 부모 폴더입니다.
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-BASE_DIR = os.path.dirname(SCRIPT_DIR)  # jinjaMap/
+BASE_DIR = os.path.dirname(SCRIPT_DIR)  # OkJinja/
 
 CONTENT_DIR = os.path.join(BASE_DIR, 'app', 'content')
 STATIC_DIR = os.path.join(BASE_DIR, 'app', 'static')
@@ -15,7 +15,7 @@ STATIC_DIR = os.path.join(BASE_DIR, 'app', 'static')
 JSON_OUTPUT = os.path.join(STATIC_DIR, 'json', 'shrines_data.json')
 SITEMAP_OUTPUT = os.path.join(STATIC_DIR, 'sitemap.xml')
 ADS_OUTPUT = os.path.join(STATIC_DIR, 'ads.txt')
-BASE_URL = 'https://jinjamap.com'
+BASE_URL = 'https://okjinja-350108786002.us-central1.run.app'
 
 def strip_markdown(text):
     try:

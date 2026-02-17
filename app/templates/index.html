@@ -11,20 +11,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <!-- 2. SEO & Meta Tags -->
-    <title>JinjaMap - Discover Japan's Hidden Sacred Spots</title>
+    <!-- 2. SEO & Meta Tags (Updated for OKJinja) -->
+    <!-- [보안] 검색 엔진 수집 차단 (필요시 삭제하세요) -->
+    <meta name="robots" content="noindex, nofollow">
+
+    <title>OKJinja - Discover Japan's Hidden Sacred Spots</title>
     <meta name="description" content="Explore hidden shrines and power spots in Japan. Find your luck in Wealth, Love, Health, and Success with our interactive map guide.">
     <meta name="keywords" content="Japan Shrine, Tokyo Power Spot, Jinja Map, Shinto Shrine, Omamori, Goshuin, Japan Travel Guide">
-    <meta name="author" content="JinjaMap Project">
+    <meta name="author" content="OKJinja Project">
     <meta name="theme-color" content="#d35400">
     
     <!-- Open Graph (Social Sharing) -->
     <meta property="og:type" content="website">
-    <meta property="og:site_name" content="JinjaMap">
-    <meta property="og:title" content="JinjaMap - Japan Shrine Guide">
+    <meta property="og:site_name" content="OKJinja">
+    <meta property="og:title" content="OKJinja - Japan Shrine Guide">
     <meta property="og:description" content="Find your destiny at Japan's most spiritual places.">
-    <meta property="og:url" content="https://jinjamap.com">
-    <meta property="og:image" content="https://jinjamap.com/static/images/og_image.png"> <!-- 대표 이미지 권장 -->
+    <meta property="og:url" content="https://okjinja-350108786002.us-central1.run.app/">
+    <meta property="og:image" content="https://okjinja-350108786002.us-central1.run.app/static/images/og_image.png">
 
     <!-- Favicon & CSS -->
     <link rel="icon" href="/static/images/favicon.ico" type="image/x-icon">
@@ -38,7 +41,6 @@
       gtag('js', new Date());
       gtag('config', 'G-1SWMP4KC55');
     </script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8780435268193938" crossorigin="anonymous"></script>
     
     <!-- Confetti Effect -->
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js" defer></script>
@@ -60,12 +62,11 @@
 
     <header>
         <div class="container">
+            <!-- 로고 영역: 중복 제거 및 logo.svg 사용 -->
             <h1>
                 <a href="/">
-                    <picture>
-                        <source srcset="/static/images/JinjaMapLogo_Horizontal.png" media="(max-width: 768px)">
-                        <img src="/static/images/JinjaMapLogo_Vertical.png" alt="JinjaMap" class="logo-img">
-                    </picture>
+                    <!-- logo.svg 파일이 static/images/ 폴더에 있다고 가정합니다 -->
+                    <img src="/static/images/OkJinjaLogo_Vertical.png" alt="OKJinja" class="logo-img" style="height: 100px; width: auto; display: block; margin: 0 auto;">
                 </a>
             </h1>
 
@@ -109,7 +110,7 @@
             <article class="intro-box">
                 <h2>⛩️ Discover Your Power Spot in Japan</h2>
                 <p>
-                    JinjaMap helps you find hidden <strong>Power Spots</strong> across Japan.<br>
+                    OKJinja helps you find hidden <strong>Power Spots</strong> across Japan.<br>
                     Click the pins on the map or explore the list below to find your destination.
                 </p>
             </article>
@@ -152,7 +153,5 @@
     });
     </script>
     <script type="module" src="/static/js/main.js"></script>
-    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=REDACTED_GOOGLE_API_KEY&libraries=marker&v=beta&loading=async&callback=initMap" async defer></script> -->
-    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=REDACTED_GOOGLE_API_KEY&libraries=marker&v=beta&loading=async" async defer></script> -->
 </body>
 </html>

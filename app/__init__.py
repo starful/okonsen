@@ -62,8 +62,6 @@ def shrine_detail(shrine_id):
     with open(md_path, 'r', encoding='utf-8') as f:
         post = frontmatter.load(f)
 
-    # [추가] 렌더링 직전에 줄바꿈 보정 로직 실행
-    # 리스트(* 혹은 -) 앞에 빈 줄이 없으면 강제로 두 번 줄바꿈을 넣어줍니다.
     fixed_content = re.sub(r'([^\n])\n\*\s', r'\1\n\n* ', post.content)
     fixed_content = re.sub(r'([^\n])\n-\s', r'\1\n\n- ', fixed_content)
 
@@ -74,6 +72,10 @@ def shrine_detail(shrine_id):
 def serve_content_images(filename):
     images_dir = os.path.join(CONTENT_DIR, 'images')
     return send_from_directory(images_dir, filename)
+
+@app.route('/robots.txt')
+def robots_txt():
+    return send_from_directory(STATIC_DIR, 'robots.txt')
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 8080))
