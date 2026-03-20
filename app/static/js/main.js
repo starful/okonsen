@@ -185,6 +185,12 @@ async function updateMapMarkers(data) {
             const markerIcon = document.createElement('div');
             markerIcon.className = 'marker-icon';
 
+            // 💡[여기 추가!] 썸네일 이미지를 마커 배경으로 쏙 집어넣기
+            if (onsen.thumbnail) {
+                markerIcon.style.backgroundImage = `url(${onsen.thumbnail})`;
+                markerIcon.style.backgroundSize = 'cover';
+            }
+
             const marker = new AdvancedMarkerElement({
                 map: map,
                 position: position,
