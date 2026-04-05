@@ -5,85 +5,49 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     
     <link rel="canonical" href="https://okonsen.net" />
 
     <title>OKOnsen - Discover Japan's Best Hot Springs & Ryokans</title>
-    <meta name="description" content="Find the perfect Japanese Onsen. Filter by private baths, tattoo-friendly spots, Mount Fuji views, and luxury ryokans on our interactive map.">
-    <meta name="keywords" content="Japan Onsen, Ryokan Map, Hot Spring, Tattoo Friendly Onsen, Private Bath Onsen, Japan Travel Guide">
-    <meta name="author" content="OKOnsen Project">
-    <meta name="theme-color" content="#3498db">
-    
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="OKOnsen">
-    <meta property="og:title" content="OKOnsen - Japan Hot Spring Guide">
-    <meta property="og:description" content="Discover your perfect Onsen and Ryokan in Japan.">
-    <meta property="og:url" content="https://okonsen.net">
-    <meta property="og:image" content="https://okonsen.net/static/images/og_image.png">
-
+    <meta name="description" content="Find the perfect Japanese Onsen. Filter by private baths, tattoo-friendly spots, and luxury ryokans.">
     <link rel="icon" href="/static/images/favicons.ico" type="image/x-icon">
     <link rel="stylesheet" href="/static/css/style.css">
 
-    <!-- [이전 코드 삭제 후 아래 코드로 덮어쓰기] -->
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-P8FM8Z36D7"></script>
     <script>
-      window.dataLayer = window.dataLayer ||[];
+      window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-P8FM8Z36D7');
     </script>
-
-    <script data-noptimize="1" data-cfasync="false" data-wpfc-render="false">
-    (function () {
-        var script = document.createElement("script");
-        script.async = 1;
-        script.src = 'https://emrldtp.cc/NTA5ODA2.js?t=509806';
-        document.head.appendChild(script);
-    })();
-    </script>
-
 </head>
 <body>
 
-    <!-- 구글 번역기 위젯 삭제됨 -->
-
     <header>
-        <div class="container">
-            <h1>
+        <div class="container header-container">
+            <div class="logo-wrapper">
                 <a href="/">
-                    <img src="/static/images/logo.png" alt="OKOnsen" class="logo-img" style="height: 100px; width: auto; display: block; margin: 0 auto;">
+                    <img src="/static/images/logo.png" alt="OKOnsen" class="logo-img">
                 </a>
-            </h1>
-
-            <div class="status-bar">
-                <div class="status-badge">
-                    ♨️ <span id="total-onsens">0</span> Onsens Listed
-                </div>
-                <div class="status-badge">
-                    📅 Updated: <span id="last-updated-date">-</span>
-                </div>
-                <div class="status-badge highlight">
-                    🔄 Updating Weekly
-                </div>
             </div>
 
-            <div class="lang-selector">
-                <button class="lang-btn active" data-lang="en">English</button>
-                <button class="lang-btn" data-lang="ko">한국어</button>
+            <div class="header-right">
+                <div class="lang-selector">
+                    <button class="lang-btn active" data-lang="en">EN</button>
+                    <button class="lang-btn" data-lang="ko">KO</button>
+                </div>
             </div>
 
             <div class="theme-filter-buttons">
                 <button class="theme-button active" data-theme="all">All <span class="count-badge" id="count-all">0</span></button>
-                <button class="theme-button" data-theme="private">🛁 Private Bath <span class="count-badge" id="count-private">0</span></button>
+                <button class="theme-button" data-theme="private">🛁 Private <span class="count-badge" id="count-private">0</span></button>
                 <button class="theme-button" data-theme="tattoo">⭕ Tattoo OK <span class="count-badge" id="count-tattoo">0</span></button>
-                <button class="theme-button" data-theme="view">🗻 Great View <span class="count-badge" id="count-view">0</span></button>
+                <button class="theme-button" data-theme="view">🗻 View <span class="count-badge" id="count-view">0</span></button>
                 <button class="theme-button" data-theme="luxury">✨ Luxury <span class="count-badge" id="count-luxury">0</span></button>
                 <button class="theme-button" data-theme="local">🏮 Local <span class="count-badge" id="count-local">0</span></button>
             </div>
-            
         </div>
     </header>
     
@@ -94,17 +58,14 @@
 
         <div class="content-wrapper">
             <article class="intro-box">
-                <h2>♨️ Discover Your Perfect Onsen in Japan</h2>
-                <p>
-                    OKOnsen helps you find the best <strong>Hot Springs & Ryokans</strong> across Japan.<br>
-                    Filter by Private Baths, Tattoo policies, or Luxury stays to find your destination.
-                </p>
+                <h2>♨️ Find Your Perfect Onsen</h2>
+                <p>Filter by Private Baths, Tattoo-friendly spots, or Luxury stays.</p>
             </article>
 
             <section id="list-section">
                 <h2 class="list-title">🎏 Latest Onsen Guides</h2>
                 <div id="onsen-list" class="onsen-grid"></div>
-                <div id="scroll-sentinel" style="height: 20px; width: 100%;"></div>
+                <div id="scroll-sentinel" style="height: 20px;"></div>
             </section>
         </div>
     </main>
