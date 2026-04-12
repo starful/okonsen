@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template, abort, send_from_directory
+from flask import Flask, jsonify, render_template, abort, send_from_directory, redirect
 from flask_compress import Compress
 import json
 import os
@@ -25,6 +25,15 @@ if os.path.exists(DATA_FILE):
     except Exception as e:
         print(f"❌ Data load error: {e}")
         CACHED_DATA = {"onsens":[], "error": "Load failed"}
+
+# app/__init__.py 내의 serve_images 함수 수정
+@app.route('/static/images/<path:filename>')
+def serve_images(filename):
+    # 파일명에서 확장자를 떼고 무조건 .jpg로 연결하거나, 
+    # 혹은 원본 요청 그대로 GCS로 리다이렉트 합니다.
+    # 브라우저 캐시를 방지하기 위해 GCS 주소 뒤에 랜덤 값을 붙일 수도 있습니다.
+    import time
+    return redirect(f"https://storage.googleapis.com/ok-project-assets/okonsen/{filename}?v={int(time.time())}")
 
 @app.route('/')
 def index():
