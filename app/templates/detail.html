@@ -5,77 +5,179 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ post.title }} - OKOnsen</title>
     <meta name="description" content="{{ post.summary }}">
-    <link rel="canonical" href="https://okonsen.net/onsen/{{ post.id }}" />
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-P8FM8Z36D7"></script>
-    <script>
-      window.dataLayer = window.dataLayer ||[];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-P8FM8Z36D7');
-    </script>
-
-    <script data-noptimize="1" data-cfasync="false" data-wpfc-render="false">
-    (function () {
-        var script = document.createElement("script");
-        script.async = 1;
-        script.src = 'https://emrldtp.cc/NTA5ODA2.js?t=509806';
-        document.head.appendChild(script);
-    })();
-    </script>
-
+    <link rel="icon" href="/static/images/favicons.ico">
     <link rel="stylesheet" href="/static/css/style.css">
+    
+    <!-- 온천 상세페이지 전용 CSS (헤더 사이즈 동기화 및 잡지 레이아웃) -->
     <style>
-        .detail-container { max-width: 800px; margin: 0 auto; padding: 20px; background: #fff; }
-        .detail-header { text-align: center; margin-bottom: 40px; }
-        .detail-title { font-size: 2rem; margin-bottom: 10px; color: #333; }
-        .detail-meta { color: #666; font-size: 0.9rem; }
-        .detail-img { width: 100%; height: auto; border-radius: 10px; margin-bottom: 30px; }
-        .detail-content { font-size: 1.1rem; line-height: 1.8; color: #444; }
-        .detail-content h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 40px; color: #3498db; }
-        .detail-content img { max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 5px; }
-        .back-btn { display: inline-block; margin-top: 40px; padding: 10px 20px; background: #333; color: white; text-decoration: none; border-radius: 20px; }
+        /* 1. 헤더 및 로고 사이즈 메인 페이지와 100% 동기화 */
+        header {
+            padding: 10px 0 !important;
+            background: rgba(255, 255, 255, 0.98) !important;
+        }
+        header .logo-img { 
+            height: 45px !important; 
+            width: auto !important;
+            margin: 0 !important;
+        }
+        .header-container {
+            display: grid !important;
+            grid-template-columns: 1fr auto 1fr !important;
+            align-items: center !important;
+        }
+        
+        /* 2. 상세페이지 필터바 숨김 */
+        .top-filter-bar { display: none !important; }
+
+        /* 3. 본문 레이아웃 컨테이너 */
+        .onsen-detail-wrapper {
+            max-width: 800px;
+            margin: 40px auto 80px;
+            background: #fff;
+            padding: 60px 80px;
+            border-radius: 25px;
+            box-shadow: 0 15px 50px rgba(0,0,0,0.06);
+            line-height: 1.8;
+        }
+
+        /* 4. 상단 메타 정보 (주소, 카테고리) */
+        .onsen-meta-info {
+            margin-bottom: 20px;
+            color: #888;
+            font-size: 0.95rem;
+            font-weight: 600;
+        }
+        .onsen-meta-info span { margin-right: 15px; }
+
+        .detail-title {
+            font-size: 2.5rem;
+            font-weight: 900;
+            line-height: 1.3;
+            color: #111;
+            margin-bottom: 30px;
+            letter-spacing: -1px;
+        }
+
+        .detail-main-img {
+            width: 100%;
+            height: auto;
+            max-height: 500px;
+            object-fit: cover;
+            border-radius: 20px;
+            margin-bottom: 40px;
+            display: block;
+        }
+
+        /* 5. 마크다운 본문 스타일링 */
+        .onsen-body-content {
+            font-size: 1.15rem;
+            color: #333;
+        }
+        .onsen-body-content h2 {
+            font-size: 1.9rem;
+            margin-top: 50px;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 4px solid #3498db; /* 온천은 블루 포인트 */
+            display: inline-block;
+            font-weight: 800;
+            color: #000;
+        }
+        .onsen-body-content p { margin-bottom: 1.8rem; }
+
+        /* 6. 아고다 예약 버튼 */
+        .booking-section {
+            text-align: center;
+            margin: 50px 0;
+            padding: 40px;
+            background: #f8f9fa;
+            border-radius: 20px;
+        }
+        .btn-agoda {
+            display: inline-block;
+            background-color: #3498db;
+            color: white !important;
+            padding: 18px 40px;
+            font-size: 1.2rem;
+            font-weight: 800;
+            border-radius: 50px;
+            text-decoration: none;
+            box-shadow: 0 10px 20px rgba(52, 152, 219, 0.3);
+            transition: 0.2s;
+        }
+        .btn-agoda:hover { transform: translateY(-3px); background-color: #2980b9; }
+
+        /* 7. 하단 백 버튼 */
+        .back-section {
+            text-align: center;
+            margin-top: 60px;
+            padding-top: 40px;
+            border-top: 1px solid #eee;
+        }
+        .btn-back {
+            display: inline-block;
+            padding: 12px 30px;
+            border: 2px solid #eee;
+            border-radius: 50px;
+            color: #666;
+            font-weight: 800;
+            text-decoration: none;
+        }
+
+        /* 8. 모바일 대응 */
+        @media (max-width: 768px) {
+            .onsen-detail-wrapper { padding: 30px 20px; margin: 20px 15px; border-radius: 15px; }
+            .detail-title { font-size: 1.8rem; }
+            .booking-section { padding: 20px; }
+            .btn-agoda { font-size: 1rem; width: 100%; box-sizing: border-box; }
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header style="padding: 20px;">
-            <a href="/">
-                <img src="/static/images/logo.png" alt="OKOnsen" style="height: 60px; display: block; margin: 0 auto;">
-            </a>
-        </header>
+    <!-- 헤더 포함 -->
+    {% include 'header.html' %}
 
-        <article class="detail-container">
-            <div class="detail-header">
-                <h1 class="detail-title">{{ post.title }}</h1>
-                <div class="detail-meta">
-                    📍 {{ post.address }} | 🏷️ {{ post.categories|join(', ') }}
-                </div>
+    <main class="container">
+        <article class="onsen-detail-wrapper">
+            <!-- 메타 정보 -->
+            <div class="onsen-meta-info">
+                <span>📍 {{ post.address }}</span>
+                <span>🏷️ {{ post.categories|join(', ') }}</span>
             </div>
 
-            <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="detail-img">
+            <!-- 제목 -->
+            <h1 class="detail-title">{{ post.title }}</h1>
 
-            <div class="detail-content">
+            <!-- 대표 이미지 -->
+            <img src="{{ post.thumbnail }}" class="detail-main-img" alt="{{ post.title }}">
+
+            <!-- 본문 내용 -->
+            <div class="onsen-body-content">
                 {{ content | safe }}
             </div>
 
+            <!-- 아고다 예약 섹션 -->
             {% if post.agoda %}
-            <div style="text-align: center; margin: 20px 0;">
-                <a href="{{ post.agoda }}" target="_blank" rel="nofollow" 
-                style="display: inline-block; background-color: #3498db; color: white; padding: 15px 30px; font-size: 1.2rem; font-weight: bold; border-radius: 30px; text-decoration: none; box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3); transition: transform 0.2s;">
-                ✨ Check Availability & Prices on Agoda
+            <div class="booking-section">
+                <p style="margin-bottom: 20px; font-weight: 700; color: #555;">
+                    {{ 'Check availability and the best prices for this Ryokan' if post.lang == 'en' else '이 료칸의 실시간 객실 확인 및 최저가 예약' }}
+                </p>
+                <a href="{{ post.agoda }}" target="_blank" rel="nofollow" class="btn-agoda">
+                    ✨ {{ 'Book on Agoda' if post.lang == 'en' else '아고다에서 예약하기' }}
                 </a>
             </div>
             {% endif %}
 
-            <div style="text-align: center;">
-                <a href="/" class="back-btn">🗺️ Back to Map</a>
+            <!-- 하단 백 버튼 -->
+            <div class="back-section">
+                <a href="/?lang={{ post.lang }}" class="btn-back">
+                    {{ '← Back to Map' if post.lang == 'en' else '← 지도로 돌아가기' }}
+                </a>
             </div>
         </article>
-        
-        {% include 'footer.html' %}
-    </div>
+    </main>
+
+    <!-- 풋터 포함 -->
+    {% include 'footer.html' %}
 </body>
 </html>
