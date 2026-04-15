@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
-CSV_PATH = "script/csv/guides.csv" # id, topic_en, topic_ko, keywords
+CSV_PATH = "script/csv/guides.csv"
 OUTPUT_DIR = "app/content/guides/"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -19,8 +19,7 @@ def generate_guide(row, lang):
     filename = f"{base_id}_{lang}.md"
     filepath = os.path.join(OUTPUT_DIR, filename)
 
-    if os.path.exists(filepath): return f"Skipped: {filename}"
-
+    # 본문 생성 프롬프트
     prompt = f"""
     Write an exhaustive, professional SEO travel guide about '{topic}' in Japan.
     Target Language: {lang}
@@ -45,24 +44,44 @@ def generate_guide(row, lang):
     """
 
     try:
+        print(f"📡 API 호출 시작: {filename}")
         response = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(response.text.strip())
-        return f"Success: {filename}"
+        return f"✅ 성공: {filename}"
     except Exception as e:
-        return f"Error: {filename} - {str(e)}"
+        return f"❌ 에러: {filename} - {str(e)}"
 
 def run_batch():
-    tasks = []
+    missing_tasks = []
+    
+    # 1. 먼저 생성이 필요한(파일이 없는) 작업 목록을 전부 수집합니다.
+    if not os.path.exists(CSV_PATH):
+        print(f"❌ CSV 파일을 찾을 수 없습니다: {CSV_PATH}")
+        return
+
     with open(CSV_PATH, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            tasks.append((row, 'en'))
-            tasks.append((row, 'ko'))
+            for lang in ['en', 'ko']:
+                filename = f"{row['id']}_{lang}.md"
+                filepath = os.path.join(OUTPUT_DIR, filename)
+                if not os.path.exists(filepath):
+                    missing_tasks.append((row, lang))
 
-    print(f"🚀 Starting Multi-threaded Generation ({len(tasks)} files)...")
-    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-        futures = [executor.submit(generate_guide, t[0], t[1]) for t in tasks]
+    # 2. 💡 생성 제한(Limit) 적용: 상위 3개만 선택
+    LIMIT = 3
+    tasks_to_run = missing_tasks[:LIMIT]
+
+    if not tasks_to_run:
+        print("💡 모든 가이드가 이미 생성되어 있습니다. 새로 생성할 항목이 없습니다.")
+        return
+
+    print(f"🚀 총 {len(missing_tasks)}개의 대기 작업 중 상위 {len(tasks_to_run)}개 생성을 시작합니다...")
+
+    # 3. 멀티스레딩으로 실행 (3개이므로 빠르게 처리됩니다)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=LIMIT) as executor:
+        futures = [executor.submit(generate_guide, t[0], t[1]) for t in tasks_to_run]
         for future in concurrent.futures.as_completed(futures):
             print(future.result())
 
