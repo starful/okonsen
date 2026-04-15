@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ lang if lang else 'en' }}">
 <head>
     <link rel="preconnect" href="https://maps.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -7,11 +7,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     
-    <link rel="canonical" href="https://okonsen.net" />
+    <link rel="canonical" href="https://okonsen.net/?lang={{ lang }}" />
 
-    <title>OKOnsen - Discover Japan's Best Hot Springs & Ryokans</title>
-    <meta name="description" content="Find the perfect Japanese Onsen. Filter by private baths, tattoo-friendly spots, and luxury ryokans.">
+    <title>{{ 'OKOnsen - Discover Japan\'s Best Hot Springs & Ryokans' if lang == 'en' else 'OKOnsen - 일본 온천 & 료칸 가이드' }}</title>
+    <meta name="description" content="{{ 'Find the perfect Japanese Onsen. Filter by private baths, tattoo-friendly spots, and luxury ryokans.' if lang == 'en' else '나에게 완벽한 일본 온천을 찾아보세요. 가족탕, 문신 허용 여부, 럭셔리 등 테마별 필터링 제공.' }}">
     <link rel="icon" href="/static/images/favicons.ico" type="image/x-icon">
+    
     <link rel="stylesheet" href="/static/css/style.css">
 
     <!-- Google tag (gtag.js) -->
@@ -22,48 +23,70 @@
       gtag('js', new Date());
       gtag('config', 'G-P8FM8Z36D7');
     </script>
+
+    <!-- [언어 UI 고정 스크립트] DOM 로드 시 버튼 활성화 상태만 제어 -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const currentLang = urlParams.get('lang') || 'en';
+            document.querySelectorAll('.lang-btn').forEach(btn => {
+                const href = btn.getAttribute('href');
+                if (href && href.indexOf('lang=' + currentLang) !== -1) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+        });
+    </script>
 </head>
 <body>
 
-    <header>
-        <div class="container header-container">
-            <div class="logo-wrapper">
-                <a href="/">
-                    <img src="/static/images/logo.png" alt="OKOnsen" class="logo-img">
-                </a>
-            </div>
-
-            <div class="header-right">
-                <div class="lang-selector">
-                    <button class="lang-btn active" data-lang="en">English</button>
-                    <button class="lang-btn" data-lang="ko">한국어</button>
-                </div>
-            </div>
-
-            <div class="theme-filter-buttons">
-                <button class="theme-button active" data-theme="all">All <span class="count-badge" id="count-all">0</span></button>
-                <button class="theme-button" data-theme="private">🛁 Private <span class="count-badge" id="count-private">0</span></button>
-                <button class="theme-button" data-theme="tattoo">⭕ Tattoo OK <span class="count-badge" id="count-tattoo">0</span></button>
-                <button class="theme-button" data-theme="view">🗻 View <span class="count-badge" id="count-view">0</span></button>
-                <button class="theme-button" data-theme="luxury">✨ Luxury <span class="count-badge" id="count-luxury">0</span></button>
-                <button class="theme-button" data-theme="local">🏮 Local <span class="count-badge" id="count-local">0</span></button>
-            </div>
-        </div>
-    </header>
+    <!-- 3단 그리드 헤더 -->
+    {% include 'header.html' %}
     
     <main>
+        <!-- 지도 섹션 -->
         <section class="map-section">
             <div id="map"></div>
         </section>
 
         <div class="content-wrapper">
-            <article class="intro-box">
-                <h2>♨️ Find Your Perfect Onsen</h2>
-                <p>Filter by Private Baths, Tattoo-friendly spots, or Luxury stays.</p>
-            </article>
+            
+            <!-- [가이드 섹션] OKRamen 스타일 대형 카드 -->
+            {% if guides %}
+            <section class="guide-highlight-container">
+                <h2 class="guide-main-title">
+                    📖 {{ 'Japanese Onsen Guides' if lang == 'en' else '일본 온천 여행 가이드' }}
+                </h2>
+                
+                <div class="guide-large-grid">
+                    {% for guide in guides %}
+                    <a href="/guide/{{ guide.id }}?lang={{ lang }}" class="guide-large-card">
+                        <div class="guide-card-img-wrapper">
+                            <img src="{{ guide.image }}" alt="{{ guide.title }}">
+                        </div>
+                        <div class="guide-card-body">
+                            <h4>{{ guide.title }}</h4>
+                            <p>{{ (guide.summary or "")[:120] }}...</p>
+                        </div>
+                    </a>
+                    {% endfor %}
+                </div>
 
+                <div class="guide-view-all-wrapper">
+                    <a href="/guides?lang={{ lang }}" class="btn-view-all">
+                        {{ 'View All Guides / 가이드 전체보기' }}
+                    </a>
+                </div>
+            </section>
+            {% endif %}
+
+            <!-- 추천 온천 리스트 출력 영역 -->
             <section id="list-section">
-                <h2 class="list-title">🎏 Latest Onsen Guides</h2>
+                <h2 class="list-title">
+                    🎏 {{ 'Recommended Ryokans' if lang == 'en' else '추천 온천 료칸' }}
+                </h2>
                 <div id="onsen-list" class="onsen-grid"></div>
                 <div id="scroll-sentinel" style="height: 20px;"></div>
             </section>
@@ -72,12 +95,13 @@
 
     {% include 'footer.html' %}
 
-    <script>
-    (g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({
-        key: "AIzaSyAdSBZ7iPkFtKIcWRuJV04HIeDs7tUzamE",
-        v: "beta"
-    });
-    </script>
+
+    <!-- 기존 로더 스크립트를 지우고 아래 한 줄로 교체하세요 -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdSBZ7iPkFtKIcWRuJV04HIeDs7tUzamE&libraries=marker&v=beta"></script>
+    
+    <!-- main.js 호출 (type="module" 유지) -->
     <script type="module" src="/static/js/main.js"></script>
+</body>
+</html>
 </body>
 </html>

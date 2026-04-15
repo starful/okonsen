@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="{{ lang if lang else 'en' }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>{{ 'All Onsen Guides - OKOnsen' if lang == 'en' else '모든 온천 가이드 - OKOnsen' }}</title>
+    <meta name="description" content="{{ 'Explore our deep-dive travel guides about Japanese onsens and ryokans.' if lang == 'en' else '일본 온천과 료칸 여행을 위한 깊이 있는 팁과 가이드를 만나보세요.' }}">
+    
+    <link rel="canonical" href="https://okonsen.net/guides?lang={{ lang }}" />
+    <link rel="icon" href="/static/images/favicons.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/static/css/style.css">
+
+    <!-- [헤더 활성화를 위한 언어 설정] -->
+    <script>
+        (function() {
+            var urlParams = new URLSearchParams(window.location.search);
+            var currentLang = urlParams.get('lang') || 'en';
+            
+            document.addEventListener('DOMContentLoaded', function() {
+                var btns = document.querySelectorAll('.lang-btn');
+                btns.forEach(function(btn) {
+                    if (btn.getAttribute('href').indexOf('?lang=' + currentLang) !== -1) {
+                        btn.classList.add('active');
+                    } else {
+                        btn.classList.remove('active');
+                    }
+                });
+            });
+        })();
+    </script>
+</head>
+<body style="background-color: #fcfcfc;">
+
+    <!-- 공통 헤더 (테마 필터 버튼은 숨기기 위해 CSS 재정의) -->
+    {% include 'header.html' %}
+    <style>
+        .top-filter-bar { display: none !important; }
+        .guide-list-header { text-align: center; margin: 40px 0; padding: 20px; }
+        .guide-list-header h1 { font-size: 2.5rem; color: #333; margin-bottom: 10px; }
+        .guide-list-header p { font-size: 1.1rem; color: #777; }
+        
+        .all-guides-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 30px;
+            max-width: 1200px;
+            margin: 0 auto 60px auto;
+            padding: 0 20px;
+        }
+        
+        .guide-full-card {
+            background: #fff;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+            transition: transform 0.3s;
+            display: flex;
+            flex-direction: column;
+            border: 1px solid #eaeaea;
+        }
+        
+        .guide-full-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+        }
+        
+        .guide-full-img {
+            width: 100%;
+            height: 220px;
+            object-fit: cover;
+            border-bottom: 1px solid #f5f5f5;
+        }
+        
+        .guide-full-body {
+            padding: 25px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .guide-date {
+            font-size: 0.85rem;
+            color: #999;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .guide-full-body h3 {
+            margin: 0 0 15px 0;
+            font-size: 1.35rem;
+            line-height: 1.4;
+            color: #222;
+        }
+        
+        .guide-full-body p {
+            margin: 0 0 20px 0;
+            font-size: 0.95rem;
+            color: #666;
+            line-height: 1.6;
+            flex-grow: 1;
+        }
+        
+        .read-btn {
+            align-self: flex-start;
+            font-weight: 700;
+            color: #e74c3c;
+            text-decoration: none;
+            font-size: 0.95rem;
+        }
+        
+        .read-btn:hover { color: #c0392b; text-decoration: underline; }
+    </style>
+
+    <main>
+        <div class="guide-list-header">
+            <h1>📖 {{ 'All Onsen Guides' if lang == 'en' else '전체 온천 가이드' }}</h1>
+            <p>{{ 'Deep dive into our expert travel tips.' if lang == 'en' else '여행 전문가가 전하는 깊이 있는 온천 꿀팁 모음' }}</p>
+        </div>
+
+        <div class="all-guides-grid">
+            {% if guides %}
+                {% for guide in guides %}
+                <a href="/guide/{{ guide.id }}?lang={{ lang }}" style="text-decoration: none; color: inherit;">
+                    <article class="guide-full-card">
+                        <img src="{{ guide.image }}" alt="{{ guide.title }}" class="guide-full-img" loading="lazy">
+                        <div class="guide-full-body">
+                            <div class="guide-date">{{ guide.date.replace('-', '.') }}</div>
+                            <h3>{{ guide.title }}</h3>
+                            <p>{{ (guide.summary or "")[:150] }}...</p>
+                            <span class="read-btn">{{ 'Read Guide →' if lang == 'en' else '가이드 읽기 →' }}</span>
+                        </div>
+                    </article>
+                </a>
+                {% endfor %}
+            {% else %}
+                <div style="grid-column: 1 / -1; text-align: center; padding: 50px 0; color: #888;">
+                    {{ 'No guides found.' if lang == 'en' else '작성된 가이드가 없습니다.' }}
+                </div>
+            {% endif %}
+        </div>
+    </main>
+
+    {% include 'footer.html' %}
+</body>
+</html>

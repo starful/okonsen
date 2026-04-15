@@ -1,285 +1,145 @@
-/**
- * OKOnsen - Global Multi-language Core Logic (EN, KO, JA)
- */
-
-let onsensData =[]; // 전체 원본 온천 데이터
 let map;
-let markers =[];
-let currentInfoWindow = null;
-let isMapLoaded = false;
+let allOnsens = [];
+let markers = [];
+const currentLang = new URLSearchParams(window.location.search).get('lang') || 'en';
 
-// 상태 관리
-let currentLang = localStorage.getItem('preferredLang') || 'en'; // 저장된 언어 불러오기
-let currentTheme = 'all';
-
-// [1] 다국어 UI 번역 사전 (온천에 맞게 수정됨)
-const i18n = {
-    en: {
-        viewGuide: "View Details",
-        directions: "Directions",
-        readMore: "Read More →",
-        noResult: "No onsens found matching your criteria.",
-        new: "NEW",
-    },
-    ko: {
-        viewGuide: "상세보기",
-        directions: "길찾기",
-        readMore: "자세히 보기 →",
-        noResult: "해당 조건에 맞는 온천이 없습니다.",
-        new: "신규",
-    },
-    ja: {
-        viewGuide: "詳細を見る",
-        directions: "経路案内",
-        readMore: "詳しく見る →",
-        noResult: "該当する温泉がありません。",
-        new: "新着",
-    }
+const CATEGORY_MAP = {
+    '가족탕': 'private', 'Private Bath': 'private',
+    '타투 허용': 'tattoo', 'Tattoo OK': 'tattoo',
+    '절경': 'view', 'Great View': 'view',
+    '고급 료칸': 'luxury', 'Luxury': 'luxury',
+    '로컬': 'local', 'Local': 'local'
 };
 
-// [2] 카테고리 매핑 테이블 (Markdown의 다국어 카테고리를 내부 테마 키값으로 연결)
-function getCategoryKey(cat) {
-    if (!cat) return 'all';
-    const map = {
-        // 가족탕 / 개인탕 (Private Bath)
-        "Private Bath": "private", "가족탕": "private", "개인탕": "private", "貸切風呂": "private", "家族風呂": "private",
-        // 타투 허용 (Tattoo OK)
-        "Tattoo OK": "tattoo", "Tattoo Friendly": "tattoo", "타투 허용": "tattoo", "문신 허용": "tattoo", "タトゥーOK": "tattoo",
-        // 절경 / 뷰 (Great View)
-        "Great View": "view", "절경": "view", "경치": "view", "뷰": "view", "絶景": "view",
-        // 럭셔리 / 고급 (Luxury)
-        "Luxury": "luxury", "고급 료칸": "luxury", "럭셔리": "luxury", "高級": "luxury",
-        // 로컬 / 비탕 (Local)
-        "Local": "local", "로컬": "local", "현지인": "local", "ローカル": "local", "秘湯": "local"
-    };
-    return map[cat] || cat.toLowerCase().trim();
-}
-
-// [3] 앱 초기화
-document.addEventListener('DOMContentLoaded', () => {
-    fetchOnsens();
-    initThemeFilters();
-    initLangFilters();
-    initMap(); 
-});
-
-// [4] 데이터 가져오기 (API 엔드포인트 변경됨)
-async function fetchOnsens() {
+async function initPage() {
     try {
-        const response = await fetch('/api/onsens');
+        // 1. 데이터 로드 (API 호출)
+        const response = await fetch(`/api/onsens?lang=${currentLang}`);
         const data = await response.json();
-        
-        // 최신순 정렬
-        onsensData = data.onsens.sort((a, b) => 
-            new Date(b.published) - new Date(a.published)
-        );
+        allOnsens = data.onsens;
 
-        if (data.last_updated) {
-            const dateEl = document.getElementById('last-updated-date');
-            if(dateEl) dateEl.textContent = data.last_updated;
-        }
+        // 2. 상단 필터 숫자 업데이트 및 리스트 렌더링
+        updateFilterStats();
+        renderList('all');
 
-        updateUI(); // 초기 렌더링
+        // 3. 지도 초기화
+        initMap();
 
     } catch (error) {
-        console.error('Error loading data:', error);
+        console.error("❌ 데이터 로드 실패:", error);
     }
 }
 
-// [5] 언어 필터 초기화
-function initLangFilters() {
-    const langBtns = document.querySelectorAll('.lang-btn');
-    langBtns.forEach(btn => {
-        // 초기 로드 시 활성화 스타일 적용
-        if (btn.dataset.lang === currentLang) btn.classList.add('active');
+function initMap() {
+    const mapContainer = document.getElementById("map");
+    if (!mapContainer || !window.google) return;
 
-        btn.addEventListener('click', () => {
-            langBtns.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            currentLang = btn.dataset.lang;
-            localStorage.setItem('preferredLang', currentLang); // 설정 저장
-            updateUI();
-        });
+    // 지도 생성 (AdvancedMarker를 위해 mapId 권장)
+    map = new google.maps.Map(mapContainer, {
+        center: { lat: 36.5, lng: 138.0 },
+        zoom: 6,
+        mapId: "OKONSEN_MAP_ID", 
+    });
+
+    // 지도 로드 직후 마커 표시
+    renderMarkers('all');
+}
+
+function renderList(theme) {
+    const listContainer = document.getElementById('onsen-list');
+    if (!listContainer) return;
+    listContainer.innerHTML = '';
+
+    const filtered = allOnsens.filter(onsen => {
+        if (theme === 'all') return true;
+        return onsen.categories.some(cat => CATEGORY_MAP[cat] === theme);
+    });
+
+    filtered.forEach(onsen => {
+        const card = document.createElement('div');
+        card.className = 'onsen-card';
+        card.innerHTML = `
+            <a href="${onsen.link}?lang=${currentLang}">
+                <img src="${onsen.thumbnail}" class="card-thumb" alt="${onsen.title}" onerror="this.src='/static/images/default.png'">
+                <div class="card-content">
+                    <div class="card-meta">📍 ${onsen.address}</div>
+                    <h3 class="card-title">${onsen.title}</h3>
+                    <p class="card-summary">${onsen.summary.substring(0, 100)}...</p>
+                    <div style="margin-top:10px;">
+                        ${onsen.categories.map(c => `<span class="count-badge">${c}</span>`).join(' ')}
+                    </div>
+                </div>
+            </a>
+        `;
+        listContainer.appendChild(card);
     });
 }
 
-// [6] 테마 필터 초기화
-function initThemeFilters() {
+function renderMarkers(theme) {
+    if (!map || !google.maps.marker) return;
+
+    // 기존 마커 제거
+    markers.forEach(m => m.map = null);
+    markers = [];
+
+    const filtered = allOnsens.filter(onsen => {
+        if (theme === 'all') return true;
+        return onsen.categories.some(cat => CATEGORY_MAP[cat] === theme);
+    });
+
+    filtered.forEach(onsen => {
+        const markerTag = document.createElement('div');
+        markerTag.className = 'marker-icon';
+        markerTag.style.backgroundImage = `url(${onsen.thumbnail})`;
+
+        // AdvancedMarkerElement 사용
+        const marker = new google.maps.marker.AdvancedMarkerElement({
+            map: map,
+            position: { lat: parseFloat(onsen.lat), lng: parseFloat(onsen.lng) },
+            title: onsen.title,
+            content: markerTag
+        });
+
+        marker.addListener('click', () => {
+            window.location.href = `${onsen.link}?lang=${currentLang}`;
+        });
+
+        markers.push(marker);
+    });
+}
+
+function setupFilters() {
     const buttons = document.querySelectorAll('.theme-button');
     buttons.forEach(btn => {
         btn.addEventListener('click', () => {
             buttons.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
-            currentTheme = btn.dataset.theme;
-            updateUI();
+            const theme = btn.dataset.theme;
+            renderList(theme);
+            renderMarkers(theme);
         });
     });
 }
 
-// [7] 통합 UI 업데이트 (언어 + 테마 동시 적용)
-function updateUI() {
-    // 필터링 로직
-    const filtered = onsensData.filter(item => {
-        const isCorrectLang = item.lang === currentLang;
-        const isCorrectTheme = currentTheme === 'all' || 
-            item.categories.some(cat => getCategoryKey(cat) === currentTheme);
-        return isCorrectLang && isCorrectTheme;
-    });
-
-    updateCategoryCounts(); 
-    renderCards(filtered);
-    if (isMapLoaded) {
-        updateMapMarkers(filtered);
-    }
-
-    const totalEl = document.getElementById('total-onsens');
-    if(totalEl) totalEl.textContent = filtered.length;
-}
-
-// [8] 구글 맵 초기화
-async function initMap() {
-    const mapEl = document.getElementById('map');
-    if (!mapEl) return;
-
-    try {
-        const { Map } = await google.maps.importLibrary("maps");
-        // 일본 중심 좌표
-        const center = { lat: 36.2048, lng: 138.2529 };
-
-        map = new Map(mapEl, {
-            zoom: 5,
-            center: center,
-            mapId: "2938bb3f7f034d78a2dbaf56", // 구글 클라우드 콘솔의 Map ID 유지
-            disableDefaultUI: false,
-            zoomControl: true,
-            streetViewControl: false,
-            mapTypeControl: false,
+function updateFilterStats() {
+    const counts = { all: allOnsens.length, private: 0, tattoo: 0, view: 0, luxury: 0, local: 0 };
+    allOnsens.forEach(o => {
+        const uniqueThemesInOnsen = new Set();
+        o.categories.forEach(cat => {
+            const key = CATEGORY_MAP[cat];
+            if (key) uniqueThemesInOnsen.add(key);
         });
-
-        isMapLoaded = true;
-        updateUI();
-
-    } catch (error) {
-        console.error("❌ Map Init Error:", error);
-    }
-}
-
-// [9] 마커 업데이트 (Advanced Markers)
-async function updateMapMarkers(data) {
-    if (!map) return;
-    markers.forEach(m => m.map = null);
-    markers =[];
-    if (data.length === 0) return;
-
-    const bounds = new google.maps.LatLngBounds();
-
-    try {
-        const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
-        const { InfoWindow } = await google.maps.importLibrary("maps");
-        const t = i18n[currentLang];
-
-        data.forEach(onsen => {
-            const position = { lat: parseFloat(onsen.lat), lng: parseFloat(onsen.lng) };
-            
-            // 커스텀 마커 아이콘 생성
-            const markerIcon = document.createElement('div');
-            markerIcon.className = 'marker-icon';
-
-            // 💡[여기 추가!] 썸네일 이미지를 마커 배경으로 쏙 집어넣기
-            if (onsen.thumbnail) {
-                markerIcon.style.backgroundImage = `url(${onsen.thumbnail})`;
-                markerIcon.style.backgroundSize = 'cover';
-            }
-
-            const marker = new AdvancedMarkerElement({
-                map: map,
-                position: position,
-                title: onsen.title,
-                content: markerIcon,
-            });
-
-            marker.addListener('click', () => {
-                if (currentInfoWindow) currentInfoWindow.close();
-
-                const infoContent = `
-                    <div class="infowindow-content">
-                        <div style="position:relative;">
-                            <img src="${onsen.thumbnail}" alt="${onsen.title}" loading="lazy">
-                        </div>
-                        <h3>${onsen.title}</h3>
-                        <p>📍 ${onsen.address}</p>
-                        <div class="info-btn-group">
-                            <a href="${onsen.link}" class="info-btn blog-btn">${t.viewGuide}</a>
-                            <a href="https://www.google.com/maps/dir/?api=1&destination=${onsen.lat},${onsen.lng}" target="_blank" class="info-btn dir-btn">${t.directions}</a>
-                        </div>
-                    </div>`;
-                
-                const infoWindow = new InfoWindow({ content: infoContent, maxWidth: 250 });
-                infoWindow.open(map, marker);
-                currentInfoWindow = infoWindow;
-            });
-            markers.push(marker);
-            bounds.extend(position);
-        });
-        map.fitBounds(bounds);
-    } catch (e) { console.error("Marker Error:", e); }
-}
-
-// [10] 카운트 배지 업데이트 (현재 언어 기준, 온천 카테고리로 변경)
-function updateCategoryCounts() {
-    const counts = { all: 0, private: 0, tattoo: 0, view: 0, luxury: 0, local: 0 };
-    const currentLangData = onsensData.filter(s => s.lang === currentLang);
-    counts.all = currentLangData.length;
-
-    currentLangData.forEach(onsen => {
-        if(onsen.categories) {
-            onsen.categories.forEach(cat => {
-                const key = getCategoryKey(cat);
-                if (counts.hasOwnProperty(key)) counts[key]++;
-            });
-        }
+        uniqueThemesInOnsen.forEach(t => counts[t]++);
     });
 
-    for (const[key, value] of Object.entries(counts)) {
-        const badge = document.getElementById(`count-${key}`);
-        if (badge) badge.textContent = value;
-    }
-}
-
-// [11] 리스트 카드 렌더링
-function renderCards(data) {
-    const listContainer = document.getElementById('onsen-list');
-    if(!listContainer) return;
-    listContainer.innerHTML = '';
-    const t = i18n[currentLang];
-    
-    if (data.length === 0) {
-        listContainer.innerHTML = `<p style="text-align:center; width:100%; color:#666; margin-top:30px;">${t.noResult}</p>`;
-        return;
-    }
-
-    data.forEach(onsen => {
-        const pubDate = new Date(onsen.published);
-        const isNew = (new Date() - pubDate) / (1000 * 60 * 60 * 24) <= 14; 
-
-        const card = document.createElement('div');
-        card.className = 'onsen-card'; // 클래스명 변경
-        
-        card.innerHTML = `
-            <a href="${onsen.link}" class="card-thumb-link">
-                ${isNew ? `<span class="new-badge">${t.new}</span>` : ''}
-                <img src="${onsen.thumbnail}" alt="${onsen.title}" class="card-thumb" loading="lazy">
-            </a>
-            <div class="card-content">
-                <div class="card-meta">
-                    <span>${onsen.categories.join(', ')}</span> • <span>${onsen.published.replace(/-/g, '.')}</span>
-                </div>
-                <h3 class="card-title"><a href="${onsen.link}">${onsen.title}</a></h3>
-                <p class="card-summary">${onsen.summary}</p>
-                <div class="card-footer">
-                    <a href="${onsen.link}" class="card-btn">${t.readMore}</a>
-                </div>
-            </div>`;
-        listContainer.appendChild(card);
+    Object.keys(counts).forEach(key => {
+        const el = document.getElementById(`count-${key}`);
+        if (el) el.innerText = counts[key];
     });
 }
+
+// 초기 실행
+document.addEventListener('DOMContentLoaded', () => {
+    initPage();
+    setupFilters();
+});
