@@ -1,6 +1,74 @@
 {
-  "last_updated": "2026.04.15",
+  "last_updated": "2026.04.16",
   "onsens": [
+    {
+      "id": "kinosaki_onsen_nishimuraya_honkan_en",
+      "lang": "en",
+      "title": "Kinosaki Onsen Nishimuraya Honkan: A Sanctuary of Serenity, Luxury, and Breathtaking Views in Japan's Timeless Hot Spring Town",
+      "lat": 35.6255,
+      "lng": 134.8111,
+      "categories": [
+        "Luxury",
+        "Great View",
+        "Private Bath"
+      ],
+      "thumbnail": "/static/images/kinosaki_onsen_nishimuraya_honkan.jpg",
+      "address": "Toyooka, Hyogo",
+      "published": "2026-04-16",
+      "summary": "Immerse yourself in unparalleled elegance and ancient traditions at Kinosaki Onsen Nishimuraya Honkan, a truly luxurious ryokan nestled in Japan's cherished Kinosaki Onsen. This esteemed establishment offers guests an exquisite escape where traditional Japanese hospitality meets breathtaking natural vistas and deeply rejuvenating hot springs. Experience a world where every detail is meticulously crafted to ensure a serene and unforgettable journey for the senses.",
+      "link": "/onsen/kinosaki_onsen_nishimuraya_honkan_en"
+    },
+    {
+      "id": "kurokawa_onsen_oku_no_yu_ko",
+      "lang": "ko",
+      "title": "구로카와 온천 오쿠노유: 아소의 대자연 속 숨겨진 보석, 전설적인 절경 가족탕의 극치 경험",
+      "lat": 33.0799,
+      "lng": 131.1455,
+      "categories": [
+        "가족탕",
+        "절경",
+        "타투 허용"
+      ],
+      "thumbnail": "/static/images/kurokawa_onsen_oku_no_yu.jpg",
+      "address": "Minamioguni, Kumamoto",
+      "published": "2026-04-16",
+      "summary": "구마모토 미나미오구니에 자리한 구로카와 온천 오쿠노유는 아소의 장엄한 대자연 속에 깊이 파묻힌 채, 숨 막히는 절경을 선사하는 진정한 힐링의 안식처입니다. 숲과 계곡이 어우러진 풍경 속에서 프라이빗한 가족탕을 즐기며 잊을 수 없는 추억을 만들고, 심신을 치유하는 황홀경을 경험할 수 있습니다. 자연과의 교감 속에서 최상의 휴식을 선사하는 오쿠노유는 바쁜 일상에서 벗어나 진정한 평화를 찾는 이들에게 완벽한 선택이 될 것입니다.",
+      "link": "/onsen/kurokawa_onsen_oku_no_yu_ko"
+    },
+    {
+      "id": "kurokawa_onsen_oku_no_yu_en",
+      "lang": "en",
+      "title": "Kurokawa Onsen Oku no Yu: A Secluded Paradise of Spectacular Views and Private Retreats in Kumamoto",
+      "lat": 33.0799,
+      "lng": 131.1455,
+      "categories": [
+        "Great View",
+        "Private Bath",
+        "Luxury"
+      ],
+      "thumbnail": "/static/images/kurokawa_onsen_oku_no_yu.jpg",
+      "address": "Minamioguni, Kumamoto",
+      "published": "2026-04-16",
+      "summary": "Escape to Kurokawa Onsen Oku no Yu, a hidden gem nestled deep within Kumamoto's breathtaking landscapes, offering an unparalleled onsen experience. Indulge in sublime private baths boasting spectacular natural vistas, ensuring an intimate and unforgettable retreat for couples and families alike. This luxurious ryokan combines traditional Japanese elegance with supreme comfort, promising a rejuvenating escape from the everyday.",
+      "link": "/onsen/kurokawa_onsen_oku_no_yu_en"
+    },
+    {
+      "id": "kinosaki_onsen_nishimuraya_honkan_ko",
+      "lang": "ko",
+      "title": "숨겨진 절경과 진정한 힐링, 키노사키 온천 니시무라야 혼칸: 오감 만족 럭셔리 료칸 여행의 정점",
+      "lat": 35.6255,
+      "lng": 134.8111,
+      "categories": [
+        "고급 료칸",
+        "절경",
+        "가족탕"
+      ],
+      "thumbnail": "/static/images/kinosaki_onsen_nishimuraya_honkan.jpg",
+      "address": "Toyooka, Hyogo",
+      "published": "2026-04-16",
+      "summary": "효고현 도요오카의 명문 료칸, 니시무라야 혼칸은 유구한 역사와 현대적인 편안함이 조화를 이루는 곳입니다. 이곳에서 그림 같은 풍경 속 노천탕과 예술적인 가이세키 요리를 경험하며 진정한 휴식을 만끽해 보세요. 고요함 속에 깃든 일본 전통의 미학은 잊지 못할 추억을 선사할 것입니다.",
+      "link": "/onsen/kinosaki_onsen_nishimuraya_honkan_ko"
+    },
     {
       "id": "hoshino_resorts_kai_beppu_en",
       "lang": "en",
