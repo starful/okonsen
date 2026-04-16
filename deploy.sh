@@ -41,7 +41,8 @@ python3 script/fetch_images.py
 python3 script/optimize_images.py
 
 print_info "GCS 버킷으로 이미지 동기화 중 ($GCS_BUCKET)..."
-gcloud storage rsync app/static/images "$GCS_BUCKET" --recursive
+gcloud storage rsync app/static/images "$GCS_BUCKET" --recursive --checksum
+
 # 공개 읽기 권한 일괄 부여
 gsutil -m acl ch -u AllUsers:R "$GCS_BUCKET/**" &>/dev/null || true
 print_ok "이미지 GCS 업로드 및 권한 설정 완료"
