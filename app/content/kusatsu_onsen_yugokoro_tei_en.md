@@ -1,15 +1,32 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Private Bath
+- Great View
+date: '2026-04-12'
+image_prompt: A luxurious Japanese onsen ryokan, Kusatsu Onsen Yugokoro Tei, during
+  golden hour. The private open-air bath (rotenburo) is carved from natural stone,
+  filled with steaming, milky-white sulfuric water, overlooking a dramatic, sweeping
+  panorama of autumnal Japanese mountains and a deep valley. The sky is painted with
+  soft orange and purple hues. A single, intricately folded yukata lies on a wooden
+  bench beside the bath. The scene evokes extreme tranquility, elegance, and natural
+  beauty. In the foreground, steam gently rises from the bath. The architecture is
+  traditional Japanese, blending seamlessly with the natural environment. High detail,
+  photorealistic, cinematic lighting, ultra-HD.
 lang: en
-title: "Kusatsu Onsen Yugokoro Tei: Your Ultimate Guide to Secluded Bliss and Breathtaking Views in Japan's Premier Hot Spring Town"
 lat: 36.6155
 lng: 138.6033
-categories: ["Private Bath", "Great View"]
-thumbnail: "/static/images/kusatsu_onsen_yugokoro_tei.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-12"
-agoda: ""
-summary: "Nestled amidst the serene mountains of Gunma, Kusatsu Onsen Yugokoro Tei offers an unparalleled escape where the legendary healing waters of Kusatsu meet exquisite Japanese hospitality. Discover the profound tranquility of **private family baths** offering discreet relaxation, all while immersed in **breathtaking panoramic vistas**. This ryokan promises an unforgettable journey into rejuvenation, culture, and spectacular natural beauty, making it an essential destination for discerning travelers seeking ultimate solace."
-image_prompt: "A luxurious Japanese onsen ryokan, Kusatsu Onsen Yugokoro Tei, during golden hour. The private open-air bath (rotenburo) is carved from natural stone, filled with steaming, milky-white sulfuric water, overlooking a dramatic, sweeping panorama of autumnal Japanese mountains and a deep valley. The sky is painted with soft orange and purple hues. A single, intricately folded yukata lies on a wooden bench beside the bath. The scene evokes extreme tranquility, elegance, and natural beauty. In the foreground, steam gently rises from the bath. The architecture is traditional Japanese, blending seamlessly with the natural environment. High detail, photorealistic, cinematic lighting, ultra-HD."
+summary: Nestled amidst the serene mountains of Gunma, Kusatsu Onsen Yugokoro Tei
+  offers an unparalleled escape where the legendary healing waters of Kusatsu meet
+  exquisite Japanese hospitality. Discover the profound tranquility of **private family
+  baths** offering discreet relaxation, all while immersed in **breathtaking panoramic
+  vistas**. This ryokan promises an unforgettable journey into rejuvenation, culture,
+  and spectacular natural beauty, making it an essential destination for discerning
+  travelers seeking ultimate solace.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_yugokoro_tei.jpg
+title: 'Kusatsu Onsen Yugokoro Tei: Your Ultimate Guide to Secluded Bliss and Breathtaking
+  Views in Japan''s Premier Hot Spring Town'
 ---
 
 ## Introduction: Where Legend Meets Luxurious Serenity

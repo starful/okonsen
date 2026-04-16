@@ -1,15 +1,32 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- Local
+- Private Bath
+date: '2026-04-12'
+image_prompt: A breathtaking, wide-angle shot of Kurokawa Onsen Okyakuya nestled amidst
+  a vibrant autumn forest in Minamioguni, Kumamoto, Japan. The traditional wooden
+  ryokan architecture is elegantly lit by soft, golden hour sunlight, smoke gently
+  rising from its multiple private onsen baths, visible partially through the foliage.
+  A winding stone path leads to the entrance, with moss-covered rocks and Japanese
+  maple trees in brilliant reds and oranges. The background features rolling misty
+  mountains under a clear blue sky with a hint of dramatic clouds. Focus on depth
+  of field, natural light, and a serene, inviting atmosphere. DSLR photography, highly
+  detailed, photorealistic.
 lang: en
-title: "Kurokawa Onsen Okyakuya: Discover Authentic Serenity and Private Bliss in Kumamoto's Hidden Gem"
 lat: 33.0815
 lng: 131.1405
-categories: ["Local", "Private Bath"]
-thumbnail: "/static/images/kurokawa_onsen_okyakuya.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "Nestled deep within the picturesque Minamioguni region of Kumamoto, Kurokawa Onsen Okyakuya stands as a beacon of genuine Japanese hospitality, offering an unparalleled blend of local charm and rejuvenating hot spring experiences. This ryokan is a sanctuary where guests can immerse themselves in the tranquil beauty of nature while indulging in the ultimate luxury of private, open-air baths. Discover a truly authentic escape, far from the madding crowds, and let the healing waters of Okyakuya wash away the stresses of the modern world."
-image_prompt: "A breathtaking, wide-angle shot of Kurokawa Onsen Okyakuya nestled amidst a vibrant autumn forest in Minamioguni, Kumamoto, Japan. The traditional wooden ryokan architecture is elegantly lit by soft, golden hour sunlight, smoke gently rising from its multiple private onsen baths, visible partially through the foliage. A winding stone path leads to the entrance, with moss-covered rocks and Japanese maple trees in brilliant reds and oranges. The background features rolling misty mountains under a clear blue sky with a hint of dramatic clouds. Focus on depth of field, natural light, and a serene, inviting atmosphere. DSLR photography, highly detailed, photorealistic."
+summary: Nestled deep within the picturesque Minamioguni region of Kumamoto, Kurokawa
+  Onsen Okyakuya stands as a beacon of genuine Japanese hospitality, offering an unparalleled
+  blend of local charm and rejuvenating hot spring experiences. This ryokan is a sanctuary
+  where guests can immerse themselves in the tranquil beauty of nature while indulging
+  in the ultimate luxury of private, open-air baths. Discover a truly authentic escape,
+  far from the madding crowds, and let the healing waters of Okyakuya wash away the
+  stresses of the modern world.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_okyakuya.jpg
+title: 'Kurokawa Onsen Okyakuya: Discover Authentic Serenity and Private Bliss in
+  Kumamoto''s Hidden Gem'
 ---
 
 ## Introduction: A Sanctuary of Authentic Serenity

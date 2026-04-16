@@ -1,15 +1,24 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 가족탕
+- 고급 료칸
+date: '2026-04-03'
+image_prompt: A luxurious Japanese ryokan, Oyado Ichizen, nestled in the serene, lush
+  green mountains of Yufuin, Oita. Focus on an elegant outdoor private onsen bath
+  with steam rising, surrounded by meticulously manicured Japanese gardens and traditional
+  stone lanterns. In the background, the majestic Mount Yufu looms under a clear sky.
+  The scene evokes tranquility, exclusivity, and profound relaxation. Warm, natural
+  light, traditional architecture, high detail, cinematic, serene atmosphere.
 lang: ko
-title: "유후인 오야도 이치젠: 프라이빗 가족탕과 최상급 료칸에서 경험하는 완벽한 힐링"
 lat: 33.2691
 lng: 131.3555
-categories: ["가족탕", "고급 료칸"]
-thumbnail: "/static/images/oyado_ichizen.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "오야도 이치젠은 유후인의 고즈넉한 자연 속에 자리한 최고급 료칸으로, 모든 객실에 딸린 전용 노천탕에서 완벽한 프라이버시를 누릴 수 있는 특별한 공간입니다. 아름다운 유후다케의 절경을 감상하며 즐기는 온천욕과 제철 식재료로 정성껏 준비된 가이세키 요리는 잊지 못할 추억을 선사할 것입니다. 바쁜 일상에서 벗어나 진정한 휴식과 재충전의 시간을 찾는 분들에게 오야도 이치젠은 최상의 선택이 될 것입니다."
-image_prompt: "A luxurious Japanese ryokan, Oyado Ichizen, nestled in the serene, lush green mountains of Yufuin, Oita. Focus on an elegant outdoor private onsen bath with steam rising, surrounded by meticulously manicured Japanese gardens and traditional stone lanterns. In the background, the majestic Mount Yufu looms under a clear sky. The scene evokes tranquility, exclusivity, and profound relaxation. Warm, natural light, traditional architecture, high detail, cinematic, serene atmosphere."
+summary: 오야도 이치젠은 유후인의 고즈넉한 자연 속에 자리한 최고급 료칸으로, 모든 객실에 딸린 전용 노천탕에서 완벽한 프라이버시를 누릴 수
+  있는 특별한 공간입니다. 아름다운 유후다케의 절경을 감상하며 즐기는 온천욕과 제철 식재료로 정성껏 준비된 가이세키 요리는 잊지 못할 추억을 선사할
+  것입니다. 바쁜 일상에서 벗어나 진정한 휴식과 재충전의 시간을 찾는 분들에게 오야도 이치젠은 최상의 선택이 될 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/oyado_ichizen.jpg
+title: '유후인 오야도 이치젠: 프라이빗 가족탕과 최상급 료칸에서 경험하는 완벽한 힐링'
 ---
 
 # 유후인 오야도 이치젠: 일본 최고급 료칸의 정수에서 만나는 완벽한 프라이빗 휴식

@@ -1,15 +1,28 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Local
+- Great View
+date: '2026-04-05'
+image_prompt: A serene, elevated outdoor onsen bath (rotenburo) at dawn or dusk, overlooking
+  the stunning, mist-shrouded mountains and traditional Japanese village architecture
+  of Kusatsu, Gunma. The water is steaming gently, reflecting the soft light. A lone
+  bath user, seen from behind, is contemplating the view. The atmosphere is tranquil,
+  luxurious, and deeply traditional Japanese, with lush green foliage and perhaps
+  a hint of autumn colors in the background. Ultra-realistic, cinematic lighting,
+  8K, highly detailed.
 lang: en
-title: "Kusatsu Onsen Daitokan: Immerse in Authentic Local Charm & Breathtaking Mountain Vistas of Gunma"
 lat: 36.6222
 lng: 138.5977
-categories: ["Local", "Great View"]
-thumbnail: "/static/images/kusatsu_onsen_daitokan.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "Discover Kusatsu Onsen Daitokan, a sanctuary where authentic Japanese hospitality meets the vibrant heart of Japan's most celebrated hot spring town. Revel in mineral-rich waters while gazing upon magnificent natural vistas, experiencing a profound connection to Gunma's local culture and serene beauty. This ryokan offers an unparalleled escape, blending tradition with an unforgettable immersion into a truly spectacular landscape."
-image_prompt: "A serene, elevated outdoor onsen bath (rotenburo) at dawn or dusk, overlooking the stunning, mist-shrouded mountains and traditional Japanese village architecture of Kusatsu, Gunma. The water is steaming gently, reflecting the soft light. A lone bath user, seen from behind, is contemplating the view. The atmosphere is tranquil, luxurious, and deeply traditional Japanese, with lush green foliage and perhaps a hint of autumn colors in the background. Ultra-realistic, cinematic lighting, 8K, highly detailed."
+summary: Discover Kusatsu Onsen Daitokan, a sanctuary where authentic Japanese hospitality
+  meets the vibrant heart of Japan's most celebrated hot spring town. Revel in mineral-rich
+  waters while gazing upon magnificent natural vistas, experiencing a profound connection
+  to Gunma's local culture and serene beauty. This ryokan offers an unparalleled escape,
+  blending tradition with an unforgettable immersion into a truly spectacular landscape.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_daitokan.jpg
+title: 'Kusatsu Onsen Daitokan: Immerse in Authentic Local Charm & Breathtaking Mountain
+  Vistas of Gunma'
 ---
 
 ## Kusatsu Onsen Daitokan: An Authentic Retreat Amidst Gunma's Crown Jewel

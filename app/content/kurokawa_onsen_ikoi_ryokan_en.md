@@ -1,15 +1,30 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- Local
+- Great View
+- Tattoo OK
+date: '2026-04-12'
+image_prompt: Highly detailed photograph of a traditional Japanese ryokan, Kurokawa
+  Onsen Ikoi Ryokan, nestled amongst lush green mountains and a pristine river in
+  Minamioguni, Kumamoto, Japan. The scene is bathed in soft, natural light, highlighting
+  traditional wooden architecture, steam rising gently from an outdoor rotenburo bath
+  with a guest enjoying the breathtaking natural landscape. Focus on the serene atmosphere,
+  intricate details of the natural surroundings, and the inviting warmth of the onsen.
+  Architectural photography style, golden hour, ultra-realistic.
 lang: en
-title: "Kurokawa Onsen Ikoi Ryokan: A Secluded Kumamoto Gem Where Breathtaking Views, Authentic Charm, and Tattoo-Friendly Waters Embrace You"
 lat: 33.0811
 lng: 131.1411
-categories: ["Local", "Great View", "Tattoo OK"]
-thumbnail: "/static/images/kurokawa_onsen_ikoi_ryokan.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "Nestled in the heart of Kumamoto's serene Minamioguni, Kurokawa Onsen Ikoi Ryokan offers an unparalleled escape into traditional Japanese hospitality. Experience the profound tranquility of its numerous baths, many boasting incredible scenic views, all within a welcoming, tattoo-friendly environment. This ryokan epitomizes authentic local charm, promising an unforgettable journey for the discerning traveler seeking deep relaxation and cultural immersion."
-image_prompt: "Highly detailed photograph of a traditional Japanese ryokan, Kurokawa Onsen Ikoi Ryokan, nestled amongst lush green mountains and a pristine river in Minamioguni, Kumamoto, Japan. The scene is bathed in soft, natural light, highlighting traditional wooden architecture, steam rising gently from an outdoor rotenburo bath with a guest enjoying the breathtaking natural landscape. Focus on the serene atmosphere, intricate details of the natural surroundings, and the inviting warmth of the onsen. Architectural photography style, golden hour, ultra-realistic."
+summary: Nestled in the heart of Kumamoto's serene Minamioguni, Kurokawa Onsen Ikoi
+  Ryokan offers an unparalleled escape into traditional Japanese hospitality. Experience
+  the profound tranquility of its numerous baths, many boasting incredible scenic
+  views, all within a welcoming, tattoo-friendly environment. This ryokan epitomizes
+  authentic local charm, promising an unforgettable journey for the discerning traveler
+  seeking deep relaxation and cultural immersion.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg
+title: 'Kurokawa Onsen Ikoi Ryokan: A Secluded Kumamoto Gem Where Breathtaking Views,
+  Authentic Charm, and Tattoo-Friendly Waters Embrace You'
 ---
 
 ## Unveiling the Serenity of Kurokawa Onsen Ikoi Ryokan: An Authentic Kumamoto Escape

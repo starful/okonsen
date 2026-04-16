@@ -1,15 +1,26 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 가족탕
+date: '2026-04-03'
+image_prompt: A serene and luxurious Japanese ryokan, Yufuin Kutsurogi no Yado Nanakawa,
+  nestled amidst the lush greenery and mist-shrouded mountains of Yufuin, Oita. Focus
+  on a private open-air bath (rotenburo) with steam rising, surrounded by meticulously
+  manicured traditional Japanese gardens and a stunning view of Mount Yufu in the
+  distance, bathed in soft morning light. The architecture should be traditional Japanese
+  with elegant wooden structures and shoji screens, evoking a sense of tranquility
+  and refined luxury. A couple is subtly visible enjoying the bath, emphasizing a
+  relaxing family/private experience. High-definition, cinematic, natural light.
 lang: ko
-title: "유후인 쿠츠로기노야도 나나카와: 가족과 함께하는 최고급 료칸의 평화로운 휴식"
 lat: 33.2688
 lng: 131.3655
-categories: ["고급 료칸", "가족탕"]
-thumbnail: "/static/images/yufuin_kutsurogi_no_yado_nanakawa.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "유후인 쿠츠로기노야도 나나카와는 일본 오이타현 유후인의 아름다운 자연 속에 자리한 최고급 료칸으로, 몸과 마음의 진정한 휴식을 선사합니다. 탁월한 서비스와 품격 있는 시설, 그리고 사랑하는 이들과 오붓한 시간을 보낼 수 있는 전세탕이 완벽한 조화를 이루며 잊지 못할 추억을 선사합니다. 이곳에서 진정한 일본 료칸의 정수를 경험하며 일상의 번잡함에서 벗어나 오롯이 자신에게 집중하는 시간을 가져보세요."
-image_prompt: "A serene and luxurious Japanese ryokan, Yufuin Kutsurogi no Yado Nanakawa, nestled amidst the lush greenery and mist-shrouded mountains of Yufuin, Oita. Focus on a private open-air bath (rotenburo) with steam rising, surrounded by meticulously manicured traditional Japanese gardens and a stunning view of Mount Yufu in the distance, bathed in soft morning light. The architecture should be traditional Japanese with elegant wooden structures and shoji screens, evoking a sense of tranquility and refined luxury. A couple is subtly visible enjoying the bath, emphasizing a relaxing family/private experience. High-definition, cinematic, natural light."
+summary: 유후인 쿠츠로기노야도 나나카와는 일본 오이타현 유후인의 아름다운 자연 속에 자리한 최고급 료칸으로, 몸과 마음의 진정한 휴식을 선사합니다.
+  탁월한 서비스와 품격 있는 시설, 그리고 사랑하는 이들과 오붓한 시간을 보낼 수 있는 전세탕이 완벽한 조화를 이루며 잊지 못할 추억을 선사합니다.
+  이곳에서 진정한 일본 료칸의 정수를 경험하며 일상의 번잡함에서 벗어나 오롯이 자신에게 집중하는 시간을 가져보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_kutsurogi_no_yado_nanakawa.jpg
+title: '유후인 쿠츠로기노야도 나나카와: 가족과 함께하는 최고급 료칸의 평화로운 휴식'
 ---
 
 # 유후인 쿠츠로기노야도 나나카와: 영혼을 어루만지는 휴식의 미학

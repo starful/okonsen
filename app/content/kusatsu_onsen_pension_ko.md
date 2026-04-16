@@ -1,15 +1,24 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 타투 허용
+- 로컬
+date: '2026-04-12'
+image_prompt: A cozy, traditional Japanese onsen pension in Kusatsu, Gunma, nestled
+  amidst a snowy landscape with steam rising from the hot springs. The architecture
+  is rustic and charming, with wooden exteriors and soft, warm lighting emanating
+  from windows. A clear night sky with stars, serene and inviting atmosphere, showing
+  a sense of local charm and warmth. Focus on the entrance and a glimpse of the surrounding
+  nature. Photorealistic, cinematic lighting, highly detailed.
 lang: ko
-title: "문신 허용! 쿠사츠 온천의 숨겨진 보석, 진정한 로컬 감성 쿠사츠 온천 펜션 완벽 가이드"
 lat: 36.6266
 lng: 138.6011
-categories: ["타투 허용", "로컬"]
-thumbnail: "/static/images/kusatsu_onsen_pension.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-12"
-agoda: ""
-summary: "쿠사츠 온천의 심장부에 위치한 쿠사츠 온천 펜션은 진정한 로컬의 정취와 따뜻한 환대를 선사합니다. 문신에 대한 편견 없이 모두가 편안하게 온천을 즐길 수 있는 이곳은 여행의 피로를 잊게 해줄 완벽한 안식처입니다. 단순한 숙박을 넘어 쿠사츠의 깊은 매력을 경험하고 싶은 당신에게 이보다 더 좋은 선택은 없을 것입니다."
-image_prompt: "A cozy, traditional Japanese onsen pension in Kusatsu, Gunma, nestled amidst a snowy landscape with steam rising from the hot springs. The architecture is rustic and charming, with wooden exteriors and soft, warm lighting emanating from windows. A clear night sky with stars, serene and inviting atmosphere, showing a sense of local charm and warmth. Focus on the entrance and a glimpse of the surrounding nature. Photorealistic, cinematic lighting, highly detailed."
+summary: 쿠사츠 온천의 심장부에 위치한 쿠사츠 온천 펜션은 진정한 로컬의 정취와 따뜻한 환대를 선사합니다. 문신에 대한 편견 없이 모두가 편안하게
+  온천을 즐길 수 있는 이곳은 여행의 피로를 잊게 해줄 완벽한 안식처입니다. 단순한 숙박을 넘어 쿠사츠의 깊은 매력을 경험하고 싶은 당신에게 이보다
+  더 좋은 선택은 없을 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_pension.jpg
+title: 문신 허용! 쿠사츠 온천의 숨겨진 보석, 진정한 로컬 감성 쿠사츠 온천 펜션 완벽 가이드
 ---
 
 # 쿠사츠 온천 펜션: 문신 친화적인 로컬 감성 온천 숙소에서 진정한 휴식을 경험하다

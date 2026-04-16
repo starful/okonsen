@@ -1,15 +1,31 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Luxury
+- Great View
+- Private Bath
+date: '2026-03-24'
+image_prompt: A serene and luxurious Japanese ryokan, Yufuin Tamanoyu, nestled amidst
+  a lush, vibrant green forest in Yufuin, Oita, Japan. Focus on a traditional wooden
+  building with a gently steaming open-air private onsen bath surrounded by moss-covered
+  rocks and verdant foliage. Mount Yufu's majestic twin peaks are visible in the soft
+  morning light in the background. The scene should convey profound tranquility, elegant
+  Japanese aesthetics, and opulent comfort, with clear, pure onsen water reflecting
+  the surrounding nature.
 lang: en
-title: "Yufuin Tamanoyu: An Exquisite Escape into Oita's Emerald Embrace – The Ultimate Luxury Onsen Experience"
 lat: 33.2681
 lng: 131.3622
-categories: ["Luxury", "Great View", "Private Bath"]
-thumbnail: "/static/images/yufuin_tamanoyu.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-24"
-agoda: ""
-summary: "Nestled amidst the serene landscapes of Oita, Yufuin Tamanoyu stands as an unparalleled haven of luxury, offering an exquisite onsen experience seamlessly blended with nature's breathtaking beauty. This prestigious ryokan invites guests into a world where refined Japanese hospitality, stunning natural vistas, and rejuvenating hot springs converge to create an unforgettable escape. Discover an oasis of tranquility where every detail is meticulously crafted for profound relaxation and sensory delight, making it a definitive destination for discerning travelers."
-image_prompt: "A serene and luxurious Japanese ryokan, Yufuin Tamanoyu, nestled amidst a lush, vibrant green forest in Yufuin, Oita, Japan. Focus on a traditional wooden building with a gently steaming open-air private onsen bath surrounded by moss-covered rocks and verdant foliage. Mount Yufu's majestic twin peaks are visible in the soft morning light in the background. The scene should convey profound tranquility, elegant Japanese aesthetics, and opulent comfort, with clear, pure onsen water reflecting the surrounding nature."
+summary: Nestled amidst the serene landscapes of Oita, Yufuin Tamanoyu stands as an
+  unparalleled haven of luxury, offering an exquisite onsen experience seamlessly
+  blended with nature's breathtaking beauty. This prestigious ryokan invites guests
+  into a world where refined Japanese hospitality, stunning natural vistas, and rejuvenating
+  hot springs converge to create an unforgettable escape. Discover an oasis of tranquility
+  where every detail is meticulously crafted for profound relaxation and sensory delight,
+  making it a definitive destination for discerning travelers.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_tamanoyu.jpg
+title: 'Yufuin Tamanoyu: An Exquisite Escape into Oita''s Emerald Embrace – The Ultimate
+  Luxury Onsen Experience'
 ---
 
 ## Introduction: A Sanctuary For The Senses in Yufuin

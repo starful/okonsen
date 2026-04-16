@@ -1,15 +1,32 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Luxury
+- Great View
+- Private Bath
+date: '2026-04-12'
+image_prompt: High-angle shot of Hoshino Resorts KAI Beppu's outdoor onsen (rotemburo)
+  at twilight, overlooking the expansive, shimmering Beppu Bay with distant city lights.
+  Steam gracefully rises from the mineral-rich waters, reflecting the warm glow of
+  subtle, traditional Japanese lanterns. The bath is surrounded by elegantly manicured
+  Japanese garden elements, smooth natural stone, and dark timber architecture, creating
+  a serene, luxurious atmosphere. A lone, subtly visible figure relaxes in the bath,
+  embodying ultimate tranquility. The sky transitions from deep orange and purple
+  to indigo, with hints of a crescent moon. Ultra-realistic, cinematic lighting, rich
+  textures, serene mood.
 lang: en
-title: "Hoshino Resorts KAI Beppu: Immerse in Onsen Opulence, Breathtaking Views, and Timeless Japanese Luxury"
 lat: 33.2855
 lng: 131.5055
-categories: ["Luxury", "Great View", "Private Bath"]
-thumbnail: "/static/images/hoshino_resorts_kai_beppu.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Perched majestically overlooking Beppu Bay, Hoshino Resorts KAI Beppu offers an unparalleled luxury onsen experience, blending traditional Japanese aesthetics with modern comfort. Immerse yourself in mineral-rich waters while gazing at breathtaking ocean vistas from exquisitely designed private and public baths. This magnificent ryokan masterfully crafts an unforgettable rejuvenating escape for the discerning traveler seeking profound tranquility and authentic cultural immersion."
-image_prompt: "High-angle shot of Hoshino Resorts KAI Beppu's outdoor onsen (rotemburo) at twilight, overlooking the expansive, shimmering Beppu Bay with distant city lights. Steam gracefully rises from the mineral-rich waters, reflecting the warm glow of subtle, traditional Japanese lanterns. The bath is surrounded by elegantly manicured Japanese garden elements, smooth natural stone, and dark timber architecture, creating a serene, luxurious atmosphere. A lone, subtly visible figure relaxes in the bath, embodying ultimate tranquility. The sky transitions from deep orange and purple to indigo, with hints of a crescent moon. Ultra-realistic, cinematic lighting, rich textures, serene mood."
+summary: Perched majestically overlooking Beppu Bay, Hoshino Resorts KAI Beppu offers
+  an unparalleled luxury onsen experience, blending traditional Japanese aesthetics
+  with modern comfort. Immerse yourself in mineral-rich waters while gazing at breathtaking
+  ocean vistas from exquisitely designed private and public baths. This magnificent
+  ryokan masterfully crafts an unforgettable rejuvenating escape for the discerning
+  traveler seeking profound tranquility and authentic cultural immersion.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_beppu.jpg
+title: 'Hoshino Resorts KAI Beppu: Immerse in Onsen Opulence, Breathtaking Views,
+  and Timeless Japanese Luxury'
 ---
 
 ## Introduction: A Symphony of Steam, Sea, and Serenity at KAI Beppu

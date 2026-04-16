@@ -1,15 +1,27 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 로컬
+date: '2026-03-24'
+image_prompt: A luxurious traditional Japanese ryokan, Kamenoi Bessou, nestled beside
+  a serene lake in a dense, lush forest in Yufuin, Oita. The scene is bathed in soft,
+  natural light, highlighting the intricate wooden architecture, beautifully manicured
+  gardens with mossy stones and maple trees displaying autumn colors. A private outdoor
+  onsen bath (rotenburo) is visible, steaming gently, with a stunning view of the
+  tranquil lake and surrounding mountains. The atmosphere is peaceful, elegant, and
+  deeply authentic Japanese, evoking a sense of calm and exclusive retreat. The architectural
+  style should reflect wabi-sabi, blending seamlessly with nature. Include a subtle
+  touch of mist rising from the lake in the early morning.
 lang: ko
-title: "자연 속 쉼표: 유후인 카메노이 벳소, 오직 당신만을 위한 럭셔리 온천 경험"
 lat: 33.2675
 lng: 131.3688
-categories: ["고급 료칸", "로컬"]
-thumbnail: "/static/images/kamenoi_bessou.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-24"
-agoda: ""
-summary: "유후인 긴린코 호수 옆 고요한 숲속에 자리한 카메노이 벳소는 단순한 료칸을 넘어선 특별한 경험을 선사합니다. 료칸의 정수를 느낄 수 있는 전통과 현대의 조화, 그리고 지역의 신선한 식재료로 빚어낸 카이세키 요리는 잊을 수 없는 추억을 선사할 것입니다. 바쁜 일상에서 벗어나 진정한 휴식과 평화를 찾아 떠나보세요."
-image_prompt: "A luxurious traditional Japanese ryokan, Kamenoi Bessou, nestled beside a serene lake in a dense, lush forest in Yufuin, Oita. The scene is bathed in soft, natural light, highlighting the intricate wooden architecture, beautifully manicured gardens with mossy stones and maple trees displaying autumn colors. A private outdoor onsen bath (rotenburo) is visible, steaming gently, with a stunning view of the tranquil lake and surrounding mountains. The atmosphere is peaceful, elegant, and deeply authentic Japanese, evoking a sense of calm and exclusive retreat. The architectural style should reflect wabi-sabi, blending seamlessly with nature. Include a subtle touch of mist rising from the lake in the early morning."
+summary: 유후인 긴린코 호수 옆 고요한 숲속에 자리한 카메노이 벳소는 단순한 료칸을 넘어선 특별한 경험을 선사합니다. 료칸의 정수를 느낄 수
+  있는 전통과 현대의 조화, 그리고 지역의 신선한 식재료로 빚어낸 카이세키 요리는 잊을 수 없는 추억을 선사할 것입니다. 바쁜 일상에서 벗어나 진정한
+  휴식과 평화를 찾아 떠나보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kamenoi_bessou.jpg
+title: '자연 속 쉼표: 유후인 카메노이 벳소, 오직 당신만을 위한 럭셔리 온천 경험'
 ---
 
 # 자연이 빚어낸 예술, 유후인 카메노이 벳소: 깊은 휴식과 미식의 향연

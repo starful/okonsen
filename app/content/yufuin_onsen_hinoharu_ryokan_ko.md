@@ -1,15 +1,25 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-03-28'
+image_prompt: A serene, traditional Japanese ryokan in Yufuin, Oita, nestled amidst
+  lush green mountains and misty morning fog. The image features a family enjoying
+  a private outdoor onsen (kashikiri-buro) with steam rising from the natural hot
+  spring water, surrounded by carefully sculpted rocks and verdant Japanese maples
+  in vibrant autumn colors. The architecture of the ryokan is elegant, with dark wood,
+  shoji screens, and a classic tiled roof, reflecting a deep sense of wabi-sabi. A
+  gentle stream flows nearby. The atmosphere is peaceful, inviting, and exudes local
+  charm. Golden hour lighting, highly detailed, photorealistic.
 lang: ko
-title: "유후인 히노하루 료칸: 가족탕의 포근함과 현지 문화가 숨 쉬는 오이타의 비밀스러운 휴식처"
 lat: 33.2644
 lng: 131.3615
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/yufuin_onsen_hinoharu_ryokan.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-28"
-agoda: ""
-summary: "유후인의 고즈넉한 풍경 속에 자리한 히노하루 료칸은 가족탕의 따스함과 진정한 현지 문화 체험을 선사합니다. 정성껏 준비된 가이세키 요리와 전통이 살아 숨 쉬는 객실에서 잊을 수 없는 추억을 만들어보세요. 바쁜 일상에서 벗어나 평온을 찾고 싶은 이들에게 완벽한 휴식처입니다."
-image_prompt: "A serene, traditional Japanese ryokan in Yufuin, Oita, nestled amidst lush green mountains and misty morning fog. The image features a family enjoying a private outdoor onsen (kashikiri-buro) with steam rising from the natural hot spring water, surrounded by carefully sculpted rocks and verdant Japanese maples in vibrant autumn colors. The architecture of the ryokan is elegant, with dark wood, shoji screens, and a classic tiled roof, reflecting a deep sense of wabi-sabi. A gentle stream flows nearby. The atmosphere is peaceful, inviting, and exudes local charm. Golden hour lighting, highly detailed, photorealistic."
+summary: 유후인의 고즈넉한 풍경 속에 자리한 히노하루 료칸은 가족탕의 따스함과 진정한 현지 문화 체험을 선사합니다. 정성껏 준비된 가이세키
+  요리와 전통이 살아 숨 쉬는 객실에서 잊을 수 없는 추억을 만들어보세요. 바쁜 일상에서 벗어나 평온을 찾고 싶은 이들에게 완벽한 휴식처입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_onsen_hinoharu_ryokan.jpg
+title: '유후인 히노하루 료칸: 가족탕의 포근함과 현지 문화가 숨 쉬는 오이타의 비밀스러운 휴식처'
 ---
 
 # 유후인 히노하루 료칸: 자연 속에서 피어나는 가족의 온기, 현지의 숨결을 느끼다

@@ -1,15 +1,30 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Private Bath
+- Luxury
+date: '2026-04-05'
+image_prompt: A breathtaking aerial shot of a traditional Japanese luxury ryokan,
+  'Kusatsu Onsen Boun', nestled amidst a vibrant autumnal forest with hints of snow
+  on distant mountain peaks. The ryokan features classic wooden architecture with
+  dark tiled roofs, a meticulously manicured Japanese garden, and several steaming
+  outdoor onsen baths visible. A clear, crisp morning light illuminates the scene,
+  casting soft shadows. The overall aesthetic is one of serene luxury, tradition,
+  and natural beauty. Focus on the harmony between architecture and nature. Midjourney
+  ultra-realistic, cinematic, warm light.
 lang: en
-title: "Kusatsu Onsen Boun: Your Exclusive Gateway to Unrivaled Luxury, Private Hot Spring Bliss, and Timeless Japanese Serenity in Gunma"
 lat: 36.6245
 lng: 138.5955
-categories: ["Private Bath", "Luxury"] 
-thumbnail: "/static/images/kusatsu_onsen_boun.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "Nestled in the heart of Japan's most celebrated hot spring town, Kusatsu Onsen Boun offers an exquisite escape, blending traditional Japanese elegance with unparalleled modern comfort. Guests are invited to immerse themselves in the healing embrace of its legendary acidic waters, indulging in the ultimate privacy of dedicated family baths. This luxury ryokan promises an unforgettable journey of rejuvenation, gastronomic delight, and serene tranquility."
-image_prompt: "A breathtaking aerial shot of a traditional Japanese luxury ryokan, 'Kusatsu Onsen Boun', nestled amidst a vibrant autumnal forest with hints of snow on distant mountain peaks. The ryokan features classic wooden architecture with dark tiled roofs, a meticulously manicured Japanese garden, and several steaming outdoor onsen baths visible. A clear, crisp morning light illuminates the scene, casting soft shadows. The overall aesthetic is one of serene luxury, tradition, and natural beauty. Focus on the harmony between architecture and nature. Midjourney ultra-realistic, cinematic, warm light."
+summary: Nestled in the heart of Japan's most celebrated hot spring town, Kusatsu
+  Onsen Boun offers an exquisite escape, blending traditional Japanese elegance with
+  unparalleled modern comfort. Guests are invited to immerse themselves in the healing
+  embrace of its legendary acidic waters, indulging in the ultimate privacy of dedicated
+  family baths. This luxury ryokan promises an unforgettable journey of rejuvenation,
+  gastronomic delight, and serene tranquility.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_boun.jpg
+title: 'Kusatsu Onsen Boun: Your Exclusive Gateway to Unrivaled Luxury, Private Hot
+  Spring Bliss, and Timeless Japanese Serenity in Gunma'
 ---
 
 # Kusatsu Onsen Boun: An Oasis of Exquisite Tradition and Private Indulgence

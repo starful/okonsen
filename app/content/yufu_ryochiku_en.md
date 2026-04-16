@@ -1,15 +1,28 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Private Bath
+- Local
+date: '2026-04-03'
+image_prompt: A picturesque traditional Japanese ryokan, Yufu Ryochiku, nestled amidst
+  the lush green mountains of Yufuin, Oita, during autumn. Focus on a beautifully
+  designed private outdoor onsen bath, steaming gently, surrounded by vibrant red
+  and orange maple leaves. The atmosphere is serene and inviting, with soft, warm
+  natural lighting, embodying luxury, tranquility, and authentic Japanese aesthetics.
+  Show intricate wooden architecture and a sense of peaceful seclusion.
 lang: en
-title: "Yufu Ryochiku: Your Secluded Yufuin Escape to Authentic Local Onsen Bliss with Exclusive Private Baths"
 lat: 33.2661
 lng: 131.3633
-categories: ["Private Bath", "Local"]
-thumbnail: "/static/images/yufu_ryochiku.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Discover Yufu Ryochiku, a hidden gem nestled in the serene landscapes of Yufuin, offering an authentic escape where local charm meets unparalleled relaxation. Immerse yourself in the therapeutic waters of their exclusive private baths, promising an intimate and rejuvenating experience for families and couples alike. This traditional ryokan embodies the true spirit of Oita's onsen culture, providing a tranquil sanctuary away from the everyday."
-image_prompt: "A picturesque traditional Japanese ryokan, Yufu Ryochiku, nestled amidst the lush green mountains of Yufuin, Oita, during autumn. Focus on a beautifully designed private outdoor onsen bath, steaming gently, surrounded by vibrant red and orange maple leaves. The atmosphere is serene and inviting, with soft, warm natural lighting, embodying luxury, tranquility, and authentic Japanese aesthetics. Show intricate wooden architecture and a sense of peaceful seclusion."
+summary: Discover Yufu Ryochiku, a hidden gem nestled in the serene landscapes of
+  Yufuin, offering an authentic escape where local charm meets unparalleled relaxation.
+  Immerse yourself in the therapeutic waters of their exclusive private baths, promising
+  an intimate and rejuvenating experience for families and couples alike. This traditional
+  ryokan embodies the true spirit of Oita's onsen culture, providing a tranquil sanctuary
+  away from the everyday.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufu_ryochiku.jpg
+title: 'Yufu Ryochiku: Your Secluded Yufuin Escape to Authentic Local Onsen Bliss
+  with Exclusive Private Baths'
 ---
 
 ## Introduction: Discovering Yufu Ryochiku – A Haven of Authentic Tranquility

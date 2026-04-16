@@ -1,15 +1,27 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-04-12'
+image_prompt: A breathtaking panoramic view of Kurokawa Onsen Yumerindo during autumn,
+  with vibrant red and golden maple trees surrounding traditional Japanese ryokan
+  buildings with dark wooden exteriors and slate roofs. In the foreground, a serene
+  outdoor hot spring bath (rotenburo) with steam rising gently from the water, overlooking
+  a lush valley and distant mountains under a soft, golden hour sky. A family is enjoying
+  the private bath, with calm, happy expressions. The scene should evoke tranquility,
+  luxury, and deep connection with nature. High detail, photorealistic, warm lighting,
+  cinematic.
 lang: ko
-title: "구로카와 온천 유메린도: 절경과 프라이빗 가족탕이 어우러진, 오감 만족 힐링 료칸"
 lat: 33.0818
 lng: 131.1418
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/kurokawa_onsen_yumerindo.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "구마모토 미나미오구니의 고요한 자연 속에 자리한 구로카와 온천 유메린도는 온 가족이 오붓하게 즐길 수 있는 가족탕과 숨 막히는 절경을 자랑하는 프리미엄 료칸입니다. 맑은 공기와 푸른 숲의 품에서 지친 몸과 마음에 진정한 휴식을 선사하며, 미식의 향연 카이세키 요리로 잊지 못할 추억을 선사합니다. 전통과 현대의 조화 속에서 꿈같은 온천 여행을 경험하고 싶다면 유메린도가 최고의 선택이 될 것입니다."
-image_prompt: "A breathtaking panoramic view of Kurokawa Onsen Yumerindo during autumn, with vibrant red and golden maple trees surrounding traditional Japanese ryokan buildings with dark wooden exteriors and slate roofs. In the foreground, a serene outdoor hot spring bath (rotenburo) with steam rising gently from the water, overlooking a lush valley and distant mountains under a soft, golden hour sky. A family is enjoying the private bath, with calm, happy expressions. The scene should evoke tranquility, luxury, and deep connection with nature. High detail, photorealistic, warm lighting, cinematic."
+summary: 구마모토 미나미오구니의 고요한 자연 속에 자리한 구로카와 온천 유메린도는 온 가족이 오붓하게 즐길 수 있는 가족탕과 숨 막히는 절경을
+  자랑하는 프리미엄 료칸입니다. 맑은 공기와 푸른 숲의 품에서 지친 몸과 마음에 진정한 휴식을 선사하며, 미식의 향연 카이세키 요리로 잊지 못할
+  추억을 선사합니다. 전통과 현대의 조화 속에서 꿈같은 온천 여행을 경험하고 싶다면 유메린도가 최고의 선택이 될 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg
+title: '구로카와 온천 유메린도: 절경과 프라이빗 가족탕이 어우러진, 오감 만족 힐링 료칸'
 ---
 
 # 구로카와 온천 유메린도: 대자연 속 프라이빗 힐링의 정수

@@ -1,15 +1,27 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: A serene and luxurious traditional Japanese ryokan, Hakone Suimeisou,
+  nestled beside a gentle river or lake in Hakone, Kanagawa. The scene features a
+  beautiful private family onsen (kashikiri-buro) with steam rising, overlooking a
+  breathtaking natural landscape of lush green mountains, possibly Mount Fuji in the
+  distance, under a soft, diffused morning light. Traditional architecture with wooden
+  elements, shoji screens, and a meticulously maintained garden are visible. The atmosphere
+  is peaceful, exclusive, and deeply calming. High detail, cinematic, natural lighting,
+  soft colors, inviting. --ar 16:9 --v 5.2
 lang: ko
-title: "하코네 스이메이소: 절경 속 오붓한 가족탕에서 누리는 궁극의 휴식, 럭셔리 료칸 체험 가이드"
 lat: 35.2334
 lng: 139.1065
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/hakone_suimeisou.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 스이메이소는 고즈넉한 하코네의 품 안에서 **절경**과 함께 진정한 휴식을 약속하는 럭셔리 료칸입니다. 개인의 프라이버시를 중시하는 **가족탕**은 사랑하는 이들과 오붓한 시간을 보내기에 더할 나위 없이 완벽하며, 사계절 다채롭게 변모하는 자연이 선사하는 감동은 잊을 수 없는 추억을 선사합니다. 전통과 현대가 조화롭게 어우러진 공간에서 미식과 온천의 정수를 경험해보세요."
-image_prompt: "A serene and luxurious traditional Japanese ryokan, Hakone Suimeisou, nestled beside a gentle river or lake in Hakone, Kanagawa. The scene features a beautiful private family onsen (kashikiri-buro) with steam rising, overlooking a breathtaking natural landscape of lush green mountains, possibly Mount Fuji in the distance, under a soft, diffused morning light. Traditional architecture with wooden elements, shoji screens, and a meticulously maintained garden are visible. The atmosphere is peaceful, exclusive, and deeply calming. High detail, cinematic, natural lighting, soft colors, inviting. --ar 16:9 --v 5.2"
+summary: 하코네 스이메이소는 고즈넉한 하코네의 품 안에서 **절경**과 함께 진정한 휴식을 약속하는 럭셔리 료칸입니다. 개인의 프라이버시를
+  중시하는 **가족탕**은 사랑하는 이들과 오붓한 시간을 보내기에 더할 나위 없이 완벽하며, 사계절 다채롭게 변모하는 자연이 선사하는 감동은 잊을
+  수 없는 추억을 선사합니다. 전통과 현대가 조화롭게 어우러진 공간에서 미식과 온천의 정수를 경험해보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_suimeisou.jpg
+title: '하코네 스이메이소: 절경 속 오붓한 가족탕에서 누리는 궁극의 휴식, 럭셔리 료칸 체험 가이드'
 ---
 
 # 하코네 스이메이소: 영혼을 위한 쉼표, 절경 속 럭셔리 료칸의 모든 것

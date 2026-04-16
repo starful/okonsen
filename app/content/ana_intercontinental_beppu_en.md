@@ -1,15 +1,32 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Luxury
+- Great View
+- Private Bath
+date: '2026-04-12'
+image_prompt: A breathtaking wide-angle aerial shot capturing the ANA InterContinental
+  Beppu resort complex elegantly integrated into a lush green hillside overlooking
+  the vibrant city of Beppu and the expansive, sparkling Beppu Bay at sunset. The
+  architectural design seamlessly blends contemporary luxury with subtle traditional
+  Japanese aesthetics, featuring multiple tiers of elegant buildings, expansive terraces,
+  and stunning outdoor onsen baths with wisps of steam gently rising. The scene is
+  bathed in the golden hour light, casting warm hues across the resort and reflecting
+  on the calm waters of the bay, emphasizing a sense of peaceful grandeur and exclusivity.
 lang: en
-title: "ANA InterContinental Beppu: Your Ascent to Unrivalled Luxury Onsen Bliss with Breathtaking Views"
 lat: 33.3055
 lng: 131.4655
-categories: ["Luxury", "Great View", "Private Bath"]
-thumbnail: "/static/images/ana_intercontinental_beppu.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Perched majestically above Beppu Bay, the ANA InterContinental Beppu offers an unparalleled luxury onsen experience, blending modern sophistication with Japan's ancient hot spring traditions. Guests are treated to exclusive private baths and expansive open-air rotemburo, all boasting **spectacular panoramic views** that stretch across the vibrant city and out to the glistening sea. This extraordinary ryokan promises an unforgettable retreat, immersing you in serene tranquility and exquisite Japanese hospitality."
-image_prompt: "A breathtaking wide-angle aerial shot capturing the ANA InterContinental Beppu resort complex elegantly integrated into a lush green hillside overlooking the vibrant city of Beppu and the expansive, sparkling Beppu Bay at sunset. The architectural design seamlessly blends contemporary luxury with subtle traditional Japanese aesthetics, featuring multiple tiers of elegant buildings, expansive terraces, and stunning outdoor onsen baths with wisps of steam gently rising. The scene is bathed in the golden hour light, casting warm hues across the resort and reflecting on the calm waters of the bay, emphasizing a sense of peaceful grandeur and exclusivity."
+summary: Perched majestically above Beppu Bay, the ANA InterContinental Beppu offers
+  an unparalleled luxury onsen experience, blending modern sophistication with Japan's
+  ancient hot spring traditions. Guests are treated to exclusive private baths and
+  expansive open-air rotemburo, all boasting **spectacular panoramic views** that
+  stretch across the vibrant city and out to the glistening sea. This extraordinary
+  ryokan promises an unforgettable retreat, immersing you in serene tranquility and
+  exquisite Japanese hospitality.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ana_intercontinental_beppu.jpg
+title: 'ANA InterContinental Beppu: Your Ascent to Unrivalled Luxury Onsen Bliss with
+  Breathtaking Views'
 ---
 
 ## Introduction: Ascend to Serenity at ANA InterContinental Beppu

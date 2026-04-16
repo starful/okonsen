@@ -1,15 +1,24 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-04-12'
+image_prompt: A luxurious traditional Japanese ryokan onsen, Hotel Shiragiku, with
+  an elegant private family bath (kashikiri onsen) offering a stunning panoramic view
+  of Beppu city and mountains at dusk. The bath is filled with clear, steaming onsen
+  water. The interior features natural wood and stone, soft indirect lighting, and
+  traditional Japanese aesthetics. A family (silhouette) is relaxing in the bath,
+  looking out at the beautiful landscape. Highly detailed, cinematic, serene atmosphere.
 lang: ko
-title: "벳푸 시라기쿠 호텔: 가족탕과 절경이 어우러진 럭셔리 온천 료칸의 정수 – 당신의 완벽한 휴식처"
 lat: 33.2833
 lng: 131.4988
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/hotel_shiragiku.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "벳푸의 중심에서 최고의 럭셔리와 전통을 경험하고 싶다면 호텔 시라기쿠가 완벽한 선택입니다. 프라이빗한 가족탕에서 그림 같은 절경을 감상하며 잊지 못할 추억을 만들 수 있습니다. 섬세한 서비스와 최상급 가이세키 요리가 어우러져 오감을 만족시키는 진정한 힐링을 선사합니다."
-image_prompt: "A luxurious traditional Japanese ryokan onsen, Hotel Shiragiku, with an elegant private family bath (kashikiri onsen) offering a stunning panoramic view of Beppu city and mountains at dusk. The bath is filled with clear, steaming onsen water. The interior features natural wood and stone, soft indirect lighting, and traditional Japanese aesthetics. A family (silhouette) is relaxing in the bath, looking out at the beautiful landscape. Highly detailed, cinematic, serene atmosphere."
+summary: 벳푸의 중심에서 최고의 럭셔리와 전통을 경험하고 싶다면 호텔 시라기쿠가 완벽한 선택입니다. 프라이빗한 가족탕에서 그림 같은 절경을
+  감상하며 잊지 못할 추억을 만들 수 있습니다. 섬세한 서비스와 최상급 가이세키 요리가 어우러져 오감을 만족시키는 진정한 힐링을 선사합니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hotel_shiragiku.jpg
+title: '벳푸 시라기쿠 호텔: 가족탕과 절경이 어우러진 럭셔리 온천 료칸의 정수 – 당신의 완벽한 휴식처'
 ---
 
 # 벳푸 시라기쿠 호텔: 천상의 휴식을 선사하는 온천 료칸의 걸작

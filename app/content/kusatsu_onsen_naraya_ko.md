@@ -1,15 +1,26 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 가족탕
+- 고급 료칸
+date: '2026-04-05'
+image_prompt: A luxurious Japanese ryokan, Kusatsu Onsen Naraya, nestled in a snowy
+  mountain landscape, showcasing traditional wooden architecture with modern comforts.
+  Focus on a beautifully designed private family bath (kashikiri onsen) with steam
+  rising from emerald-green sulfur water, surrounded by elegant shoji screens and
+  a small rock garden. In the background, glimpses of a serene, snowy Japanese village
+  and distant snow-capped peaks under a soft, morning light. The scene should evoke
+  tranquility, exclusivity, and warmth, with exquisite attention to detail in traditional
+  Japanese aesthetics and a subtle sense of opulence.
 lang: ko
-title: "쿠사츠 온천 나라야: 가족탕과 미식의 향연, 품격 있는 료칸에서의 잊지 못할 추억"
 lat: 36.6228
 lng: 138.5951
-categories: ["가족탕", "고급 료칸"]
-thumbnail: "/static/images/kusatsu_onsen_naraya.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "군마현 쿠사츠 온천의 심장부에 위치한 쿠사츠 온천 나라야는 전통과 현대의 조화가 돋보이는 **고급 료칸**입니다. 이곳에서는 에메랄드빛 유황 온천수에 몸을 담그며 완벽한 휴식을 경험할 수 있으며, 특히 **가족탕**은 소중한 이들과 오붓한 시간을 보낼 수 있는 특별한 공간을 제공합니다. 제철 식재료로 정성껏 준비된 카이세키 요리는 미식의 감동을 선사하고, 주변의 아름다운 자연경관은 여행의 깊이를 더해줍니다."
-image_prompt: "A luxurious Japanese ryokan, Kusatsu Onsen Naraya, nestled in a snowy mountain landscape, showcasing traditional wooden architecture with modern comforts. Focus on a beautifully designed private family bath (kashikiri onsen) with steam rising from emerald-green sulfur water, surrounded by elegant shoji screens and a small rock garden. In the background, glimpses of a serene, snowy Japanese village and distant snow-capped peaks under a soft, morning light. The scene should evoke tranquility, exclusivity, and warmth, with exquisite attention to detail in traditional Japanese aesthetics and a subtle sense of opulence."
+summary: 군마현 쿠사츠 온천의 심장부에 위치한 쿠사츠 온천 나라야는 전통과 현대의 조화가 돋보이는 **고급 료칸**입니다. 이곳에서는 에메랄드빛
+  유황 온천수에 몸을 담그며 완벽한 휴식을 경험할 수 있으며, 특히 **가족탕**은 소중한 이들과 오붓한 시간을 보낼 수 있는 특별한 공간을 제공합니다.
+  제철 식재료로 정성껏 준비된 카이세키 요리는 미식의 감동을 선사하고, 주변의 아름다운 자연경관은 여행의 깊이를 더해줍니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_naraya.jpg
+title: '쿠사츠 온천 나라야: 가족탕과 미식의 향연, 품격 있는 료칸에서의 잊지 못할 추억'
 ---
 
 # 쿠사츠 온천 나라야: 일본 온천 여행의 정점, 미학과 휴식의 조화

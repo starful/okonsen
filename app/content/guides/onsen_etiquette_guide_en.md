@@ -1,4 +1,7 @@
-```markdown
+---
+{}
+---
+
 ---
 lang: en
 title: "Soak in Serenity: The Ultimate Guide to Japanese Onsen Etiquette & Bathing Rules"
@@ -87,4 +90,3 @@ Historically, tattoos in Japan have been associated with organized crime (Yakuza
 ## Conclusion: Embrace the Tradition, Embrace the Tranquility
 
 Japanese onsen offer a profound cultural experience that goes beyond simple bathing. By understanding and respecting the etiquette surrounding onsen, you can fully immerse yourself in this tradition and enjoy the numerous benefits it offers. From the soothing mineral waters to the serene atmosphere, an onsen visit is an unforgettable journey for the mind, body, and soul. So, embrace the tradition, embrace the tranquility, and prepare to soak in the serenity of a truly authentic Japanese experience. Enjoy your onsen adventure!
-```

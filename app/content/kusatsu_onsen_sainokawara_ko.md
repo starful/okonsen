@@ -1,15 +1,27 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 타투 허용
+- 절경
+- 로컬
+date: '2026-04-03'
+image_prompt: A serene and majestic wide-angle shot of Kusatsu Onsen Sainokawara outdoor
+  bath (rotenburo) in autumn, with steam rising from the large natural stone pools.
+  The bath is nestled amidst vibrant red and orange maple trees and lush green foliage,
+  with distant mountain peaks visible under a clear blue sky. A few discreetly placed
+  traditional Japanese lanterns cast a soft glow. The water is crystal clear, reflecting
+  the surrounding nature. There are no people in the frame, emphasizing tranquility.
+  The architectural elements are traditional Japanese, with natural wood and stone.
+  The atmosphere is peaceful, inviting, and luxurious.
 lang: ko
-title: "구사츠 온천 사이노카와라: 타투도 환영하는 대자연 속 절경 로컬 온천의 정수"
 lat: 36.6231
 lng: 138.5966
-categories: ["타투 허용", "절경", "로컬"]
-thumbnail: "/static/images/kusatsu_onsen_sainokawara.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-03"
-agoda: ""
-summary: "일본 3대 명천 구사츠에 자리한 사이노카와라 온천은 그림 같은 절경과 진정한 로컬의 정취를 자랑합니다. 문신에 대한 편견 없이 모두를 환영하며, 자연과 하나 되는 광활한 노천탕에서 잊을 수 없는 휴식을 선사합니다. 이곳에서 일본 온천 문화의 깊이와 평화를 경험하며 몸과 마음을 치유해 보세요."
-image_prompt: "A serene and majestic wide-angle shot of Kusatsu Onsen Sainokawara outdoor bath (rotenburo) in autumn, with steam rising from the large natural stone pools. The bath is nestled amidst vibrant red and orange maple trees and lush green foliage, with distant mountain peaks visible under a clear blue sky. A few discreetly placed traditional Japanese lanterns cast a soft glow. The water is crystal clear, reflecting the surrounding nature. There are no people in the frame, emphasizing tranquility. The architectural elements are traditional Japanese, with natural wood and stone. The atmosphere is peaceful, inviting, and luxurious."
+summary: 일본 3대 명천 구사츠에 자리한 사이노카와라 온천은 그림 같은 절경과 진정한 로컬의 정취를 자랑합니다. 문신에 대한 편견 없이 모두를
+  환영하며, 자연과 하나 되는 광활한 노천탕에서 잊을 수 없는 휴식을 선사합니다. 이곳에서 일본 온천 문화의 깊이와 평화를 경험하며 몸과 마음을
+  치유해 보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_sainokawara.jpg
+title: '구사츠 온천 사이노카와라: 타투도 환영하는 대자연 속 절경 로컬 온천의 정수'
 ---
 
 # 구사츠 온천 사이노카와라: 대자연 속 치유와 평온을 찾아서

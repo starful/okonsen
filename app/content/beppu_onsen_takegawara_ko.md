@@ -1,15 +1,25 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 타투 허용
+- 로컬
+date: '2026-04-12'
+image_prompt: A serene, atmospheric shot of the historic Beppu Onsen Takegawara. Focus
+  on the traditional Japanese architecture with a prominent gabled roof and intricate
+  wooden details. In the foreground, show a glimpse of steam rising from the entrance,
+  hinting at the warm waters within. The scene should be dimly lit, evoking a sense
+  of calm and timelessness. Include subtle hints of a local, unpretentious atmosphere.
+  The color palette should be warm and earthy, with muted tones of wood and stone.
+  Traditional Japanese lanterns gently illuminate the path. No people visible, emphasizing
+  tranquility. High detail, photorealistic, cinematic lighting, f/1.8, bokeh.
 lang: ko
-title: "벳푸 타케가와라 온천: 시간의 흔적과 치유의 물결, 타투 프렌들리 로컬 온천의 진수 경험하기"
 lat: 33.2788
 lng: 131.5044
-categories: ["타투 허용", "로컬"]
-thumbnail: "/static/images/beppu_onsen_takegawara.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "벳푸의 심장부에 자리한 타케가와라 온천은 1879년부터 이어져 온 유서 깊은 로컬 온천입니다. 특히 타투에 관대하며, 단순한 목욕을 넘어 깊은 역사와 전통이 살아 숨 쉬는 특별한 경험을 선사합니다. 뜨거운 모래찜질과 부드러운 유황 온천수로 몸과 마음의 진정한 평화를 찾아보세요."
-image_prompt: "A serene, atmospheric shot of the historic Beppu Onsen Takegawara. Focus on the traditional Japanese architecture with a prominent gabled roof and intricate wooden details. In the foreground, show a glimpse of steam rising from the entrance, hinting at the warm waters within. The scene should be dimly lit, evoking a sense of calm and timelessness. Include subtle hints of a local, unpretentious atmosphere. The color palette should be warm and earthy, with muted tones of wood and stone. Traditional Japanese lanterns gently illuminate the path. No people visible, emphasizing tranquility. High detail, photorealistic, cinematic lighting, f/1.8, bokeh."
+summary: 벳푸의 심장부에 자리한 타케가와라 온천은 1879년부터 이어져 온 유서 깊은 로컬 온천입니다. 특히 타투에 관대하며, 단순한 목욕을
+  넘어 깊은 역사와 전통이 살아 숨 쉬는 특별한 경험을 선사합니다. 뜨거운 모래찜질과 부드러운 유황 온천수로 몸과 마음의 진정한 평화를 찾아보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_takegawara.jpg
+title: '벳푸 타케가와라 온천: 시간의 흔적과 치유의 물결, 타투 프렌들리 로컬 온천의 진수 경험하기'
 ---
 
 ## 서론: 타케가와라 온천, 벳푸의 심장부에 스며든 시간의 향기

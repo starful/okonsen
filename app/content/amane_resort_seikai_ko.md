@@ -1,15 +1,24 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+date: '2026-04-12'
+image_prompt: A breathtaking panoramic view from an infinity onsen at AMANE Resort
+  Seikai in Beppu, Oita, Japan, overlooking the serene ocean at sunrise. The hot spring
+  water reflects the vibrant colors of the sky. A luxurious, minimalist ryokan architecture
+  with natural wood and stone elements blends harmoniously with the coastal landscape.
+  Steam gently rises from the bath. Tranquil, ethereal, high detail, volumetric lighting,
+  photorealistic, cinematic.
 lang: ko
-title: "벳푸 절경 온천의 극치, AMANE Resort Seikai: 오이타 바다를 품은 럭셔리 힐링의 정점"
 lat: 33.3088
 lng: 131.5033
-categories: ["고급 료칸", "절경"]
-thumbnail: "/static/images/amane_resort_seikai.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "오이타 벳푸의 푸른 바다를 가장 가까이에서 만나는 럭셔리 료칸, AMANE Resort Seikai는 숨 막히는 절경과 최상의 서비스로 진정한 휴식을 선사합니다. 모든 객실에 딸린 오션뷰 노천탕은 프라이빗한 힐링을 약속하며, 미식의 향연 카이세키 요리는 여행의 깊이를 더합니다. 벳푸의 온천 문화와 현대적인 안락함이 완벽하게 조화된 이곳에서 잊을 수 없는 추억을 만들어보세요."
-image_prompt: "A breathtaking panoramic view from an infinity onsen at AMANE Resort Seikai in Beppu, Oita, Japan, overlooking the serene ocean at sunrise. The hot spring water reflects the vibrant colors of the sky. A luxurious, minimalist ryokan architecture with natural wood and stone elements blends harmoniously with the coastal landscape. Steam gently rises from the bath. Tranquil, ethereal, high detail, volumetric lighting, photorealistic, cinematic."
+summary: 오이타 벳푸의 푸른 바다를 가장 가까이에서 만나는 럭셔리 료칸, AMANE Resort Seikai는 숨 막히는 절경과 최상의 서비스로
+  진정한 휴식을 선사합니다. 모든 객실에 딸린 오션뷰 노천탕은 프라이빗한 힐링을 약속하며, 미식의 향연 카이세키 요리는 여행의 깊이를 더합니다.
+  벳푸의 온천 문화와 현대적인 안락함이 완벽하게 조화된 이곳에서 잊을 수 없는 추억을 만들어보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/amane_resort_seikai.jpg
+title: '벳푸 절경 온천의 극치, AMANE Resort Seikai: 오이타 바다를 품은 럭셔리 힐링의 정점'
 ---
 
 # 벳푸 바다 위에서 펼쳐지는 꿈같은 휴식: AMANE Resort Seikai 완벽 가이드

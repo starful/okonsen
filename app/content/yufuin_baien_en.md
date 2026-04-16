@@ -1,15 +1,28 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Luxury
+date: '2026-03-24'
+image_prompt: An aerial view of Yufuin Baien luxury ryokan, nestled among lush greenery
+  with traditional Japanese architecture. In the foreground, a tranquil outdoor onsen
+  with steam rising, reflecting the majestic Mount Yufu in the distance under a clear
+  blue sky. Focus on the blend of natural beauty and refined Japanese design, with
+  vibrant seasonal foliage. Soft, natural lighting. High detail, photographic style.
 lang: en
-title: "Yufuin Baien: An Exquisite Sanctuary of Serenity, Luxury, and Breathtaking Views in Japan's Enchanting Onsen Town"
 lat: 33.2652
 lng: 131.3653
-categories: ["Private Bath", "Great View", "Luxury"]
-thumbnail: "/static/images/yufuin_baien.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-24"
-agoda: ""
-summary: "Nestled amidst the serene beauty of Yufuin, Oita, Yufuin Baien offers an unparalleled luxury onsen experience, blending traditional Japanese hospitality with modern comfort. Guests are invited to indulge in the tranquil embrace of its magnificent private baths, each offering spectacular panoramic views of majestic Mount Yufu. This exquisite ryokan promises an unforgettable escape where relaxation, culinary artistry, and natural splendor converge."
-image_prompt: "An aerial view of Yufuin Baien luxury ryokan, nestled among lush greenery with traditional Japanese architecture. In the foreground, a tranquil outdoor onsen with steam rising, reflecting the majestic Mount Yufu in the distance under a clear blue sky. Focus on the blend of natural beauty and refined Japanese design, with vibrant seasonal foliage. Soft, natural lighting. High detail, photographic style."
+summary: Nestled amidst the serene beauty of Yufuin, Oita, Yufuin Baien offers an
+  unparalleled luxury onsen experience, blending traditional Japanese hospitality
+  with modern comfort. Guests are invited to indulge in the tranquil embrace of its
+  magnificent private baths, each offering spectacular panoramic views of majestic
+  Mount Yufu. This exquisite ryokan promises an unforgettable escape where relaxation,
+  culinary artistry, and natural splendor converge.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_baien.jpg
+title: 'Yufuin Baien: An Exquisite Sanctuary of Serenity, Luxury, and Breathtaking
+  Views in Japan''s Enchanting Onsen Town'
 ---
 
 ## Introduction: Discovering Yufuin Baien – A Symphony of Serenity and Splendor

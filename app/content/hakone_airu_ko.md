@@ -1,15 +1,25 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-03-24'
+image_prompt: A serene and luxurious family onsen bath at Hakone Airu, featuring natural
+  stone and dark wood, with steam rising from the warm water. Soft, ambient lighting
+  creates a tranquil atmosphere. Outside, lush Japanese greenery and a glimpse of
+  the Hakone mountains are visible, evoking a sense of calm and privacy. Traditional
+  Japanese architecture elements are subtle, blending with modern comfort. Focus on
+  the inviting warmth and exclusivity of the private bath. Cozy, inviting, luxurious,
+  serene.
 lang: ko
-title: "하코네 아이루: 가족과 함께 떠나는 로컬 온천 료칸의 진수, 잊지 못할 추억을 만들다"
 lat: 35.2311
 lng: 139.1011
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/hakone_airu.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 아이루는 북적이는 관광지에서 벗어나 진정한 휴식을 선사하는 로컬 온천 료칸입니다. 전용 가족탕에서 프라이빗한 시간을 보내며 따뜻한 온천수에 몸을 담그고, 지역 특색이 살아있는 가이세키 요리로 미식의 즐거움을 만끽하세요. 가족과의 소중한 순간을 만끽하고 싶은 분들께 이보다 더 완벽한 선택은 없을 것입니다."
-image_prompt: "A serene and luxurious family onsen bath at Hakone Airu, featuring natural stone and dark wood, with steam rising from the warm water. Soft, ambient lighting creates a tranquil atmosphere. Outside, lush Japanese greenery and a glimpse of the Hakone mountains are visible, evoking a sense of calm and privacy. Traditional Japanese architecture elements are subtle, blending with modern comfort. Focus on the inviting warmth and exclusivity of the private bath. Cozy, inviting, luxurious, serene."
+summary: 하코네 아이루는 북적이는 관광지에서 벗어나 진정한 휴식을 선사하는 로컬 온천 료칸입니다. 전용 가족탕에서 프라이빗한 시간을 보내며
+  따뜻한 온천수에 몸을 담그고, 지역 특색이 살아있는 가이세키 요리로 미식의 즐거움을 만끽하세요. 가족과의 소중한 순간을 만끽하고 싶은 분들께 이보다
+  더 완벽한 선택은 없을 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_airu.jpg
+title: '하코네 아이루: 가족과 함께 떠나는 로컬 온천 료칸의 진수, 잊지 못할 추억을 만들다'
 ---
 
 # 하코네 아이루: 북적이는 일상 속, 가족만을 위한 고요한 안식처

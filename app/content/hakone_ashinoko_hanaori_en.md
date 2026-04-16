@@ -1,15 +1,28 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Private Bath
+- Great View
+date: '2026-03-24'
+image_prompt: A breathtaking panoramic view from an open-air onsen bath at Hakone
+  Ashinoko Hanaori, overlooking the serene Lake Ashi with reflections of lush green
+  mountains and a clear blue sky. The water is steaming gently, a lone wooden bucket
+  sits at the edge, traditional Japanese architecture is subtly visible in the background,
+  tranquil atmosphere, golden hour light, highly detailed, photorealistic, cinematic,
+  8k --ar 16:9
 lang: en
-title: "Hakone Ashinoko Hanaori: Your Lakeside Sanctuary for Unforgettable Onsen Serenity and Breathtaking Views"
 lat: 35.2399
 lng: 138.9951
-categories: ["Private Bath", "Great View"]
-thumbnail: "/static/images/hakone_ashinoko_hanaori.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Escape to Hakone Ashinoko Hanaori, a modern ryokan where the serene beauty of Lake Ashi meets unparalleled onsen luxury. Indulge in exquisite private baths and expansive open-air communal baths, all boasting magnificent panoramic views of the lake and surrounding mountains. This extraordinary retreat offers a perfect blend of traditional Japanese hospitality and contemporary comfort, promising an unforgettable journey of relaxation and rejuvenation."
-image_prompt: "A breathtaking panoramic view from an open-air onsen bath at Hakone Ashinoko Hanaori, overlooking the serene Lake Ashi with reflections of lush green mountains and a clear blue sky. The water is steaming gently, a lone wooden bucket sits at the edge, traditional Japanese architecture is subtly visible in the background, tranquil atmosphere, golden hour light, highly detailed, photorealistic, cinematic, 8k --ar 16:9"
+summary: Escape to Hakone Ashinoko Hanaori, a modern ryokan where the serene beauty
+  of Lake Ashi meets unparalleled onsen luxury. Indulge in exquisite private baths
+  and expansive open-air communal baths, all boasting magnificent panoramic views
+  of the lake and surrounding mountains. This extraordinary retreat offers a perfect
+  blend of traditional Japanese hospitality and contemporary comfort, promising an
+  unforgettable journey of relaxation and rejuvenation.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ashinoko_hanaori.jpg
+title: 'Hakone Ashinoko Hanaori: Your Lakeside Sanctuary for Unforgettable Onsen Serenity
+  and Breathtaking Views'
 ---
 
 # Hakone Ashinoko Hanaori: A Symphony of Serenity and Splendor by Lake Ashi

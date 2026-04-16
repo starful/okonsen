@@ -1,15 +1,28 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Private Bath
+- Local
+date: '2026-04-12'
+image_prompt: A serene, traditional Japanese ryokan called Bettei Haruki nestled in
+  the verdant hills of Beppu, Oita, under a soft morning light. The scene features
+  steam gently rising from a beautiful outdoor private onsen bath made of natural
+  rock, surrounded by lush, vibrant green foliage and a small traditional wooden fence,
+  with distant views of a charming local Beppu neighborhood. The architecture is rustic
+  yet elegant, showcasing dark wood and subtle lighting, evoking a sense of deep tranquility
+  and authentic Japanese charm. Focus on the inviting steam and clear, warm water.
 lang: en
-title: "Bettei Haruki: Your Secluded Sanctuary of Serenity in Beppu's Authentic Onsen Heart"
 lat: 33.3144
 lng: 131.4811
-categories: ["Private Bath", "Local"]
-thumbnail: "/static/images/bettei_haruki.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Discover Bettei Haruki, a hidden gem nestled in Beppu, offering an intimate and truly authentic local onsen experience away from the tourist bustle. Immerse yourself in the healing waters of their exquisite private baths, designed for ultimate relaxation and family privacy. This ryokan promises an unforgettable journey into the heart of Japanese hospitality, blending tradition with tranquil comfort."
-image_prompt: "A serene, traditional Japanese ryokan called Bettei Haruki nestled in the verdant hills of Beppu, Oita, under a soft morning light. The scene features steam gently rising from a beautiful outdoor private onsen bath made of natural rock, surrounded by lush, vibrant green foliage and a small traditional wooden fence, with distant views of a charming local Beppu neighborhood. The architecture is rustic yet elegant, showcasing dark wood and subtle lighting, evoking a sense of deep tranquility and authentic Japanese charm. Focus on the inviting steam and clear, warm water."
+summary: Discover Bettei Haruki, a hidden gem nestled in Beppu, offering an intimate
+  and truly authentic local onsen experience away from the tourist bustle. Immerse
+  yourself in the healing waters of their exquisite private baths, designed for ultimate
+  relaxation and family privacy. This ryokan promises an unforgettable journey into
+  the heart of Japanese hospitality, blending tradition with tranquil comfort.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/bettei_haruki.jpg
+title: 'Bettei Haruki: Your Secluded Sanctuary of Serenity in Beppu''s Authentic Onsen
+  Heart'
 ---
 
 ## Introduction: Discovering Beppu's Hidden Gem

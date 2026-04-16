@@ -1,15 +1,24 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 가족탕
+- 고급 료칸
+date: '2026-04-12'
+image_prompt: Exterior view of Beppu Showaen, a luxury Japanese ryokan in Beppu, Oita,
+  showcasing traditional Japanese architecture with dark wooden elements, large overhanging
+  roofs, and intricate lattice work. The ryokan is set amidst a meticulously manicured
+  lush green garden with stone pathways, illuminated lanterns, and perhaps a small
+  pond with koi fish. A serene, tranquil atmosphere under a soft morning light or
+  gentle evening glow. High detail, photorealistic, cinematic.
 lang: ko
-title: "벳푸 쇼와엔: 오이타 벳푸의 숨겨진 보석, 프라이빗 온천과 미식의 정점을 경험하다"
 lat: 33.2844
 lng: 131.4788
-categories: ["가족탕", "고급 료칸"]
-thumbnail: "/static/images/beppu_showaen.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "벳푸 쇼와엔은 오이타 벳푸에 위치한 최고급 료칸으로, 완벽한 프라이버시가 보장되는 개별 노천탕을 갖춘 가족탕으로 유명합니다. 품격 있는 서비스와 제철 가이세키 요리, 그리고 일본 전통미가 살아 숨 쉬는 객실에서 잊지 못할 휴식을 선사합니다. 이곳에서 번잡한 일상에서 벗어나 진정한 평온과 미식의 즐거움을 만끽하세요."
-image_prompt: "Exterior view of Beppu Showaen, a luxury Japanese ryokan in Beppu, Oita, showcasing traditional Japanese architecture with dark wooden elements, large overhanging roofs, and intricate lattice work. The ryokan is set amidst a meticulously manicured lush green garden with stone pathways, illuminated lanterns, and perhaps a small pond with koi fish. A serene, tranquil atmosphere under a soft morning light or gentle evening glow. High detail, photorealistic, cinematic."
+summary: 벳푸 쇼와엔은 오이타 벳푸에 위치한 최고급 료칸으로, 완벽한 프라이버시가 보장되는 개별 노천탕을 갖춘 가족탕으로 유명합니다. 품격
+  있는 서비스와 제철 가이세키 요리, 그리고 일본 전통미가 살아 숨 쉬는 객실에서 잊지 못할 휴식을 선사합니다. 이곳에서 번잡한 일상에서 벗어나
+  진정한 평온과 미식의 즐거움을 만끽하세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_showaen.jpg
+title: '벳푸 쇼와엔: 오이타 벳푸의 숨겨진 보석, 프라이빗 온천과 미식의 정점을 경험하다'
 ---
 
 ## 서론: 벳푸 쇼와엔, 시대를 초월한 료칸의 미학

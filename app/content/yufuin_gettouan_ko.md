@@ -1,15 +1,25 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+date: '2026-04-03'
+image_prompt: A luxurious Japanese ryokan (Yufuin Gettouan) nestled in a serene mountainous
+  landscape during autumn, with vibrant red and orange foliage. The scene features
+  a traditional wooden open-air onsen bath (rotenburo) with steam rising, overlooking
+  the majestic Mount Yufu. The architecture is elegant, made of natural wood and stone,
+  blending seamlessly with nature. There's a subtle, inviting glow from interior lights.
+  The atmosphere is peaceful, exclusive, and deeply calming, shot with a soft, natural
+  light, reflecting the ultimate in luxury and scenic beauty.
 lang: ko
-title: "유후인 겟토안: 절경 속에서 만나는 오직 당신만을 위한 프라이빗 럭셔리 온천 료칸의 정수"
 lat: 33.2588
 lng: 131.3488
-categories: ["고급 료칸", "절경"]
-thumbnail: "/static/images/yufuin_gettouan.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "오이타 유후인의 그림 같은 자연 속에 자리한 겟토안은 진정한 휴식을 선사하는 최고급 료칸입니다. 객실마다 딸린 노천탕에서 유후다케의 장엄한 절경을 감상하며 프라이빗한 시간을 보내고, 제철 식재료로 정성껏 준비된 가이세키 요리로 오감을 만족시킬 수 있습니다. 전통과 현대의 조화 속에서 완벽한 힐링을 경험할 수 있는 유후인 겟토안으로 당신을 초대합니다."
-image_prompt: "A luxurious Japanese ryokan (Yufuin Gettouan) nestled in a serene mountainous landscape during autumn, with vibrant red and orange foliage. The scene features a traditional wooden open-air onsen bath (rotenburo) with steam rising, overlooking the majestic Mount Yufu. The architecture is elegant, made of natural wood and stone, blending seamlessly with nature. There's a subtle, inviting glow from interior lights. The atmosphere is peaceful, exclusive, and deeply calming, shot with a soft, natural light, reflecting the ultimate in luxury and scenic beauty."
+summary: 오이타 유후인의 그림 같은 자연 속에 자리한 겟토안은 진정한 휴식을 선사하는 최고급 료칸입니다. 객실마다 딸린 노천탕에서 유후다케의
+  장엄한 절경을 감상하며 프라이빗한 시간을 보내고, 제철 식재료로 정성껏 준비된 가이세키 요리로 오감을 만족시킬 수 있습니다. 전통과 현대의 조화
+  속에서 완벽한 힐링을 경험할 수 있는 유후인 겟토안으로 당신을 초대합니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_gettouan.jpg
+title: '유후인 겟토안: 절경 속에서 만나는 오직 당신만을 위한 프라이빗 럭셔리 온천 료칸의 정수'
 ---
 
 ## 유후인 겟토안: 대자연의 품에 안긴 럭셔리 온천 료칸의 심장

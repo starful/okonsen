@@ -1,15 +1,31 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Private Bath
+- Luxury
+date: '2026-04-03'
+image_prompt: A breathtaking wide-angle view of Oyado Ichizen ryokan in Yufuin, Oita,
+  Japan, at golden hour. The traditional Japanese architecture features rich dark
+  wood and pristine white plaster, gracefully nestled amidst lush green hills and
+  vibrant maple trees. A private open-air onsen bath with abundant steam rising is
+  prominently visible in the foreground, offering an utterly serene and expansive
+  view of the majestic Mount Yufu in the distance. The setting sun casts a warm, ethereal
+  glow over the entire scene, exquisitely highlighting the peaceful, luxurious, and
+  deeply inviting ambiance of the ryokan. High detail, photorealistic, cinematic lighting,
+  tranquil atmosphere, 8K.
 lang: en
-title: "Experience Pure Bliss: Oyado Ichizen, Yufuin's Premier Luxury Ryokan with Exclusive Private Baths"
 lat: 33.2691
 lng: 131.3555
-categories: ["Private Bath", "Luxury"]
-thumbnail: "/static/images/oyado_ichizen.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Nestled amidst Yufuin's breathtaking natural beauty, Oyado Ichizen offers an unparalleled luxury ryokan experience, a true sanctuary for the discerning traveler. Indulge in exquisite private hot spring baths, savor meticulously crafted multi-course kaiseki cuisine, and unwind in elegantly appointed rooms designed for ultimate tranquility. This guide unveils every enchanting detail of a stay at Oyado Ichizen, promising an unforgettable journey into the heart of Japanese hospitality and serene relaxation."
-image_prompt: "A breathtaking wide-angle view of Oyado Ichizen ryokan in Yufuin, Oita, Japan, at golden hour. The traditional Japanese architecture features rich dark wood and pristine white plaster, gracefully nestled amidst lush green hills and vibrant maple trees. A private open-air onsen bath with abundant steam rising is prominently visible in the foreground, offering an utterly serene and expansive view of the majestic Mount Yufu in the distance. The setting sun casts a warm, ethereal glow over the entire scene, exquisitely highlighting the peaceful, luxurious, and deeply inviting ambiance of the ryokan. High detail, photorealistic, cinematic lighting, tranquil atmosphere, 8K."
+summary: Nestled amidst Yufuin's breathtaking natural beauty, Oyado Ichizen offers
+  an unparalleled luxury ryokan experience, a true sanctuary for the discerning traveler.
+  Indulge in exquisite private hot spring baths, savor meticulously crafted multi-course
+  kaiseki cuisine, and unwind in elegantly appointed rooms designed for ultimate tranquility.
+  This guide unveils every enchanting detail of a stay at Oyado Ichizen, promising
+  an unforgettable journey into the heart of Japanese hospitality and serene relaxation.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/oyado_ichizen.jpg
+title: 'Experience Pure Bliss: Oyado Ichizen, Yufuin''s Premier Luxury Ryokan with
+  Exclusive Private Baths'
 ---
 
 # Unveiling Oyado Ichizen: Yufuin's Sanctuary of Serenity and Sumptuous Indulgence

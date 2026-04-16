@@ -1,15 +1,31 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Local
+- Tattoo OK
+- Private Bath
+date: '2026-04-12'
+image_prompt: A serene, cozy Japanese pension nestled in the historic Kusatsu Onsen
+  town during early autumn. The building features traditional dark wood and paper
+  screen windows, surrounded by vibrant red and orange maple leaves. Steam gently
+  rises from a private outdoor hot spring bath, visible from a discreet angle, with
+  a guest (discreetly showing a tattoo on their arm) soaking peacefully, looking towards
+  distant, mist-shrouded mountains. Soft, warm light spills from inside the pension,
+  suggesting a welcoming atmosphere. High detail, photorealistic, cinematic lighting,
+  autumn colors, tranquil, inviting.
 lang: en
-title: "Kusatsu Onsen Pension: Embrace Authentic Japan – Your Tattoo-Friendly Retreat in Gunma's Iconic Hot Springs"
 lat: 36.6266
 lng: 138.6011
-categories: ["Local", "Tattoo OK", "Private Bath"]
-thumbnail: "/static/images/kusatsu_onsen_pension.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-12"
-agoda: ""
-summary: "Discover the heartwarming charm of Kusatsu Onsen Pension, a hidden gem offering an authentic local experience in Japan's renowned Kusatsu hot spring town. Embrace ultimate relaxation in its rejuvenating baths, a welcome haven for guests with tattoos, allowing everyone to savor Japan's cherished onsen culture. Indulge in warm hospitality, delicious local cuisine, and breathtaking natural beauty, making for an unforgettable escape into Gunma's heart."
-image_prompt: "A serene, cozy Japanese pension nestled in the historic Kusatsu Onsen town during early autumn. The building features traditional dark wood and paper screen windows, surrounded by vibrant red and orange maple leaves. Steam gently rises from a private outdoor hot spring bath, visible from a discreet angle, with a guest (discreetly showing a tattoo on their arm) soaking peacefully, looking towards distant, mist-shrouded mountains. Soft, warm light spills from inside the pension, suggesting a welcoming atmosphere. High detail, photorealistic, cinematic lighting, autumn colors, tranquil, inviting."
+summary: Discover the heartwarming charm of Kusatsu Onsen Pension, a hidden gem offering
+  an authentic local experience in Japan's renowned Kusatsu hot spring town. Embrace
+  ultimate relaxation in its rejuvenating baths, a welcome haven for guests with tattoos,
+  allowing everyone to savor Japan's cherished onsen culture. Indulge in warm hospitality,
+  delicious local cuisine, and breathtaking natural beauty, making for an unforgettable
+  escape into Gunma's heart.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_pension.jpg
+title: 'Kusatsu Onsen Pension: Embrace Authentic Japan – Your Tattoo-Friendly Retreat
+  in Gunma''s Iconic Hot Springs'
 ---
 
 # Kusatsu Onsen Pension: Your Authentic Gateway to Japan's Premier Hot Springs

@@ -1,15 +1,28 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Luxury
+- Private Bath
+date: '2026-03-24'
+image_prompt: A breathtaking aerial shot of Gora Kadan ryokan in Hakone, Japan, showcasing
+  its expansive traditional Japanese architecture with dark tiled roofs nestled amongst
+  vibrant autumn foliage and meticulously manicured zen gardens. Steam gently rises
+  from several outdoor onsen baths, hinting at the warm, inviting waters. The composition
+  should emphasize the harmonious blend of natural beauty and elegant design, under
+  a soft, golden hour light, highly detailed, photorealistic, cinematic.
 lang: en
-title: "Gora Kadan: A Sanctuary of Serenity in Hakone, Where Luxury Meets Timeless Japanese Elegance and Exclusive Private Onsen Bliss"
 lat: 35.2492
 lng: 139.0465
-categories: ["Luxury", "Private Bath"]
-thumbnail: "/static/images/gora_kadan.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Escape to Gora Kadan, an opulent ryokan nestled amidst Hakone's serene landscape, offering an unparalleled blend of traditional Japanese luxury and modern comfort. Indulge in exquisite private onsen experiences and savor world-class kaiseki cuisine that celebrates the region's bountiful seasons. This prestigious retreat promises an unforgettable journey into tranquility and refined elegance, making it a pinnacle of Japanese hospitality."
-image_prompt: "A breathtaking aerial shot of Gora Kadan ryokan in Hakone, Japan, showcasing its expansive traditional Japanese architecture with dark tiled roofs nestled amongst vibrant autumn foliage and meticulously manicured zen gardens. Steam gently rises from several outdoor onsen baths, hinting at the warm, inviting waters. The composition should emphasize the harmonious blend of natural beauty and elegant design, under a soft, golden hour light, highly detailed, photorealistic, cinematic."
+summary: Escape to Gora Kadan, an opulent ryokan nestled amidst Hakone's serene landscape,
+  offering an unparalleled blend of traditional Japanese luxury and modern comfort.
+  Indulge in exquisite private onsen experiences and savor world-class kaiseki cuisine
+  that celebrates the region's bountiful seasons. This prestigious retreat promises
+  an unforgettable journey into tranquility and refined elegance, making it a pinnacle
+  of Japanese hospitality.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/gora_kadan.jpg
+title: 'Gora Kadan: A Sanctuary of Serenity in Hakone, Where Luxury Meets Timeless
+  Japanese Elegance and Exclusive Private Onsen Bliss'
 ---
 
 ## Introduction: Stepping into a Realm of Refined Tranquility at Gora Kadan

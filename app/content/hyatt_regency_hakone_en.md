@@ -1,15 +1,33 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Luxury
+- Private Bath
+date: '2026-03-24'
+image_prompt: A breathtaking panoramic view of the Hyatt Regency Hakone onsen resort
+  nestled in the lush, verdant mountains of Hakone, Japan, under a clear azure sky.
+  The image captures the elegant, modern Japanese architecture blending seamlessly
+  with traditional elements, featuring a steaming outdoor private onsen bath (kashikiri)
+  with smooth, dark river stones, surrounded by meticulously manicured moss gardens
+  and vibrant autumn foliage. Sunlight dappling through ancient cedar trees, creating
+  soft shadows. Focus on the tranquil atmosphere, luxury details, and the inviting
+  steam rising from the therapeutic waters, with a glimpse of traditional wooden shoji
+  screens and elegant stone pathways. The overall aesthetic should be serene, high-end,
+  and deeply inviting, evoking a sense of ultimate relaxation and harmony with nature.
+  Cinematic, natural light, high-resolution, vibrant colors.
 lang: en
-title: "Escape to Serenity: Unveiling the Unparalleled Luxury of Hyatt Regency Hakone, Your Ultimate Onsen Sanctuary"
 lat: 35.2488
 lng: 139.0421
-categories: ["Luxury", "Private Bath"]
-thumbnail: "/static/images/hyatt_regency_hakone.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Nestled amidst the serene beauty of Hakone, the Hyatt Regency Hakone offers an exquisite blend of Western luxury and traditional Japanese hospitality, promising an unforgettable onsen escape. Indulge in sublime privacy with their renowned private family baths, perfect for intimate relaxation, while savoring world-class amenities and breathtaking natural vistas. This sanctuary provides a refined haven where every detail is curated for your ultimate comfort and rejuvenation."
-image_prompt: "A breathtaking panoramic view of the Hyatt Regency Hakone onsen resort nestled in the lush, verdant mountains of Hakone, Japan, under a clear azure sky. The image captures the elegant, modern Japanese architecture blending seamlessly with traditional elements, featuring a steaming outdoor private onsen bath (kashikiri) with smooth, dark river stones, surrounded by meticulously manicured moss gardens and vibrant autumn foliage. Sunlight dappling through ancient cedar trees, creating soft shadows. Focus on the tranquil atmosphere, luxury details, and the inviting steam rising from the therapeutic waters, with a glimpse of traditional wooden shoji screens and elegant stone pathways. The overall aesthetic should be serene, high-end, and deeply inviting, evoking a sense of ultimate relaxation and harmony with nature. Cinematic, natural light, high-resolution, vibrant colors."
+summary: Nestled amidst the serene beauty of Hakone, the Hyatt Regency Hakone offers
+  an exquisite blend of Western luxury and traditional Japanese hospitality, promising
+  an unforgettable onsen escape. Indulge in sublime privacy with their renowned private
+  family baths, perfect for intimate relaxation, while savoring world-class amenities
+  and breathtaking natural vistas. This sanctuary provides a refined haven where every
+  detail is curated for your ultimate comfort and rejuvenation.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hyatt_regency_hakone.jpg
+title: 'Escape to Serenity: Unveiling the Unparalleled Luxury of Hyatt Regency Hakone,
+  Your Ultimate Onsen Sanctuary'
 ---
 
 ## Introduction: Where Western Luxury Meets Japanese Serenity

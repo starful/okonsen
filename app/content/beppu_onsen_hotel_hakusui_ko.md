@@ -1,15 +1,26 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 타투 허용
+- 로컬
+date: '2026-04-12'
+image_prompt: A serene and traditional Japanese onsen hotel, Beppu Onsen Hotel Hakusui,
+  located in the heart of Beppu, Oita. The scene features a beautiful outdoor hot
+  spring bath (rotemburo) surrounded by lush Japanese garden elements, with steam
+  gently rising from the mineral-rich water. Sunlight filters through bamboo groves
+  and autumn maple leaves, casting soft shadows. A traditional wooden building with
+  elegant architecture is visible in the background, exuding a sense of local charm
+  and refined hospitality. No people visible, focus on architecture and nature, morning
+  mist.
 lang: ko
-title: "벳푸 온천 호텔 하쿠스이: 타투 프렌들리 료칸에서 만나는 벳푸의 진짜 매력과 깊은 치유"
 lat: 33.2811
 lng: 131.5011
-categories: ["타투 허용", "로컬"]
-thumbnail: "/static/images/beppu_onsen_hotel_hakusui.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "오이타 벳푸의 심장부에서 진정한 로컬 온천 경험을 선사하는 베푸 온천 호텔 하쿠스이. 이곳은 **타투에 대한 편견 없는** 환대와 함께, 전통과 현대가 어우러진 공간에서 벳푸 주민들의 따뜻한 일상에 스며드는 특별한 휴식을 제공합니다. 가족탕과 계절 미식으로 오감을 만족시키며, 단순한 숙박을 넘어 깊은 감동과 치유를 선사하는 곳입니다."
-image_prompt: "A serene and traditional Japanese onsen hotel, Beppu Onsen Hotel Hakusui, located in the heart of Beppu, Oita. The scene features a beautiful outdoor hot spring bath (rotemburo) surrounded by lush Japanese garden elements, with steam gently rising from the mineral-rich water. Sunlight filters through bamboo groves and autumn maple leaves, casting soft shadows. A traditional wooden building with elegant architecture is visible in the background, exuding a sense of local charm and refined hospitality. No people visible, focus on architecture and nature, morning mist."
+summary: 오이타 벳푸의 심장부에서 진정한 로컬 온천 경험을 선사하는 베푸 온천 호텔 하쿠스이. 이곳은 **타투에 대한 편견 없는** 환대와
+  함께, 전통과 현대가 어우러진 공간에서 벳푸 주민들의 따뜻한 일상에 스며드는 특별한 휴식을 제공합니다. 가족탕과 계절 미식으로 오감을 만족시키며,
+  단순한 숙박을 넘어 깊은 감동과 치유를 선사하는 곳입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_hotel_hakusui.jpg
+title: '벳푸 온천 호텔 하쿠스이: 타투 프렌들리 료칸에서 만나는 벳푸의 진짜 매력과 깊은 치유'
 ---
 
 ## 벳푸 온천 호텔 하쿠스이: 타투 프렌들리 료칸에서 만나는 벳푸의 진짜 매력과 깊은 치유

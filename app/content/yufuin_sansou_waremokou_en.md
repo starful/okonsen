@@ -1,15 +1,31 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Great View
+- Private Bath
+- Luxury
+date: '2026-03-24'
+image_prompt: A luxury Japanese ryokan called Yufuin Sansou Waremokou in Yufuin, Oita,
+  nestled amidst lush autumn foliage with a clear view of Mount Yufu under a clear
+  blue sky. The scene features a traditional open-air private onsen bath made of cypress
+  wood, steam gently rising, with vibrant red and orange maple leaves surrounding
+  it. The bath overlooks the majestic, twin-peaked Mount Yufu in the distance. The
+  architecture is traditional Japanese with wooden elements and shoji screens, evoking
+  a sense of peaceful luxury and seclusion. The lighting is soft and natural, emphasizing
+  the beauty of the natural surroundings. Highly detailed, cinematic, tranquil, serene.
 lang: en
-title: "Yufuin Sansou Waremokou: Your Secluded Sanctuary with Breathtaking Mt. Yufu Views & Exquisite Private Onsen"
 lat: 33.2555
 lng: 131.3551
-categories: ["Great View", "Private Bath", "Luxury"]
-thumbnail: "/static/images/yufuin_sansou_waremokou.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover the unparalleled serenity and natural beauty of Yufuin Sansou Waremokou, a luxury ryokan nestled amidst the picturesque landscapes of Yufuin, Oita. Offering exclusive private onsen baths with spectacular views of majestic Mount Yufu, this sanctuary promises an intimate escape for discerning travelers. Indulge in sublime Japanese hospitality, exquisite local cuisine, and rejuvenating hot spring waters for an unforgettable journey into tranquility."
-image_prompt: "A luxury Japanese ryokan called Yufuin Sansou Waremokou in Yufuin, Oita, nestled amidst lush autumn foliage with a clear view of Mount Yufu under a clear blue sky. The scene features a traditional open-air private onsen bath made of cypress wood, steam gently rising, with vibrant red and orange maple leaves surrounding it. The bath overlooks the majestic, twin-peaked Mount Yufu in the distance. The architecture is traditional Japanese with wooden elements and shoji screens, evoking a sense of peaceful luxury and seclusion. The lighting is soft and natural, emphasizing the beauty of the natural surroundings. Highly detailed, cinematic, tranquil, serene."
+summary: Discover the unparalleled serenity and natural beauty of Yufuin Sansou Waremokou,
+  a luxury ryokan nestled amidst the picturesque landscapes of Yufuin, Oita. Offering
+  exclusive private onsen baths with spectacular views of majestic Mount Yufu, this
+  sanctuary promises an intimate escape for discerning travelers. Indulge in sublime
+  Japanese hospitality, exquisite local cuisine, and rejuvenating hot spring waters
+  for an unforgettable journey into tranquility.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_sansou_waremokou.jpg
+title: 'Yufuin Sansou Waremokou: Your Secluded Sanctuary with Breathtaking Mt. Yufu
+  Views & Exquisite Private Onsen'
 ---
 
 ## Introduction: Discovering the Soul of Yufuin at Waremokou

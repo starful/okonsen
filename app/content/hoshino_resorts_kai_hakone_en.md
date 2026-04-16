@@ -1,15 +1,31 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Luxury
+- Great View
+- Private Bath
+date: '2026-03-24'
+image_prompt: A breathtaking, serene, wide-angle shot of Hoshino Resorts KAI Hakone.
+  The traditional Japanese ryokan architecture, with its elegant wooden facades and
+  subtle lighting, is nestled harmoniously into a lush, vibrant forest alongside the
+  Sukumo River. Capture an outdoor onsen bath (rotenburo) in the foreground, steam
+  gently rising, with a stunning view of autumn foliage in reds, oranges, and golds
+  reflecting on the water. The sky is a soft, clear blue, suggesting early morning
+  or late afternoon light, emphasizing tranquility and luxury. High detail, photorealistic,
+  cinematic lighting, 8k.
 lang: en
-title: "Unveiling Hakone's Zenith: A Luxurious Escape to Hoshino Resorts KAI Hakone Amidst Nature's Grandeur"
 lat: 35.2255
 lng: 139.0911
-categories: ["Luxury", "Great View", "Private Bath"]
-thumbnail: "/static/images/hoshino_resorts_kai_hakone.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Nestled beside the tranquil Sukumo River, Hoshino Resorts KAI Hakone redefines the luxury ryokan experience, offering an exquisite blend of traditional Japanese hospitality and contemporary comfort. Guests are invited to immerse themselves in mineral-rich onsen waters, gazing upon breathtaking natural vistas, or retreat to serene private baths. This sanctuary promises an unforgettable escape where every detail is meticulously crafted for profound relaxation and cultural discovery."
-image_prompt: "A breathtaking, serene, wide-angle shot of Hoshino Resorts KAI Hakone. The traditional Japanese ryokan architecture, with its elegant wooden facades and subtle lighting, is nestled harmoniously into a lush, vibrant forest alongside the Sukumo River. Capture an outdoor onsen bath (rotenburo) in the foreground, steam gently rising, with a stunning view of autumn foliage in reds, oranges, and golds reflecting on the water. The sky is a soft, clear blue, suggesting early morning or late afternoon light, emphasizing tranquility and luxury. High detail, photorealistic, cinematic lighting, 8k."
+summary: Nestled beside the tranquil Sukumo River, Hoshino Resorts KAI Hakone redefines
+  the luxury ryokan experience, offering an exquisite blend of traditional Japanese
+  hospitality and contemporary comfort. Guests are invited to immerse themselves in
+  mineral-rich onsen waters, gazing upon breathtaking natural vistas, or retreat to
+  serene private baths. This sanctuary promises an unforgettable escape where every
+  detail is meticulously crafted for profound relaxation and cultural discovery.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_hakone.jpg
+title: 'Unveiling Hakone''s Zenith: A Luxurious Escape to Hoshino Resorts KAI Hakone
+  Amidst Nature''s Grandeur'
 ---
 
 ## Introduction: Where Serenity Meets Spectacle

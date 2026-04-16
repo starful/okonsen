@@ -1,15 +1,27 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 타투 허용
+- 로컬
+- 가족탕
+date: '2026-04-12'
+image_prompt: A serene and inviting Japanese onsen ryokan, Kurokawa Onsen Nanjoen,
+  nestled in a lush, verdant valley in Minamioguni, Kumamoto. The scene features a
+  natural outdoor hot spring bath (rotemburo) surrounded by moss-covered rocks and
+  vibrant autumn foliage, with steam rising gently from the water. A traditional Japanese
+  wooden building with shoji screens is visible in the background, exuding a rustic
+  yet refined wabi-sabi aesthetic. The setting sun casts a warm, golden glow over
+  the landscape, highlighting the tranquil beauty of the Japanese countryside. There
+  are no people in the bath, focusing on the atmosphere.
 lang: ko
-title: "타투 친화 온천의 정수, 구로카와 온천 나나조엔: 규슈의 숨겨진 보석에서 진정한 로컬 휴식을 경험하세요"
 lat: 33.0812
 lng: 131.1433
-categories: ["타투 허용", "로컬", "가족탕"]
-thumbnail: "/static/images/kurokawa_onsen_nanjoen.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "구마모토 미나미오구니의 고즈넉한 풍경 속에 자리한 구로카와 온천 나나조엔은 타투 친화적인 환대와 진정한 로컬 매력으로 여행자들의 마음을 사로잡습니다. 이곳은 그림 같은 계곡의 절경 속에서 자연이 선사하는 치유의 온천을 경험하고, 정성 가득한 가이세키 요리와 아늑한 객실에서 오직 나만을 위한 깊은 휴식을 선사합니다. 나나조엔에서 몸과 마음을 정화하고 잊지 못할 추억을 만들어가며 진정한 일본의 숨결을 느껴보세요."
-image_prompt: "A serene and inviting Japanese onsen ryokan, Kurokawa Onsen Nanjoen, nestled in a lush, verdant valley in Minamioguni, Kumamoto. The scene features a natural outdoor hot spring bath (rotemburo) surrounded by moss-covered rocks and vibrant autumn foliage, with steam rising gently from the water. A traditional Japanese wooden building with shoji screens is visible in the background, exuding a rustic yet refined wabi-sabi aesthetic. The setting sun casts a warm, golden glow over the landscape, highlighting the tranquil beauty of the Japanese countryside. There are no people in the bath, focusing on the atmosphere."
+summary: 구마모토 미나미오구니의 고즈넉한 풍경 속에 자리한 구로카와 온천 나나조엔은 타투 친화적인 환대와 진정한 로컬 매력으로 여행자들의 마음을
+  사로잡습니다. 이곳은 그림 같은 계곡의 절경 속에서 자연이 선사하는 치유의 온천을 경험하고, 정성 가득한 가이세키 요리와 아늑한 객실에서 오직
+  나만을 위한 깊은 휴식을 선사합니다. 나나조엔에서 몸과 마음을 정화하고 잊지 못할 추억을 만들어가며 진정한 일본의 숨결을 느껴보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_nanjoen.jpg
+title: '타투 친화 온천의 정수, 구로카와 온천 나나조엔: 규슈의 숨겨진 보석에서 진정한 로컬 휴식을 경험하세요'
 ---
 
 ## 구로카와 온천 나나조엔: 규슈 심장부의 평온한 안식처

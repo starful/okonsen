@@ -1,15 +1,26 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 타투 허용
+- 절경
+date: '2026-04-05'
+image_prompt: A breathtaking, highly detailed landscape shot of a traditional Japanese
+  onsen ryokan, Kusatsu Onsen Hotel Ichii, nestled on a hillside overlooking the vibrant
+  Kusatsu town and dramatic, mist-shrouded Gunma mountains at dawn. The open-air rotenburo
+  is steaming, with intricate wooden architecture and smooth natural rocks. A person
+  with tasteful, intricate tattoos is discreetly visible, immersed in the bath, looking
+  out at the panoramic view. The sky is painted with soft hues of orange and pink.
+  Lush autumn foliage surrounds the ryokan. The scene evokes tranquility, luxury,
+  and cultural acceptance. High resolution, cinematic lighting, ultra-realistic.
 lang: ko
-title: "압도적 절경과 자유로움을 품은 구사츠 온센 호텔 이치이: 문신 허용 료칸에서의 완벽한 힐링"
 lat: 36.6235
 lng: 138.5968
-categories: ["타투 허용", "절경"]
-thumbnail: "/static/images/kusatsu_onsen_hotel_ichii.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "구사츠 온센 호텔 이치이는 일본 3대 명천 구사츠의 중심에서 숨 막히는 절경과 최고의 온천 경험을 선사합니다. 문신(타투)에 대한 편견 없이 모든 투숙객을 환영하며 진정한 자유로움 속에서 몸과 마음을 치유할 수 있는 특별한 공간입니다. 전통과 현대가 어우러진 객실, 최상급 가이세키 요리, 그리고 주변 명소 탐방까지, 잊을 수 없는 추억을 선사할 것입니다."
-image_prompt: "A breathtaking, highly detailed landscape shot of a traditional Japanese onsen ryokan, Kusatsu Onsen Hotel Ichii, nestled on a hillside overlooking the vibrant Kusatsu town and dramatic, mist-shrouded Gunma mountains at dawn. The open-air rotenburo is steaming, with intricate wooden architecture and smooth natural rocks. A person with tasteful, intricate tattoos is discreetly visible, immersed in the bath, looking out at the panoramic view. The sky is painted with soft hues of orange and pink. Lush autumn foliage surrounds the ryokan. The scene evokes tranquility, luxury, and cultural acceptance. High resolution, cinematic lighting, ultra-realistic."
+summary: 구사츠 온센 호텔 이치이는 일본 3대 명천 구사츠의 중심에서 숨 막히는 절경과 최고의 온천 경험을 선사합니다. 문신(타투)에 대한
+  편견 없이 모든 투숙객을 환영하며 진정한 자유로움 속에서 몸과 마음을 치유할 수 있는 특별한 공간입니다. 전통과 현대가 어우러진 객실, 최상급
+  가이세키 요리, 그리고 주변 명소 탐방까지, 잊을 수 없는 추억을 선사할 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_ichii.jpg
+title: '압도적 절경과 자유로움을 품은 구사츠 온센 호텔 이치이: 문신 허용 료칸에서의 완벽한 힐링'
 ---
 
 ## 도입: 구사츠 온센 호텔 이치이, 첫 만남의 황홀경

@@ -1,15 +1,24 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 가족탕
+- 타투 허용
+date: '2026-04-12'
+image_prompt: A serene and inviting entrance of Beppu Daiiti Hotel in Beppu, Oita,
+  Japan, at dusk. The exterior features traditional Japanese architecture with modern
+  touches, warm inviting light spilling from inside, and a subtle steam rising from
+  unseen onsen baths. A family, including members with tasteful tattoos, is seen entering,
+  looking happy and relaxed. Cherry blossoms are subtly in bloom, and the sky is a
+  beautiful gradient of deep blue and orange. High-resolution, cinematic lighting,
+  ultra-detailed, photorealistic.
 lang: ko
-title: "벳푸 다이이치 호텔: 가족탕과 문신 허용으로 모두가 즐거운 추억을 만드는 오아시스"
 lat: 33.2815
 lng: 131.5005
-categories: ["가족탕", "타투 허용"]
-thumbnail: "/static/images/beppu_daiiti_hotel.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "벳푸 다이이치 호텔은 일본 온천 여행의 새로운 지평을 엽니다. 온 가족이 편안하게 즐길 수 있는 프라이빗 가족탕과 문신에 대한 관대한 정책으로 모두에게 열린 공간을 제공합니다. 벳푸의 활기찬 에너지를 만끽하며 잊지 못할 추억을 만들 최적의 장소입니다."
-image_prompt: "A serene and inviting entrance of Beppu Daiiti Hotel in Beppu, Oita, Japan, at dusk. The exterior features traditional Japanese architecture with modern touches, warm inviting light spilling from inside, and a subtle steam rising from unseen onsen baths. A family, including members with tasteful tattoos, is seen entering, looking happy and relaxed. Cherry blossoms are subtly in bloom, and the sky is a beautiful gradient of deep blue and orange. High-resolution, cinematic lighting, ultra-detailed, photorealistic."
+summary: 벳푸 다이이치 호텔은 일본 온천 여행의 새로운 지평을 엽니다. 온 가족이 편안하게 즐길 수 있는 프라이빗 가족탕과 문신에 대한 관대한
+  정책으로 모두에게 열린 공간을 제공합니다. 벳푸의 활기찬 에너지를 만끽하며 잊지 못할 추억을 만들 최적의 장소입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_daiiti_hotel.jpg
+title: '벳푸 다이이치 호텔: 가족탕과 문신 허용으로 모두가 즐거운 추억을 만드는 오아시스'
 ---
 
 # 벳푸 다이이치 호텔: 일본 온천 여행의 새로운 지평을 열다

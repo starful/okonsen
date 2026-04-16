@@ -1,15 +1,31 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Private Bath
+- Local
+date: '2026-03-28'
+image_prompt: An exquisitely serene traditional Japanese ryokan called Hinoharu Ryokan
+  in Yufuin, Oita. The scene features a beautiful outdoor private onsen (kashikiri)
+  at dawn, with steam gently rising from the crystal-clear, mineral-rich water. Lush,
+  vibrant autumn foliage surrounds the bath, and in the distance, the majestic silhouette
+  of Mount Yufu is visible under a soft, golden sky. The architecture of the ryokan
+  is elegant, with dark wood and delicate shoji screens, reflecting a sense of wabi-sabi.
+  A small traditional stone lantern casts a warm glow. No people are visible. The
+  atmosphere is peaceful, inviting, and deeply luxurious. Highly detailed, photographic
+  quality, cinematic lighting.
 lang: en
-title: "Yufuin's Hidden Gem: Discover Tranquility and Authentic Local Charm at Hinoharu Ryokan's Private Onsen Sanctuary"
 lat: 33.2644
 lng: 131.3615
-categories: ["Private Bath", "Local"]
-thumbnail: "/static/images/yufuin_onsen_hinoharu_ryokan.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-28"
-agoda: ""
-summary: "Nestled amidst the serene beauty of Yufuin, Hinoharu Ryokan offers an intimate escape where traditional Japanese hospitality meets unparalleled relaxation. Experience the blissful privacy of its renowned family baths, allowing you to immerse yourself in therapeutic waters without interruption. This local favorite promises an authentic, unforgettable journey into the heart of Oita's onsen culture, making it an essential destination for those seeking genuine tranquility."
-image_prompt: "An exquisitely serene traditional Japanese ryokan called Hinoharu Ryokan in Yufuin, Oita. The scene features a beautiful outdoor private onsen (kashikiri) at dawn, with steam gently rising from the crystal-clear, mineral-rich water. Lush, vibrant autumn foliage surrounds the bath, and in the distance, the majestic silhouette of Mount Yufu is visible under a soft, golden sky. The architecture of the ryokan is elegant, with dark wood and delicate shoji screens, reflecting a sense of wabi-sabi. A small traditional stone lantern casts a warm glow. No people are visible. The atmosphere is peaceful, inviting, and deeply luxurious. Highly detailed, photographic quality, cinematic lighting."
+summary: Nestled amidst the serene beauty of Yufuin, Hinoharu Ryokan offers an intimate
+  escape where traditional Japanese hospitality meets unparalleled relaxation. Experience
+  the blissful privacy of its renowned family baths, allowing you to immerse yourself
+  in therapeutic waters without interruption. This local favorite promises an authentic,
+  unforgettable journey into the heart of Oita's onsen culture, making it an essential
+  destination for those seeking genuine tranquility.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_onsen_hinoharu_ryokan.jpg
+title: 'Yufuin''s Hidden Gem: Discover Tranquility and Authentic Local Charm at Hinoharu
+  Ryokan''s Private Onsen Sanctuary'
 ---
 
 ## Unveiling Yufuin's Soul: A Journey to Hinoharu Ryokan

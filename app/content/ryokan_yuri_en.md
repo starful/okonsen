@@ -1,15 +1,29 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Private Bath
+- Local
+- Luxury
+date: '2026-04-03'
+image_prompt: A serene, luxurious Japanese ryokan in Yufuin, Oita, named 'Ryokan Yuri,'
+  featuring a private open-air onsen (rotemburo) bathed in soft morning light, surrounded
+  by lush, vibrant autumn foliage and traditional stone lanterns. The water is steaming
+  gently, with reflections of the scenic Yufuin mountain range in the distance, evoking
+  a sense of peaceful tranquility and exclusive relaxation, emphasizing traditional
+  Japanese architecture and natural beauty.
 lang: en
-title: "Ryokan Yuri: Your Ultimate Guide to Yufuin's Secluded Local Luxury & Private Onsen Bliss"
 lat: 33.2655
 lng: 131.3599
-categories: ["Private Bath", "Local", "Luxury"]
-thumbnail: "/static/images/ryokan_yuri.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Escape to Ryokan Yuri, a sanctuary nestled in the heart of Yufuin, offering an unparalleled blend of local authenticity and serene private onsen experiences. Immerse yourself in the tranquility of Oita's famed hot springs, indulging in exquisite local cuisine and personalized hospitality that defines true Japanese luxury. This hidden gem promises an unforgettable journey into the soul of traditional Japan, perfect for those seeking an intimate and restorative retreat."
-image_prompt: "A serene, luxurious Japanese ryokan in Yufuin, Oita, named 'Ryokan Yuri,' featuring a private open-air onsen (rotemburo) bathed in soft morning light, surrounded by lush, vibrant autumn foliage and traditional stone lanterns. The water is steaming gently, with reflections of the scenic Yufuin mountain range in the distance, evoking a sense of peaceful tranquility and exclusive relaxation, emphasizing traditional Japanese architecture and natural beauty."
+summary: Escape to Ryokan Yuri, a sanctuary nestled in the heart of Yufuin, offering
+  an unparalleled blend of local authenticity and serene private onsen experiences.
+  Immerse yourself in the tranquility of Oita's famed hot springs, indulging in exquisite
+  local cuisine and personalized hospitality that defines true Japanese luxury. This
+  hidden gem promises an unforgettable journey into the soul of traditional Japan,
+  perfect for those seeking an intimate and restorative retreat.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ryokan_yuri.jpg
+title: 'Ryokan Yuri: Your Ultimate Guide to Yufuin''s Secluded Local Luxury & Private
+  Onsen Bliss'
 ---
 
 ## Unveiling Ryokan Yuri: A Sanctuary of Authentic Japanese Luxury in Yufuin

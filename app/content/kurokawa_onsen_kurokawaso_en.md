@@ -1,15 +1,39 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- Great View
+- Luxury
+- Private Bath
+date: '2026-04-12'
+image_prompt: A breathtaking aerial view of Kurokawa Onsen Kurokawaso ryokan nestled
+  amidst a lush, verdant valley in Minamioguni, Kumamoto, Japan. The traditional Japanese
+  architecture of the ryokan, with its dark wooden beams, intricate roofs, and elegant
+  design, is gracefully integrated into the natural landscape. Steaming open-air onsen
+  baths (rotemburo) are visible, carved into the riverside rocks, surrounded by vibrant
+  autumn foliage – reds, oranges, and yellows – reflecting in the clear waters. A
+  crystal-clear river, teeming with life, flows gently beside the ryokan, its banks
+  lined with moss-covered stones and ancient trees, reflecting the surrounding beauty
+  and the soft, ethereal mist rising from the valley. Soft morning light casts long,
+  gentle shadows, illuminating the scene with a golden glow and creating a serene,
+  inviting atmosphere of profound tranquility. In the distance, the rolling peaks
+  of the Aso-Kuju National Park rise majestically, covered in dense, ancient forest
+  under a clear, azure sky dotted with wispy clouds. The overall scene exudes luxury,
+  deep relaxation, profound connection with nature, and a timeless Japanese aesthetic,
+  emphasizing intricate details and harmonious coexistence with the environment. --ar
+  16:9 --style raw --v 5.2
 lang: en
-title: "Unveiling the Emerald Jewel of Kyushu: Kurokawa Onsen Kurokawaso – A Sanctuary of Serenity and Scenic Splendor"
 lat: 33.0805
 lng: 131.1388
-categories: ["Great View", "Luxury", "Private Bath"]
-thumbnail: "/static/images/kurokawa_onsen_kurokawaso.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "Perched amidst the breathtaking natural beauty of Minamioguni, Kurokawa Onsen Kurokawaso offers an unparalleled luxury ryokan experience, blending tradition with serene natural surroundings. Immerse yourself in exquisite private and public baths, boasting spectacular views that captivate the soul and rejuvenate the body. This sanctuary of tranquility promises an unforgettable escape, a true testament to the refined art of Japanese hospitality and the therapeutic power of its ancient waters."
-image_prompt: "A breathtaking aerial view of Kurokawa Onsen Kurokawaso ryokan nestled amidst a lush, verdant valley in Minamioguni, Kumamoto, Japan. The traditional Japanese architecture of the ryokan, with its dark wooden beams, intricate roofs, and elegant design, is gracefully integrated into the natural landscape. Steaming open-air onsen baths (rotemburo) are visible, carved into the riverside rocks, surrounded by vibrant autumn foliage – reds, oranges, and yellows – reflecting in the clear waters. A crystal-clear river, teeming with life, flows gently beside the ryokan, its banks lined with moss-covered stones and ancient trees, reflecting the surrounding beauty and the soft, ethereal mist rising from the valley. Soft morning light casts long, gentle shadows, illuminating the scene with a golden glow and creating a serene, inviting atmosphere of profound tranquility. In the distance, the rolling peaks of the Aso-Kuju National Park rise majestically, covered in dense, ancient forest under a clear, azure sky dotted with wispy clouds. The overall scene exudes luxury, deep relaxation, profound connection with nature, and a timeless Japanese aesthetic, emphasizing intricate details and harmonious coexistence with the environment. --ar 16:9 --style raw --v 5.2"
+summary: Perched amidst the breathtaking natural beauty of Minamioguni, Kurokawa Onsen
+  Kurokawaso offers an unparalleled luxury ryokan experience, blending tradition with
+  serene natural surroundings. Immerse yourself in exquisite private and public baths,
+  boasting spectacular views that captivate the soul and rejuvenate the body. This
+  sanctuary of tranquility promises an unforgettable escape, a true testament to the
+  refined art of Japanese hospitality and the therapeutic power of its ancient waters.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_kurokawaso.jpg
+title: 'Unveiling the Emerald Jewel of Kyushu: Kurokawa Onsen Kurokawaso – A Sanctuary
+  of Serenity and Scenic Splendor'
 ---
 
 # Kurokawa Onsen Kurokawaso: An Ode to Kyushu's Pristine Luxury and Breathtaking Vistas

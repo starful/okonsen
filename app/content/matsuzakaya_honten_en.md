@@ -1,15 +1,33 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Local
+- Tattoo OK
+- Private Bath
+date: '2026-03-24'
+image_prompt: A serene, wide-angle shot of a traditional Japanese ryokan, Matsuzakaya
+  Honten, nestled amidst lush green mountains and misty valleys in Hakone, Japan.
+  Focus on a beautiful outdoor rotemburo (open-air bath) with steam rising gently
+  from the mineral-rich water, surrounded by perfectly manicured Japanese gardens
+  and vibrant autumn foliage. Sunlight dapples through ancient trees, casting soft
+  shadows. The architecture is elegant and classic, with dark wood and traditional
+  tiled roofs, evoking a sense of tranquil luxury and deep history. A hint of a private
+  bath area is visible through the trees. The overall mood is peaceful, inviting,
+  and exudes a timeless Japanese aesthetic.
 lang: en
-title: "Unveiling Matsuzakaya Honten: Hakone's Cherished Local Gem Where Tradition Embraces All, Including Tattoos, for an Unforgettable Onsen Escape"
 lat: 35.2155
 lng: 139.0456
-categories: ["Local", "Tattoo OK", "Private Bath"]
-thumbnail: "/static/images/matsuzakaya_honten.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Nestled in the breathtaking landscapes of Hakone, Matsuzakaya Honten stands as a testament to authentic Japanese hospitality, offering a unique blend of timeless tradition and inclusive modernity. This esteemed ryokan, renowned for its commitment to local heritage, welcomes all guests, even those with tattoos, to immerse themselves in a deeply restorative onsen experience. Discover a sanctuary where private baths, exquisite kaiseki, and stunning natural vistas converge to create an unparalleled luxury retreat."
-image_prompt: "A serene, wide-angle shot of a traditional Japanese ryokan, Matsuzakaya Honten, nestled amidst lush green mountains and misty valleys in Hakone, Japan. Focus on a beautiful outdoor rotemburo (open-air bath) with steam rising gently from the mineral-rich water, surrounded by perfectly manicured Japanese gardens and vibrant autumn foliage. Sunlight dapples through ancient trees, casting soft shadows. The architecture is elegant and classic, with dark wood and traditional tiled roofs, evoking a sense of tranquil luxury and deep history. A hint of a private bath area is visible through the trees. The overall mood is peaceful, inviting, and exudes a timeless Japanese aesthetic."
+summary: Nestled in the breathtaking landscapes of Hakone, Matsuzakaya Honten stands
+  as a testament to authentic Japanese hospitality, offering a unique blend of timeless
+  tradition and inclusive modernity. This esteemed ryokan, renowned for its commitment
+  to local heritage, welcomes all guests, even those with tattoos, to immerse themselves
+  in a deeply restorative onsen experience. Discover a sanctuary where private baths,
+  exquisite kaiseki, and stunning natural vistas converge to create an unparalleled
+  luxury retreat.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/matsuzakaya_honten.jpg
+title: 'Unveiling Matsuzakaya Honten: Hakone''s Cherished Local Gem Where Tradition
+  Embraces All, Including Tattoos, for an Unforgettable Onsen Escape'
 ---
 
 ## Introduction: Discovering Hakone's Soul at Matsuzakaya Honten

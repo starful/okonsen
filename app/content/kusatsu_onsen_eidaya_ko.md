@@ -1,15 +1,26 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-04-05'
+image_prompt: A serene, traditional Japanese onsen ryokan named Eidaya in Kusatsu,
+  Gunma. Focus on a warm, inviting private family bath (kashikiri onsen) with steam
+  rising from the mineral-rich water. The bath is made of natural wood and stone,
+  surrounded by subtle, elegant traditional Japanese architecture. Sunlight gently
+  filters through shoji screens or a small window, illuminating the tranquil space.
+  A small, carefully arranged garden or a view of soft, green foliage is visible from
+  the bath. The atmosphere is peaceful, authentic, and deeply relaxing, evoking a
+  sense of local charm and intimacy. No people visible, focus on the empty, inviting
+  bath. Soft, natural lighting. Traditional Japanese aesthetic, wabi-sabi.
 lang: ko
-title: "쿠사츠 온천 에이다야: 로컬 감성 가득한 프라이빗 가족탕, 군마의 숨겨진 보석에서 진정한 휴식을 만나다"
 lat: 36.6255
 lng: 138.5988
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/kusatsu_onsen_eidaya.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "쿠사츠 온천의 번화함 속에서 한적한 안식처를 찾는다면 에이다야가 정답입니다. 이곳은 마치 시간마저 멈춘 듯한 고즈넉한 분위기에서 진정한 현지 온천 문화를 경험할 수 있는 곳입니다. 사랑하는 이들과 오붓하게 프라이빗 가족탕에서 몸을 녹이며 일상의 피로를 잊고 깊은 평온을 만끽해 보세요."
-image_prompt: "A serene, traditional Japanese onsen ryokan named Eidaya in Kusatsu, Gunma. Focus on a warm, inviting private family bath (kashikiri onsen) with steam rising from the mineral-rich water. The bath is made of natural wood and stone, surrounded by subtle, elegant traditional Japanese architecture. Sunlight gently filters through shoji screens or a small window, illuminating the tranquil space. A small, carefully arranged garden or a view of soft, green foliage is visible from the bath. The atmosphere is peaceful, authentic, and deeply relaxing, evoking a sense of local charm and intimacy. No people visible, focus on the empty, inviting bath. Soft, natural lighting. Traditional Japanese aesthetic, wabi-sabi."
+summary: 쿠사츠 온천의 번화함 속에서 한적한 안식처를 찾는다면 에이다야가 정답입니다. 이곳은 마치 시간마저 멈춘 듯한 고즈넉한 분위기에서 진정한
+  현지 온천 문화를 경험할 수 있는 곳입니다. 사랑하는 이들과 오붓하게 프라이빗 가족탕에서 몸을 녹이며 일상의 피로를 잊고 깊은 평온을 만끽해 보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_eidaya.jpg
+title: '쿠사츠 온천 에이다야: 로컬 감성 가득한 프라이빗 가족탕, 군마의 숨겨진 보석에서 진정한 휴식을 만나다'
 ---
 
 # 쿠사츠 온천 에이다야: 북적이는 일상 속, 나만을 위한 고요한 치유의 오아시스

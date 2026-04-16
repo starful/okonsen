@@ -1,15 +1,24 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 가족탕
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: A serene, luxurious Japanese ryokan called Yufuin Uraku in autumn, nestled
+  in the Yufuin valley with Mount Yufu in the background. The scene should feature
+  a beautiful private open-air onsen bath with steam rising, surrounded by vibrant
+  red and orange maple leaves. Traditional wooden architecture with soft ambient lighting,
+  a family enjoying the private bath from a tasteful distance, warm and inviting atmosphere,
+  ultra-realistic, highly detailed, cinematic lighting.
 lang: ko
-title: "유후인 우라쿠: 대자연 속 프라이빗 가족탕과 최상급 료칸의 미학, 잊지 못할 휴식의 절정"
 lat: 33.2631
 lng: 131.3611
-categories: ["가족탕", "고급 료칸"]
-thumbnail: "/static/images/yufuin_uraku.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-24"
-agoda: ""
-summary: "오이타 유후인에 자리한 유후인 우라쿠는 **가족탕**과 **고급 료칸**의 진수를 경험할 수 있는 특별한 휴식처입니다. 병풍처럼 펼쳐진 유후다케의 절경 아래, 프라이빗한 온천과 최상의 서비스로 몸과 마음의 피로를 녹여보세요. 소중한 이들과 함께 잊지 못할 추억을 만들기에 더할 나위 없는 이상적인 공간입니다."
-image_prompt: "A serene, luxurious Japanese ryokan called Yufuin Uraku in autumn, nestled in the Yufuin valley with Mount Yufu in the background. The scene should feature a beautiful private open-air onsen bath with steam rising, surrounded by vibrant red and orange maple leaves. Traditional wooden architecture with soft ambient lighting, a family enjoying the private bath from a tasteful distance, warm and inviting atmosphere, ultra-realistic, highly detailed, cinematic lighting."
+summary: 오이타 유후인에 자리한 유후인 우라쿠는 **가족탕**과 **고급 료칸**의 진수를 경험할 수 있는 특별한 휴식처입니다. 병풍처럼 펼쳐진
+  유후다케의 절경 아래, 프라이빗한 온천과 최상의 서비스로 몸과 마음의 피로를 녹여보세요. 소중한 이들과 함께 잊지 못할 추억을 만들기에 더할 나위
+  없는 이상적인 공간입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_uraku.jpg
+title: '유후인 우라쿠: 대자연 속 프라이빗 가족탕과 최상급 료칸의 미학, 잊지 못할 휴식의 절정'
 ---
 
 # 유후인 우라쿠: 품격과 자연이 어우러진 휴식의 절정

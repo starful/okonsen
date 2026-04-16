@@ -1,15 +1,26 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+- 가족탕
+date: '2026-03-24'
+image_prompt: A breathtaking aerial view of Hoshino Resorts KAI Hakone, nestled along
+  a pristine river in the lush, autumnal mountains of Hakone, Japan. The luxury ryokan
+  features traditional Japanese architecture with modern design elements, surrounded
+  by vibrant red and orange maple trees. A serene open-air onsen with steam rising
+  is visible, overlooking the clear, flowing river. The scene is bathed in soft, warm
+  morning light, highlighting the tranquil beauty and natural surroundings. High detail,
+  cinematic, serene atmosphere.
 lang: ko
-title: "하코네 카이: 강변 절경과 미식이 어우러진 프라이빗 료칸, 가족과 함께 떠나는 잊지 못할 온천 여행"
 lat: 35.2255
 lng: 139.0911
-categories: ["고급 료칸", "절경", "가족탕"]
-thumbnail: "/static/images/hoshino_resorts_kai_hakone.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네의 아름다운 자연 속에 자리한 호시노 리조트 카이 하코네는 진정한 휴식을 선사하는 **고급 료칸**입니다. 강변의 **절경**을 감상하며 즐기는 노천 온천과 프라이빗한 **가족탕**은 잊지 못할 추억을 선사하며, 미식의 향연인 가이세키 요리는 여행의 품격을 더합니다. 몸과 마음을 치유하는 특별한 온천 경험을 지금 바로 만나보세요."
-image_prompt: "A breathtaking aerial view of Hoshino Resorts KAI Hakone, nestled along a pristine river in the lush, autumnal mountains of Hakone, Japan. The luxury ryokan features traditional Japanese architecture with modern design elements, surrounded by vibrant red and orange maple trees. A serene open-air onsen with steam rising is visible, overlooking the clear, flowing river. The scene is bathed in soft, warm morning light, highlighting the tranquil beauty and natural surroundings. High detail, cinematic, serene atmosphere."
+summary: 하코네의 아름다운 자연 속에 자리한 호시노 리조트 카이 하코네는 진정한 휴식을 선사하는 **고급 료칸**입니다. 강변의 **절경**을
+  감상하며 즐기는 노천 온천과 프라이빗한 **가족탕**은 잊지 못할 추억을 선사하며, 미식의 향연인 가이세키 요리는 여행의 품격을 더합니다. 몸과
+  마음을 치유하는 특별한 온천 경험을 지금 바로 만나보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_hakone.jpg
+title: '하코네 카이: 강변 절경과 미식이 어우러진 프라이빗 료칸, 가족과 함께 떠나는 잊지 못할 온천 여행'
 ---
 
 # 하코네 카이: 자연과 맞닿은 힐링의 정점, 진정한 고급 료칸의 경험

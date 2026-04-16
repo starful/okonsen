@@ -1,15 +1,35 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- Luxury
+- Great View
+- Private Bath
+date: '2026-04-12'
+image_prompt: 'An aerial shot of a luxurious Japanese ryokan, ''Kurokawa Onsen Gosho
+  Gekkoju'', nestled amidst the lush, rolling mountains of Kumamoto, Japan, during
+  autumn. The scene features elegantly designed traditional Japanese architecture
+  with dark wooden exteriors and intricate roofs, seamlessly integrated with the natural
+  landscape. Private open-air onsen baths with steaming water are visible on spacious
+  outdoor terraces, offering stunning panoramic views of vibrant red, orange, and
+  golden foliage. The atmosphere is serene and exclusive, emphasizing tranquility
+  and upscale Japanese aesthetics. Include details of traditional garden elements,
+  stone pathways, and gentle mist rising from the valley in the distance under a soft,
+  golden hour light. Photography style: cinematic, wide-angle, highly detailed, serene,
+  luxurious.'
 lang: en
-title: "Kurokawa Onsen Gosho Gekkoju: Your Ultimate Escape to Unrivaled Luxury, Secluded Serenity, and Breathtaking Views in Kumamoto's Onsen Paradise"
 lat: 33.0888
 lng: 131.1355
-categories: ["Luxury", "Great View", "Private Bath"]
-thumbnail: "/static/images/kurokawa_onsen_gosho_gekkoju.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "Nestled deep within the enchanting valleys of Kurokawa Onsen, Gosho Gekkoju stands as an epitome of refined Japanese hospitality, offering an unparalleled blend of secluded luxury and raw natural beauty. This exquisite ryokan is a sanctuary where panoramic mountain vistas meet the soothing embrace of thermal waters, inviting guests into a world of ultimate relaxation. Prepare for an unforgettable journey into a realm where every detail is meticulously crafted for your indulgence, promising an escape that transcends the ordinary and redefines luxury onsen experiences."
-image_prompt: "An aerial shot of a luxurious Japanese ryokan, 'Kurokawa Onsen Gosho Gekkoju', nestled amidst the lush, rolling mountains of Kumamoto, Japan, during autumn. The scene features elegantly designed traditional Japanese architecture with dark wooden exteriors and intricate roofs, seamlessly integrated with the natural landscape. Private open-air onsen baths with steaming water are visible on spacious outdoor terraces, offering stunning panoramic views of vibrant red, orange, and golden foliage. The atmosphere is serene and exclusive, emphasizing tranquility and upscale Japanese aesthetics. Include details of traditional garden elements, stone pathways, and gentle mist rising from the valley in the distance under a soft, golden hour light. Photography style: cinematic, wide-angle, highly detailed, serene, luxurious."
+summary: Nestled deep within the enchanting valleys of Kurokawa Onsen, Gosho Gekkoju
+  stands as an epitome of refined Japanese hospitality, offering an unparalleled blend
+  of secluded luxury and raw natural beauty. This exquisite ryokan is a sanctuary
+  where panoramic mountain vistas meet the soothing embrace of thermal waters, inviting
+  guests into a world of ultimate relaxation. Prepare for an unforgettable journey
+  into a realm where every detail is meticulously crafted for your indulgence, promising
+  an escape that transcends the ordinary and redefines luxury onsen experiences.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_gosho_gekkoju.jpg
+title: 'Kurokawa Onsen Gosho Gekkoju: Your Ultimate Escape to Unrivaled Luxury, Secluded
+  Serenity, and Breathtaking Views in Kumamoto''s Onsen Paradise'
 ---
 
 ## Introduction: Discovering the Pinnacle of Kurokawa's Charm

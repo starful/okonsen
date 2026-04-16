@@ -1,15 +1,26 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: An aerial wide shot capturing the majestic Hakone Kowakien ryokan nestled
+  amidst the lush, vibrant autumn foliage of Hakone, Japan. The ryokan features traditional
+  Japanese architecture with modern luxury touches, visible private open-air baths
+  (rotenburo) on balconies overlooking stunning mountain vistas. A family is enjoying
+  a private hot spring bath, steam rising gently. The sky is clear with soft morning
+  light. The overall mood is serene, luxurious, and deeply inviting, highlighting
+  the blend of nature, tradition, and comfort.
 lang: ko
-title: "하코네 코와키엔: 가족탕과 절경이 어우러진 꿈의 료칸, 잊지 못할 추억을 선사합니다!"
 lat: 35.2401
 lng: 139.0441
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/hakone_kowakien.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 코와키엔은 환상적인 절경 속에서 프라이빗한 가족탕을 즐길 수 있는 최고의 고급 료칸입니다. 자연과 어우러진 공간에서 미식의 향연과 더불어 진정한 휴식을 경험하며 소중한 사람들과 잊지 못할 추억을 만들어보세요. 이곳에서의 하룻밤은 단순한 숙박을 넘어, 영혼을 치유하는 특별한 경험이 될 것입니다."
-image_prompt: "An aerial wide shot capturing the majestic Hakone Kowakien ryokan nestled amidst the lush, vibrant autumn foliage of Hakone, Japan. The ryokan features traditional Japanese architecture with modern luxury touches, visible private open-air baths (rotenburo) on balconies overlooking stunning mountain vistas. A family is enjoying a private hot spring bath, steam rising gently. The sky is clear with soft morning light. The overall mood is serene, luxurious, and deeply inviting, highlighting the blend of nature, tradition, and comfort."
+summary: 하코네 코와키엔은 환상적인 절경 속에서 프라이빗한 가족탕을 즐길 수 있는 최고의 고급 료칸입니다. 자연과 어우러진 공간에서 미식의
+  향연과 더불어 진정한 휴식을 경험하며 소중한 사람들과 잊지 못할 추억을 만들어보세요. 이곳에서의 하룻밤은 단순한 숙박을 넘어, 영혼을 치유하는
+  특별한 경험이 될 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_kowakien.jpg
+title: '하코네 코와키엔: 가족탕과 절경이 어우러진 꿈의 료칸, 잊지 못할 추억을 선사합니다!'
 ---
 
 # 하코네 코와키엔: 절경 속 프라이빗 온천의 정수

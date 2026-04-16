@@ -1,15 +1,29 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Luxury
+- Private Bath
+date: '2026-03-24'
+image_prompt: A breathtaking aerial view of Hakone Kamon, a luxurious traditional
+  Japanese ryokan, nestled amongst vibrant autumn foliage in the mountainous Hakone
+  region. Focus on a private open-air onsen bath with steam gently rising, offering
+  a panoramic view of lush valleys and distant peaks under a soft, golden morning
+  light. The architecture features elegant dark wood, stone, and delicate shoji screens,
+  with a sense of profound tranquility and exclusivity. Photorealistic, cinematic,
+  wide-angle lens, hyper-detailed.
 lang: en
-title: "Unveiling Hakone Kamon: Your Ultimate Luxury Escape with Secluded Private Onsen Baths in Japan's Scenic Wonderland"
 lat: 35.2345
 lng: 139.1022
-categories: ["Luxury", "Private Bath"]
-thumbnail: "/static/images/hakone_kamon.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover the epitome of Japanese luxury at Hakone Kamon, a prestigious ryokan nestled in the heart of scenic Hakone, offering an unparalleled serene escape. Indulge in sublime privacy with exquisite private family onsen baths, providing an intimate sanctuary amidst stunning natural beauty and meticulous traditional design. This opulent retreat promises rejuvenating hot springs, gourmet kaiseki dining, and an unforgettable immersion into authentic Japanese hospitality."
-image_prompt: "A breathtaking aerial view of Hakone Kamon, a luxurious traditional Japanese ryokan, nestled amongst vibrant autumn foliage in the mountainous Hakone region. Focus on a private open-air onsen bath with steam gently rising, offering a panoramic view of lush valleys and distant peaks under a soft, golden morning light. The architecture features elegant dark wood, stone, and delicate shoji screens, with a sense of profound tranquility and exclusivity. Photorealistic, cinematic, wide-angle lens, hyper-detailed."
+summary: Discover the epitome of Japanese luxury at Hakone Kamon, a prestigious ryokan
+  nestled in the heart of scenic Hakone, offering an unparalleled serene escape. Indulge
+  in sublime privacy with exquisite private family onsen baths, providing an intimate
+  sanctuary amidst stunning natural beauty and meticulous traditional design. This
+  opulent retreat promises rejuvenating hot springs, gourmet kaiseki dining, and an
+  unforgettable immersion into authentic Japanese hospitality.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_kamon.jpg
+title: 'Unveiling Hakone Kamon: Your Ultimate Luxury Escape with Secluded Private
+  Onsen Baths in Japan''s Scenic Wonderland'
 ---
 
 ## Introduction: A Sanctuary of Serenity in the Heart of Hakone

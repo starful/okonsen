@@ -1,15 +1,31 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Local
+- Private Bath
+- Luxury
+date: '2026-03-24'
+image_prompt: A breathtaking aerial view of Kijitei Hoeiso ryokan nestled in a lush,
+  dense forest in Hakone, Japan, during early autumn. Traditional Japanese architecture
+  with dark wooden exteriors and tiled roofs is visible, surrounded by vibrant red,
+  orange, and green foliage. Steam gently rises from secluded outdoor private onsen
+  baths, hinting at warmth and tranquility. The scene is bathed in soft, diffused
+  morning light, emphasizing a sense of peace, luxury, and deep connection with nature.
+  There are no people visible, focusing purely on the serene landscape and traditional
+  aesthetic. Photography style is natural, cinematic, and slightly ethereal.
 lang: en
-title: "Kijitei Hoeiso: Unveiling Hakone's Pristine Local Gem for Exquisite Private Onsen Serenity"
-lat: 35.2210
+lat: 35.221
 lng: 139.0881
-categories: ["Local", "Private Bath", "Luxury"]
-thumbnail: "/static/images/kijitei_hoeiso.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Nestled deep within the verdant embrace of Hakone, Kijitei Hoeiso offers an unparalleled retreat into authentic Japanese hospitality, far from the bustling tourist trails. This exceptional ryokan, celebrated for its profound local charm, provides an idyllic sanctuary where the art of the private onsen bath reaches its most exquisite expression. Prepare to immerse yourself in a world of understated luxury, intimate relaxation, and culinary artistry that truly defines a serene escape."
-image_prompt: "A breathtaking aerial view of Kijitei Hoeiso ryokan nestled in a lush, dense forest in Hakone, Japan, during early autumn. Traditional Japanese architecture with dark wooden exteriors and tiled roofs is visible, surrounded by vibrant red, orange, and green foliage. Steam gently rises from secluded outdoor private onsen baths, hinting at warmth and tranquility. The scene is bathed in soft, diffused morning light, emphasizing a sense of peace, luxury, and deep connection with nature. There are no people visible, focusing purely on the serene landscape and traditional aesthetic. Photography style is natural, cinematic, and slightly ethereal."
+summary: Nestled deep within the verdant embrace of Hakone, Kijitei Hoeiso offers
+  an unparalleled retreat into authentic Japanese hospitality, far from the bustling
+  tourist trails. This exceptional ryokan, celebrated for its profound local charm,
+  provides an idyllic sanctuary where the art of the private onsen bath reaches its
+  most exquisite expression. Prepare to immerse yourself in a world of understated
+  luxury, intimate relaxation, and culinary artistry that truly defines a serene escape.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kijitei_hoeiso.jpg
+title: 'Kijitei Hoeiso: Unveiling Hakone''s Pristine Local Gem for Exquisite Private
+  Onsen Serenity'
 ---
 
 ## Introduction: Discovering Hakone's Soul at Kijitei Hoeiso

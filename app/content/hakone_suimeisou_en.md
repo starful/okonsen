@@ -1,15 +1,32 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Luxury
+date: '2026-03-24'
+image_prompt: A serene, luxurious outdoor private onsen bath at Hakone Suimeisou,
+  overlooking a pristine, fast-flowing river with lush green mountains in the background
+  under a soft, clear blue sky. The bath water is steaming gently, with smooth, dark
+  river stones surrounding the pool. There are delicate Japanese maple trees showing
+  hints of autumn colors, creating a vibrant contrast. Soft natural light illuminates
+  the scene, enhancing the tranquility and natural beauty. Focus on the feeling of
+  ultimate relaxation and connection with nature, traditional Japanese architecture
+  subtly in the background.
 lang: en
-title: "Hakone Suimeisou: Your Exquisite Private Retreat with Breathtaking River Views in the Heart of Hakone"
 lat: 35.2334
 lng: 139.1065
-categories: ["Private Bath", "Great View", "Luxury"]
-thumbnail: "/static/images/hakone_suimeisou.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Nestled beside the tranquil Haya River, Hakone Suimeisou offers an unparalleled luxury onsen experience, distinguished by its exquisite private baths and rooms boasting truly breathtaking natural vistas. This ryokan is a sanctuary where traditional Japanese hospitality meets modern comfort, providing an exclusive escape for discerning travelers seeking serenity and natural beauty. Immerse yourself in the therapeutic waters and savor gourmet kaiseki cuisine, all while surrounded by the stunning seasonal landscapes of Hakone."
-image_prompt: "A serene, luxurious outdoor private onsen bath at Hakone Suimeisou, overlooking a pristine, fast-flowing river with lush green mountains in the background under a soft, clear blue sky. The bath water is steaming gently, with smooth, dark river stones surrounding the pool. There are delicate Japanese maple trees showing hints of autumn colors, creating a vibrant contrast. Soft natural light illuminates the scene, enhancing the tranquility and natural beauty. Focus on the feeling of ultimate relaxation and connection with nature, traditional Japanese architecture subtly in the background."
+summary: Nestled beside the tranquil Haya River, Hakone Suimeisou offers an unparalleled
+  luxury onsen experience, distinguished by its exquisite private baths and rooms
+  boasting truly breathtaking natural vistas. This ryokan is a sanctuary where traditional
+  Japanese hospitality meets modern comfort, providing an exclusive escape for discerning
+  travelers seeking serenity and natural beauty. Immerse yourself in the therapeutic
+  waters and savor gourmet kaiseki cuisine, all while surrounded by the stunning seasonal
+  landscapes of Hakone.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_suimeisou.jpg
+title: 'Hakone Suimeisou: Your Exquisite Private Retreat with Breathtaking River Views
+  in the Heart of Hakone'
 ---
 
 ## Introduction: Discovering Hakone Suimeisou – A Symphony of Serenity and Splendor

@@ -1,15 +1,24 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-04-12'
+image_prompt: A serene and traditional Japanese ryokan in Kusatsu Onsen, Gunma, Japan,
+  named Yoshinoya, featuring a cozy private family bath (kashikiri onsen) with steam
+  rising from the mineral-rich water, surrounded by elegant wooden architecture and
+  traditional sliding doors, with soft natural light filtering through shoji screens,
+  showcasing a sense of local charm and tranquility, highly detailed, photorealistic,
+  cinematic lighting.
 lang: ko
-title: "숨겨진 보석, 쿠사츠 온천 요시노야 료칸: 가족탕에서 누리는 진정한 현지 힐링 경험"
 lat: 36.6241
 lng: 138.5962
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/kusatsu_onsen_ryokan_yoshinoya.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-12"
-agoda: ""
-summary: "분주한 일상에서 벗어나 진정한 일본의 정취를 느끼고 싶다면, 군마현 쿠사츠 온천의 료칸 요시노야가 완벽한 해답입니다. 이곳은 활기찬 쿠사츠 마을의 심장부에 위치하여 현지 문화를 깊이 체험하고 싶어 하는 여행자에게 이상적이며, 아늑한 가족탕에서 오붓한 시간을 보내며 피로를 녹일 수 있는 특별한 휴식을 선사합니다."
-image_prompt: "A serene and traditional Japanese ryokan in Kusatsu Onsen, Gunma, Japan, named Yoshinoya, featuring a cozy private family bath (kashikiri onsen) with steam rising from the mineral-rich water, surrounded by elegant wooden architecture and traditional sliding doors, with soft natural light filtering through shoji screens, showcasing a sense of local charm and tranquility, highly detailed, photorealistic, cinematic lighting."
+summary: 분주한 일상에서 벗어나 진정한 일본의 정취를 느끼고 싶다면, 군마현 쿠사츠 온천의 료칸 요시노야가 완벽한 해답입니다. 이곳은 활기찬
+  쿠사츠 마을의 심장부에 위치하여 현지 문화를 깊이 체험하고 싶어 하는 여행자에게 이상적이며, 아늑한 가족탕에서 오붓한 시간을 보내며 피로를 녹일
+  수 있는 특별한 휴식을 선사합니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg
+title: '숨겨진 보석, 쿠사츠 온천 요시노야 료칸: 가족탕에서 누리는 진정한 현지 힐링 경험'
 ---
 
 ## 쿠사츠 온천 요시노야 료칸: 현지의 정취와 가족의 온기가 스며든 특별한 휴식처

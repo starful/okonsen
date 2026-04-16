@@ -1,15 +1,33 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Luxury
+date: '2026-04-12'
+image_prompt: A breathtaking aerial view of Kurokawa Onsen Hozantei, nestled deeply
+  within a dramatic, mist-shrouded valley during autumn. The traditional Japanese
+  ryokan architecture, with dark wooden roofs and warm interior glows, is harmoniously
+  integrated into the vibrant tapestry of red, orange, and golden autumn foliage.
+  Below, a pristine, rocky river flows gently, reflecting the colors of the trees.
+  Several open-air onsen baths, some with steam rising, are visible, strategically
+  placed to maximize the sweeping panoramic views of the surrounding mountains and
+  river. The sky is a soft, diffused light, hinting at an ethereal morning or late
+  afternoon. Emphasize tranquility, luxury, and the stunning natural backdrop.
 lang: en
-title: "Kurokawa Onsen Hozantei: A Symphony of Seclusion, Stellar Views, and Private Hot Spring Bliss in Kumamoto's Heart"
 lat: 33.0911
 lng: 131.1488
-categories: ["Private Bath", "Great View", "Luxury"]
-thumbnail: "/static/images/kurokawa_onsen_hozantei.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Hozantei offers an unparalleled escape where magnificent natural scenery meets the height of Japanese hospitality. This luxurious ryokan is celebrated for its breathtaking views from secluded open-air baths and an exquisite selection of private onsen, providing an intimate, unforgettable retreat. Prepare to immerse yourself in a world of refined tranquility, gourmet kaiseki, and the restorative power of Kumamoto's legendary hot springs."
-image_prompt: "A breathtaking aerial view of Kurokawa Onsen Hozantei, nestled deeply within a dramatic, mist-shrouded valley during autumn. The traditional Japanese ryokan architecture, with dark wooden roofs and warm interior glows, is harmoniously integrated into the vibrant tapestry of red, orange, and golden autumn foliage. Below, a pristine, rocky river flows gently, reflecting the colors of the trees. Several open-air onsen baths, some with steam rising, are visible, strategically placed to maximize the sweeping panoramic views of the surrounding mountains and river. The sky is a soft, diffused light, hinting at an ethereal morning or late afternoon. Emphasize tranquility, luxury, and the stunning natural backdrop."
+summary: Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Hozantei
+  offers an unparalleled escape where magnificent natural scenery meets the height
+  of Japanese hospitality. This luxurious ryokan is celebrated for its breathtaking
+  views from secluded open-air baths and an exquisite selection of private onsen,
+  providing an intimate, unforgettable retreat. Prepare to immerse yourself in a world
+  of refined tranquility, gourmet kaiseki, and the restorative power of Kumamoto's
+  legendary hot springs.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_hozantei.jpg
+title: 'Kurokawa Onsen Hozantei: A Symphony of Seclusion, Stellar Views, and Private
+  Hot Spring Bliss in Kumamoto''s Heart'
 ---
 
 ## Kurokawa Onsen Hozantei: A Sanctuary of Serenity Amidst Kumamoto's Majestic Peaks

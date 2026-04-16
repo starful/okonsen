@@ -1,15 +1,26 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Private Bath
+- Luxury
+date: '2026-04-12'
+image_prompt: An exquisite, traditional Japanese luxury ryokan, Beppu Showaen, nestled
+  amidst lush, meticulously sculpted Japanese gardens, with steam rising from a private
+  outdoor onsen bath at dawn, showcasing rich wooden architecture, shoji screens,
+  and a tranquil pond, soft morning light, hyperrealistic, cinematic, serene atmosphere,
+  8k --ar 16:9 --v 5.2
 lang: en
-title: "Beppu Showaen: Your Private Sanctuary of Luxury and Serenity in Japan's Onsen Capital"
 lat: 33.2844
 lng: 131.4788
-categories: ["Private Bath", "Luxury"]
-thumbnail: "/static/images/beppu_showaen.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Escape to Beppu Showaen, an exquisite luxury ryokan in Japan's onsen heartland, offering unparalleled serenity and exclusive private baths for an intimate escape. Indulge in sublime comfort amidst traditional Japanese elegance, where every detail caters to your utmost relaxation and rejuvenation. Experience world-class hospitality and a deep connection to Beppu's rich hot spring heritage in this tranquil haven."
-image_prompt: "An exquisite, traditional Japanese luxury ryokan, Beppu Showaen, nestled amidst lush, meticulously sculpted Japanese gardens, with steam rising from a private outdoor onsen bath at dawn, showcasing rich wooden architecture, shoji screens, and a tranquil pond, soft morning light, hyperrealistic, cinematic, serene atmosphere, 8k --ar 16:9 --v 5.2"
+summary: Escape to Beppu Showaen, an exquisite luxury ryokan in Japan's onsen heartland,
+  offering unparalleled serenity and exclusive private baths for an intimate escape.
+  Indulge in sublime comfort amidst traditional Japanese elegance, where every detail
+  caters to your utmost relaxation and rejuvenation. Experience world-class hospitality
+  and a deep connection to Beppu's rich hot spring heritage in this tranquil haven.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_showaen.jpg
+title: 'Beppu Showaen: Your Private Sanctuary of Luxury and Serenity in Japan''s Onsen
+  Capital'
 ---
 
 ## Introduction: A Glimpse into Serene Opulence

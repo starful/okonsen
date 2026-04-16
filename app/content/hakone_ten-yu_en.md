@@ -1,15 +1,29 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Luxury
+date: '2026-03-24'
+image_prompt: A breathtaking aerial view of Hakone Ten-yu ryokan at sunrise, nestled
+  amongst lush green mountains with mist rolling through the valleys. The architecture
+  blends traditional Japanese design with modern minimalism, featuring multiple outdoor
+  onsen baths cascading down a hillside. A couple enjoys a private rotenburo with
+  stunning panoramic views of Hakone's natural landscape and distant Mount Fuji. The
+  scene is serene, luxurious, and evokes tranquility, captured with a wide-angle lens
+  and soft, golden hour lighting.
 lang: en
-title: "Hakone Ten-yu: An Exquisite Journey to Serenity, Luxury, and Breathtaking Views in Japan's Premier Onsen Destination"
 lat: 35.2393
 lng: 139.0456
-categories: ["Private Bath", "Great View", "Luxury"]
-thumbnail: "/static/images/hakone_ten-yu.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover Hakone Ten-yu, a pinnacle of luxury ryokan experiences nestled amidst Hakone's majestic natural beauty. Indulge in sublime private onsen baths, savor exquisite multi-course kaiseki dining, and awaken to panoramic mountain vistas from your elegantly appointed room. This guide unveils everything about your ultimate serene escape, offering unparalleled comfort and a deeply authentic Japanese journey."
-image_prompt: "A breathtaking aerial view of Hakone Ten-yu ryokan at sunrise, nestled amongst lush green mountains with mist rolling through the valleys. The architecture blends traditional Japanese design with modern minimalism, featuring multiple outdoor onsen baths cascading down a hillside. A couple enjoys a private rotenburo with stunning panoramic views of Hakone's natural landscape and distant Mount Fuji. The scene is serene, luxurious, and evokes tranquility, captured with a wide-angle lens and soft, golden hour lighting."
+summary: Discover Hakone Ten-yu, a pinnacle of luxury ryokan experiences nestled amidst
+  Hakone's majestic natural beauty. Indulge in sublime private onsen baths, savor
+  exquisite multi-course kaiseki dining, and awaken to panoramic mountain vistas from
+  your elegantly appointed room. This guide unveils everything about your ultimate
+  serene escape, offering unparalleled comfort and a deeply authentic Japanese journey.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ten-yu.jpg
+title: 'Hakone Ten-yu: An Exquisite Journey to Serenity, Luxury, and Breathtaking
+  Views in Japan''s Premier Onsen Destination'
 ---
 
 # Hakone Ten-yu: A Sanctuary of Supreme Serenity and Unrivaled Panoramas

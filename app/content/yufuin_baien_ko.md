@@ -1,15 +1,27 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: Exterior view of Yufuin Baien, a luxurious traditional Japanese ryokan,
+  nestled on a hillside overlooking the scenic Yufuin valley with the majestic Mount
+  Yufu in the background, under a clear blue sky with soft clouds. The architecture
+  is elegant and blend seamlessly with the lush green landscape. A private open-air
+  family bath (kashikiri onsen) is visible on a terrace, offering breathtaking panoramic
+  views. The scene is serene and inviting, conveying a sense of exclusive tranquility
+  and traditional Japanese hospitality. Detailed, high-resolution, natural light,
+  cinematic.
 lang: ko
-title: "유후인 바이엔: 압도적인 절경과 프라이빗 가족탕으로 완성되는 최상의 힐링, 럭셔리 료칸 여행"
 lat: 33.2652
 lng: 131.3653
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/yufuin_baien.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-24"
-agoda: ""
-summary: "후쿠오카 근교의 숨겨진 보석, 유후인 바이엔은 유후다케의 장엄한 절경을 배경으로 진정한 휴식을 선사하는 고급 료칸입니다. 프라이빗한 가족탕에서 사랑하는 이들과 오붓한 시간을 보내며 일상에 지친 심신을 치유하고, 잊을 수 없는 미식 경험으로 오감을 만족시킬 수 있습니다. 자연 속에서의 고요함과 최상의 서비스를 경험하고 싶다면 유후인 바이엔이 완벽한 선택이 될 것입니다."
-image_prompt: "Exterior view of Yufuin Baien, a luxurious traditional Japanese ryokan, nestled on a hillside overlooking the scenic Yufuin valley with the majestic Mount Yufu in the background, under a clear blue sky with soft clouds. The architecture is elegant and blend seamlessly with the lush green landscape. A private open-air family bath (kashikiri onsen) is visible on a terrace, offering breathtaking panoramic views. The scene is serene and inviting, conveying a sense of exclusive tranquility and traditional Japanese hospitality. Detailed, high-resolution, natural light, cinematic."
+summary: 후쿠오카 근교의 숨겨진 보석, 유후인 바이엔은 유후다케의 장엄한 절경을 배경으로 진정한 휴식을 선사하는 고급 료칸입니다. 프라이빗한
+  가족탕에서 사랑하는 이들과 오붓한 시간을 보내며 일상에 지친 심신을 치유하고, 잊을 수 없는 미식 경험으로 오감을 만족시킬 수 있습니다. 자연
+  속에서의 고요함과 최상의 서비스를 경험하고 싶다면 유후인 바이엔이 완벽한 선택이 될 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_baien.jpg
+title: '유후인 바이엔: 압도적인 절경과 프라이빗 가족탕으로 완성되는 최상의 힐링, 럭셔리 료칸 여행'
 ---
 
 # 유후인 바이엔: 대자연 속에서 피어나는 럭셔리 온천의 정수

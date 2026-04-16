@@ -1,15 +1,30 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Private Bath
+- Local
+- Luxury
+date: '2026-03-24'
+image_prompt: A serene, luxurious Japanese ryokan called 'Hakone Airu' at dusk, nestled
+  amidst vibrant autumn foliage in the Hakone mountains. Focus on a beautifully illuminated
+  outdoor private onsen bath with steam rising, surrounded by meticulously manicured
+  Japanese gardens and traditional wooden architecture. A soft, warm light emanates
+  from inside the ryokan, hinting at comfort. The sky is a gradient of deep blue to
+  soft orange, with the silhouette of distant mountains. The atmosphere is peaceful,
+  inviting, and utterly tranquil, evoking a sense of exclusive relaxation.
 lang: en
-title: "Unveiling Hakone Airu: Your Ultimate Guide to an Exclusive Hakone Onsen Retreat with Private Baths and Local Charm"
 lat: 35.2311
 lng: 139.1011
-categories: ["Private Bath", "Local", "Luxury"]
-thumbnail: "/static/images/hakone_airu.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover Hakone Airu, a hidden gem nestled in the heart of Hakone, offering an unparalleled onsen experience with exquisite private baths and an authentic local atmosphere. Immerse yourself in the tranquility of this luxury ryokan, where tradition meets modern comfort, promising a rejuvenating escape from the everyday. From its pristine hot springs to its seasonal gastronomy, Hakone Airu redefines the art of Japanese hospitality for the discerning traveler."
-image_prompt: "A serene, luxurious Japanese ryokan called 'Hakone Airu' at dusk, nestled amidst vibrant autumn foliage in the Hakone mountains. Focus on a beautifully illuminated outdoor private onsen bath with steam rising, surrounded by meticulously manicured Japanese gardens and traditional wooden architecture. A soft, warm light emanates from inside the ryokan, hinting at comfort. The sky is a gradient of deep blue to soft orange, with the silhouette of distant mountains. The atmosphere is peaceful, inviting, and utterly tranquil, evoking a sense of exclusive relaxation."
+summary: Discover Hakone Airu, a hidden gem nestled in the heart of Hakone, offering
+  an unparalleled onsen experience with exquisite private baths and an authentic local
+  atmosphere. Immerse yourself in the tranquility of this luxury ryokan, where tradition
+  meets modern comfort, promising a rejuvenating escape from the everyday. From its
+  pristine hot springs to its seasonal gastronomy, Hakone Airu redefines the art of
+  Japanese hospitality for the discerning traveler.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_airu.jpg
+title: 'Unveiling Hakone Airu: Your Ultimate Guide to an Exclusive Hakone Onsen Retreat
+  with Private Baths and Local Charm'
 ---
 
 ## Introduction: Hakone Airu – A Sanctuary of Serenity and Splendor

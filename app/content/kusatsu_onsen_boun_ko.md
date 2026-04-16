@@ -1,15 +1,23 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 가족탕
+- 고급 료칸
+date: '2026-04-05'
+image_prompt: A luxurious traditional Japanese ryokan, Kusatsu Onsen Boun, nestled
+  in lush autumn foliage with steam rising from a private open-air family bath (kashikiri
+  onsen). The bath is made of natural stone, overlooking a pristine Japanese garden
+  and distant mountains. Warm, inviting atmosphere. Golden hour light. High-resolution,
+  cinematic, detailed, serene.
 lang: ko
-title: "쿠사츠 온천 보운: 가족과 함께 즐기는 고품격 료칸의 정수, 대자연 속에서 진정한 힐링을 만나다"
 lat: 36.6245
 lng: 138.5955
-categories: ["가족탕", "고급 료칸"]
-thumbnail: "/static/images/kusatsu_onsen_boun.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "일본 3대 명천 쿠사츠 온천에 위치한 보운 료칸은 가족탕과 품격 있는 서비스를 자랑하는 최고의 휴식처입니다. 아름다운 자연경관 속에서 흐르는 온천수로 몸과 마음의 피로를 씻어내고, 정갈한 가이세키 요리로 미식의 향연을 경험하세요. 전통과 현대의 조화가 돋보이는 공간에서 잊을 수 없는 추억을 만들 수 있습니다."
-image_prompt: "A luxurious traditional Japanese ryokan, Kusatsu Onsen Boun, nestled in lush autumn foliage with steam rising from a private open-air family bath (kashikiri onsen). The bath is made of natural stone, overlooking a pristine Japanese garden and distant mountains. Warm, inviting atmosphere. Golden hour light. High-resolution, cinematic, detailed, serene."
+summary: 일본 3대 명천 쿠사츠 온천에 위치한 보운 료칸은 가족탕과 품격 있는 서비스를 자랑하는 최고의 휴식처입니다. 아름다운 자연경관 속에서
+  흐르는 온천수로 몸과 마음의 피로를 씻어내고, 정갈한 가이세키 요리로 미식의 향연을 경험하세요. 전통과 현대의 조화가 돋보이는 공간에서 잊을 수
+  없는 추억을 만들 수 있습니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_boun.jpg
+title: '쿠사츠 온천 보운: 가족과 함께 즐기는 고품격 료칸의 정수, 대자연 속에서 진정한 힐링을 만나다'
 ---
 
 # 쿠사츠 온천 보운: 깊은 휴식과 최상의 경험을 선사하는 고품격 료칸

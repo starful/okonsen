@@ -2,74 +2,6 @@
   "last_updated": "2026.04.16",
   "onsens": [
     {
-      "id": "kinosaki_onsen_nishimuraya_honkan_en",
-      "lang": "en",
-      "title": "Kinosaki Onsen Nishimuraya Honkan: A Sanctuary of Serenity, Luxury, and Breathtaking Views in Japan's Timeless Hot Spring Town",
-      "lat": 35.6255,
-      "lng": 134.8111,
-      "categories": [
-        "Luxury",
-        "Great View",
-        "Private Bath"
-      ],
-      "thumbnail": "/static/images/kinosaki_onsen_nishimuraya_honkan.jpg",
-      "address": "Toyooka, Hyogo",
-      "published": "2026-04-16",
-      "summary": "Immerse yourself in unparalleled elegance and ancient traditions at Kinosaki Onsen Nishimuraya Honkan, a truly luxurious ryokan nestled in Japan's cherished Kinosaki Onsen. This esteemed establishment offers guests an exquisite escape where traditional Japanese hospitality meets breathtaking natural vistas and deeply rejuvenating hot springs. Experience a world where every detail is meticulously crafted to ensure a serene and unforgettable journey for the senses.",
-      "link": "/onsen/kinosaki_onsen_nishimuraya_honkan_en"
-    },
-    {
-      "id": "kurokawa_onsen_oku_no_yu_ko",
-      "lang": "ko",
-      "title": "구로카와 온천 오쿠노유: 아소의 대자연 속 숨겨진 보석, 전설적인 절경 가족탕의 극치 경험",
-      "lat": 33.0799,
-      "lng": 131.1455,
-      "categories": [
-        "가족탕",
-        "절경",
-        "타투 허용"
-      ],
-      "thumbnail": "/static/images/kurokawa_onsen_oku_no_yu.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-04-16",
-      "summary": "구마모토 미나미오구니에 자리한 구로카와 온천 오쿠노유는 아소의 장엄한 대자연 속에 깊이 파묻힌 채, 숨 막히는 절경을 선사하는 진정한 힐링의 안식처입니다. 숲과 계곡이 어우러진 풍경 속에서 프라이빗한 가족탕을 즐기며 잊을 수 없는 추억을 만들고, 심신을 치유하는 황홀경을 경험할 수 있습니다. 자연과의 교감 속에서 최상의 휴식을 선사하는 오쿠노유는 바쁜 일상에서 벗어나 진정한 평화를 찾는 이들에게 완벽한 선택이 될 것입니다.",
-      "link": "/onsen/kurokawa_onsen_oku_no_yu_ko"
-    },
-    {
-      "id": "kurokawa_onsen_oku_no_yu_en",
-      "lang": "en",
-      "title": "Kurokawa Onsen Oku no Yu: A Secluded Paradise of Spectacular Views and Private Retreats in Kumamoto",
-      "lat": 33.0799,
-      "lng": 131.1455,
-      "categories": [
-        "Great View",
-        "Private Bath",
-        "Luxury"
-      ],
-      "thumbnail": "/static/images/kurokawa_onsen_oku_no_yu.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-04-16",
-      "summary": "Escape to Kurokawa Onsen Oku no Yu, a hidden gem nestled deep within Kumamoto's breathtaking landscapes, offering an unparalleled onsen experience. Indulge in sublime private baths boasting spectacular natural vistas, ensuring an intimate and unforgettable retreat for couples and families alike. This luxurious ryokan combines traditional Japanese elegance with supreme comfort, promising a rejuvenating escape from the everyday.",
-      "link": "/onsen/kurokawa_onsen_oku_no_yu_en"
-    },
-    {
-      "id": "kinosaki_onsen_nishimuraya_honkan_ko",
-      "lang": "ko",
-      "title": "숨겨진 절경과 진정한 힐링, 키노사키 온천 니시무라야 혼칸: 오감 만족 럭셔리 료칸 여행의 정점",
-      "lat": 35.6255,
-      "lng": 134.8111,
-      "categories": [
-        "고급 료칸",
-        "절경",
-        "가족탕"
-      ],
-      "thumbnail": "/static/images/kinosaki_onsen_nishimuraya_honkan.jpg",
-      "address": "Toyooka, Hyogo",
-      "published": "2026-04-16",
-      "summary": "효고현 도요오카의 명문 료칸, 니시무라야 혼칸은 유구한 역사와 현대적인 편안함이 조화를 이루는 곳입니다. 이곳에서 그림 같은 풍경 속 노천탕과 예술적인 가이세키 요리를 경험하며 진정한 휴식을 만끽해 보세요. 고요함 속에 깃든 일본 전통의 미학은 잊지 못할 추억을 선사할 것입니다.",
-      "link": "/onsen/kinosaki_onsen_nishimuraya_honkan_ko"
-    },
-    {
       "id": "hoshino_resorts_kai_beppu_en",
       "lang": "en",
       "title": "Hoshino Resorts KAI Beppu: Immerse in Onsen Opulence, Breathtaking Views, and Timeless Japanese Luxury",
@@ -80,7 +12,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/hoshino_resorts_kai_beppu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_beppu.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Perched majestically overlooking Beppu Bay, Hoshino Resorts KAI Beppu offers an unparalleled luxury onsen experience, blending traditional Japanese aesthetics with modern comfort. Immerse yourself in mineral-rich waters while gazing at breathtaking ocean vistas from exquisitely designed private and public baths. This magnificent ryokan masterfully crafts an unforgettable rejuvenating escape for the discerning traveler seeking profound tranquility and authentic cultural immersion.",
@@ -97,7 +29,7 @@
         "가족탕",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_yamamizuki.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yamamizuki.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "구마모토 아소산 자락에 자리한 쿠로카와 온천 야마미즈키는 웅장한 자연 속에서 진정한 휴식을 선사하는 고급 료칸입니다. 계곡을 따라 흐르는 강물 소리를 들으며 즐기는 노천탕의 절경과 프라이빗한 가족탕은 잊지 못할 추억을 선사하며, 지역 특산물을 활용한 가이세키 요리로 오감을 만족시킵니다. 바쁜 일상에서 벗어나 자연의 품에서 깊은 위로와 재충전을 경험하고 싶은 이들에게 야마미즈키는 더없이 완벽한 선택이 될 것입니다.",
@@ -114,7 +46,7 @@
         "Local",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/beppu_onsen_hotel_hakusui.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_hotel_hakusui.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Escape to Beppu Onsen Hotel Hakusui, a sanctuary where traditional Japanese hospitality meets modern inclusivity, welcoming all guests to experience authentic local charm. Immerse yourself in the healing waters of its renowned baths, offering stunning views and the rare freedom to showcase your personal artistry. Discover a true slice of Beppu's soul, from exquisite seasonal dining to serene tatami rooms, promising an unforgettable journey into relaxation and cultural immersion.",
@@ -131,7 +63,7 @@
         "Tattoo OK",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_pension.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_pension.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-12",
       "summary": "Discover the heartwarming charm of Kusatsu Onsen Pension, a hidden gem offering an authentic local experience in Japan's renowned Kusatsu hot spring town. Embrace ultimate relaxation in its rejuvenating baths, a welcome haven for guests with tattoos, allowing everyone to savor Japan's cherished onsen culture. Indulge in warm hospitality, delicious local cuisine, and breathtaking natural beauty, making for an unforgettable escape into Gunma's heart.",
@@ -147,7 +79,7 @@
         "Local",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_ryokan_yoshinoya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-12",
       "summary": "Escape to Kusatsu Onsen Ryokan Yoshinoya, a cherished local gem offering an intimate glimpse into Japan's timeless hospitality. Indulge in the therapeutic waters of their exquisite private baths, ensuring a deeply personal and restorative retreat. Experience authentic Japanese tradition nestled amidst the vibrant heart of one of Japan's most celebrated hot spring towns, making it an unforgettable journey for discerning travelers.",
@@ -164,7 +96,7 @@
         "절경",
         "로컬"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_ikoi_ryokan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "구마모토 미나미오구니의 깊은 산 속에 자리한 이코이 료칸은 빼어난 자연 경관과 진정한 현지 분위기를 만끽할 수 있는 보석 같은 온천입니다. 문신을 한 여행객도 따뜻하게 환영하며, 아늑한 가족탕과 다양한 노천탕에서 몸과 마음의 피로를 완벽하게 풀 수 있습니다. 고요함 속에서 진정한 휴식과 일본 전통의 미학을 경험하고 싶은 분들에게 최고의 선택이 될 것입니다.",
@@ -181,7 +113,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_hozantei.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_hozantei.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Hozantei offers an unparalleled escape where magnificent natural scenery meets the height of Japanese hospitality. This luxurious ryokan is celebrated for its breathtaking views from secluded open-air baths and an exquisite selection of private onsen, providing an intimate, unforgettable retreat. Prepare to immerse yourself in a world of refined tranquility, gourmet kaiseki, and the restorative power of Kumamoto's legendary hot springs.",
@@ -198,7 +130,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/hotel_shiragiku.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hotel_shiragiku.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "벳푸의 중심에서 최고의 럭셔리와 전통을 경험하고 싶다면 호텔 시라기쿠가 완벽한 선택입니다. 프라이빗한 가족탕에서 그림 같은 절경을 감상하며 잊지 못할 추억을 만들 수 있습니다. 섬세한 서비스와 최상급 가이세키 요리가 어우러져 오감을 만족시키는 진정한 힐링을 선사합니다.",
@@ -215,7 +147,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/beppu_onsen_terrace_midoubaru.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_terrace_midoubaru.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Perched majestically above the shimmering Beppu Bay, Beppu Onsen Terrace Midoubaru offers an unparalleled escape where luxury meets nature's grandeur. Guests are invited to immerse themselves in exquisite private onsen baths, each boasting magnificent panoramic vistas that stretch to the horizon. This ryokan redefines relaxation, blending traditional Japanese hospitality with modern comforts for an unforgettable, serene experience.",
@@ -231,7 +163,7 @@
         "Local",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/yamada_bessou.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yamada_bessou.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Discover Yamada Bessou, a hidden gem in Beppu, Oita, offering an unparalleled local onsen experience with the ultimate privacy of dedicated family baths. This authentic ryokan provides a deeply immersive escape into Japan's rich hot spring culture, far from the tourist crowds. Immerse yourself in mineral-rich waters and savor genuine Japanese hospitality in a tranquil, intimate setting.",
@@ -247,7 +179,7 @@
         "고급 료칸",
         "절경"
       ],
-      "thumbnail": "/static/images/amane_resort_seikai.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/amane_resort_seikai.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "오이타 벳푸의 푸른 바다를 가장 가까이에서 만나는 럭셔리 료칸, AMANE Resort Seikai는 숨 막히는 절경과 최상의 서비스로 진정한 휴식을 선사합니다. 모든 객실에 딸린 오션뷰 노천탕은 프라이빗한 힐링을 약속하며, 미식의 향연 카이세키 요리는 여행의 깊이를 더합니다. 벳푸의 온천 문화와 현대적인 안락함이 완벽하게 조화된 이곳에서 잊을 수 없는 추억을 만들어보세요.",
@@ -263,7 +195,7 @@
         "Luxury",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_noshiyu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_noshiyu.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Noshiyu stands as an epitome of refined Japanese hospitality, offering an unparalleled escape into luxurious tranquility. This exquisite ryokan masterfully blends traditional aesthetics with modern comfort, providing guests an intimate journey into Japan's revered onsen culture. Boasting an array of exceptional private family baths, Noshiyu invites you to immerse yourself in therapeutic waters while surrounded by breathtaking natural beauty, ensuring a deeply personal and unforgettable retreat.",
@@ -279,7 +211,7 @@
         "가족탕",
         "타투 허용"
       ],
-      "thumbnail": "/static/images/beppu_daiiti_hotel.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_daiiti_hotel.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "벳푸 다이이치 호텔은 일본 온천 여행의 새로운 지평을 엽니다. 온 가족이 편안하게 즐길 수 있는 프라이빗 가족탕과 문신에 대한 관대한 정책으로 모두에게 열린 공간을 제공합니다. 벳푸의 활기찬 에너지를 만끽하며 잊지 못할 추억을 만들 최적의 장소입니다.",
@@ -295,7 +227,7 @@
         "Private Bath",
         "Local"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_ryokan_wakaba.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_wakaba.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Escape to Kurokawa Onsen Ryokan Wakaba, a hidden gem nestled in Minamioguni, Kumamoto, offering an unparalleled retreat into authentic Japanese hospitality. Indulge in the exclusive tranquility of private family baths, celebrated for their therapeutic waters and intimate setting. Experience a true taste of local culture and culinary excellence amidst the breathtaking natural beauty of Aso-Kuju National Park.",
@@ -312,7 +244,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_yumerindo.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "구마모토 미나미오구니의 고요한 자연 속에 자리한 구로카와 온천 유메린도는 온 가족이 오붓하게 즐길 수 있는 가족탕과 숨 막히는 절경을 자랑하는 프리미엄 료칸입니다. 맑은 공기와 푸른 숲의 품에서 지친 몸과 마음에 진정한 휴식을 선사하며, 미식의 향연 카이세키 요리로 잊지 못할 추억을 선사합니다. 전통과 현대의 조화 속에서 꿈같은 온천 여행을 경험하고 싶다면 유메린도가 최고의 선택이 될 것입니다.",
@@ -328,7 +260,7 @@
         "타투 허용",
         "로컬"
       ],
-      "thumbnail": "/static/images/beppu_onsen_takegawara.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_takegawara.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "벳푸의 심장부에 자리한 타케가와라 온천은 1879년부터 이어져 온 유서 깊은 로컬 온천입니다. 특히 타투에 관대하며, 단순한 목욕을 넘어 깊은 역사와 전통이 살아 숨 쉬는 특별한 경험을 선사합니다. 뜨거운 모래찜질과 부드러운 유황 온천수로 몸과 마음의 진정한 평화를 찾아보세요.",
@@ -344,7 +276,7 @@
         "Local",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_okyakuya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_okyakuya.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Nestled deep within the picturesque Minamioguni region of Kumamoto, Kurokawa Onsen Okyakuya stands as a beacon of genuine Japanese hospitality, offering an unparalleled blend of local charm and rejuvenating hot spring experiences. This ryokan is a sanctuary where guests can immerse themselves in the tranquil beauty of nature while indulging in the ultimate luxury of private, open-air baths. Discover a truly authentic escape, far from the madding crowds, and let the healing waters of Okyakuya wash away the stresses of the modern world.",
@@ -361,7 +293,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/ana_intercontinental_beppu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ana_intercontinental_beppu.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Perched majestically above Beppu Bay, the ANA InterContinental Beppu offers an unparalleled luxury onsen experience, blending modern sophistication with Japan's ancient hot spring traditions. Guests are treated to exclusive private baths and expansive open-air rotemburo, all boasting **spectacular panoramic views** that stretch across the vibrant city and out to the glistening sea. This extraordinary ryokan promises an unforgettable retreat, immersing you in serene tranquility and exquisite Japanese hospitality.",
@@ -377,7 +309,7 @@
         "Luxury",
         "Great View"
       ],
-      "thumbnail": "/static/images/kannawaen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kannawaen.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Perched majestically above Beppu Bay, Kannawaen stands as an epitome of Japanese luxury, offering an unparalleled onsen experience amidst breathtaking natural beauty. This exquisite ryokan masterfully blends traditional elegance with modern comforts, providing guests a serene escape where every detail caters to ultimate relaxation. Indulge in private open-air baths, world-class kaiseki dining, and rooms designed for sublime tranquility, making every stay an unforgettable journey into bliss.",
@@ -394,7 +326,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/gallo_resort_beppu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/gallo_resort_beppu.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "벳푸만의 압도적인 절경을 품은 갈로 리조트는 프라이빗한 가족탕에서 진정한 휴식을 선사합니다. 품격 있는 서비스와 미식 경험이 더해져 잊지 못할 추억을 선사하며, 가족과 연인 모두에게 완벽한 온천 여행지입니다. 자연의 아름다움 속에서 치유와 재충전의 시간을 만끽해보세요.",
@@ -411,7 +343,7 @@
         "절경",
         "로컬"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_ryokan_sanga.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_sanga.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "쿠마모토 미나미오구니의 깊은 산 속에 자리한 구로카와 온천 료칸 산가는 대자연의 품에서 진정한 힐링을 선사합니다. 장엄한 경치를 자랑하는 노천탕과 아늑한 전세 가족탕, 그리고 지역 특산물을 활용한 카이세키 요리는 잊을 수 없는 추억을 선사할 것입니다. 이 곳은 고즈넉한 일본의 정취와 최고급 서비스가 어우러진, 특별한 휴식을 꿈꾸는 모든 이들을 위한 이상적인 여행지입니다.",
@@ -428,7 +360,7 @@
         "Luxury",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_kurokawaso.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_kurokawaso.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Perched amidst the breathtaking natural beauty of Minamioguni, Kurokawa Onsen Kurokawaso offers an unparalleled luxury ryokan experience, blending tradition with serene natural surroundings. Immerse yourself in exquisite private and public baths, boasting spectacular views that captivate the soul and rejuvenate the body. This sanctuary of tranquility promises an unforgettable escape, a true testament to the refined art of Japanese hospitality and the therapeutic power of its ancient waters.",
@@ -444,7 +376,7 @@
         "가족탕",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/beppu_showaen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_showaen.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "벳푸 쇼와엔은 오이타 벳푸에 위치한 최고급 료칸으로, 완벽한 프라이버시가 보장되는 개별 노천탕을 갖춘 가족탕으로 유명합니다. 품격 있는 서비스와 제철 가이세키 요리, 그리고 일본 전통미가 살아 숨 쉬는 객실에서 잊지 못할 휴식을 선사합니다. 이곳에서 번잡한 일상에서 벗어나 진정한 평온과 미식의 즐거움을 만끽하세요.",
@@ -460,7 +392,7 @@
         "Private Bath",
         "Local"
       ],
-      "thumbnail": "/static/images/bettei_haruki.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/bettei_haruki.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Discover Bettei Haruki, a hidden gem nestled in Beppu, offering an intimate and truly authentic local onsen experience away from the tourist bustle. Immerse yourself in the healing waters of their exquisite private baths, designed for ultimate relaxation and family privacy. This ryokan promises an unforgettable journey into the heart of Japanese hospitality, blending tradition with tranquil comfort.",
@@ -476,7 +408,7 @@
         "가족탕",
         "절경"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_yugokoro_tei.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_yugokoro_tei.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-12",
       "summary": "일본 3대 명천 중 하나인 쿠사츠 온천에 자리한 유고코로 테이는 가족탕과 숨 막히는 절경으로 오직 당신만을 위한 프라이빗한 휴식을 선사합니다. 솟아나는 온천수와 함께 몸과 마음을 정화하고, 전통과 현대가 어우러진 공간에서 잊지 못할 추억을 만들어보세요. 사계절 아름다운 자연 속에서 진정한 힐링을 경험할 수 있는 최고의 료칸입니다.",
@@ -493,7 +425,7 @@
         "절경",
         "가족탕"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_gosho_gekkoju.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_gosho_gekkoju.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "쿠마모토의 심장부, 쿠로카와 온천에 자리한 고쇼 겟코주는 대자연의 품에 안겨 진정한 휴식을 선사하는 최고급 료칸입니다. 모든 객실에 딸린 전용 온천과 아름다운 절경은 물론, 프라이빗한 가족탕에서 잊지 못할 추억을 만들 수 있습니다. 타투에 대한 개방적인 정책은 물론, 미식의 향연과 함께 몸과 마음을 치유하는 완벽한 럭셔리 온천 경험을 제공합니다.",
@@ -510,7 +442,7 @@
         "Local",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_nanjoen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_nanjoen.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Discover Kurokawa Onsen Nanjoen, a truly unique Kumamoto ryokan where the warmth of **local hospitality** embraces every guest. Immerse yourself in the therapeutic embrace of its mineral-rich waters, knowing that **tattoos are respectfully welcomed**, a rare and refreshing policy. Experience the unparalleled blend of traditional Japanese charm, exquisite **private bathing**, and breathtaking natural beauty that awaits in this authentic sanctuary.",
@@ -527,7 +459,7 @@
         "Private Bath",
         "Great View"
       ],
-      "thumbnail": "/static/images/ryoutei_matsudaya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ryoutei_matsudaya.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Discover Ryoutei Matsudaya, an unparalleled luxury ryokan nestled in the heart of Japan's famed Beppu onsen town, offering an exquisite blend of traditional Japanese hospitality and modern comfort. Indulge in the exclusive tranquility of their private family baths, each meticulously designed to provide an intimate soaking experience amidst breathtaking natural vistas. This sanctuary promises an unforgettable journey into relaxation and refined elegance, making it the ultimate destination for discerning travelers seeking an authentic yet opulent onsen retreat.",
@@ -544,7 +476,7 @@
         "Luxury",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/beppu_suginoi_hotel.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_suginoi_hotel.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Perched majestically on a hillside overlooking Beppu Bay, the iconic Beppu Suginoi Hotel offers an unparalleled onsen experience, blending traditional Japanese hospitality with resort-style grandeur. Indulge in its breathtaking multi-tiered open-air baths, exquisite private family onsens, and opulent accommodations, all set against a backdrop of stunning natural beauty. Discover a world where relaxation knows no bounds and every moment is infused with profound tranquility and luxurious comfort.",
@@ -560,7 +492,7 @@
         "절경",
         "로컬"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_hotel_sakurai.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_sakurai.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-12",
       "summary": "군마현 쿠사츠 온천의 심장부에 위치한 호텔 사쿠라이는 숨 막히는 자연 경관 속에서 진정한 로컬 온천 경험을 선사합니다. 탁월한 수질의 온천과 최고급 가이세키 요리, 그리고 전통과 현대가 조화된 객실에서 잊을 수 없는 휴식을 만끽하세요. 바쁜 일상에서 벗어나 진정한 재충전을 원하는 여행자에게 이보다 완벽한 곳은 없을 것입니다.",
@@ -577,7 +509,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_gosho_gekkoju.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_gosho_gekkoju.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Nestled deep within the enchanting valleys of Kurokawa Onsen, Gosho Gekkoju stands as an epitome of refined Japanese hospitality, offering an unparalleled blend of secluded luxury and raw natural beauty. This exquisite ryokan is a sanctuary where panoramic mountain vistas meet the soothing embrace of thermal waters, inviting guests into a world of ultimate relaxation. Prepare for an unforgettable journey into a realm where every detail is meticulously crafted for your indulgence, promising an escape that transcends the ordinary and redefines luxury onsen experiences.",
@@ -593,7 +525,7 @@
         "Private Bath",
         "Great View"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_yugokoro_tei.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_yugokoro_tei.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-12",
       "summary": "Nestled amidst the serene mountains of Gunma, Kusatsu Onsen Yugokoro Tei offers an unparalleled escape where the legendary healing waters of Kusatsu meet exquisite Japanese hospitality. Discover the profound tranquility of **private family baths** offering discreet relaxation, all while immersed in **breathtaking panoramic vistas**. This ryokan promises an unforgettable journey into rejuvenation, culture, and spectacular natural beauty, making it an essential destination for discerning travelers seeking ultimate solace.",
@@ -609,7 +541,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/bettei_haruki.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/bettei_haruki.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "오이타 벳푸의 번화가에서 벗어나 진정한 일본 온천 문화의 정수를 경험하고 싶다면, 벳테이 하루키가 당신의 안식처가 될 것입니다. 이곳은 현지인들 사이에서만 은밀히 공유되는 보석 같은 장소로, 완벽한 프라이버시를 보장하는 가족탕이 특징입니다. 벳푸의 풍부한 온천수와 일본 전통의 미학이 어우러진 공간에서 오롯이 당신만을 위한 잊지 못할 휴식을 선사합니다.",
@@ -625,7 +557,7 @@
         "Private Bath",
         "Luxury"
       ],
-      "thumbnail": "/static/images/beppu_showaen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_showaen.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Escape to Beppu Showaen, an exquisite luxury ryokan in Japan's onsen heartland, offering unparalleled serenity and exclusive private baths for an intimate escape. Indulge in sublime comfort amidst traditional Japanese elegance, where every detail caters to your utmost relaxation and rejuvenation. Experience world-class hospitality and a deep connection to Beppu's rich hot spring heritage in this tranquil haven.",
@@ -641,7 +573,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_kurokawaso.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_kurokawaso.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "구마모토현 미나미오구니에 위치한 쿠로카와 온천 쿠로카와소는 자연의 웅장함과 럭셔리 료칸의 정수를 완벽하게 결합한 독보적인 휴식처입니다. 계곡과 숲이 어우러진 대자연 속에서 펼쳐지는 숨 막히는 절경을 감상하며, 최상급 서비스와 미식 경험을 통해 진정한 일본의 아름다움을 만끽할 수 있습니다. 이곳은 일상에서 벗어나 깊은 평온과 재충전을 선사하는, 미학적으로나 영적으로나 더할 나위 없는 이상적인 도피처입니다.",
@@ -658,7 +590,7 @@
         "Great View",
         "Local"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_ryokan_sanga.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_sanga.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Escape to Kurokawa Onsen Ryokan Sanga, a hidden gem nestled amidst Kumamoto's breathtaking natural landscapes, offering a sanctuary where time slows down. Indulge in secluded private baths boasting spectacular natural views, savor exquisitely prepared local cuisine, and immerse yourself in the authentic, tranquil rhythm of traditional Japanese hospitality for an unforgettable journey into serenity.",
@@ -674,7 +606,7 @@
         "Great View",
         "Local"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_hotel_sakurai.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_sakurai.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-12",
       "summary": "Escape to Kusatsu Onsen Hotel Sakurai, where the legendary therapeutic waters of Kusatsu meet breathtaking Gunma landscapes and authentic local experiences. Immerse yourself in the tranquility of mineral-rich baths offering unparalleled scenic vistas, promising profound rejuvenation for body and soul. Discover a luxurious retreat that perfectly blends traditional Japanese hospitality with the vibrant spirit of one of Japan's most celebrated onsen towns.",
@@ -691,7 +623,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/beppu_suginoi_hotel.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_suginoi_hotel.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "오이타 벳푸의 상징, 스기노이 호텔은 압도적인 절경을 자랑하는 노천탕과 최고급 시설로 가족 여행객에게 잊을 수 없는 추억을 선사합니다. 품격 있는 서비스와 다양한 즐거움이 가득한 이곳에서 진정한 힐링과 일본 온천 문화의 정수를 경험해보세요. 밤하늘을 수놓는 불꽃놀이와 빛나는 벳푸 시내 전경은 당신의 여행을 더욱 특별하게 만들 것입니다.",
@@ -707,7 +639,7 @@
         "고급 료칸",
         "가족탕"
       ],
-      "thumbnail": "/static/images/ryoutei_matsudaya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ryoutei_matsudaya.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "벳푸의 고즈넉한 골목에 자리한 료테이 마츠다야는 **고급 료칸**의 진수를 보여줍니다. 프라이빗한 **가족탕**에서 사랑하는 이들과 진정한 휴식을 만끽하고, 제철 재료로 정성껏 준비된 가이세키 요리로 오감을 만족시킬 수 있습니다. 전통과 현대가 조화된 아름다운 공간에서 잊을 수 없는 추억을 만들어보세요.",
@@ -724,7 +656,7 @@
         "로컬",
         "가족탕"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_nanjoen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_nanjoen.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "구마모토 미나미오구니의 고즈넉한 풍경 속에 자리한 구로카와 온천 나나조엔은 타투 친화적인 환대와 진정한 로컬 매력으로 여행자들의 마음을 사로잡습니다. 이곳은 그림 같은 계곡의 절경 속에서 자연이 선사하는 치유의 온천을 경험하고, 정성 가득한 가이세키 요리와 아늑한 객실에서 오직 나만을 위한 깊은 휴식을 선사합니다. 나나조엔에서 몸과 마음을 정화하고 잊지 못할 추억을 만들어가며 진정한 일본의 숨결을 느껴보세요.",
@@ -740,7 +672,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_ryokan_wakaba.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_wakaba.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "구로카와 온천 료칸 와카바는 규슈 구마모토현의 한적한 마을에 자리 잡은, 자연과 조화로운 진정한 휴식을 선사하는 료칸입니다. 이곳은 프라이빗한 시간을 보장하는 개별 노천탕, 즉 '가족탕'의 천국이자, 지역의 정서와 전통을 고스란히 간직한 '로컬'의 매력이 가득한 곳입니다. 번잡한 일상에서 벗어나, 자연의 품에서 진정한 일본 온천의 미학을 경험하고 싶은 분들에게 완벽한 안식처가 될 것입니다.",
@@ -756,7 +688,7 @@
         "Private Bath",
         "Tattoo OK"
       ],
-      "thumbnail": "/static/images/beppu_daiiti_hotel.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_daiiti_hotel.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Discover the tranquil oasis of Beppu Daiiti Hotel, where the mineral-rich waters of Beppu invite unparalleled relaxation and rejuvenation. This esteemed ryokan proudly offers spacious private family baths, ensuring intimate moments of bliss for every guest seeking personal serenity. Experience authentic Japanese hospitality in an environment that warmly welcomes all, including those with tattoos, making it a truly inclusive and unforgettable escape.",
@@ -772,7 +704,7 @@
         "고급 료칸",
         "가족탕"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_noshiyu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_noshiyu.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "구로카와 온천 노시유는 아소산 자락의 울창한 숲 속에 자리한 최고급 료칸으로, 자연 속 진정한 휴식을 선사합니다. 프라이빗한 시간을 위한 개별 가족탕은 물론, 사계절 변하는 절경을 감상하며 온천욕을 즐길 수 있는 특별한 경험을 제공합니다. 섬세한 가이세키 요리와 전통의 미학이 깃든 공간에서 잊지 못할 추억을 만들어보세요.",
@@ -789,7 +721,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/amane_resort_seikai.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/amane_resort_seikai.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Nestled on Beppu's shimmering coastline, AMANE Resort Seikai offers an unparalleled luxury ryokan experience, blending exquisite Japanese hospitality with breathtaking ocean vistas. Indulge in sublime private onsen baths, savor meticulously crafted kaiseki cuisine, and awaken to the gentle serenade of the Pacific, making every moment an unforgettable escape into Japanese elegance and geothermal wonder.",
@@ -805,7 +737,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/yamada_bessou.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yamada_bessou.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "오이타 벳푸의 숨겨진 보석, 야마다 벳소우는 번잡함을 벗어나 진정한 현지 분위기를 만끽할 수 있는 료칸입니다. 이곳은 현대적인 편안함과 전통적인 아름다움이 조화를 이루며, 특히 전용 가족탕에서 프라이빗한 온천 경험을 제공합니다. 몸과 마음을 치유하고 잊을 수 없는 추억을 만들 완벽한 휴식처를 찾고 있다면 야마다 벳소우가 정답입니다.",
@@ -821,7 +753,7 @@
         "가족탕",
         "절경"
       ],
-      "thumbnail": "/static/images/beppu_onsen_terrace_midoubaru.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_terrace_midoubaru.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "오이타 벳푸의 해발 300m 고지에 위치한 벳푸 온천 테라스 미도우바루는 벳푸만과 웅장한 산맥이 어우러진 파노라마 절경을 선사합니다. 모든 객실에 딸린 프라이빗 노천탕과 전세 가족탕은 진정한 휴식을 약속하며, 미식의 향연과 세심한 서비스는 잊을 수 없는 추억을 선사합니다.",
@@ -838,7 +770,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/hotel_shiragiku.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hotel_shiragiku.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Escape to Hotel Shiragiku, a beacon of refined luxury in Beppu, where the healing embrace of geothermal waters meets unparalleled elegance. Indulge in exclusive private baths offering breathtaking panoramic views, perfect for intimate family moments or serene solitude. Experience the harmonious blend of traditional Japanese hospitality and modern comfort, promising an unforgettable journey into tranquility and natural beauty.",
@@ -855,7 +787,7 @@
         "가족탕",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_hozantei.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_hozantei.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "구마모토의 깊은 숲속, 구로카와 온천 호잔테이는 숨 막히는 자연의 절경과 프라이빗한 가족탕으로 완벽한 휴식을 선사합니다. 강이 흐르는 풍경을 감상하며 즐기는 노천탕, 그리고 미식의 향연인 가이세키 요리는 이곳을 잊을 수 없는 럭셔리 료칸으로 만듭니다. 고요한 자연 속에서 오직 당신만을 위한 치유의 시간을 경험해보세요.",
@@ -872,7 +804,7 @@
         "Great View",
         "Tattoo OK"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_ikoi_ryokan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Nestled in the heart of Kumamoto's serene Minamioguni, Kurokawa Onsen Ikoi Ryokan offers an unparalleled escape into traditional Japanese hospitality. Experience the profound tranquility of its numerous baths, many boasting incredible scenic views, all within a welcoming, tattoo-friendly environment. This ryokan epitomizes authentic local charm, promising an unforgettable journey for the discerning traveler seeking deep relaxation and cultural immersion.",
@@ -888,7 +820,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_ryokan_yoshinoya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-12",
       "summary": "분주한 일상에서 벗어나 진정한 일본의 정취를 느끼고 싶다면, 군마현 쿠사츠 온천의 료칸 요시노야가 완벽한 해답입니다. 이곳은 활기찬 쿠사츠 마을의 심장부에 위치하여 현지 문화를 깊이 체험하고 싶어 하는 여행자에게 이상적이며, 아늑한 가족탕에서 오붓한 시간을 보내며 피로를 녹일 수 있는 특별한 휴식을 선사합니다.",
@@ -904,7 +836,7 @@
         "타투 허용",
         "로컬"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_pension.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_pension.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-12",
       "summary": "쿠사츠 온천의 심장부에 위치한 쿠사츠 온천 펜션은 진정한 로컬의 정취와 따뜻한 환대를 선사합니다. 문신에 대한 편견 없이 모두가 편안하게 온천을 즐길 수 있는 이곳은 여행의 피로를 잊게 해줄 완벽한 안식처입니다. 단순한 숙박을 넘어 쿠사츠의 깊은 매력을 경험하고 싶은 당신에게 이보다 더 좋은 선택은 없을 것입니다.",
@@ -920,7 +852,7 @@
         "타투 허용",
         "로컬"
       ],
-      "thumbnail": "/static/images/beppu_onsen_hotel_hakusui.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_hotel_hakusui.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "오이타 벳푸의 심장부에서 진정한 로컬 온천 경험을 선사하는 베푸 온천 호텔 하쿠스이. 이곳은 **타투에 대한 편견 없는** 환대와 함께, 전통과 현대가 어우러진 공간에서 벳푸 주민들의 따뜻한 일상에 스며드는 특별한 휴식을 제공합니다. 가족탕과 계절 미식으로 오감을 만족시키며, 단순한 숙박을 넘어 깊은 감동과 치유를 선사하는 곳입니다.",
@@ -936,7 +868,7 @@
         "Private Bath",
         "Great View"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_yamamizuki.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yamamizuki.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Nestled deep within the enchanting Kurokawa Onsen village, Yamamizuki offers an unparalleled escape where the symphony of the river and breathtaking natural vistas create a restorative haven. Boasting exquisite private baths and expansive open-air onsens with panoramic views, this ryokan is a testament to traditional Japanese hospitality and serene beauty. Prepare for an unforgettable journey into tranquility, enveloped by the pristine wilderness of Kumamoto's Aso region.",
@@ -952,7 +884,7 @@
         "고급 료칸",
         "절경"
       ],
-      "thumbnail": "/static/images/hoshino_resorts_kai_beppu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_beppu.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "오이타 벳푸에 자리한 호시노 리조트 카이 벳푸는 단순한 온천 료칸을 넘어선 미학적 경험을 선사합니다. 끓어오르는 온천 증기와 푸른 바다가 어우러진 장엄한 절경 속에서 럭셔리한 휴식과 지역 문화의 정수를 만끽할 수 있습니다. 전통과 현대가 조화롭게 어우러진 공간에서 몸과 마음의 진정한 재충전을 경험해 보세요.",
@@ -968,7 +900,7 @@
         "Private Bath",
         "Great View"
       ],
-      "thumbnail": "/static/images/gallo_resort_beppu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/gallo_resort_beppu.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Perched dramatically above Beppu, Gallo Resort Beppu offers an unparalleled onsen escape, famed for its exquisite private family baths that allow for intimate relaxation. Guests are treated to **breathtaking panoramic views** of the city and Beppu Bay, creating an atmosphere of serene luxury. Discover a haven where modern comfort meets traditional Japanese hospitality, promising an unforgettable journey for every discerning traveler.",
@@ -984,7 +916,7 @@
         "고급 료칸",
         "절경"
       ],
-      "thumbnail": "/static/images/kannawaen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kannawaen.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "벳부의 증기가 피어오르는 언덕에 자리한 칸나와엔은 단순한 숙소를 넘어선 경험을 선사합니다. 숨 막히는 절경을 배경으로 진정한 일본의 '고급 료칸' 문화를 만끽할 수 있는 이곳은 일상의 번잡함에서 벗어나 오롯이 자신에게 집중할 수 있는 완벽한 안식처입니다. 최고급 서비스와 미식의 향연, 그리고 몸과 마음을 치유하는 온천수가 어우러져 잊을 수 없는 추억을 선사할 것입니다.",
@@ -1001,7 +933,7 @@
         "절경",
         "타투 허용"
       ],
-      "thumbnail": "/static/images/ana_intercontinental_beppu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ana_intercontinental_beppu.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "벳푸만의 황홀한 절경과 함께하는 럭셔리 온천 리조트, ANA 인터컨티넨탈 벳푸에서 잊지 못할 휴식을 경험하세요. 현대적인 세련됨과 일본 전통의 미학이 조화된 이곳은 단순한 숙박을 넘어선 감동적인 온천 여행을 선사합니다. 품격 있는 서비스, 미식의 향연, 그리고 몸과 마음을 치유하는 온천수가 완벽한 조화를 이룹니다.",
@@ -1017,7 +949,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_okyakuya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_okyakuya.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "구마모토 미나미오구니의 고즈넉한 흑천 온천마을에 자리한 오캬쿠야는 진정한 로컬 온천 경험을 선사합니다. 정취 넘치는 가족탕에서 사랑하는 이들과 오붓한 시간을 보내고, 자연 속에서 깊은 위안을 찾아보세요. 이곳은 일상에 지친 당신에게 따뜻한 위로와 잊지 못할 추억을 안겨줄 것입니다.",
@@ -1033,7 +965,7 @@
         "Tattoo OK",
         "Local"
       ],
-      "thumbnail": "/static/images/beppu_onsen_takegawara.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_takegawara.jpg",
       "address": "Beppu, Oita",
       "published": "2026-04-12",
       "summary": "Discover the soul of Beppu at Takegawara Onsen, a historic gem where ancient traditions meet modern inclusivity, offering a profoundly authentic local experience. Immerse yourself in the unique sand baths and communal hot springs, where a welcoming atmosphere extends to everyone, including those with tattoos. This iconic bathhouse provides an unparalleled glimpse into Japan's rich onsen culture, promising rejuvenation and a truly memorable journey.",
@@ -1050,7 +982,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/kurokawa_onsen_yumerindo.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
       "summary": "Escape to the serene heart of Kumamoto and discover Kurokawa Onsen Yumerindo, an exquisite ryokan offering unparalleled luxury and tranquility. Indulge in the therapeutic embrace of its private open-air baths, where the pristine waters meet breathtaking panoramic views of nature's majesty. This haven promises an unforgettable journey into traditional Japanese hospitality, enveloped by spectacular scenery and ultimate relaxation.",
@@ -1066,7 +998,7 @@
         "Private Bath",
         "Luxury"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_boun.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_boun.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "Nestled in the heart of Japan's most celebrated hot spring town, Kusatsu Onsen Boun offers an exquisite escape, blending traditional Japanese elegance with unparalleled modern comfort. Guests are invited to immerse themselves in the healing embrace of its legendary acidic waters, indulging in the ultimate privacy of dedicated family baths. This luxury ryokan promises an unforgettable journey of rejuvenation, gastronomic delight, and serene tranquility.",
@@ -1082,7 +1014,7 @@
         "로컬",
         "절경"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_daitokan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_daitokan.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "군마현 구사쓰 온천의 중심부에 자리한 다이토칸은 수백 년의 역사를 간직한 현지 분위기와 숨 막히는 절경이 조화를 이루는 특별한 료칸입니다. 일본 3대 명천의 맑고 풍부한 온천수에 몸을 맡기고, 창밖으로 펼쳐지는 웅장한 자연 경관을 감상하며 진정한 휴식을 경험하세요. 전통과 현대가 어우러진 공간에서 오감을 만족시키는 가이세키 요리와 세심한 환대로 잊지 못할 추억을 선사합니다.",
@@ -1098,7 +1030,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_eidaya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_eidaya.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "쿠사츠 온천의 번화함 속에서 한적한 안식처를 찾는다면 에이다야가 정답입니다. 이곳은 마치 시간마저 멈춘 듯한 고즈넉한 분위기에서 진정한 현지 온천 문화를 경험할 수 있는 곳입니다. 사랑하는 이들과 오붓하게 프라이빗 가족탕에서 몸을 녹이며 일상의 피로를 잊고 깊은 평온을 만끽해 보세요.",
@@ -1114,7 +1046,7 @@
         "Luxury",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_naraya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_naraya.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "Escape to Kusatsu Onsen Naraya, where the ancient traditions of Japanese hospitality meet unparalleled modern luxury in the heart of Gunma. Immerse yourself in the therapeutic embrace of Kusatsu's legendary waters within exquisite private baths, designed for ultimate relaxation and rejuvenation. This exclusive ryokan promises an unforgettable journey of refined elegance, gourmet delights, and profound tranquility.",
@@ -1130,7 +1062,7 @@
         "가족탕",
         "타투 허용"
       ],
-      "thumbnail": "/static/images/yubatake_souan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yubatake_souan.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "쿠사츠 온천의 심장, 유바타케 소안은 일본 전통의 아름다움과 현대적 편의를 겸비한 특별한 료칸입니다. 특히 **문신 허용** 정책과 **프라이빗 가족탕**은 모든 방문객에게 자유롭고 아늑한 휴식을 선사합니다. 세계 3대 온천수의 치유력을 온전히 느끼며, 잊을 수 없는 추억을 만들어보세요.",
@@ -1147,7 +1079,7 @@
         "Private Bath",
         "Great View"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_tokinoniwa.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_tokinoniwa.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "Discover Kusatsu Onsen Tokinoniwa, an opulent sanctuary nestled amidst the breathtaking landscapes of Gunma, offering an unparalleled blend of traditional Japanese hospitality and modern comfort. Immerse yourself in the healing waters of its numerous private baths, each boasting spectacular views, or unwind in the expansive public rotenburo. This luxury ryokan promises an unforgettable escape where every detail is crafted for your utmost relaxation and rejuvenation.",
@@ -1163,7 +1095,7 @@
         "가족탕",
         "절경"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_hotel_village.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_village.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "일본 3대 명천 쿠사츠 온천의 심장부에 자리한 쿠사츠 온천 호텔 빌리지는 가족 단위 여행객에게 완벽한 안식처입니다. 탁 트인 자연 절경을 배경으로 여유롭게 즐기는 전용 가족탕은 잊을 수 없는 추억을 선사하며, 최고급 시설과 세심한 서비스는 진정한 힐링을 약속합니다. 몸과 마음의 피로를 녹이는 온천욕과 미식의 향연, 그리고 쿠사츠의 아름다운 풍경 속에서 완벽한 일본 온천 경험을 만끽하세요.",
@@ -1180,7 +1112,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_konoha.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_konoha.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "Discover Kusatsu Onsen Konoha, an exquisite ryokan offering unparalleled private baths and breathtaking natural vistas amidst the renowned hot spring town of Kusatsu, Gunma. Immerse yourself in the healing waters and indulge in serene luxury, where traditional Japanese hospitality meets modern comfort. This guide unveils everything you need for an unforgettable escape, from therapeutic soaks to gourmet dining and scenic exploration.",
@@ -1196,7 +1128,7 @@
         "타투 허용",
         "절경"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_hotel_ichii.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_ichii.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "구사츠 온센 호텔 이치이는 일본 3대 명천 구사츠의 중심에서 숨 막히는 절경과 최고의 온천 경험을 선사합니다. 문신(타투)에 대한 편견 없이 모든 투숙객을 환영하며 진정한 자유로움 속에서 몸과 마음을 치유할 수 있는 특별한 공간입니다. 전통과 현대가 어우러진 객실, 최상급 가이세키 요리, 그리고 주변 명소 탐방까지, 잊을 수 없는 추억을 선사할 것입니다.",
@@ -1213,7 +1145,7 @@
         "가족탕",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/kusatsu_now_resort_hotel.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_now_resort_hotel.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "일본 3대 명천 쿠사츠 온천의 품격 있는 휴식을 약속하는 쿠사츠 나우 리조트 호텔은 웅장한 자연 경관을 배경으로 한 노천탕과 아늑한 프라이빗 가족탕으로 특별한 경험을 선사합니다. 탁 트인 절경 속에서 몸과 마음의 피로를 녹이고, 최고급 가이세키 요리로 미식의 향연을 즐겨보세요. 가족, 연인, 친구 누구와 함께하더라도 잊지 못할 추억을 만들 수 있는 군마의 보석 같은 료칸입니다.",
@@ -1229,7 +1161,7 @@
         "가족탕",
         "절경"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_konoha.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_konoha.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "군마현 쿠사츠 온천의 심장부에 자리한 쿠사츠 온센 코노하는 가족 단위 여행객에게 완벽한 휴식처를 제공합니다. 이곳에서는 프라이빗한 **가족탕**에서 사랑하는 이들과 오붓한 시간을 보낼 수 있으며, 노천탕에서는 사계절 변화하는 **절경**을 감상하며 잊지 못할 추억을 만들 수 있습니다. 최고급 서비스와 미식 경험, 그리고 쿠사츠 온천수의 특별한 효능까지, 코노하는 몸과 마음을 치유하는 진정한 일본 온천 료칸의 정수를 선사합니다.",
@@ -1245,7 +1177,7 @@
         "Private Bath",
         "Great View"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_hotel_village.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_village.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "Nestled amidst the breathtaking landscapes of Gunma, Kusatsu Onsen Hotel Village offers an unparalleled luxury escape, perfectly blending traditional Japanese hospitality with modern comforts. Immerse yourself in the legendary healing waters of Kusatsu, enjoying the ultimate privacy of your own bath while gazing upon spectacular, ever-changing vistas. This comprehensive guide invites you to discover a sanctuary where relaxation meets sublime natural beauty, promising an experience that rejuvenates body, mind, and soul.",
@@ -1262,7 +1194,7 @@
         "가족탕",
         "절경"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_tokinoniwa.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_tokinoniwa.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "군마현 쿠사츠 온천의 진정한 보석, 토키노니와는 절경을 자랑하는 노천탕과 프라이빗한 가족탕으로 잊을 수 없는 휴식을 선사합니다. 최고급 서비스와 미식의 향연 속에서 일본 전통 료칸의 정수를 경험해보세요. 일상의 번잡함에서 벗어나 오직 나만을 위한 시간을 가질 수 있는 완벽한 힐링 스팟입니다.",
@@ -1279,7 +1211,7 @@
         "Tattoo OK",
         "Luxury"
       ],
-      "thumbnail": "/static/images/yubatake_souan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yubatake_souan.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "Nestled in the heart of legendary Kusatsu Onsen, Yubatake Souan offers an unparalleled blend of traditional Japanese hospitality and modern comfort, featuring exquisite private baths and a welcoming policy for guests with tattoos. This ryokan provides an intimate sanctuary where the rejuvenating power of Kusatsu's famed waters can be savored in utmost privacy and style. Prepare for an unforgettable escape where relaxation, culture, and personalized luxury converge seamlessly.",
@@ -1295,7 +1227,7 @@
         "가족탕",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_naraya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_naraya.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "군마현 쿠사츠 온천의 심장부에 위치한 쿠사츠 온천 나라야는 전통과 현대의 조화가 돋보이는 **고급 료칸**입니다. 이곳에서는 에메랄드빛 유황 온천수에 몸을 담그며 완벽한 휴식을 경험할 수 있으며, 특히 **가족탕**은 소중한 이들과 오붓한 시간을 보낼 수 있는 특별한 공간을 제공합니다. 제철 식재료로 정성껏 준비된 카이세키 요리는 미식의 감동을 선사하고, 주변의 아름다운 자연경관은 여행의 깊이를 더해줍니다.",
@@ -1311,7 +1243,7 @@
         "Private Bath",
         "Great View"
       ],
-      "thumbnail": "/static/images/kusatsu_now_resort_hotel.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_now_resort_hotel.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "Perched majestically amidst the verdant embrace of Kusatsu, Gunma, the Kusatsu Now Resort Hotel offers an unparalleled escape where nature's grandeur meets refined Japanese hospitality. Boasting breathtaking panoramic vistas from its renowned hot spring baths and exquisite private family onsen, it promises a sanctuary of rejuvenation for discerning travelers. Immerse yourself in the therapeutic waters, savor seasonal kaiseki, and experience an unforgettable journey into the heart of Japan's most celebrated onsen town.",
@@ -1328,7 +1260,7 @@
         "Tattoo OK",
         "Luxury"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_hotel_ichii.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_ichii.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "Discover Kusatsu Onsen Hotel Ichii, a sanctuary where the therapeutic embrace of mineral-rich waters meets unparalleled scenic grandeur. This esteemed ryokan proudly welcomes guests with tattoos, ensuring everyone can fully immerse themselves in its traditional charm and modern comforts. Experience a fusion of exquisite Japanese hospitality, gourmet kaiseki dining, and truly unforgettable views that define the quintessential Kusatsu experience.",
@@ -1344,7 +1276,7 @@
         "Local",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_eidaya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_eidaya.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "Nestled in the heart of Kusatsu, Eidaya offers an exquisitely authentic local experience, far removed from the tourist crowds. Immerse yourself in the legendary healing waters of Kusatsu in the serene seclusion of their beautifully appointed private baths. This charming ryokan promises an intimate escape, blending traditional Japanese hospitality with the rejuvenating power of nature's finest springs.",
@@ -1360,7 +1292,7 @@
         "Local",
         "Great View"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_daitokan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_daitokan.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "Discover Kusatsu Onsen Daitokan, a sanctuary where authentic Japanese hospitality meets the vibrant heart of Japan's most celebrated hot spring town. Revel in mineral-rich waters while gazing upon magnificent natural vistas, experiencing a profound connection to Gunma's local culture and serene beauty. This ryokan offers an unparalleled escape, blending tradition with an unforgettable immersion into a truly spectacular landscape.",
@@ -1376,7 +1308,7 @@
         "가족탕",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_boun.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_boun.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-05",
       "summary": "일본 3대 명천 쿠사츠 온천에 위치한 보운 료칸은 가족탕과 품격 있는 서비스를 자랑하는 최고의 휴식처입니다. 아름다운 자연경관 속에서 흐르는 온천수로 몸과 마음의 피로를 씻어내고, 정갈한 가이세키 요리로 미식의 향연을 경험하세요. 전통과 현대의 조화가 돋보이는 공간에서 잊을 수 없는 추억을 만들 수 있습니다.",
@@ -1393,7 +1325,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/yufuin_hotel_shumeikan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_hotel_shumeikan.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "유후인의 고즈넉한 풍경 속에 자리한 유후인 슈메이칸 호텔은 자연과 완벽하게 어우러진 힐링의 안식처입니다. 병풍처럼 펼쳐진 유후다케의 **빼어난 경치**를 감상하며 즐기는 **지역 특유의 온천**은 지친 몸과 마음에 진정한 휴식을 선사합니다. 오직 소수의 여행자만을 위한 특별한 경험, 슈메이칸에서 잊을 수 없는 추억을 만들어보세요.",
@@ -1410,7 +1342,7 @@
         "Private Bath",
         "Great View"
       ],
-      "thumbnail": "/static/images/yufuin_bettei_itsuki.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_bettei_itsuki.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Discover Yufuin Bettei Itsuki, a pinnacle of luxury and serenity nestled in the heart of Oita's picturesque Yufuin. This exquisite ryokan promises an unparalleled escape, offering private onsen experiences and gourmet kaiseki amidst stunning natural beauty. Immerse yourself in refined Japanese hospitality, where every detail is curated for an unforgettable, rejuvenating journey.",
@@ -1427,7 +1359,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/hoshino_resorts_kai_yufuin.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_yufuin.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Nestled in the idyllic setting of Yufuin, Oita, Hoshino Resorts KAI Yufuin offers an unparalleled luxury onsen experience where traditional elegance meets contemporary comfort. Immerse yourself in mineral-rich waters while gazing upon magnificent rice terraces and Mount Yufu, then retreat to meticulously designed rooms that exude a serene wabi-sabi aesthetic. This exquisite ryokan promises a rejuvenating escape, blending privacy with the splendor of nature and the artistry of Japanese hospitality.",
@@ -1443,7 +1375,7 @@
         "고급 료칸",
         "가족탕"
       ],
-      "thumbnail": "/static/images/yufuin_kutsurogi_no_yado_nanakawa.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_kutsurogi_no_yado_nanakawa.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "유후인 쿠츠로기노야도 나나카와는 일본 오이타현 유후인의 아름다운 자연 속에 자리한 최고급 료칸으로, 몸과 마음의 진정한 휴식을 선사합니다. 탁월한 서비스와 품격 있는 시설, 그리고 사랑하는 이들과 오붓한 시간을 보낼 수 있는 전세탕이 완벽한 조화를 이루며 잊지 못할 추억을 선사합니다. 이곳에서 진정한 일본 료칸의 정수를 경험하며 일상의 번잡함에서 벗어나 오롯이 자신에게 집중하는 시간을 가져보세요.",
@@ -1459,7 +1391,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/yufuin_yasuha.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_yasuha.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "오이타 유후인에 자리한 '유후인 야스하'는 번잡함에서 벗어나 오롯이 자연과 하나 되는 **로컬** 감성의 료칸입니다. 전 객실에 마련된 **가족탕**은 사랑하는 이들과 진정한 휴식을 만끽할 수 있는 프라이빗한 공간을 선사하며, 유후다케의 장엄한 풍경 속에서 온천욕의 진수를 경험하게 합니다. 진정한 치유와 평온을 찾아 떠나는 이들에게 야스하는 잊을 수 없는 추억을 선사할 것입니다.",
@@ -1475,7 +1407,7 @@
         "Private Bath",
         "Great View"
       ],
-      "thumbnail": "/static/images/yufuin_ryokan_seikoen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_ryokan_seikoen.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Nestled amidst the serene beauty of Yufuin, Oita, Yufuin Ryokan Seikoen offers an unparalleled escape where traditional Japanese hospitality meets modern comfort. Guests are invited to immerse themselves in luxurious private family baths, each boasting truly spectacular views of Mount Yufu and the surrounding natural splendor. This exquisite ryokan promises a deeply rejuvenating and memorable experience, perfect for those seeking tranquility and authentic Japanese charm.",
@@ -1491,7 +1423,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/makinoya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/makinoya.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "유후인의 고즈넉한 풍경 속에 자리한 마키노야는 북적임 없는 진정한 휴식을 선사하는 로컬 온천 료칸입니다. 이곳에서는 각기 다른 매력을 지닌 전용 가족탕에서 사랑하는 이들과 함께 온전한 시간을 보낼 수 있으며, 현지인처럼 여유로운 온천 문화를 깊이 체험할 수 있습니다. 마키노야는 화려함보다는 진정성과 편안함을 추구하는 여행자에게 잊지 못할 추억을 선사할 것입니다.",
@@ -1508,7 +1440,7 @@
         "절경",
         "로컬"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_sainokawara.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_sainokawara.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-03",
       "summary": "일본 3대 명천 구사츠에 자리한 사이노카와라 온천은 그림 같은 절경과 진정한 로컬의 정취를 자랑합니다. 문신에 대한 편견 없이 모두를 환영하며, 자연과 하나 되는 광활한 노천탕에서 잊을 수 없는 휴식을 선사합니다. 이곳에서 일본 온천 문화의 깊이와 평화를 경험하며 몸과 마음을 치유해 보세요.",
@@ -1524,7 +1456,7 @@
         "고급 료칸",
         "절경"
       ],
-      "thumbnail": "/static/images/yufuin_gettouan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_gettouan.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "오이타 유후인의 그림 같은 자연 속에 자리한 겟토안은 진정한 휴식을 선사하는 최고급 료칸입니다. 객실마다 딸린 노천탕에서 유후다케의 장엄한 절경을 감상하며 프라이빗한 시간을 보내고, 제철 식재료로 정성껏 준비된 가이세키 요리로 오감을 만족시킬 수 있습니다. 전통과 현대의 조화 속에서 완벽한 힐링을 경험할 수 있는 유후인 겟토안으로 당신을 초대합니다.",
@@ -1540,7 +1472,7 @@
         "Private Bath",
         "Local"
       ],
-      "thumbnail": "/static/images/yufu_ryochiku.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufu_ryochiku.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Discover Yufu Ryochiku, a hidden gem nestled in the serene landscapes of Yufuin, offering an authentic escape where local charm meets unparalleled relaxation. Immerse yourself in the therapeutic waters of their exclusive private baths, promising an intimate and rejuvenating experience for families and couples alike. This traditional ryokan embodies the true spirit of Oita's onsen culture, providing a tranquil sanctuary away from the everyday.",
@@ -1557,7 +1489,7 @@
         "Local",
         "Luxury"
       ],
-      "thumbnail": "/static/images/ryokan_yuri.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ryokan_yuri.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Escape to Ryokan Yuri, a sanctuary nestled in the heart of Yufuin, offering an unparalleled blend of local authenticity and serene private onsen experiences. Immerse yourself in the tranquility of Oita's famed hot springs, indulging in exquisite local cuisine and personalized hospitality that defines true Japanese luxury. This hidden gem promises an unforgettable journey into the soul of traditional Japan, perfect for those seeking an intimate and restorative retreat.",
@@ -1573,7 +1505,7 @@
         "타투 허용",
         "절경"
       ],
-      "thumbnail": "/static/images/yufuin_onsen_yufuin-so.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_onsen_yufuin-so.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "오이타 유후인의 그림 같은 자연 속에 자리한 유후인 온천 유후인소는 문신(타투)을 허용하며 방문객에게 편안하고 포괄적인 휴식을 선사합니다. 웅장한 유후다케의 절경을 감상하며 프라이빗한 온천욕을 즐기고, 미식의 향연과 전통적인 료칸의 정취를 만끽할 수 있는 특별한 공간입니다. 이곳에서 진정한 일본 료칸의 매력과 여유를 경험해보세요.",
@@ -1589,7 +1521,7 @@
         "Private Bath",
         "Luxury"
       ],
-      "thumbnail": "/static/images/oyado_ichizen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/oyado_ichizen.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Nestled amidst Yufuin's breathtaking natural beauty, Oyado Ichizen offers an unparalleled luxury ryokan experience, a true sanctuary for the discerning traveler. Indulge in exquisite private hot spring baths, savor meticulously crafted multi-course kaiseki cuisine, and unwind in elegantly appointed rooms designed for ultimate tranquility. This guide unveils every enchanting detail of a stay at Oyado Ichizen, promising an unforgettable journey into the heart of Japanese hospitality and serene relaxation.",
@@ -1605,7 +1537,7 @@
         "가족탕",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/oyado_ichizen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/oyado_ichizen.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "오야도 이치젠은 유후인의 고즈넉한 자연 속에 자리한 최고급 료칸으로, 모든 객실에 딸린 전용 노천탕에서 완벽한 프라이버시를 누릴 수 있는 특별한 공간입니다. 아름다운 유후다케의 절경을 감상하며 즐기는 온천욕과 제철 식재료로 정성껏 준비된 가이세키 요리는 잊지 못할 추억을 선사할 것입니다. 바쁜 일상에서 벗어나 진정한 휴식과 재충전의 시간을 찾는 분들에게 오야도 이치젠은 최상의 선택이 될 것입니다.",
@@ -1622,7 +1554,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/yufuin_onsen_yufuin-so.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_onsen_yufuin-so.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Discover the unparalleled charm of Yufuin Onsen Yufuin-so, a sanctuary where traditional Japanese luxury meets modern inclusivity, offering a rare **tattoo-friendly** experience amidst the stunning landscapes of Oita. Immerse yourself in the tranquility of its private and public baths, each boasting **spectacular views** of the majestic Mount Yufu, promising a serene escape for every discerning traveler. Indulge in exquisite kaiseki dining, refined accommodations, and the rejuvenating embrace of Yufuin's renowned hot springs, creating an unforgettable journey into Japanese hospitality.",
@@ -1639,7 +1571,7 @@
         "로컬",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/ryokan_yuri.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ryokan_yuri.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "유후인의 아름다운 자연 속에 자리한 료칸 유리는 진정한 일본의 환대와 고요한 휴식을 선사합니다. 넓고 아늑한 **가족탕**에서 사랑하는 이들과 프라이빗한 시간을 보내며, 지역 특산물로 정성껏 준비된 **가이세키 요리**로 오감을 만족시킬 수 있습니다. 북적이는 관광지에서 벗어나 **로컬**의 정취를 만끽하고 싶은 분들에게 료칸 유리는 잊지 못할 추억을 선사할 것입니다.",
@@ -1655,7 +1587,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/yufu_ryochiku.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufu_ryochiku.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "유후인 료치쿠는 번잡함에서 벗어나 오직 당신과 당신의 소중한 사람만을 위한 진정한 휴식을 선사하는 특별한 료칸입니다. 이곳은 현대적인 편안함과 일본 전통의 미학이 조화롭게 어우러진 공간에서, 지역 특유의 따뜻한 환대와 함께 최상의 프라이빗 온천 경험을 제공합니다. 몸과 마음의 깊은 치유를 선사할 유후인 료치쿠에서 잊지 못할 추억을 만들어보세요.",
@@ -1671,7 +1603,7 @@
         "고급 료칸",
         "가족탕"
       ],
-      "thumbnail": "/static/images/yufuin_bettei_itsuki.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_bettei_itsuki.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "유후인 벳테이 이츠키는 오이타 유후인의 그림 같은 자연 속에 자리한 럭셔리 료칸으로, 완벽한 프라이빗 온천 경험을 제공합니다. 전 객실에 딸린 전용 노천탕과 아름다운 정원, 그리고 최고급 가이세키 요리가 어우러져 잊을 수 없는 추억을 선사합니다. 번잡함에서 벗어나 오직 당신과 당신의 소중한 이들을 위한 고요하고 안락한 휴식을 경험해보세요.",
@@ -1688,7 +1620,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/yufuin_hotel_shumeikan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_hotel_shumeikan.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Discover Yufuin Hotel Shumeikan, an exquisite sanctuary nestled in the heart of Oita's scenic Yufuin, offering unparalleled panoramic views of Mount Yufu. Immerse yourself in the authentic local culture and hospitality, experiencing luxury accommodations that blend traditional Japanese elegance with modern comfort. This guide unveils an unforgettable journey into tranquility, exceptional onsen experiences, and gourmet kaiseki dining amidst one of Japan's most picturesque hot spring towns.",
@@ -1705,7 +1637,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/yufuin_gettouan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_gettouan.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Nestled amidst the tranquil beauty of Yufuin, Oita, Yufuin Gettouan offers an unparalleled escape into a world of exquisite luxury and breathtaking natural panoramas. This esteemed ryokan, renowned for its private onsen experiences and meticulous hospitality, provides a sanctuary where traditional Japanese elegance meets modern comfort. Guests are invited to immerse themselves in therapeutic hot springs, savor gourmet kaiseki cuisine, and witness the majestic seasonal transformations of Mount Yufu from their secluded havens.",
@@ -1722,7 +1654,7 @@
         "Great View",
         "Local"
       ],
-      "thumbnail": "/static/images/kusatsu_onsen_sainokawara.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_sainokawara.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-03",
       "summary": "Discover the unparalleled raw beauty of Kusatsu Onsen Sainokawara, a majestic outdoor bath inviting all to experience Japan's finest volcanic waters. Immerse yourself in the spectacular natural scenery of Gunma, where ancient traditions blend seamlessly with a welcoming, tattoo-friendly atmosphere. This is more than just a bath; it's an authentic journey into the heart of Japanese hot spring culture, offering profound relaxation and breathtaking views.",
@@ -1738,7 +1670,7 @@
         "Private Bath",
         "Local"
       ],
-      "thumbnail": "/static/images/makinoya.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/makinoya.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Escape to Makinoya Onsen, a hidden gem nestled in the serene landscapes of Yufuin, offering an authentic local experience that rejuvenates the soul. Indulge in the luxury of meticulously designed private baths, perfect for intimate moments with family or loved ones amidst breathtaking natural beauty. This guide unveils every exquisite detail, from its rich traditions to its culinary delights, promising an unforgettable Japanese onsen escape.",
@@ -1755,7 +1687,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/yufuin_ryokan_seikoen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_ryokan_seikoen.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "유후인 료칸 세이코엔은 긴린코 호수 근처에 자리한 숨겨진 보석으로, 프라이빗한 가족탕과 압도적인 자연 절경을 동시에 즐길 수 있는 특별한 료칸입니다. 이곳은 고즈넉한 정원과 전통적인 객실, 그리고 제철 재료로 정성껏 차려지는 가이세키 요리로 오감을 만족시키는 진정한 휴식을 선사합니다. 번잡함에서 벗어나 오직 당신과 소중한 사람들을 위한 평온하고 잊을 수 없는 추억을 만들고 싶다면, 세이코엔이 정답입니다.",
@@ -1772,7 +1704,7 @@
         "Local",
         "Luxury"
       ],
-      "thumbnail": "/static/images/yufuin_yasuha.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_yasuha.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Nestled amidst the tranquil beauty of Yufuin, Oita, Yufuin Yasuha offers an unparalleled escape into authentic Japanese hospitality. Renowned for its exquisite private baths, this ryokan provides a deeply personal and luxurious onsen experience, allowing guests to immerse themselves in pure relaxation. Discover a hidden gem where local charm meets refined elegance, promising an unforgettable journey for the discerning traveler.",
@@ -1788,7 +1720,7 @@
         "Luxury",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/yufuin_kutsurogi_no_yado_nanakawa.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_kutsurogi_no_yado_nanakawa.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "Nestled amidst the breathtaking natural beauty of Yufuin, Oita, Yufuin Kutsurogi no Yado Nanakawa stands as an epitome of refined Japanese hospitality, offering an unparalleled luxury ryokan experience. This exquisite sanctuary is celebrated for its indulgent private family baths, where guests can immerse themselves in therapeutic hot spring waters while enveloped in ultimate privacy and tranquility. Prepare to discover a haven where traditional elegance meets modern comfort, promising a rejuvenating escape for the discerning traveler seeking profound relaxation and cultural immersion.",
@@ -1805,7 +1737,7 @@
         "절경",
         "가족탕"
       ],
-      "thumbnail": "/static/images/hoshino_resorts_kai_yufuin.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_yufuin.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
       "summary": "오이타 유후인의 그림 같은 자연 속에 자리한 호시노 리조트 카이 유후인은 층층이 펼쳐진 논밭과 웅장한 유후다케의 절경이 어우러진, 한 폭의 그림 같은 럭셔리 료칸입니다. 일본 전통 미학과 현대적 편안함이 조화롭게 어우러진 이곳에서, 프라이빗한 시간을 위한 가족탕과 오이타 현의 풍부한 제철 식재료로 빚어낸 미식의 향연은 잊을 수 없는 추억을 선사합니다. 사계절 내내 다채롭게 변모하는 자연 속에서 진정한 휴식과 감동을 경험해 보세요.",
@@ -1821,7 +1753,7 @@
         "Private Bath",
         "Local"
       ],
-      "thumbnail": "/static/images/yufuin_onsen_hinoharu_ryokan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_onsen_hinoharu_ryokan.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-28",
       "summary": "Nestled amidst the serene beauty of Yufuin, Hinoharu Ryokan offers an intimate escape where traditional Japanese hospitality meets unparalleled relaxation. Experience the blissful privacy of its renowned family baths, allowing you to immerse yourself in therapeutic waters without interruption. This local favorite promises an authentic, unforgettable journey into the heart of Oita's onsen culture, making it an essential destination for those seeking genuine tranquility.",
@@ -1838,7 +1770,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/musouen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/musouen.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-28",
       "summary": "유후인 무소엔은 타투에 대한 개방적인 정책과 유후다케를 한눈에 담는 압도적인 절경을 자랑하는 고급 료칸입니다. 지친 일상에서 벗어나 몸과 마음을 치유하고 싶은 이들을 위한 완벽한 안식처로, 오이타의 청정한 자연 속에서 진정한 힐링을 선사합니다. 잊을 수 없는 미식 경험과 일본 전통의 미학이 깃든 공간에서 최고의 휴식을 만끽해 보세요.",
@@ -1855,7 +1787,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/musouen.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/musouen.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-28",
       "summary": "Discover Musouen, a sublime ryokan nestled in Yufuin, Oita, offering an unparalleled onsen experience with breathtaking panoramic views of Mount Yufu. Renowned for its exceptionally welcoming policy towards tattooed guests, Musouen ensures everyone can indulge in the restorative power of its mineral-rich hot springs. This luxury escape perfectly blends traditional Japanese hospitality with modern comfort, promising an unforgettable journey of relaxation and cultural immersion.",
@@ -1871,7 +1803,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/yufuin_onsen_hinoharu_ryokan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_onsen_hinoharu_ryokan.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-28",
       "summary": "유후인의 고즈넉한 풍경 속에 자리한 히노하루 료칸은 가족탕의 따스함과 진정한 현지 문화 체험을 선사합니다. 정성껏 준비된 가이세키 요리와 전통이 살아 숨 쉬는 객실에서 잊을 수 없는 추억을 만들어보세요. 바쁜 일상에서 벗어나 평온을 찾고 싶은 이들에게 완벽한 휴식처입니다.",
@@ -1888,7 +1820,7 @@
         "Local",
         "Luxury"
       ],
-      "thumbnail": "/static/images/yoshiike_ryokan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yoshiike_ryokan.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Discover Yoshiike Ryokan, a hidden gem nestled in the heart of Hakone, offering an unparalleled blend of breathtaking natural beauty and deep-rooted local charm. Immerse yourself in the ultimate luxury experience, where spectacular onsen views, exquisite kaiseki dining, and serene traditional accommodations create an unforgettable Japanese escape. This esteemed ryokan promises a sanctuary of tranquility, inviting you to reconnect with nature and rejuvenate your spirit amidst Hakone's iconic landscapes.",
@@ -1904,7 +1836,7 @@
         "가족탕",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/yufuin_uraku.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_uraku.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-24",
       "summary": "오이타 유후인에 자리한 유후인 우라쿠는 **가족탕**과 **고급 료칸**의 진수를 경험할 수 있는 특별한 휴식처입니다. 병풍처럼 펼쳐진 유후다케의 절경 아래, 프라이빗한 온천과 최상의 서비스로 몸과 마음의 피로를 녹여보세요. 소중한 이들과 함께 잊지 못할 추억을 만들기에 더할 나위 없는 이상적인 공간입니다.",
@@ -1920,7 +1852,7 @@
         "Luxury",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/hakone_kamon.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_kamon.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Discover the epitome of Japanese luxury at Hakone Kamon, a prestigious ryokan nestled in the heart of scenic Hakone, offering an unparalleled serene escape. Indulge in sublime privacy with exquisite private family onsen baths, providing an intimate sanctuary amidst stunning natural beauty and meticulous traditional design. This opulent retreat promises rejuvenating hot springs, gourmet kaiseki dining, and an unforgettable immersion into authentic Japanese hospitality.",
@@ -1936,7 +1868,7 @@
         "Private Bath",
         "Great View"
       ],
-      "thumbnail": "/static/images/hakone_ashinoko_hanaori.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ashinoko_hanaori.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Escape to Hakone Ashinoko Hanaori, a modern ryokan where the serene beauty of Lake Ashi meets unparalleled onsen luxury. Indulge in exquisite private baths and expansive open-air communal baths, all boasting magnificent panoramic views of the lake and surrounding mountains. This extraordinary retreat offers a perfect blend of traditional Japanese hospitality and contemporary comfort, promising an unforgettable journey of relaxation and rejuvenation.",
@@ -1953,7 +1885,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/yufuin_baien.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_baien.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-24",
       "summary": "Nestled amidst the serene beauty of Yufuin, Oita, Yufuin Baien offers an unparalleled luxury onsen experience, blending traditional Japanese hospitality with modern comfort. Guests are invited to indulge in the tranquil embrace of its magnificent private baths, each offering spectacular panoramic views of majestic Mount Yufu. This exquisite ryokan promises an unforgettable escape where relaxation, culinary artistry, and natural splendor converge.",
@@ -1969,7 +1901,7 @@
         "Luxury",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/gora_kadan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/gora_kadan.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Escape to Gora Kadan, an opulent ryokan nestled amidst Hakone's serene landscape, offering an unparalleled blend of traditional Japanese luxury and modern comfort. Indulge in exquisite private onsen experiences and savor world-class kaiseki cuisine that celebrates the region's bountiful seasons. This prestigious retreat promises an unforgettable journey into tranquility and refined elegance, making it a pinnacle of Japanese hospitality.",
@@ -1985,7 +1917,7 @@
         "고급 료칸",
         "가족탕"
       ],
-      "thumbnail": "/static/images/hyatt_regency_hakone.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hyatt_regency_hakone.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 하얏트 리젠시는 고즈넉한 자연 속에서 최상의 럭셔리와 아늑함을 동시에 경험할 수 있는 특별한 **고급 료칸**입니다. 개인의 프라이버시를 존중하는 **가족탕**은 물론, 탁월한 서비스와 미식 경험을 제공하여 진정한 휴식을 선사합니다. 번잡한 일상에서 벗어나 일본의 정수를 만끽하고 싶은 분들께 완벽한 안식처가 되어줄 것입니다.",
@@ -2002,7 +1934,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/hotel_indigo_hakone_gora.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hotel_indigo_hakone_gora.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Immerse yourself in the unparalleled luxury and breathtaking natural beauty of Hotel Indigo Hakone Gora, a modern ryokan offering an exquisite onsen experience. Perched amidst the majestic landscapes of Hakone, this sanctuary blends traditional Japanese hospitality with contemporary elegance and offers spectacular views. Discover serene private baths, innovative gastronomy, and a tranquil escape designed for ultimate rejuvenation and cultural immersion.",
@@ -2018,7 +1950,7 @@
         "고급 료칸",
         "절경"
       ],
-      "thumbnail": "/static/images/yufuin_tamanoyu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_tamanoyu.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-24",
       "summary": "자연의 품에 안겨 진정한 휴식을 선사하는 유후인 타마노유는 일본 최고급 료칸 중 하나로 손꼽힙니다. 유후다케의 웅장한 절경을 배경으로 펼쳐지는 개별 노천탕과 품격 있는 서비스는 잊을 수 없는 경험을 약속합니다. 전통과 현대가 조화를 이루는 공간에서 미식과 온천의 정수를 만끽하며 일상의 피로를 말끔히 씻어내세요.",
@@ -2035,7 +1967,7 @@
         "가족탕",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/ryuguden.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ryuguden.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 아시노코를 품은 류구덴은 압도적인 절경과 함께 진정한 휴식을 선사합니다. 프라이빗 가족탕에서 오직 우리만의 시간을 만끽하고, 섬세한 가이세키 요리로 미식의 향연을 경험하세요. 전통과 현대가 어우러진 공간에서 잊을 수 없는 추억을 만들 수 있는 하이엔드 료칸입니다.",
@@ -2051,7 +1983,7 @@
         "가족탕",
         "로컬"
       ],
-      "thumbnail": "/static/images/hakone_airu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_airu.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 아이루는 북적이는 관광지에서 벗어나 진정한 휴식을 선사하는 로컬 온천 료칸입니다. 전용 가족탕에서 프라이빗한 시간을 보내며 따뜻한 온천수에 몸을 담그고, 지역 특색이 살아있는 가이세키 요리로 미식의 즐거움을 만끽하세요. 가족과의 소중한 순간을 만끽하고 싶은 분들께 이보다 더 완벽한 선택은 없을 것입니다.",
@@ -2068,7 +2000,7 @@
         "Local",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/kamenoi_bessou.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kamenoi_bessou.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-24",
       "summary": "Discover Kamenoi Bessou, an iconic luxury ryokan nestled in the heart of tranquil Yufuin, where traditional elegance meets unparalleled natural beauty. Experience the profound serenity of its exquisite private baths, savor locally sourced kaiseki cuisine, and immerse yourself in an authentic Japanese escape. This esteemed establishment offers a truly local, deeply restorative experience, promising memories that will linger long after your departure.",
@@ -2084,7 +2016,7 @@
         "절경",
         "타투 허용"
       ],
-      "thumbnail": "/static/images/tenseien.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/tenseien.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네의 심장부에 위치한 텐세이엔은 숨 막히는 자연 절경과 함께 진정한 휴식을 선사합니다. 문신에 대한 편견 없이 모두를 환영하며, 깊은 역사와 최고급 서비스로 오직 당신만을 위한 특별한 경험을 제공합니다. 고요한 온천물에 몸을 담그고 일상의 번잡함을 잊어보세요.",
@@ -2101,7 +2033,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/fujiya_hotel.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/fujiya_hotel.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Step into a realm where history, luxury, and nature converge at the iconic Fujiya Hotel in Hakone, a beacon of refined hospitality since 1878. Experience the unparalleled grandeur of its Western-style architecture seamlessly blended with traditional Japanese elements, all while soaking in natural hot springs amidst breathtaking mountain scenery. Indulge in exquisite gastronomy and discover an enchanting escape that transcends time, offering an unforgettable journey for the discerning traveler.",
@@ -2118,7 +2050,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/hakone_ten-yu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ten-yu.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Discover Hakone Ten-yu, a pinnacle of luxury ryokan experiences nestled amidst Hakone's majestic natural beauty. Indulge in sublime private onsen baths, savor exquisite multi-course kaiseki dining, and awaken to panoramic mountain vistas from your elegantly appointed room. This guide unveils everything about your ultimate serene escape, offering unparalleled comfort and a deeply authentic Japanese journey.",
@@ -2134,7 +2066,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/hakone_ginyu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ginyu.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네의 심장부에 자리한 하코네 기인유는 모든 객실에 딸린 전용 노천탕에서 잊을 수 없는 **절경**을 선사하는 **고급 료칸**입니다. 일본 전통 미학과 현대적인 편안함이 완벽하게 조화된 이곳에서 오감을 만족시키는 카이세키 요리와 함께 진정한 휴식을 경험해보세요. 단순한 숙박을 넘어선 평생 기억될 럭셔리 온천 여행을 꿈꾼다면, 하코네 기인유가 바로 그 해답입니다.",
@@ -2151,7 +2083,7 @@
         "Luxury",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/the_prince_hakone_lake_ashinoko.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Discover unparalleled luxury at The Prince Hakone Lake Ashinoko, an exquisite ryokan offering some of Japan's most breathtaking views of Lake Ashi and Mount Fuji. Indulge in sublime hot spring baths, world-class gastronomy, and impeccable service that defines the pinnacle of Japanese hospitality. This is not just a stay; it's an immersive journey into serene beauty and refined elegance.",
@@ -2168,7 +2100,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/hakone_suimeisou.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_suimeisou.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Nestled beside the tranquil Haya River, Hakone Suimeisou offers an unparalleled luxury onsen experience, distinguished by its exquisite private baths and rooms boasting truly breathtaking natural vistas. This ryokan is a sanctuary where traditional Japanese hospitality meets modern comfort, providing an exclusive escape for discerning travelers seeking serenity and natural beauty. Immerse yourself in the therapeutic waters and savor gourmet kaiseki cuisine, all while surrounded by the stunning seasonal landscapes of Hakone.",
@@ -2184,7 +2116,7 @@
         "가족탕",
         "절경"
       ],
-      "thumbnail": "/static/images/hakone_pax_yoshino.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_pax_yoshino.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 팍스 요시노는 일본의 심장 하코네에 자리한 절경의 료칸입니다. 그림 같은 자연 속에서 프라이빗한 가족탕과 함께 최고의 휴식을 선사하며, 오감을 만족시키는 카이세키 요리는 잊을 수 없는 미식 경험을 제공합니다. 사랑하는 이들과 함께 진정한 평온과 감동을 만끽할 수 있는 완벽한 은신처입니다.",
@@ -2201,7 +2133,7 @@
         "절경",
         "가족탕"
       ],
-      "thumbnail": "/static/images/hoshino_resorts_kai_hakone.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_hakone.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네의 아름다운 자연 속에 자리한 호시노 리조트 카이 하코네는 진정한 휴식을 선사하는 **고급 료칸**입니다. 강변의 **절경**을 감상하며 즐기는 노천 온천과 프라이빗한 **가족탕**은 잊지 못할 추억을 선사하며, 미식의 향연인 가이세키 요리는 여행의 품격을 더합니다. 몸과 마음을 치유하는 특별한 온천 경험을 지금 바로 만나보세요.",
@@ -2218,7 +2150,7 @@
         "Private Bath",
         "Luxury"
       ],
-      "thumbnail": "/static/images/kijitei_hoeiso.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kijitei_hoeiso.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Nestled deep within the verdant embrace of Hakone, Kijitei Hoeiso offers an unparalleled retreat into authentic Japanese hospitality, far from the bustling tourist trails. This exceptional ryokan, celebrated for its profound local charm, provides an idyllic sanctuary where the art of the private onsen bath reaches its most exquisite expression. Prepare to immerse yourself in a world of understated luxury, intimate relaxation, and culinary artistry that truly defines a serene escape.",
@@ -2235,7 +2167,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/yufuin_sansou_waremokou.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_sansou_waremokou.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-24",
       "summary": "오이타 유후인의 그림 같은 자연 속에 자리한 유후인 산소 와레모코우는 숨 막히는 절경과 더불어 온전한 프라이버시를 선사하는 고급 료칸입니다. 개인 노천탕이 딸린 객실과 아름다운 전세 가족탕은 방문객에게 특별한 치유와 휴식의 시간을 약속합니다. 몸과 마음을 정화하고 자연의 품에서 진정한 평화를 경험하고 싶다면, 이곳이 바로 당신의 완벽한 선택이 될 것입니다.",
@@ -2252,7 +2184,7 @@
         "Tattoo OK",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/matsuzakaya_honten.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/matsuzakaya_honten.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Nestled in the breathtaking landscapes of Hakone, Matsuzakaya Honten stands as a testament to authentic Japanese hospitality, offering a unique blend of timeless tradition and inclusive modernity. This esteemed ryokan, renowned for its commitment to local heritage, welcomes all guests, even those with tattoos, to immerse themselves in a deeply restorative onsen experience. Discover a sanctuary where private baths, exquisite kaiseki, and stunning natural vistas converge to create an unparalleled luxury retreat.",
@@ -2268,7 +2200,7 @@
         "Private Bath",
         "Tattoo OK"
       ],
-      "thumbnail": "/static/images/hakone_yuryo.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_yuryo.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Discover Hakone Yuryo, a tranquil onsen haven in the heart of Hakone, offering an unparalleled escape into nature's embrace. With its exclusive private baths and welcoming tattoo policy, it provides a deeply personal and inclusive experience for every guest. Immerse yourself in mineral-rich waters and serene surroundings for ultimate rejuvenation.",
@@ -2285,7 +2217,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/hakone_kowakien.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_kowakien.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Discover the unparalleled grandeur of Hakone Kowakien, an exquisite retreat where the serenity of nature intertwines with luxurious Japanese hospitality. Boasting magnificent private baths perfect for families and couples, this destination offers truly spectacular views of Hakone's majestic landscapes. Prepare for an unforgettable journey into relaxation and refined elegance amidst one of Japan's most iconic onsen regions.",
@@ -2302,7 +2234,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/hakone_pax_yoshino.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_pax_yoshino.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Discover Hakone Pax Yoshino, an exquisite ryokan blending traditional Japanese hospitality with modern comforts amidst Hakone's stunning natural beauty. Indulge in luxurious private onsens offering unparalleled views, perfect for an intimate and unforgettable escape. Experience world-class kaiseki dining and impeccable service that redefines luxury relaxation.",
@@ -2319,7 +2251,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/hakone_suimeisou.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_suimeisou.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 스이메이소는 고즈넉한 하코네의 품 안에서 **절경**과 함께 진정한 휴식을 약속하는 럭셔리 료칸입니다. 개인의 프라이버시를 중시하는 **가족탕**은 사랑하는 이들과 오붓한 시간을 보내기에 더할 나위 없이 완벽하며, 사계절 다채롭게 변모하는 자연이 선사하는 감동은 잊을 수 없는 추억을 선사합니다. 전통과 현대가 조화롭게 어우러진 공간에서 미식과 온천의 정수를 경험해보세요.",
@@ -2335,7 +2267,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/the_prince_hakone_lake_ashinoko.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "일본 가나가와현 하코네의 아시노코 호반에 자리한 더 프린스 하코네 레이크 아시노코는 그림 같은 절경과 최상의 서비스로 오직 경험할 수 있는 럭셔리 료칸입니다. 일본 근대 건축의 거장 무라노 도고의 걸작품 속에서 심신을 치유하는 온천욕과 미식의 향연을 즐기며 잊지 못할 추억을 만들어보세요. 사계절 시시각각 변하는 호수의 풍경을 감상하며 진정한 휴식의 가치를 깨달을 수 있는 최고의 선택입니다.",
@@ -2352,7 +2284,7 @@
         "Luxury",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/hakone_ginyu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ginyu.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Discover Hakone Ginyu, an unparalleled luxury ryokan nestled in the majestic mountains of Hakone, offering an exclusive escape where every suite boasts a private open-air onsen and **spectacular scenery**. Immerse yourself in sublime comfort, exquisite Japanese hospitality, and gourmet kaiseki dining, creating an unforgettable retreat for discerning travelers. This isn't just a stay; it's an immersive journey into the heart of Japanese elegance and natural beauty.",
@@ -2369,7 +2301,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/hakone_ten-yu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ten-yu.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 텐유는 일본 가나가와현 하코네의 웅장한 자연 속에 자리한 최고급 료칸입니다. 모든 객실에 전용 노천탕을 갖추고 있어 프라이빗한 휴식을 선사하며, 사계절 변하는 하코네의 절경을 감상하며 진정한 힐링을 경험할 수 있습니다. 특히 가족탕 시설과 함께 최상의 서비스와 미식 경험이 어우러져 잊을 수 없는 추억을 선사합니다.",
@@ -2385,7 +2317,7 @@
         "고급 료칸",
         "절경"
       ],
-      "thumbnail": "/static/images/fujiya_hotel.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/fujiya_hotel.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네의 심장부에 위치한 후지야 호텔은 140여 년의 역사를 자랑하는 일본 최초의 서양식 리조트 호텔로, 시간이 멈춘 듯한 우아함과 최고의 서비스를 선사합니다. 사계절 시시각각 변하는 하코네의 아름다운 자연경관을 온몸으로 느끼며, 품격 있는 온천욕과 미식의 향연을 경험할 수 있는 특별한 공간입니다. 이곳에서 당신의 지친 몸과 마음에 진정한 쉼표를 선물하고 잊지 못할 추억을 만들어보세요.",
@@ -2402,7 +2334,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/tenseien.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/tenseien.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Nestled in the heart of scenic Hakone, Tenseien offers an unparalleled onsen experience, famed for its breathtaking natural vistas and welcoming tattoo policy. Immerse yourself in the healing waters of its expansive open-air baths, surrounded by lush gardens and a majestic waterfall, promising a serene escape unlike any other. This luxurious ryokan harmonizes traditional Japanese hospitality with modern comfort, creating an unforgettable retreat where nature's beauty and relaxation converge.",
@@ -2418,7 +2350,7 @@
         "고급 료칸",
         "로컬"
       ],
-      "thumbnail": "/static/images/kamenoi_bessou.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kamenoi_bessou.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-24",
       "summary": "유후인 긴린코 호수 옆 고요한 숲속에 자리한 카메노이 벳소는 단순한 료칸을 넘어선 특별한 경험을 선사합니다. 료칸의 정수를 느낄 수 있는 전통과 현대의 조화, 그리고 지역의 신선한 식재료로 빚어낸 카이세키 요리는 잊을 수 없는 추억을 선사할 것입니다. 바쁜 일상에서 벗어나 진정한 휴식과 평화를 찾아 떠나보세요.",
@@ -2435,7 +2367,7 @@
         "Local",
         "Luxury"
       ],
-      "thumbnail": "/static/images/hakone_airu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_airu.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Discover Hakone Airu, a hidden gem nestled in the heart of Hakone, offering an unparalleled onsen experience with exquisite private baths and an authentic local atmosphere. Immerse yourself in the tranquility of this luxury ryokan, where tradition meets modern comfort, promising a rejuvenating escape from the everyday. From its pristine hot springs to its seasonal gastronomy, Hakone Airu redefines the art of Japanese hospitality for the discerning traveler.",
@@ -2452,7 +2384,7 @@
         "Great View",
         "Luxury"
       ],
-      "thumbnail": "/static/images/ryuguden.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ryuguden.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Discover Ryuguden, a quintessential Hakone escape, where the ancient art of Japanese bathing meets unparalleled natural beauty. Indulge in sublime private onsen experiences with mesmerizing lake and mountain vistas, and immerse yourself in the epitome of luxury ryokan hospitality. This guide unveils everything you need for an unforgettable, deeply rejuvenating journey.",
@@ -2469,7 +2401,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/hakone_kowakien.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_kowakien.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 코와키엔은 환상적인 절경 속에서 프라이빗한 가족탕을 즐길 수 있는 최고의 고급 료칸입니다. 자연과 어우러진 공간에서 미식의 향연과 더불어 진정한 휴식을 경험하며 소중한 사람들과 잊지 못할 추억을 만들어보세요. 이곳에서의 하룻밤은 단순한 숙박을 넘어, 영혼을 치유하는 특별한 경험이 될 것입니다.",
@@ -2485,7 +2417,7 @@
         "가족탕",
         "타투 허용"
       ],
-      "thumbnail": "/static/images/hakone_yuryo.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_yuryo.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 유료는 문신이 있는 여행객도 마음 편히 온천을 즐길 수 있는 특별한 쉼터입니다. 고요한 숲속에 자리한 이곳은 아늑한 가족 전용탕과 대자연 속 노천탕을 자랑하며, 도심의 번잡함에서 벗어나 진정한 휴식을 선사합니다. 사랑하는 이들과 프라이빗한 시간을 보내며 일본 온천 문화의 정수를 경험해보세요.",
@@ -2501,7 +2433,7 @@
         "로컬",
         "타투 허용"
       ],
-      "thumbnail": "/static/images/matsuzakaya_honten.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/matsuzakaya_honten.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네의 심장부에 자리한 마츠자카야 본점은 오랜 역사와 함께 진정한 현지 정취를 선사하는 특별한 료칸입니다. 문신(타투)에 대한 편견 없이 모든 손님을 따뜻하게 환영하며, 전통적인 일본의 미학과 현대적인 편안함이 조화를 이루는 곳입니다. 이곳에서만 느낄 수 있는 평화로운 온천욕과 정갈한 가이세키 요리, 그리고 주변 자연의 아름다움 속에서 잊을 수 없는 추억을 만들어보세요.",
@@ -2518,7 +2450,7 @@
         "Private Bath",
         "Luxury"
       ],
-      "thumbnail": "/static/images/yufuin_sansou_waremokou.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_sansou_waremokou.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-24",
       "summary": "Discover the unparalleled serenity and natural beauty of Yufuin Sansou Waremokou, a luxury ryokan nestled amidst the picturesque landscapes of Yufuin, Oita. Offering exclusive private onsen baths with spectacular views of majestic Mount Yufu, this sanctuary promises an intimate escape for discerning travelers. Indulge in sublime Japanese hospitality, exquisite local cuisine, and rejuvenating hot spring waters for an unforgettable journey into tranquility.",
@@ -2535,7 +2467,7 @@
         "로컬",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/kijitei_hoeiso.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kijitei_hoeiso.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네의 심장부에 자리한 키지테이 호에이소는 자연과 완벽하게 어우러진 고품격 료칸입니다. 이곳에서는 울창한 숲이 선사하는 고요함 속에서 진정한 현지 문화와 전통을 경험할 수 있습니다. 특히 프라이빗 가족탕은 소중한 이들과 오붓한 시간을 보내며 일상의 번잡함을 잊게 해줄 것입니다.",
@@ -2552,7 +2484,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/hoshino_resorts_kai_hakone.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_hakone.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Nestled beside the tranquil Sukumo River, Hoshino Resorts KAI Hakone redefines the luxury ryokan experience, offering an exquisite blend of traditional Japanese hospitality and contemporary comfort. Guests are invited to immerse themselves in mineral-rich onsen waters, gazing upon breathtaking natural vistas, or retreat to serene private baths. This sanctuary promises an unforgettable escape where every detail is meticulously crafted for profound relaxation and cultural discovery.",
@@ -2568,7 +2500,7 @@
         "Luxury",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/hyatt_regency_hakone.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hyatt_regency_hakone.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "Nestled amidst the serene beauty of Hakone, the Hyatt Regency Hakone offers an exquisite blend of Western luxury and traditional Japanese hospitality, promising an unforgettable onsen escape. Indulge in sublime privacy with their renowned private family baths, perfect for intimate relaxation, while savoring world-class amenities and breathtaking natural vistas. This sanctuary provides a refined haven where every detail is curated for your ultimate comfort and rejuvenation.",
@@ -2585,7 +2517,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/yufuin_baien.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_baien.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-24",
       "summary": "후쿠오카 근교의 숨겨진 보석, 유후인 바이엔은 유후다케의 장엄한 절경을 배경으로 진정한 휴식을 선사하는 고급 료칸입니다. 프라이빗한 가족탕에서 사랑하는 이들과 오붓한 시간을 보내며 일상에 지친 심신을 치유하고, 잊을 수 없는 미식 경험으로 오감을 만족시킬 수 있습니다. 자연 속에서의 고요함과 최상의 서비스를 경험하고 싶다면 유후인 바이엔이 완벽한 선택이 될 것입니다.",
@@ -2602,7 +2534,7 @@
         "절경",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/hakone_ashinoko_hanaori.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ashinoko_hanaori.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 아시노코 하나오리는 아시노코의 숨 막히는 절경을 자랑하는 고급 료칸입니다. 프라이빗 가족탕에서 진정한 휴식을 경험할 수 있으며, 현대적인 편안함과 일본 전통의 미학이 조화롭게 어우러져 있습니다. 대자연 속에서 몸과 마음의 평화를 찾아보세요.",
@@ -2618,7 +2550,7 @@
         "고급 료칸",
         "가족탕"
       ],
-      "thumbnail": "/static/images/hakone_kamon.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_kamon.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 카몬은 일본의 정신이 깃든 풍부한 자연 속에서 최상의 휴식을 선사하는 고급 료칸입니다. 이곳에서는 완벽한 프라이버시를 보장하는 다양한 가족탕을 통해 사랑하는 사람들과 오붓한 시간을 보낼 수 있습니다. 미식의 향연, 전통과 현대가 조화된 객실, 그리고 온몸을 감싸는 온천수의 치유력까지, 잊을 수 없는 추억을 선사할 것입니다.",
@@ -2635,7 +2567,7 @@
         "Luxury",
         "Great View"
       ],
-      "thumbnail": "/static/images/yufuin_uraku.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_uraku.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-24",
       "summary": "Discover Yufuin Uraku, an exquisite luxury ryokan nestled in the heart of Oita's charming Yufuin. Indulge in unparalleled privacy with exclusive private onsen baths, offering rejuvenating mineral waters and stunning vistas of majestic Mount Yufu. Experience traditional Japanese hospitality elevated to an art form, where every detail promises an unforgettable escape into serene elegance.",
@@ -2652,7 +2584,7 @@
         "로컬",
         "고급 료칸"
       ],
-      "thumbnail": "/static/images/yoshiike_ryokan.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yoshiike_ryokan.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네의 심장부에 자리한 요시이케 료칸은 그림 같은 절경과 진정한 로컬 감성을 동시에 선사하는 특별한 휴식처입니다. 천연 온천수에서 몸을 담그고 눈앞에 펼쳐지는 비경을 감상하며 일상의 번잡함을 잊어보세요. 미식과 전통이 어우러진 이곳에서 잊을 수 없는 일본 료칸 체험을 만끽할 수 있습니다.",
@@ -2669,7 +2601,7 @@
         "Great View",
         "Private Bath"
       ],
-      "thumbnail": "/static/images/yufuin_tamanoyu.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_tamanoyu.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-03-24",
       "summary": "Nestled amidst the serene landscapes of Oita, Yufuin Tamanoyu stands as an unparalleled haven of luxury, offering an exquisite onsen experience seamlessly blended with nature's breathtaking beauty. This prestigious ryokan invites guests into a world where refined Japanese hospitality, stunning natural vistas, and rejuvenating hot springs converge to create an unforgettable escape. Discover an oasis of tranquility where every detail is meticulously crafted for profound relaxation and sensory delight, making it a definitive destination for discerning travelers.",
@@ -2685,7 +2617,7 @@
         "고급 료칸",
         "절경"
       ],
-      "thumbnail": "/static/images/hotel_indigo_hakone_gora.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hotel_indigo_hakone_gora.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
       "summary": "하코네 고라 호텔 인디고는 숨 막히는 절경과 현대적인 감각이 어우러진 럭셔리 온천 료칸입니다. 풍부한 미네랄 온천수에 몸을 담그고, 계절의 변화를 온몸으로 느끼며 진정한 휴식을 경험하세요. 이곳에서의 숙박은 단순한 여행을 넘어 오감을 만족시키는 예술적인 경험이 될 것입니다.",

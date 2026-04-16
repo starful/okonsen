@@ -1,15 +1,29 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Luxury
+- Great View
+date: '2026-04-12'
+image_prompt: A luxurious Japanese ryokan (Kannawaen) nestled on a verdant hillside
+  overlooking Beppu Bay at twilight. The scene features elegantly lit traditional
+  architecture with sliding shoji doors, private open-air onsen baths steaming gently,
+  offering panoramic views of the sparkling bay and city lights. Cherry blossoms are
+  subtly blooming, and the overall atmosphere is one of serene luxury, exquisite comfort,
+  and breathtaking natural beauty. The sky is a gradient of deep blue to soft orange,
+  capturing the magic hour. High detail, cinematic, tranquil, inviting.
 lang: en
-title: "Kannawaen: Beppu's Pinnacle of Luxury, Where Breathtaking Vistas Meet Onsen Serenity"
 lat: 33.3155
 lng: 131.4722
-categories: ["Luxury", "Great View"]
-thumbnail: "/static/images/kannawaen.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Perched majestically above Beppu Bay, Kannawaen stands as an epitome of Japanese luxury, offering an unparalleled onsen experience amidst breathtaking natural beauty. This exquisite ryokan masterfully blends traditional elegance with modern comforts, providing guests a serene escape where every detail caters to ultimate relaxation. Indulge in private open-air baths, world-class kaiseki dining, and rooms designed for sublime tranquility, making every stay an unforgettable journey into bliss."
-image_prompt: "A luxurious Japanese ryokan (Kannawaen) nestled on a verdant hillside overlooking Beppu Bay at twilight. The scene features elegantly lit traditional architecture with sliding shoji doors, private open-air onsen baths steaming gently, offering panoramic views of the sparkling bay and city lights. Cherry blossoms are subtly blooming, and the overall atmosphere is one of serene luxury, exquisite comfort, and breathtaking natural beauty. The sky is a gradient of deep blue to soft orange, capturing the magic hour. High detail, cinematic, tranquil, inviting."
+summary: Perched majestically above Beppu Bay, Kannawaen stands as an epitome of Japanese
+  luxury, offering an unparalleled onsen experience amidst breathtaking natural beauty.
+  This exquisite ryokan masterfully blends traditional elegance with modern comforts,
+  providing guests a serene escape where every detail caters to ultimate relaxation.
+  Indulge in private open-air baths, world-class kaiseki dining, and rooms designed
+  for sublime tranquility, making every stay an unforgettable journey into bliss.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kannawaen.jpg
+title: 'Kannawaen: Beppu''s Pinnacle of Luxury, Where Breathtaking Vistas Meet Onsen
+  Serenity'
 ---
 
 ## Introduction: Ascend to Beppu's Apex of Tranquility at Kannawaen

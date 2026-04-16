@@ -1,15 +1,25 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: 'A breathtaking panoramic view from the open-air onsen at Hakone Ashinoko
+  Hanaori, overlooking the serene Lake Ashi and the majestic Mount Fuji in the distance,
+  bathed in soft morning light. The onsen is surrounded by lush autumn foliage, with
+  steam gently rising from the natural hot spring water. A sense of tranquil luxury
+  and deep relaxation is conveyed, with elegant stone and natural wood elements in
+  the foreground. The sky is clear, with a few wispy clouds. Photography style: highly
+  detailed, cinematic, serene, natural beauty.'
 lang: ko
-title: "하코네 아시노코 하나오리: 절경과 프라이빗 온천의 완벽한 조화, 잊지 못할 럭셔리 료칸 체험"
 lat: 35.2399
 lng: 138.9951
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/hakone_ashinoko_hanaori.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 아시노코 하나오리는 아시노코의 숨 막히는 절경을 자랑하는 고급 료칸입니다. 프라이빗 가족탕에서 진정한 휴식을 경험할 수 있으며, 현대적인 편안함과 일본 전통의 미학이 조화롭게 어우러져 있습니다. 대자연 속에서 몸과 마음의 평화를 찾아보세요."
-image_prompt: "A breathtaking panoramic view from the open-air onsen at Hakone Ashinoko Hanaori, overlooking the serene Lake Ashi and the majestic Mount Fuji in the distance, bathed in soft morning light. The onsen is surrounded by lush autumn foliage, with steam gently rising from the natural hot spring water. A sense of tranquil luxury and deep relaxation is conveyed, with elegant stone and natural wood elements in the foreground. The sky is clear, with a few wispy clouds. Photography style: highly detailed, cinematic, serene, natural beauty."
+summary: 하코네 아시노코 하나오리는 아시노코의 숨 막히는 절경을 자랑하는 고급 료칸입니다. 프라이빗 가족탕에서 진정한 휴식을 경험할 수 있으며,
+  현대적인 편안함과 일본 전통의 미학이 조화롭게 어우러져 있습니다. 대자연 속에서 몸과 마음의 평화를 찾아보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ashinoko_hanaori.jpg
+title: '하코네 아시노코 하나오리: 절경과 프라이빗 온천의 완벽한 조화, 잊지 못할 럭셔리 료칸 체험'
 ---
 
 # 하코네 아시노코 하나오리: 아시노코의 심장을 품은 절경 료칸의 정수

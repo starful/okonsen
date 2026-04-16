@@ -1,15 +1,23 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 절경
+- 로컬
+date: '2026-04-12'
+image_prompt: An aerial view of Kusatsu Onsen Hotel Sakurai nestled amidst lush Japanese
+  mountains, with steam rising from its expansive outdoor rotenburo baths. The architecture
+  blends traditional Japanese ryokan elements with modern comfort. Snow-capped peaks
+  in the background, autumn foliage in vibrant reds and golds. A clear, crisp morning
+  light. Professional travel photography style, high resolution, wide angle.
 lang: ko
-title: "숨 막히는 절경과 진정한 로컬 온천의 향연: 쿠사츠 온천 호텔 사쿠라이 완벽 가이드"
 lat: 36.6205
 lng: 138.5999
-categories: ["절경", "로컬"]
-thumbnail: "/static/images/kusatsu_onsen_hotel_sakurai.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-12"
-agoda: ""
-summary: "군마현 쿠사츠 온천의 심장부에 위치한 호텔 사쿠라이는 숨 막히는 자연 경관 속에서 진정한 로컬 온천 경험을 선사합니다. 탁월한 수질의 온천과 최고급 가이세키 요리, 그리고 전통과 현대가 조화된 객실에서 잊을 수 없는 휴식을 만끽하세요. 바쁜 일상에서 벗어나 진정한 재충전을 원하는 여행자에게 이보다 완벽한 곳은 없을 것입니다."
-image_prompt: "An aerial view of Kusatsu Onsen Hotel Sakurai nestled amidst lush Japanese mountains, with steam rising from its expansive outdoor rotenburo baths. The architecture blends traditional Japanese ryokan elements with modern comfort. Snow-capped peaks in the background, autumn foliage in vibrant reds and golds. A clear, crisp morning light. Professional travel photography style, high resolution, wide angle."
+summary: 군마현 쿠사츠 온천의 심장부에 위치한 호텔 사쿠라이는 숨 막히는 자연 경관 속에서 진정한 로컬 온천 경험을 선사합니다. 탁월한 수질의
+  온천과 최고급 가이세키 요리, 그리고 전통과 현대가 조화된 객실에서 잊을 수 없는 휴식을 만끽하세요. 바쁜 일상에서 벗어나 진정한 재충전을 원하는
+  여행자에게 이보다 완벽한 곳은 없을 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_sakurai.jpg
+title: '숨 막히는 절경과 진정한 로컬 온천의 향연: 쿠사츠 온천 호텔 사쿠라이 완벽 가이드'
 ---
 
 # 쿠사츠 온천 호텔 사쿠라이: 대자연 속 힐링의 정수, 당신의 오감을 사로잡다

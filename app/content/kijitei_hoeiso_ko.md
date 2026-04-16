@@ -1,15 +1,25 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: A serene, luxurious Japanese ryokan (Kijitei Hoeiso) nestled deeply
+  within a lush, misty forest in Hakone, Kanagawa. The scene features traditional
+  wooden architecture with subtle lighting, a beautifully landscaped garden with mossy
+  stones and maple trees, and steam gently rising from a secluded outdoor private
+  onsen bath (rotemburo) overlooking a pristine river or valley. The atmosphere is
+  peaceful, exclusive, and authentically Japanese. Focus on natural light, rich textures,
+  and a sense of profound tranquility. Photography, cinematic, ultra-detailed.
 lang: ko
-title: "하코네 키지테이 호에이소: 자연 속 숨겨진 보석, 프라이빗 가족탕으로 완성되는 최고의 휴식"
-lat: 35.2210
+lat: 35.221
 lng: 139.0881
-categories: ["가족탕", "로컬", "고급 료칸"]
-thumbnail: "/static/images/kijitei_hoeiso.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네의 심장부에 자리한 키지테이 호에이소는 자연과 완벽하게 어우러진 고품격 료칸입니다. 이곳에서는 울창한 숲이 선사하는 고요함 속에서 진정한 현지 문화와 전통을 경험할 수 있습니다. 특히 프라이빗 가족탕은 소중한 이들과 오붓한 시간을 보내며 일상의 번잡함을 잊게 해줄 것입니다."
-image_prompt: "A serene, luxurious Japanese ryokan (Kijitei Hoeiso) nestled deeply within a lush, misty forest in Hakone, Kanagawa. The scene features traditional wooden architecture with subtle lighting, a beautifully landscaped garden with mossy stones and maple trees, and steam gently rising from a secluded outdoor private onsen bath (rotemburo) overlooking a pristine river or valley. The atmosphere is peaceful, exclusive, and authentically Japanese. Focus on natural light, rich textures, and a sense of profound tranquility. Photography, cinematic, ultra-detailed."
+summary: 하코네의 심장부에 자리한 키지테이 호에이소는 자연과 완벽하게 어우러진 고품격 료칸입니다. 이곳에서는 울창한 숲이 선사하는 고요함 속에서
+  진정한 현지 문화와 전통을 경험할 수 있습니다. 특히 프라이빗 가족탕은 소중한 이들과 오붓한 시간을 보내며 일상의 번잡함을 잊게 해줄 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kijitei_hoeiso.jpg
+title: '하코네 키지테이 호에이소: 자연 속 숨겨진 보석, 프라이빗 가족탕으로 완성되는 최고의 휴식'
 ---
 
 ## 하코네 키지테이 호에이소: 숲속 비밀 정원에서의 치유

@@ -1,15 +1,31 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Great View
+- Tattoo OK
+- Luxury
+date: '2026-04-05'
+image_prompt: A luxurious traditional Japanese ryokan, 'Kusatsu Onsen Hotel Ichii',
+  nestled amidst the stunning natural beauty of Kusatsu, Gunma. The scene captures
+  an exquisite outdoor rotemburo with steam rising from the therapeutic hot spring
+  waters, overlooking a panoramic vista of snow-capped mountains or vibrant autumn
+  foliage. Sunlight gently bathes the elegant wooden architecture, a guest with tasteful
+  tattoos is visibly enjoying the serene bath, reflecting both the inclusive policy
+  and the breathtaking 'great view' feature, showcasing a perfect blend of tradition,
+  comfort, and natural splendor. --ar 16:9 --v 5.2
 lang: en
-title: "Kusatsu Onsen Hotel Ichii: Where Breathtaking Views Meet Tattoo-Friendly Luxury in Japan's Premier Hot Spring Town"
 lat: 36.6235
 lng: 138.5968
-categories: ["Great View", "Tattoo OK", "Luxury"]
-thumbnail: "/static/images/kusatsu_onsen_hotel_ichii.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "Discover Kusatsu Onsen Hotel Ichii, a sanctuary where the therapeutic embrace of mineral-rich waters meets unparalleled scenic grandeur. This esteemed ryokan proudly welcomes guests with tattoos, ensuring everyone can fully immerse themselves in its traditional charm and modern comforts. Experience a fusion of exquisite Japanese hospitality, gourmet kaiseki dining, and truly unforgettable views that define the quintessential Kusatsu experience."
-image_prompt: "A luxurious traditional Japanese ryokan, 'Kusatsu Onsen Hotel Ichii', nestled amidst the stunning natural beauty of Kusatsu, Gunma. The scene captures an exquisite outdoor rotemburo with steam rising from the therapeutic hot spring waters, overlooking a panoramic vista of snow-capped mountains or vibrant autumn foliage. Sunlight gently bathes the elegant wooden architecture, a guest with tasteful tattoos is visibly enjoying the serene bath, reflecting both the inclusive policy and the breathtaking 'great view' feature, showcasing a perfect blend of tradition, comfort, and natural splendor. --ar 16:9 --v 5.2"
+summary: Discover Kusatsu Onsen Hotel Ichii, a sanctuary where the therapeutic embrace
+  of mineral-rich waters meets unparalleled scenic grandeur. This esteemed ryokan
+  proudly welcomes guests with tattoos, ensuring everyone can fully immerse themselves
+  in its traditional charm and modern comforts. Experience a fusion of exquisite Japanese
+  hospitality, gourmet kaiseki dining, and truly unforgettable views that define the
+  quintessential Kusatsu experience.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_ichii.jpg
+title: 'Kusatsu Onsen Hotel Ichii: Where Breathtaking Views Meet Tattoo-Friendly Luxury
+  in Japan''s Premier Hot Spring Town'
 ---
 
 # Kusatsu Onsen Hotel Ichii: An Unforgettable Journey to Japan's Thermal Heart

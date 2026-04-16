@@ -1,15 +1,29 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 절경
+- 가족탕
+- 고급 료칸
+date: '2026-04-12'
+image_prompt: A luxurious and secluded traditional Japanese ryokan, Kurokawa Onsen
+  Hozantei, nestled deeply within a lush, misty forest in Minamioguni, Kumamoto. The
+  scene features a beautiful private outdoor onsen (rotenburo) with steam gently rising,
+  overlooking a crystal-clear mountain river and vibrant autumn foliage. The architecture
+  is rustic yet elegant, made of dark wood and stone, blending seamlessly with nature.
+  A soft, warm glow emanates from inside the ryokan, hinting at tranquility and comfort.
+  The atmosphere is serene, peaceful, and inviting, with a touch of luxury. Golden
+  hour lighting filters through the trees, casting long shadows. Traditional Japanese
+  garden elements are subtly incorporated around the bath area. Cinematic, high detail,
+  atmospheric.
 lang: ko
-title: "구로카와 온천 호잔테이: 절경 속 프라이빗 온천의 정수, 잊을 수 없는 럭셔리 료칸 경험"
 lat: 33.0911
 lng: 131.1488
-categories: ["절경", "가족탕", "고급 료칸"]
-thumbnail: "/static/images/kurokawa_onsen_hozantei.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "구마모토의 깊은 숲속, 구로카와 온천 호잔테이는 숨 막히는 자연의 절경과 프라이빗한 가족탕으로 완벽한 휴식을 선사합니다. 강이 흐르는 풍경을 감상하며 즐기는 노천탕, 그리고 미식의 향연인 가이세키 요리는 이곳을 잊을 수 없는 럭셔리 료칸으로 만듭니다. 고요한 자연 속에서 오직 당신만을 위한 치유의 시간을 경험해보세요."
-image_prompt: "A luxurious and secluded traditional Japanese ryokan, Kurokawa Onsen Hozantei, nestled deeply within a lush, misty forest in Minamioguni, Kumamoto. The scene features a beautiful private outdoor onsen (rotenburo) with steam gently rising, overlooking a crystal-clear mountain river and vibrant autumn foliage. The architecture is rustic yet elegant, made of dark wood and stone, blending seamlessly with nature. A soft, warm glow emanates from inside the ryokan, hinting at tranquility and comfort. The atmosphere is serene, peaceful, and inviting, with a touch of luxury. Golden hour lighting filters through the trees, casting long shadows. Traditional Japanese garden elements are subtly incorporated around the bath area. Cinematic, high detail, atmospheric."
+summary: 구마모토의 깊은 숲속, 구로카와 온천 호잔테이는 숨 막히는 자연의 절경과 프라이빗한 가족탕으로 완벽한 휴식을 선사합니다. 강이 흐르는
+  풍경을 감상하며 즐기는 노천탕, 그리고 미식의 향연인 가이세키 요리는 이곳을 잊을 수 없는 럭셔리 료칸으로 만듭니다. 고요한 자연 속에서 오직
+  당신만을 위한 치유의 시간을 경험해보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_hozantei.jpg
+title: '구로카와 온천 호잔테이: 절경 속 프라이빗 온천의 정수, 잊을 수 없는 럭셔리 료칸 경험'
 ---
 
 # 구로카와 온천 호잔테이: 자연이 빚어낸 한 폭의 그림 속 힐링 여정

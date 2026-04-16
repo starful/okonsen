@@ -1,15 +1,27 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Luxury
+date: '2026-03-24'
+image_prompt: A serene, luxurious onsen private bath at Ryuguden Hakone, overlooking
+  a misty Lake Ashi with Mount Fuji partially visible in the distance during sunrise.
+  The bath is made of natural stone, steam gently rising, surrounded by lush, traditional
+  Japanese garden elements. Soft, golden hour lighting. High detail, photorealistic,
+  cinematic.
 lang: en
-title: "Ryuguden Hakone: Your Serene Escape to Japan's Most Breathtaking Onsen & Private Luxury"
 lat: 35.2188
 lng: 139.0188
-categories: ["Private Bath", "Great View", "Luxury"]
-thumbnail: "/static/images/ryuguden.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover Ryuguden, a quintessential Hakone escape, where the ancient art of Japanese bathing meets unparalleled natural beauty. Indulge in sublime private onsen experiences with mesmerizing lake and mountain vistas, and immerse yourself in the epitome of luxury ryokan hospitality. This guide unveils everything you need for an unforgettable, deeply rejuvenating journey."
-image_prompt: "A serene, luxurious onsen private bath at Ryuguden Hakone, overlooking a misty Lake Ashi with Mount Fuji partially visible in the distance during sunrise. The bath is made of natural stone, steam gently rising, surrounded by lush, traditional Japanese garden elements. Soft, golden hour lighting. High detail, photorealistic, cinematic."
+summary: Discover Ryuguden, a quintessential Hakone escape, where the ancient art
+  of Japanese bathing meets unparalleled natural beauty. Indulge in sublime private
+  onsen experiences with mesmerizing lake and mountain vistas, and immerse yourself
+  in the epitome of luxury ryokan hospitality. This guide unveils everything you need
+  for an unforgettable, deeply rejuvenating journey.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ryuguden.jpg
+title: 'Ryuguden Hakone: Your Serene Escape to Japan''s Most Breathtaking Onsen &
+  Private Luxury'
 ---
 
 # Ryuguden Hakone: A Sanctuary of Serenity Amidst Japan's Natural Grandeur

@@ -1,15 +1,28 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Private Bath
+- Local
+date: '2026-04-03'
+image_prompt: Exterior view of Makinoya Onsen in Yufuin, Oita, Japan. A traditional
+  Japanese ryokan building with a dark tiled roof and wooden facade, nestled amidst
+  lush green hills and maple trees. The sky is clear blue with soft clouds. A gentle
+  steam rises from a nearby outdoor onsen bath, hinting at tranquility. The scene
+  conveys a sense of serene, traditional luxury and deep connection to nature. Soft,
+  warm morning light.
 lang: en
-title: "Makinoya Onsen: Your Secluded Sanctuary in Yufuin – Experience Authentic Local Charm with Unrivaled Private Baths"
 lat: 33.2666
 lng: 131.3621
-categories: ["Private Bath", "Local"]
-thumbnail: "/static/images/makinoya.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Escape to Makinoya Onsen, a hidden gem nestled in the serene landscapes of Yufuin, offering an authentic local experience that rejuvenates the soul. Indulge in the luxury of meticulously designed private baths, perfect for intimate moments with family or loved ones amidst breathtaking natural beauty. This guide unveils every exquisite detail, from its rich traditions to its culinary delights, promising an unforgettable Japanese onsen escape."
-image_prompt: "Exterior view of Makinoya Onsen in Yufuin, Oita, Japan. A traditional Japanese ryokan building with a dark tiled roof and wooden facade, nestled amidst lush green hills and maple trees. The sky is clear blue with soft clouds. A gentle steam rises from a nearby outdoor onsen bath, hinting at tranquility. The scene conveys a sense of serene, traditional luxury and deep connection to nature. Soft, warm morning light."
+summary: Escape to Makinoya Onsen, a hidden gem nestled in the serene landscapes of
+  Yufuin, offering an authentic local experience that rejuvenates the soul. Indulge
+  in the luxury of meticulously designed private baths, perfect for intimate moments
+  with family or loved ones amidst breathtaking natural beauty. This guide unveils
+  every exquisite detail, from its rich traditions to its culinary delights, promising
+  an unforgettable Japanese onsen escape.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/makinoya.jpg
+title: 'Makinoya Onsen: Your Secluded Sanctuary in Yufuin – Experience Authentic Local
+  Charm with Unrivaled Private Baths'
 ---
 
 # Makinoya Onsen: Discovering Yufuin's Best-Kept Secret for Private Relaxation

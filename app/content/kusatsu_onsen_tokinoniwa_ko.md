@@ -1,15 +1,25 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 고급 료칸
+- 가족탕
+- 절경
+date: '2026-04-05'
+image_prompt: A breathtaking aerial view of Kusatsu Onsen Tokinoniwa ryokan nestled
+  in the snowy Japanese mountains, with steam rising from multiple outdoor onsen baths.
+  The architecture is traditional Japanese, blended seamlessly with luxury elements.
+  Focus on the stunning natural landscape, the intricate details of the ryokan, and
+  the serene atmosphere. Clear, crisp winter lighting, highly detailed, photorealistic,
+  cinematic quality.
 lang: ko
-title: "쿠사츠 온천 토키노니와: 압도적인 절경과 프라이빗한 가족탕이 선사하는 최고의 럭셔리 료칸 경험"
 lat: 36.6199
 lng: 138.6055
-categories: ["고급 료칸", "가족탕", "절경"]
-thumbnail: "/static/images/kusatsu_onsen_tokinoniwa.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "군마현 쿠사츠 온천의 진정한 보석, 토키노니와는 절경을 자랑하는 노천탕과 프라이빗한 가족탕으로 잊을 수 없는 휴식을 선사합니다. 최고급 서비스와 미식의 향연 속에서 일본 전통 료칸의 정수를 경험해보세요. 일상의 번잡함에서 벗어나 오직 나만을 위한 시간을 가질 수 있는 완벽한 힐링 스팟입니다."
-image_prompt: "A breathtaking aerial view of Kusatsu Onsen Tokinoniwa ryokan nestled in the snowy Japanese mountains, with steam rising from multiple outdoor onsen baths. The architecture is traditional Japanese, blended seamlessly with luxury elements. Focus on the stunning natural landscape, the intricate details of the ryokan, and the serene atmosphere. Clear, crisp winter lighting, highly detailed, photorealistic, cinematic quality."
+summary: 군마현 쿠사츠 온천의 진정한 보석, 토키노니와는 절경을 자랑하는 노천탕과 프라이빗한 가족탕으로 잊을 수 없는 휴식을 선사합니다. 최고급
+  서비스와 미식의 향연 속에서 일본 전통 료칸의 정수를 경험해보세요. 일상의 번잡함에서 벗어나 오직 나만을 위한 시간을 가질 수 있는 완벽한 힐링
+  스팟입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_tokinoniwa.jpg
+title: '쿠사츠 온천 토키노니와: 압도적인 절경과 프라이빗한 가족탕이 선사하는 최고의 럭셔리 료칸 경험'
 ---
 
 # 쿠사츠 온천 토키노니와: 시간의 정원에서 만나는 완벽한 휴식

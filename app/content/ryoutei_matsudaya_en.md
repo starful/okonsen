@@ -1,15 +1,32 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Luxury
+- Private Bath
+- Great View
+date: '2026-04-12'
+image_prompt: A luxurious traditional Japanese ryokan, Ryoutei Matsudaya, at dusk
+  in Beppu, Oita. Focus on an outdoor private onsen bath (rotemburo) with steam rising,
+  surrounded by meticulously manicured Japanese gardens and autumnal foliage. The
+  bath water is crystal clear, reflecting soft lantern light. In the background, rolling
+  mountains and a glimpse of the city lights of Beppu under a twilight sky. The architecture
+  is elegant, made of dark wood and subtle lighting, embodying wabi-sabi aesthetics.
+  A small ceramic sake cup rests on the edge of the bath. High detail, cinematic,
+  serene, inviting, aspirational, dramatic lighting.
 lang: en
-title: "Ryoutei Matsudaya: A Serene Escape into Beppu's Luxury Onsen Legacy, Featuring Exquisite Private Baths and Timeless Elegance"
 lat: 33.3166
 lng: 131.4711
-categories: ["Luxury", "Private Bath", "Great View"]
-thumbnail: "/static/images/ryoutei_matsudaya.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Discover Ryoutei Matsudaya, an unparalleled luxury ryokan nestled in the heart of Japan's famed Beppu onsen town, offering an exquisite blend of traditional Japanese hospitality and modern comfort. Indulge in the exclusive tranquility of their private family baths, each meticulously designed to provide an intimate soaking experience amidst breathtaking natural vistas. This sanctuary promises an unforgettable journey into relaxation and refined elegance, making it the ultimate destination for discerning travelers seeking an authentic yet opulent onsen retreat."
-image_prompt: "A luxurious traditional Japanese ryokan, Ryoutei Matsudaya, at dusk in Beppu, Oita. Focus on an outdoor private onsen bath (rotemburo) with steam rising, surrounded by meticulously manicured Japanese gardens and autumnal foliage. The bath water is crystal clear, reflecting soft lantern light. In the background, rolling mountains and a glimpse of the city lights of Beppu under a twilight sky. The architecture is elegant, made of dark wood and subtle lighting, embodying wabi-sabi aesthetics. A small ceramic sake cup rests on the edge of the bath. High detail, cinematic, serene, inviting, aspirational, dramatic lighting."
+summary: Discover Ryoutei Matsudaya, an unparalleled luxury ryokan nestled in the
+  heart of Japan's famed Beppu onsen town, offering an exquisite blend of traditional
+  Japanese hospitality and modern comfort. Indulge in the exclusive tranquility of
+  their private family baths, each meticulously designed to provide an intimate soaking
+  experience amidst breathtaking natural vistas. This sanctuary promises an unforgettable
+  journey into relaxation and refined elegance, making it the ultimate destination
+  for discerning travelers seeking an authentic yet opulent onsen retreat.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ryoutei_matsudaya.jpg
+title: 'Ryoutei Matsudaya: A Serene Escape into Beppu''s Luxury Onsen Legacy, Featuring
+  Exquisite Private Baths and Timeless Elegance'
 ---
 
 ## Introduction: Embark on a Journey to Refined Tranquility at Ryoutei Matsudaya

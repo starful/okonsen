@@ -1,15 +1,26 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 가족탕
+date: '2026-04-03'
+image_prompt: A luxurious Japanese ryokan, Yufuin Bettei Itsuki, nestled in a serene
+  mountain valley in Yufuin, Oita, Japan. The scene features a traditional Japanese
+  building with elegant wooden architecture and shoji screens, surrounded by lush,
+  manicured gardens. In the foreground, a steaming private open-air onsen bath with
+  a view of majestic Mount Yufu. The water is clear and inviting, reflecting the warm
+  glow of the evening sky. Cherry blossoms are subtly blooming in the distance. The
+  atmosphere is tranquil, peaceful, and exuding high-end luxury, with soft, ambient
+  lighting. Natural light, highly detailed, photorealistic.
 lang: ko
-title: "유후인 벳테이 이츠키: 당신의 마음을 사로잡을 럭셔리 료칸에서의 완벽한 휴식과 프라이빗 온천의 향연"
 lat: 33.2677
 lng: 131.3588
-categories: ["고급 료칸", "가족탕"]
-thumbnail: "/static/images/yufuin_bettei_itsuki.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "유후인 벳테이 이츠키는 오이타 유후인의 그림 같은 자연 속에 자리한 럭셔리 료칸으로, 완벽한 프라이빗 온천 경험을 제공합니다. 전 객실에 딸린 전용 노천탕과 아름다운 정원, 그리고 최고급 가이세키 요리가 어우러져 잊을 수 없는 추억을 선사합니다. 번잡함에서 벗어나 오직 당신과 당신의 소중한 이들을 위한 고요하고 안락한 휴식을 경험해보세요."
-image_prompt: "A luxurious Japanese ryokan, Yufuin Bettei Itsuki, nestled in a serene mountain valley in Yufuin, Oita, Japan. The scene features a traditional Japanese building with elegant wooden architecture and shoji screens, surrounded by lush, manicured gardens. In the foreground, a steaming private open-air onsen bath with a view of majestic Mount Yufu. The water is clear and inviting, reflecting the warm glow of the evening sky. Cherry blossoms are subtly blooming in the distance. The atmosphere is tranquil, peaceful, and exuding high-end luxury, with soft, ambient lighting. Natural light, highly detailed, photorealistic."
+summary: 유후인 벳테이 이츠키는 오이타 유후인의 그림 같은 자연 속에 자리한 럭셔리 료칸으로, 완벽한 프라이빗 온천 경험을 제공합니다. 전
+  객실에 딸린 전용 노천탕과 아름다운 정원, 그리고 최고급 가이세키 요리가 어우러져 잊을 수 없는 추억을 선사합니다. 번잡함에서 벗어나 오직 당신과
+  당신의 소중한 이들을 위한 고요하고 안락한 휴식을 경험해보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_bettei_itsuki.jpg
+title: '유후인 벳테이 이츠키: 당신의 마음을 사로잡을 럭셔리 료칸에서의 완벽한 휴식과 프라이빗 온천의 향연'
 ---
 
 ## 유후인 벳테이 이츠키: 자연 속 럭셔리, 당신만을 위한 치유의 공간

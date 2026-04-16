@@ -1,15 +1,30 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Tattoo OK
+- Local
+- Private Bath
+date: '2026-04-12'
+image_prompt: A serene outdoor rotenburo bath at Beppu Onsen Hotel Hakusui, surrounded
+  by lush Japanese garden foliage under a soft morning light. Steam gently rises from
+  the clear, mineral-rich water. A subtly tattooed guest (back view, respectful and
+  artistic) is relaxing in the bath, looking out towards a picturesque, verdant Beppu
+  landscape with a glimpse of the ocean in the distance. Traditional wooden architecture
+  of the ryokan is visible in the background. The atmosphere is peaceful, authentic,
+  and inviting. Highly detailed, cinematic, natural light, 8k.
 lang: en
-title: "Beppu Onsen Hotel Hakusui: An Oasis of Authentic Local Charm and Tattoo-Friendly Serenity"
 lat: 33.2811
 lng: 131.5011
-categories: ["Tattoo OK", "Local", "Private Bath"]
-thumbnail: "/static/images/beppu_onsen_hotel_hakusui.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Escape to Beppu Onsen Hotel Hakusui, a sanctuary where traditional Japanese hospitality meets modern inclusivity, welcoming all guests to experience authentic local charm. Immerse yourself in the healing waters of its renowned baths, offering stunning views and the rare freedom to showcase your personal artistry. Discover a true slice of Beppu's soul, from exquisite seasonal dining to serene tatami rooms, promising an unforgettable journey into relaxation and cultural immersion."
-image_prompt: "A serene outdoor rotenburo bath at Beppu Onsen Hotel Hakusui, surrounded by lush Japanese garden foliage under a soft morning light. Steam gently rises from the clear, mineral-rich water. A subtly tattooed guest (back view, respectful and artistic) is relaxing in the bath, looking out towards a picturesque, verdant Beppu landscape with a glimpse of the ocean in the distance. Traditional wooden architecture of the ryokan is visible in the background. The atmosphere is peaceful, authentic, and inviting. Highly detailed, cinematic, natural light, 8k."
+summary: Escape to Beppu Onsen Hotel Hakusui, a sanctuary where traditional Japanese
+  hospitality meets modern inclusivity, welcoming all guests to experience authentic
+  local charm. Immerse yourself in the healing waters of its renowned baths, offering
+  stunning views and the rare freedom to showcase your personal artistry. Discover
+  a true slice of Beppu's soul, from exquisite seasonal dining to serene tatami rooms,
+  promising an unforgettable journey into relaxation and cultural immersion.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_hotel_hakusui.jpg
+title: 'Beppu Onsen Hotel Hakusui: An Oasis of Authentic Local Charm and Tattoo-Friendly
+  Serenity'
 ---
 
 ## Introduction: Beppu's Embracing Heart – Discovering Hotel Hakusui

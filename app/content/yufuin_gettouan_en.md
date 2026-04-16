@@ -1,15 +1,33 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Luxury
+- Great View
+- Private Bath
+date: '2026-04-03'
+image_prompt: A breathtaking, wide-angle shot of a luxurious Japanese ryokan, Yufuin
+  Gettouan, nestled on a verdant hillside overlooking a serene valley, with the majestic
+  Mount Yufu prominent in the background under a soft, golden hour sky. The scene
+  features a traditional Japanese open-air hot spring bath (rotemburo) with steam
+  gently rising, surrounded by lush, meticulously maintained gardens and natural rock
+  formations. Architectural elements should include elegant wooden structures, shoji
+  screens, and subtle lighting, conveying a sense of tranquility, exclusivity, and
+  profound natural beauty. The atmosphere is peaceful and opulent, with rich textures
+  and vibrant natural colors. --ar 16:9 --v 5.2
 lang: en
-title: "Yufuin Gettouan: A Sanctuary of Serenity, Unparalleled Views, and Ultimate Luxury in Oita's Embracing Nature"
 lat: 33.2588
 lng: 131.3488
-categories: ["Luxury", "Great View", "Private Bath"]
-thumbnail: "/static/images/yufuin_gettouan.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Nestled amidst the tranquil beauty of Yufuin, Oita, Yufuin Gettouan offers an unparalleled escape into a world of exquisite luxury and breathtaking natural panoramas. This esteemed ryokan, renowned for its private onsen experiences and meticulous hospitality, provides a sanctuary where traditional Japanese elegance meets modern comfort. Guests are invited to immerse themselves in therapeutic hot springs, savor gourmet kaiseki cuisine, and witness the majestic seasonal transformations of Mount Yufu from their secluded havens."
-image_prompt: "A breathtaking, wide-angle shot of a luxurious Japanese ryokan, Yufuin Gettouan, nestled on a verdant hillside overlooking a serene valley, with the majestic Mount Yufu prominent in the background under a soft, golden hour sky. The scene features a traditional Japanese open-air hot spring bath (rotemburo) with steam gently rising, surrounded by lush, meticulously maintained gardens and natural rock formations. Architectural elements should include elegant wooden structures, shoji screens, and subtle lighting, conveying a sense of tranquility, exclusivity, and profound natural beauty. The atmosphere is peaceful and opulent, with rich textures and vibrant natural colors. --ar 16:9 --v 5.2"
+summary: Nestled amidst the tranquil beauty of Yufuin, Oita, Yufuin Gettouan offers
+  an unparalleled escape into a world of exquisite luxury and breathtaking natural
+  panoramas. This esteemed ryokan, renowned for its private onsen experiences and
+  meticulous hospitality, provides a sanctuary where traditional Japanese elegance
+  meets modern comfort. Guests are invited to immerse themselves in therapeutic hot
+  springs, savor gourmet kaiseki cuisine, and witness the majestic seasonal transformations
+  of Mount Yufu from their secluded havens.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_gettouan.jpg
+title: 'Yufuin Gettouan: A Sanctuary of Serenity, Unparalleled Views, and Ultimate
+  Luxury in Oita''s Embracing Nature'
 ---
 
 ## Discovering the Untouched Splendor of Yufuin Gettouan: An Oasis of Refined Luxury

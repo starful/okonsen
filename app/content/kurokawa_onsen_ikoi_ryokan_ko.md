@@ -1,16 +1,27 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 타투 허용
+- 절경
+- 로컬
+date: '2026-04-12'
+image_prompt: A serene and atmospheric image of Kurokawa Onsen Ikoi Ryokan in winter,
+  with snow-covered traditional Japanese buildings, steam rising from outdoor onsen
+  baths, lush surrounding forests, and subtle lighting. A Japanese woman with delicate
+  tattoos is relaxing in a beautiful rotenburo, looking out at a stunning, misty mountain
+  landscape. Emphasize the natural beauty, the rustic charm, and the welcoming atmosphere.
+  Use a warm, inviting color palette with hints of traditional Japanese aesthetics.
 lang: ko
-title: "구로카와 온천 이코이 료칸: 숨겨진 비경 속, 문신 환영의 진정한 로컬 온천 경험"
 lat: 33.0811
 lng: 131.1411
-categories: ["타투 허용", "절경", "로컬"]
-thumbnail: "/static/images/kurokawa_onsen_ikoi_ryokan.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "구마모토 미나미오구니의 깊은 산 속에 자리한 이코이 료칸은 빼어난 자연 경관과 진정한 현지 분위기를 만끽할 수 있는 보석 같은 온천입니다. 문신을 한 여행객도 따뜻하게 환영하며, 아늑한 가족탕과 다양한 노천탕에서 몸과 마음의 피로를 완벽하게 풀 수 있습니다. 고요함 속에서 진정한 휴식과 일본 전통의 미학을 경험하고 싶은 분들에게 최고의 선택이 될 것입니다."
-image_prompt: "A serene and atmospheric image of Kurokawa Onsen Ikoi Ryokan in winter, with snow-covered traditional Japanese buildings, steam rising from outdoor onsen baths, lush surrounding forests, and subtle lighting. A Japanese woman with delicate tattoos is relaxing in a beautiful rotenburo, looking out at a stunning, misty mountain landscape. Emphasize the natural beauty, the rustic charm, and the welcoming atmosphere. Use a warm, inviting color palette with hints of traditional Japanese aesthetics."
+summary: 구마모토 미나미오구니의 깊은 산 속에 자리한 이코이 료칸은 빼어난 자연 경관과 진정한 현지 분위기를 만끽할 수 있는 보석 같은 온천입니다.
+  문신을 한 여행객도 따뜻하게 환영하며, 아늑한 가족탕과 다양한 노천탕에서 몸과 마음의 피로를 완벽하게 풀 수 있습니다. 고요함 속에서 진정한 휴식과
+  일본 전통의 미학을 경험하고 싶은 분들에게 최고의 선택이 될 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg
+title: '구로카와 온천 이코이 료칸: 숨겨진 비경 속, 문신 환영의 진정한 로컬 온천 경험'
 ---
+
 # 구로카와 온천 이코이 료칸: 자연의 품에서 만나는 진정한 힐링의 미학
 
 규슈의 심장부, 구마모토현 미나미오구니의 깊은 산자락에 고즈넉이 자리한 **구로카와 온천 이코이 료칸(黒川温泉 いこい旅館)**은 단순한 숙박 시설을 넘어선 하나의 경험, 한 폭의 그림 같은 여정입니다. 복잡한 일상에서 벗어나 진정한 휴식을 갈망하는 이들에게 이곳은 완벽한 안식처를 제공합니다. 첫발을 내딛는 순간, 흐르는 계곡물 소리와 새들의 지저귐, 그리고 쌉쌀한 온천향이 오감을 감싸며 마치 시간 여행을 떠나온 듯한 착각에 빠져들게 합니다. 이코이 료칸은 구로카와 온천 마을의 오랜 역사와 자연의 웅장함을 고스란히 간직한 채, **현지(로컬)의 정취**와 **빼어난 자연 경관(절경)**을 방문객들에게 선사합니다. 특히, 최근 들어 여행자들 사이에서 큰 관심사로 떠오르고 있는 **문신(타투) 허용 정책**은 이 료칸을 더욱 특별하게 만듭니다. 일본의 전통 온천 문화 속에서 문신에 대한 편견 없이 누구든 따뜻하게 환영받을 수 있다는 점은 이코이 료칸이 지닌 포용의 정신을 잘 보여줍니다. 이곳은 자연 속에서 몸과 마음을 정화하고, 일본 전통의 미학과 현대적 편안함이 조화를 이루는 진정한 힐링을 선사합니다. 이 가이드를 통해 이코이 료칸의 모든 매력을 깊이 들여다보고, 잊지 못할 온천 여행을 계획하는 데 필요한 모든 정보를 얻으시길 바랍니다.

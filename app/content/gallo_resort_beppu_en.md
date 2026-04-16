@@ -1,15 +1,26 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Private Bath
+- Great View
+date: '2026-04-12'
+image_prompt: A panoramic view of a luxurious Japanese private onsen bath at Gallo
+  Resort Beppu, overlooking Beppu city lights and Beppu Bay at twilight, steam rising
+  from the hot spring, a couple discreetly enjoying the bath, traditional Japanese
+  architecture visible, serene atmosphere, high detail, volumetric lighting, epic.
 lang: en
-title: "Gallo Resort Beppu: Ascend to Onsen Bliss with Breathtaking Private Family Baths and Unrivaled Panoramas"
 lat: 33.3111
 lng: 131.4755
-categories: ["Private Bath", "Great View"]
-thumbnail: "/static/images/gallo_resort_beppu.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Perched dramatically above Beppu, Gallo Resort Beppu offers an unparalleled onsen escape, famed for its exquisite private family baths that allow for intimate relaxation. Guests are treated to **breathtaking panoramic views** of the city and Beppu Bay, creating an atmosphere of serene luxury. Discover a haven where modern comfort meets traditional Japanese hospitality, promising an unforgettable journey for every discerning traveler."
-image_prompt: "A panoramic view of a luxurious Japanese private onsen bath at Gallo Resort Beppu, overlooking Beppu city lights and Beppu Bay at twilight, steam rising from the hot spring, a couple discreetly enjoying the bath, traditional Japanese architecture visible, serene atmosphere, high detail, volumetric lighting, epic."
+summary: Perched dramatically above Beppu, Gallo Resort Beppu offers an unparalleled
+  onsen escape, famed for its exquisite private family baths that allow for intimate
+  relaxation. Guests are treated to **breathtaking panoramic views** of the city and
+  Beppu Bay, creating an atmosphere of serene luxury. Discover a haven where modern
+  comfort meets traditional Japanese hospitality, promising an unforgettable journey
+  for every discerning traveler.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/gallo_resort_beppu.jpg
+title: 'Gallo Resort Beppu: Ascend to Onsen Bliss with Breathtaking Private Family
+  Baths and Unrivaled Panoramas'
 ---
 
 # Gallo Resort Beppu: Where Sky Meets Steam in a Symphony of Serenity

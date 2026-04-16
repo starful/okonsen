@@ -1,15 +1,27 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Luxury
+- Private Bath
+- Great View
+date: '2026-04-03'
+image_prompt: A luxurious Japanese ryokan room with traditional tatami mats and shoji
+  screens, opening to a private open-air onsen bath with steam rising, overlooking
+  the majestic Mt. Yufu under a clear blue sky, soft morning light, highly detailed,
+  serene atmosphere, high resolution, cinematic lighting, autumn foliage surrounding
+  the bath
 lang: en
-title: "Yufuin Bettei Itsuki: An Exclusive Haven of Luxury, Private Baths, and Breathtaking Views in Japan's Most Serene Onsen Town"
 lat: 33.2677
 lng: 131.3588
-categories: ["Luxury", "Private Bath", "Great View"]
-thumbnail: "/static/images/yufuin_bettei_itsuki.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Discover Yufuin Bettei Itsuki, a pinnacle of luxury and serenity nestled in the heart of Oita's picturesque Yufuin. This exquisite ryokan promises an unparalleled escape, offering private onsen experiences and gourmet kaiseki amidst stunning natural beauty. Immerse yourself in refined Japanese hospitality, where every detail is curated for an unforgettable, rejuvenating journey."
-image_prompt: "A luxurious Japanese ryokan room with traditional tatami mats and shoji screens, opening to a private open-air onsen bath with steam rising, overlooking the majestic Mt. Yufu under a clear blue sky, soft morning light, highly detailed, serene atmosphere, high resolution, cinematic lighting, autumn foliage surrounding the bath"
+summary: Discover Yufuin Bettei Itsuki, a pinnacle of luxury and serenity nestled
+  in the heart of Oita's picturesque Yufuin. This exquisite ryokan promises an unparalleled
+  escape, offering private onsen experiences and gourmet kaiseki amidst stunning natural
+  beauty. Immerse yourself in refined Japanese hospitality, where every detail is
+  curated for an unforgettable, rejuvenating journey.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_bettei_itsuki.jpg
+title: 'Yufuin Bettei Itsuki: An Exclusive Haven of Luxury, Private Baths, and Breathtaking
+  Views in Japan''s Most Serene Onsen Town'
 ---
 
 ## Introduction: Discovering Yufuin Bettei Itsuki – A Sanctuary of Serenity

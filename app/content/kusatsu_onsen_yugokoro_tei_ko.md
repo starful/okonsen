@@ -1,15 +1,26 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 가족탕
+- 절경
+date: '2026-04-12'
+image_prompt: An idyllic and luxurious Japanese ryokan called Kusatsu Onsen Yugokoro
+  Tei, nestled in the snowy mountains of Kusatsu, Gunma. The scene features a private
+  family onsen bath (kashikiri) with steam rising from the mineral-rich water, overlooking
+  a breathtaking panoramic view of a snow-covered valley with traditional Japanese
+  architecture visible in the distance. A serene and peaceful atmosphere, with warm,
+  inviting lighting, subtle touches of traditional Japanese decor, and a sense of
+  exclusive privacy. Morning light filtering through the surrounding nature. Photorealistic,
+  soft focus on steam, crisp details on architecture and nature.
 lang: ko
-title: "쿠사츠 온천 유고코로 테이: 가족과 절경을 만끽하는 프라이빗 힐링, 당신만을 위한 일본 료칸"
 lat: 36.6155
 lng: 138.6033
-categories: ["가족탕", "절경"]
-thumbnail: "/static/images/kusatsu_onsen_yugokoro_tei.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-12"
-agoda: ""
-summary: "일본 3대 명천 중 하나인 쿠사츠 온천에 자리한 유고코로 테이는 가족탕과 숨 막히는 절경으로 오직 당신만을 위한 프라이빗한 휴식을 선사합니다. 솟아나는 온천수와 함께 몸과 마음을 정화하고, 전통과 현대가 어우러진 공간에서 잊지 못할 추억을 만들어보세요. 사계절 아름다운 자연 속에서 진정한 힐링을 경험할 수 있는 최고의 료칸입니다."
-image_prompt: "An idyllic and luxurious Japanese ryokan called Kusatsu Onsen Yugokoro Tei, nestled in the snowy mountains of Kusatsu, Gunma. The scene features a private family onsen bath (kashikiri) with steam rising from the mineral-rich water, overlooking a breathtaking panoramic view of a snow-covered valley with traditional Japanese architecture visible in the distance. A serene and peaceful atmosphere, with warm, inviting lighting, subtle touches of traditional Japanese decor, and a sense of exclusive privacy. Morning light filtering through the surrounding nature. Photorealistic, soft focus on steam, crisp details on architecture and nature."
+summary: 일본 3대 명천 중 하나인 쿠사츠 온천에 자리한 유고코로 테이는 가족탕과 숨 막히는 절경으로 오직 당신만을 위한 프라이빗한 휴식을
+  선사합니다. 솟아나는 온천수와 함께 몸과 마음을 정화하고, 전통과 현대가 어우러진 공간에서 잊지 못할 추억을 만들어보세요. 사계절 아름다운 자연
+  속에서 진정한 힐링을 경험할 수 있는 최고의 료칸입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_yugokoro_tei.jpg
+title: '쿠사츠 온천 유고코로 테이: 가족과 절경을 만끽하는 프라이빗 힐링, 당신만을 위한 일본 료칸'
 ---
 
 # 쿠사츠 온천 유고코로 테이: 대자연 속 프라이빗 힐링의 정수

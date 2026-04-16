@@ -1,15 +1,23 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 고급 료칸
+- 가족탕
+date: '2026-03-24'
+image_prompt: A serene and luxurious outdoor onsen at Hyatt Regency Hakone, surrounded
+  by lush Japanese autumn foliage, steam rising gently from the clear mineral water.
+  The scene should evoke tranquility and elegance, with a hint of traditional Japanese
+  architecture blended seamlessly with modern comfort. Soft, warm lighting, nobody
+  in the bath. Highly detailed, photorealistic, cinematic shot, 8K resolution.
 lang: ko
-title: "하코네 하얏트 리젠시: 자연 속 럭셔리 휴식, 프라이빗 온천이 선사하는 완벽한 힐링"
 lat: 35.2488
 lng: 139.0421
-categories: ["고급 료칸", "가족탕"]
-thumbnail: "/static/images/hyatt_regency_hakone.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 하얏트 리젠시는 고즈넉한 자연 속에서 최상의 럭셔리와 아늑함을 동시에 경험할 수 있는 특별한 **고급 료칸**입니다. 개인의 프라이버시를 존중하는 **가족탕**은 물론, 탁월한 서비스와 미식 경험을 제공하여 진정한 휴식을 선사합니다. 번잡한 일상에서 벗어나 일본의 정수를 만끽하고 싶은 분들께 완벽한 안식처가 되어줄 것입니다."
-image_prompt: "A serene and luxurious outdoor onsen at Hyatt Regency Hakone, surrounded by lush Japanese autumn foliage, steam rising gently from the clear mineral water. The scene should evoke tranquility and elegance, with a hint of traditional Japanese architecture blended seamlessly with modern comfort. Soft, warm lighting, nobody in the bath. Highly detailed, photorealistic, cinematic shot, 8K resolution."
+summary: 하코네 하얏트 리젠시는 고즈넉한 자연 속에서 최상의 럭셔리와 아늑함을 동시에 경험할 수 있는 특별한 **고급 료칸**입니다. 개인의
+  프라이버시를 존중하는 **가족탕**은 물론, 탁월한 서비스와 미식 경험을 제공하여 진정한 휴식을 선사합니다. 번잡한 일상에서 벗어나 일본의 정수를
+  만끽하고 싶은 분들께 완벽한 안식처가 되어줄 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hyatt_regency_hakone.jpg
+title: '하코네 하얏트 리젠시: 자연 속 럭셔리 휴식, 프라이빗 온천이 선사하는 완벽한 힐링'
 ---
 
 ## 하코네 하얏트 리젠시: 숲 속의 럭셔리 안식처, 당신만의 온전한 휴식을 찾아서

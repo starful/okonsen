@@ -1,15 +1,32 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Great View
+- Luxury
+- Private Bath
+date: '2026-04-12'
+image_prompt: A breathtaking panoramic view of the Beppu Suginoi Hotel's iconic Tanayu
+  infinity onsen at dusk, with steam gently rising from the multi-tiered baths. The
+  warm, inviting water reflects the vibrant sunset hues over Beppu Bay and the surrounding
+  mountains, blending seamlessly into the horizon. Elegant Japanese guests are subtly
+  enjoying the expansive outdoor baths, their silhouettes serene against the golden
+  light. The scene emphasizes luxury, profound tranquility, and a spectacular natural
+  backdrop, captured with cinematic lighting and a wide-angle lens, highly detailed,
+  dramatic sky with hints of twilight.
 lang: en
-title: "Ascend to Onsen Heaven: Beppu Suginoi Hotel, Where Panoramic Views Meet Pure Luxury and Serenity"
 lat: 33.2822
 lng: 131.4822
-categories: ["Great View", "Luxury", "Private Bath"]
-thumbnail: "/static/images/beppu_suginoi_hotel.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Perched majestically on a hillside overlooking Beppu Bay, the iconic Beppu Suginoi Hotel offers an unparalleled onsen experience, blending traditional Japanese hospitality with resort-style grandeur. Indulge in its breathtaking multi-tiered open-air baths, exquisite private family onsens, and opulent accommodations, all set against a backdrop of stunning natural beauty. Discover a world where relaxation knows no bounds and every moment is infused with profound tranquility and luxurious comfort."
-image_prompt: "A breathtaking panoramic view of the Beppu Suginoi Hotel's iconic Tanayu infinity onsen at dusk, with steam gently rising from the multi-tiered baths. The warm, inviting water reflects the vibrant sunset hues over Beppu Bay and the surrounding mountains, blending seamlessly into the horizon. Elegant Japanese guests are subtly enjoying the expansive outdoor baths, their silhouettes serene against the golden light. The scene emphasizes luxury, profound tranquility, and a spectacular natural backdrop, captured with cinematic lighting and a wide-angle lens, highly detailed, dramatic sky with hints of twilight."
+summary: Perched majestically on a hillside overlooking Beppu Bay, the iconic Beppu
+  Suginoi Hotel offers an unparalleled onsen experience, blending traditional Japanese
+  hospitality with resort-style grandeur. Indulge in its breathtaking multi-tiered
+  open-air baths, exquisite private family onsens, and opulent accommodations, all
+  set against a backdrop of stunning natural beauty. Discover a world where relaxation
+  knows no bounds and every moment is infused with profound tranquility and luxurious
+  comfort.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_suginoi_hotel.jpg
+title: 'Ascend to Onsen Heaven: Beppu Suginoi Hotel, Where Panoramic Views Meet Pure
+  Luxury and Serenity'
 ---
 
 ## A Majestic Ascent to Onsen Serenity: The Unforgettable Beppu Suginoi Hotel Experience

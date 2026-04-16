@@ -1,15 +1,26 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Local
+- Private Bath
+date: '2026-04-12'
+image_prompt: An inviting, serene Japanese ryokan entrance at dusk, with soft lantern
+  light illuminating traditional wooden architecture and a subtle 'Yamada Bessou'
+  sign. The atmosphere is warm, cozy, and deeply authentic, hinting at a hidden local
+  gem in Beppu, Japan. Traditional stone path, lush but restrained Japanese garden
+  elements, very high detail, photorealistic.
 lang: en
-title: "Yamada Bessou: Your Secluded Sanctuary of Authentic Local Onsen Bliss in Beppu's Heart"
 lat: 33.2825
 lng: 131.5022
-categories: ["Local", "Private Bath"]
-thumbnail: "/static/images/yamada_bessou.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Discover Yamada Bessou, a hidden gem in Beppu, Oita, offering an unparalleled local onsen experience with the ultimate privacy of dedicated family baths. This authentic ryokan provides a deeply immersive escape into Japan's rich hot spring culture, far from the tourist crowds. Immerse yourself in mineral-rich waters and savor genuine Japanese hospitality in a tranquil, intimate setting."
-image_prompt: "An inviting, serene Japanese ryokan entrance at dusk, with soft lantern light illuminating traditional wooden architecture and a subtle 'Yamada Bessou' sign. The atmosphere is warm, cozy, and deeply authentic, hinting at a hidden local gem in Beppu, Japan. Traditional stone path, lush but restrained Japanese garden elements, very high detail, photorealistic."
+summary: Discover Yamada Bessou, a hidden gem in Beppu, Oita, offering an unparalleled
+  local onsen experience with the ultimate privacy of dedicated family baths. This
+  authentic ryokan provides a deeply immersive escape into Japan's rich hot spring
+  culture, far from the tourist crowds. Immerse yourself in mineral-rich waters and
+  savor genuine Japanese hospitality in a tranquil, intimate setting.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yamada_bessou.jpg
+title: 'Yamada Bessou: Your Secluded Sanctuary of Authentic Local Onsen Bliss in Beppu''s
+  Heart'
 ---
 
 # Yamada Bessou: Unveiling Beppu's Best-Kept Secret for Authentic Onsen Serenity

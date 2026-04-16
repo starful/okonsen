@@ -1,4 +1,7 @@
-```
+---
+{}
+---
+
 ---
 lang: en
 title: "Beyond the Ink: Your Ultimate Guide to Tattoo-Friendly Onsen in Japan"
@@ -85,4 +88,3 @@ By demonstrating respect for Japanese culture and traditions, you can contribute
 ## Conclusion: Embracing the Onsen Experience with Confidence
 
 Enjoying a rejuvenating onsen experience in Japan with tattoos is entirely possible with a little planning and preparation. By understanding the historical context, utilizing practical solutions like covering stickers and private baths, and practicing cultural sensitivity, you can confidently navigate the onsen landscape and immerse yourself in this deeply cherished Japanese tradition. Remember to always do your research, confirm policies directly with the onsen, and be respectful of local customs. With this guide in hand, you're well-equipped to embark on a memorable and relaxing onsen journey, tattoos and all. Happy soaking!
-```

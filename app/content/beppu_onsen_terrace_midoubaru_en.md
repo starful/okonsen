@@ -1,15 +1,30 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Luxury
+date: '2026-04-12'
+image_prompt: A luxurious, modern Japanese ryokan private onsen bath at sunset, overlooking
+  Beppu Bay with steam rising from the hot spring water. The bath is made of natural
+  stone, surrounded by subtle Japanese landscaping and wooden decking. The sky is
+  a dramatic palette of orange, pink, and purple, with distant city lights twinkling
+  below and mountains in the background. The scene evokes a sense of tranquility,
+  exclusivity, and profound natural beauty, in a photorealistic style with soft, warm
+  lighting.
 lang: en
-title: "Unveiling Beppu's Zenith: Indulge in Private Hot Spring Luxury with Breathtaking Views at Terrace Midoubaru"
 lat: 33.2911
 lng: 131.4655
-categories: ["Private Bath", "Great View", "Luxury"]
-thumbnail: "/static/images/beppu_onsen_terrace_midoubaru.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Perched majestically above the shimmering Beppu Bay, Beppu Onsen Terrace Midoubaru offers an unparalleled escape where luxury meets nature's grandeur. Guests are invited to immerse themselves in exquisite private onsen baths, each boasting magnificent panoramic vistas that stretch to the horizon. This ryokan redefines relaxation, blending traditional Japanese hospitality with modern comforts for an unforgettable, serene experience."
-image_prompt: "A luxurious, modern Japanese ryokan private onsen bath at sunset, overlooking Beppu Bay with steam rising from the hot spring water. The bath is made of natural stone, surrounded by subtle Japanese landscaping and wooden decking. The sky is a dramatic palette of orange, pink, and purple, with distant city lights twinkling below and mountains in the background. The scene evokes a sense of tranquility, exclusivity, and profound natural beauty, in a photorealistic style with soft, warm lighting."
+summary: Perched majestically above the shimmering Beppu Bay, Beppu Onsen Terrace
+  Midoubaru offers an unparalleled escape where luxury meets nature's grandeur. Guests
+  are invited to immerse themselves in exquisite private onsen baths, each boasting
+  magnificent panoramic vistas that stretch to the horizon. This ryokan redefines
+  relaxation, blending traditional Japanese hospitality with modern comforts for an
+  unforgettable, serene experience.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_terrace_midoubaru.jpg
+title: 'Unveiling Beppu''s Zenith: Indulge in Private Hot Spring Luxury with Breathtaking
+  Views at Terrace Midoubaru'
 ---
 
 ## Unveiling Beppu's Zenith: An Escape to Beppu Onsen Terrace Midoubaru

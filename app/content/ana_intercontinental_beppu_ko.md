@@ -1,15 +1,25 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+- 타투 허용
+date: '2026-04-12'
+image_prompt: A breathtaking aerial view of ANA InterContinental Beppu resort in Oita,
+  Japan, perched on a hillside overlooking the sparkling blue Beppu Bay and the city
+  lights below. The infinity pool and outdoor onsen blend seamlessly with the horizon.
+  The architecture is modern Japanese luxury, with natural materials and expansive
+  glass windows. Golden hour light, serene and sophisticated atmosphere. Ultra-wide
+  shot, cinematic, highly detailed.
 lang: ko
-title: "아나 인터컨티넨탈 벳푸: 절경 속 럭셔리 온천 휴식, 꿈의 료칸 경험"
 lat: 33.3055
 lng: 131.4655
-categories: ["고급 료칸", "절경", "타투 허용"]
-thumbnail: "/static/images/ana_intercontinental_beppu.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "벳푸만의 황홀한 절경과 함께하는 럭셔리 온천 리조트, ANA 인터컨티넨탈 벳푸에서 잊지 못할 휴식을 경험하세요. 현대적인 세련됨과 일본 전통의 미학이 조화된 이곳은 단순한 숙박을 넘어선 감동적인 온천 여행을 선사합니다. 품격 있는 서비스, 미식의 향연, 그리고 몸과 마음을 치유하는 온천수가 완벽한 조화를 이룹니다."
-image_prompt: "A breathtaking aerial view of ANA InterContinental Beppu resort in Oita, Japan, perched on a hillside overlooking the sparkling blue Beppu Bay and the city lights below. The infinity pool and outdoor onsen blend seamlessly with the horizon. The architecture is modern Japanese luxury, with natural materials and expansive glass windows. Golden hour light, serene and sophisticated atmosphere. Ultra-wide shot, cinematic, highly detailed."
+summary: 벳푸만의 황홀한 절경과 함께하는 럭셔리 온천 리조트, ANA 인터컨티넨탈 벳푸에서 잊지 못할 휴식을 경험하세요. 현대적인 세련됨과
+  일본 전통의 미학이 조화된 이곳은 단순한 숙박을 넘어선 감동적인 온천 여행을 선사합니다. 품격 있는 서비스, 미식의 향연, 그리고 몸과 마음을
+  치유하는 온천수가 완벽한 조화를 이룹니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ana_intercontinental_beppu.jpg
+title: '아나 인터컨티넨탈 벳푸: 절경 속 럭셔리 온천 휴식, 꿈의 료칸 경험'
 ---
 
 ## 벳푸의 절경을 품은 럭셔리 온천: ANA 인터컨티넨탈 벳푸, 지상 위의 낙원

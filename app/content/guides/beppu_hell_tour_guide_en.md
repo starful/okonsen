@@ -1,4 +1,7 @@
-```markdown
+---
+{}
+---
+
 ---
 lang: en
 title: "Beppu Onsen: Journey Through the Eight Hells and Relaxing Sand Baths of Kyushu"
