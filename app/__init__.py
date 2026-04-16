@@ -112,7 +112,7 @@ def get_all_guides(lang):
             except: continue
 
     # 2. 날짜 역순(최신순)으로 정렬합니다.
-    sorted_guides = sorted(raw_guides, key=lambda x: x['date'], reverse=True)
+    sorted_guides = sorted(raw_guides, key=lambda x: (x['date'], x['id']), reverse=True)
 
     # 3. 정렬된 리스트를 돌면서 이미지를 할당하되, 이전 이미지와 겹치면 인덱스를 조정합니다.
     last_img_idx = -1

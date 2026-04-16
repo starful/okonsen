@@ -13,16 +13,17 @@ const CATEGORY_MAP = {
 
 async function initPage() {
     try {
-        // 1. 데이터 로드 (API 호출)
-        const response = await fetch(`/api/onsens?lang=${currentLang}`);
+        // 💡 주소 뒤에 ?t=시간값을 붙여서 캐시를 강제로 무효화합니다.
+        const cacheBuster = new Date().getTime();
+        const response = await fetch(`/api/onsens?lang=${currentLang}&v=${cacheBuster}`);
         const data = await response.json();
+        
+        // 풋터 업데이트 (데이터가 잘 왔는지 확인용)
+        console.log("데이터 업데이트 날짜:", data.last_updated);
+        
         allOnsens = data.onsens;
-
-        // 2. 상단 필터 숫자 업데이트 및 리스트 렌더링
         updateFilterStats();
         renderList('all');
-
-        // 3. 지도 초기화
         initMap();
 
     } catch (error) {
