@@ -1,15 +1,26 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 절경
+- 고급 료칸
+date: '2026-04-12'
+image_prompt: A breathtaking panoramic view of Kurokawa Onsen Kurokawaso in late autumn,
+  nestled deep within a lush, vibrant green valley with a crystal-clear river flowing.
+  Traditional Japanese luxury ryokan architecture with dark wood and thatched roofs
+  is subtly integrated into the landscape. Steam rises from multiple outdoor rotenburo
+  baths, some carved into natural rock, others with wooden edges, all offering stunning
+  views of the surrounding autumnal foliage. A sense of serene tranquility and deep
+  luxury pervades the scene. The lighting is soft and golden, suggesting either early
+  morning or late afternoon.
 lang: ko
-title: "구로카와 온천 쿠로카와소: 대자연 속 숨 막히는 절경과 최상급 료칸의 조화, 잊을 수 없는 미학적 경험"
 lat: 33.0805
 lng: 131.1388
-categories: ["절경", "고급 료칸"]
-thumbnail: "/static/images/kurokawa_onsen_kurokawaso.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "구마모토현 미나미오구니에 위치한 쿠로카와 온천 쿠로카와소는 자연의 웅장함과 럭셔리 료칸의 정수를 완벽하게 결합한 독보적인 휴식처입니다. 계곡과 숲이 어우러진 대자연 속에서 펼쳐지는 숨 막히는 절경을 감상하며, 최상급 서비스와 미식 경험을 통해 진정한 일본의 아름다움을 만끽할 수 있습니다. 이곳은 일상에서 벗어나 깊은 평온과 재충전을 선사하는, 미학적으로나 영적으로나 더할 나위 없는 이상적인 도피처입니다."
-image_prompt: "A breathtaking panoramic view of Kurokawa Onsen Kurokawaso in late autumn, nestled deep within a lush, vibrant green valley with a crystal-clear river flowing. Traditional Japanese luxury ryokan architecture with dark wood and thatched roofs is subtly integrated into the landscape. Steam rises from multiple outdoor rotenburo baths, some carved into natural rock, others with wooden edges, all offering stunning views of the surrounding autumnal foliage. A sense of serene tranquility and deep luxury pervades the scene. The lighting is soft and golden, suggesting either early morning or late afternoon."
+summary: 구마모토현 미나미오구니에 위치한 쿠로카와 온천 쿠로카와소는 자연의 웅장함과 럭셔리 료칸의 정수를 완벽하게 결합한 독보적인 휴식처입니다.
+  계곡과 숲이 어우러진 대자연 속에서 펼쳐지는 숨 막히는 절경을 감상하며, 최상급 서비스와 미식 경험을 통해 진정한 일본의 아름다움을 만끽할 수
+  있습니다. 이곳은 일상에서 벗어나 깊은 평온과 재충전을 선사하는, 미학적으로나 영적으로나 더할 나위 없는 이상적인 도피처입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_kurokawaso.jpg
+title: '구로카와 온천 쿠로카와소: 대자연 속 숨 막히는 절경과 최상급 료칸의 조화, 잊을 수 없는 미학적 경험'
 ---
 
 # 구로카와 온천 쿠로카와소: 대자연 속 비경과 최상급 료칸의 조화, 잊을 수 없는 미학적 경험

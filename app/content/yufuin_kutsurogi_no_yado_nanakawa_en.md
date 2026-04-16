@@ -1,15 +1,32 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Luxury
+- Private Bath
+date: '2026-04-03'
+image_prompt: A serene and luxurious Japanese ryokan, Yufuin Kutsurogi no Yado Nanakawa,
+  at dusk. The scene features traditional wooden architecture with subtle interior
+  lighting, intricate shoji screens glowing softly, and a lush, meticulously maintained
+  Japanese garden visible through large windows. In the foreground, a private outdoor
+  onsen bath, steaming gently, is surrounded by natural stone and autumnal maple leaves.
+  Mount Yufu is majestically silhouetted in the background under a twilight sky with
+  soft, diffuse clouds. The atmosphere is one of profound tranquility, elegant comfort,
+  and exquisite natural beauty, evoking a sense of peaceful retreat. High detail,
+  photorealistic, dramatic lighting, subtle mist.
 lang: en
-title: "Yufuin Kutsurogi no Yado Nanakawa: A Sanctuary of Serenity, Luxury, and Private Onsen Bliss in Oita"
 lat: 33.2688
 lng: 131.3655
-categories: ["Luxury", "Private Bath"]
-thumbnail: "/static/images/yufuin_kutsurogi_no_yado_nanakawa.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Nestled amidst the breathtaking natural beauty of Yufuin, Oita, Yufuin Kutsurogi no Yado Nanakawa stands as an epitome of refined Japanese hospitality, offering an unparalleled luxury ryokan experience. This exquisite sanctuary is celebrated for its indulgent private family baths, where guests can immerse themselves in therapeutic hot spring waters while enveloped in ultimate privacy and tranquility. Prepare to discover a haven where traditional elegance meets modern comfort, promising a rejuvenating escape for the discerning traveler seeking profound relaxation and cultural immersion."
-image_prompt: "A serene and luxurious Japanese ryokan, Yufuin Kutsurogi no Yado Nanakawa, at dusk. The scene features traditional wooden architecture with subtle interior lighting, intricate shoji screens glowing softly, and a lush, meticulously maintained Japanese garden visible through large windows. In the foreground, a private outdoor onsen bath, steaming gently, is surrounded by natural stone and autumnal maple leaves. Mount Yufu is majestically silhouetted in the background under a twilight sky with soft, diffuse clouds. The atmosphere is one of profound tranquility, elegant comfort, and exquisite natural beauty, evoking a sense of peaceful retreat. High detail, photorealistic, dramatic lighting, subtle mist."
+summary: Nestled amidst the breathtaking natural beauty of Yufuin, Oita, Yufuin Kutsurogi
+  no Yado Nanakawa stands as an epitome of refined Japanese hospitality, offering
+  an unparalleled luxury ryokan experience. This exquisite sanctuary is celebrated
+  for its indulgent private family baths, where guests can immerse themselves in therapeutic
+  hot spring waters while enveloped in ultimate privacy and tranquility. Prepare to
+  discover a haven where traditional elegance meets modern comfort, promising a rejuvenating
+  escape for the discerning traveler seeking profound relaxation and cultural immersion.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_kutsurogi_no_yado_nanakawa.jpg
+title: 'Yufuin Kutsurogi no Yado Nanakawa: A Sanctuary of Serenity, Luxury, and Private
+  Onsen Bliss in Oita'
 ---
 
 ## Introduction: Discovering Yufuin's Emerald Gem

@@ -1,15 +1,29 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 절경
+- 가족탕
+- 고급 료칸
+date: '2026-04-12'
+image_prompt: A highly detailed, picturesque wide-angle shot of Kurokawa Onsen Yamamizuki
+  in autumn, nestled within a lush valley with vibrant red and orange foliage. The
+  main building features traditional Japanese architecture with dark wooden elements
+  and shoji screens, subtly lit by warm interior lights. A winding river flows gently
+  in the foreground, with mist rising softly from its surface. Several natural rock
+  open-air baths (rotenburo) are visible, subtly integrated into the landscape, with
+  steam gently wafting off the water. A few guests are seen enjoying the baths, small
+  and blurred, emphasizing the natural setting. The sky is a clear, deep blue, with
+  a few soft clouds. The overall mood is serene, luxurious, and deeply peaceful. Volumetric
+  lighting, cinematic, ultra-realistic, photorealistic, UHD, 8k, award-winning photography.
 lang: ko
-title: "아소의 비경 속 힐링: 쿠로카와 온천 야마미즈키, 자연이 선사하는 최고의 휴식처"
 lat: 33.0844
 lng: 131.1455
-categories: ["절경", "가족탕", "고급 료칸"]
-thumbnail: "/static/images/kurokawa_onsen_yamamizuki.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "구마모토 아소산 자락에 자리한 쿠로카와 온천 야마미즈키는 웅장한 자연 속에서 진정한 휴식을 선사하는 고급 료칸입니다. 계곡을 따라 흐르는 강물 소리를 들으며 즐기는 노천탕의 절경과 프라이빗한 가족탕은 잊지 못할 추억을 선사하며, 지역 특산물을 활용한 가이세키 요리로 오감을 만족시킵니다. 바쁜 일상에서 벗어나 자연의 품에서 깊은 위로와 재충전을 경험하고 싶은 이들에게 야마미즈키는 더없이 완벽한 선택이 될 것입니다."
-image_prompt: "A highly detailed, picturesque wide-angle shot of Kurokawa Onsen Yamamizuki in autumn, nestled within a lush valley with vibrant red and orange foliage. The main building features traditional Japanese architecture with dark wooden elements and shoji screens, subtly lit by warm interior lights. A winding river flows gently in the foreground, with mist rising softly from its surface. Several natural rock open-air baths (rotenburo) are visible, subtly integrated into the landscape, with steam gently wafting off the water. A few guests are seen enjoying the baths, small and blurred, emphasizing the natural setting. The sky is a clear, deep blue, with a few soft clouds. The overall mood is serene, luxurious, and deeply peaceful. Volumetric lighting, cinematic, ultra-realistic, photorealistic, UHD, 8k, award-winning photography."
+summary: 구마모토 아소산 자락에 자리한 쿠로카와 온천 야마미즈키는 웅장한 자연 속에서 진정한 휴식을 선사하는 고급 료칸입니다. 계곡을 따라
+  흐르는 강물 소리를 들으며 즐기는 노천탕의 절경과 프라이빗한 가족탕은 잊지 못할 추억을 선사하며, 지역 특산물을 활용한 가이세키 요리로 오감을
+  만족시킵니다. 바쁜 일상에서 벗어나 자연의 품에서 깊은 위로와 재충전을 경험하고 싶은 이들에게 야마미즈키는 더없이 완벽한 선택이 될 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yamamizuki.jpg
+title: '아소의 비경 속 힐링: 쿠로카와 온천 야마미즈키, 자연이 선사하는 최고의 휴식처'
 ---
 
 # 자연의 품에서 찾은 완벽한 안식, 쿠로카와 온천 야마미즈키

@@ -1,15 +1,31 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Great View
+- Local
+- Luxury
+date: '2026-03-24'
+image_prompt: A serene aerial view of Yoshiike Ryokan in Hakone, Japan, nestled amidst
+  lush, vibrant autumn foliage with crimson and golden leaves. The traditional Japanese
+  wooden architecture of the ryokan features multiple open-air onsen baths visible,
+  some with steam rising gently, overlooking a meticulously manicured Japanese garden
+  and a distant view of Mount Fuji softly outlined by the morning light. The scene
+  is bathed in a soft, warm, golden hour glow, evoking a sense of tranquility and
+  luxury. High detail, photographic, hyperrealistic, autumn morning, no people, wide
+  shot.
 lang: en
-title: "Yoshiike Ryokan: Your Serene Escape to Hakone's Majestic Beauty and Authentic Luxury"
 lat: 35.2305
 lng: 139.1042
-categories: ["Great View", "Local", "Luxury"]
-thumbnail: "/static/images/yoshiike_ryokan.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover Yoshiike Ryokan, a hidden gem nestled in the heart of Hakone, offering an unparalleled blend of breathtaking natural beauty and deep-rooted local charm. Immerse yourself in the ultimate luxury experience, where spectacular onsen views, exquisite kaiseki dining, and serene traditional accommodations create an unforgettable Japanese escape. This esteemed ryokan promises a sanctuary of tranquility, inviting you to reconnect with nature and rejuvenate your spirit amidst Hakone's iconic landscapes."
-image_prompt: "A serene aerial view of Yoshiike Ryokan in Hakone, Japan, nestled amidst lush, vibrant autumn foliage with crimson and golden leaves. The traditional Japanese wooden architecture of the ryokan features multiple open-air onsen baths visible, some with steam rising gently, overlooking a meticulously manicured Japanese garden and a distant view of Mount Fuji softly outlined by the morning light. The scene is bathed in a soft, warm, golden hour glow, evoking a sense of tranquility and luxury. High detail, photographic, hyperrealistic, autumn morning, no people, wide shot."
+summary: Discover Yoshiike Ryokan, a hidden gem nestled in the heart of Hakone, offering
+  an unparalleled blend of breathtaking natural beauty and deep-rooted local charm.
+  Immerse yourself in the ultimate luxury experience, where spectacular onsen views,
+  exquisite kaiseki dining, and serene traditional accommodations create an unforgettable
+  Japanese escape. This esteemed ryokan promises a sanctuary of tranquility, inviting
+  you to reconnect with nature and rejuvenate your spirit amidst Hakone's iconic landscapes.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yoshiike_ryokan.jpg
+title: 'Yoshiike Ryokan: Your Serene Escape to Hakone''s Majestic Beauty and Authentic
+  Luxury'
 ---
 
 ## Yoshiike Ryokan: A Masterpiece of Tranquility and Scenic Grandeur in Hakone

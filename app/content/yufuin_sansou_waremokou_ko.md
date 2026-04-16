@@ -1,15 +1,27 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: An exquisite, serene Japanese ryokan, Yufuin Sansou Waremokou, nestled
+  in the lush, verdant mountains of Yufuin, Oita. The scene features a private open-air
+  onsen bath with steam gently rising, offering a breathtaking panoramic view of the
+  majestic Mount Yufu in the distance, bathed in the soft glow of a late afternoon
+  sun. Traditional wooden architecture with sliding shoji screens, a meticulously
+  maintained garden with moss-covered stones and a single, perfectly placed maple
+  tree with subtle autumn foliage. A sense of tranquil luxury and deep relaxation
+  pervades the atmosphere. Focus on warm, inviting lighting and natural materials.
 lang: ko
-title: "유후인 산소 와레모코우: 절경 속 프라이빗 온천, 잊지 못할 가족탕 경험"
 lat: 33.2555
 lng: 131.3551
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/yufuin_sansou_waremokou.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-24"
-agoda: ""
-summary: "오이타 유후인의 그림 같은 자연 속에 자리한 유후인 산소 와레모코우는 숨 막히는 절경과 더불어 온전한 프라이버시를 선사하는 고급 료칸입니다. 개인 노천탕이 딸린 객실과 아름다운 전세 가족탕은 방문객에게 특별한 치유와 휴식의 시간을 약속합니다. 몸과 마음을 정화하고 자연의 품에서 진정한 평화를 경험하고 싶다면, 이곳이 바로 당신의 완벽한 선택이 될 것입니다."
-image_prompt: "An exquisite, serene Japanese ryokan, Yufuin Sansou Waremokou, nestled in the lush, verdant mountains of Yufuin, Oita. The scene features a private open-air onsen bath with steam gently rising, offering a breathtaking panoramic view of the majestic Mount Yufu in the distance, bathed in the soft glow of a late afternoon sun. Traditional wooden architecture with sliding shoji screens, a meticulously maintained garden with moss-covered stones and a single, perfectly placed maple tree with subtle autumn foliage. A sense of tranquil luxury and deep relaxation pervades the atmosphere. Focus on warm, inviting lighting and natural materials."
+summary: 오이타 유후인의 그림 같은 자연 속에 자리한 유후인 산소 와레모코우는 숨 막히는 절경과 더불어 온전한 프라이버시를 선사하는 고급 료칸입니다.
+  개인 노천탕이 딸린 객실과 아름다운 전세 가족탕은 방문객에게 특별한 치유와 휴식의 시간을 약속합니다. 몸과 마음을 정화하고 자연의 품에서 진정한
+  평화를 경험하고 싶다면, 이곳이 바로 당신의 완벽한 선택이 될 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_sansou_waremokou.jpg
+title: '유후인 산소 와레모코우: 절경 속 프라이빗 온천, 잊지 못할 가족탕 경험'
 ---
 
 ## 서론: 유후인 산소 와레모코우에 대한 첫인상

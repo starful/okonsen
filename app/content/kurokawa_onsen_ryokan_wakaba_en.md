@@ -1,15 +1,29 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- Private Bath
+- Local
+date: '2026-04-12'
+image_prompt: A serene and inviting traditional Japanese onsen ryokan, Kurokawa Onsen
+  Ryokan Wakaba, nestled within a lush, verdant forest in Kumamoto, Japan, during
+  early autumn. A cozy wooden private outdoor bath (kashikiri rotenburo) is steaming
+  gently, surrounded by moss-covered rocks and vibrant red and orange maple leaves.
+  The bath is empty, waiting, with soft morning light filtering through the trees.
+  The architecture of the ryokan features dark wood and shoji screens, reflecting
+  traditional wabi-sabi aesthetics. High detail, photorealistic, peaceful atmosphere.
 lang: en
-title: "Unveiling the Serene Heart of Kurokawa: Ryokan Wakaba, Where Private Bliss Meets Authentic Local Charm"
 lat: 33.0822
 lng: 131.1422
-categories: ["Private Bath", "Local"]
-thumbnail: "/static/images/kurokawa_onsen_ryokan_wakaba.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "Escape to Kurokawa Onsen Ryokan Wakaba, a hidden gem nestled in Minamioguni, Kumamoto, offering an unparalleled retreat into authentic Japanese hospitality. Indulge in the exclusive tranquility of private family baths, celebrated for their therapeutic waters and intimate setting. Experience a true taste of local culture and culinary excellence amidst the breathtaking natural beauty of Aso-Kuju National Park."
-image_prompt: "A serene and inviting traditional Japanese onsen ryokan, Kurokawa Onsen Ryokan Wakaba, nestled within a lush, verdant forest in Kumamoto, Japan, during early autumn. A cozy wooden private outdoor bath (kashikiri rotenburo) is steaming gently, surrounded by moss-covered rocks and vibrant red and orange maple leaves. The bath is empty, waiting, with soft morning light filtering through the trees. The architecture of the ryokan features dark wood and shoji screens, reflecting traditional wabi-sabi aesthetics. High detail, photorealistic, peaceful atmosphere."
+summary: Escape to Kurokawa Onsen Ryokan Wakaba, a hidden gem nestled in Minamioguni,
+  Kumamoto, offering an unparalleled retreat into authentic Japanese hospitality.
+  Indulge in the exclusive tranquility of private family baths, celebrated for their
+  therapeutic waters and intimate setting. Experience a true taste of local culture
+  and culinary excellence amidst the breathtaking natural beauty of Aso-Kuju National
+  Park.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_wakaba.jpg
+title: 'Unveiling the Serene Heart of Kurokawa: Ryokan Wakaba, Where Private Bliss
+  Meets Authentic Local Charm'
 ---
 
 ## Introduction: Discovering Kurokawa's Hidden Gem

@@ -1,15 +1,31 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+date: '2026-04-12'
+image_prompt: A luxurious Japanese onsen resort, Hoshino Resorts KAI Beppu, with traditional
+  architecture infused with modern elegance, perched on a hillside overlooking the
+  vibrant steam plumes of Beppu and the vast expanse of the ocean. The foreground
+  features a meticulously designed open-air rotenburo bath with crystal clear, milky
+  blue mineral water, surrounded by lush, manicured Japanese gardens and natural rock
+  formations. Steam rises gently from the bath, creating a serene atmosphere. In the
+  background, the cityscape of Beppu is visible with its iconic 'hells' (jigoku) spewing
+  white steam, and the endless blue of Beppu Bay stretching to the horizon under a
+  soft, golden hour sky. Traditional Japanese lanterns subtly illuminate pathways.
+  The overall aesthetic is tranquil, luxurious, and deeply connected to nature and
+  local culture, capturing both the grandeur of the view and the intimacy of the onsen
+  experience. Focus on natural materials like wood and stone, and soft, inviting lighting.
+  There are no people visible, emphasizing peace and solitude.
 lang: ko
-title: "오이타 벳푸의 심장, 카이 벳푸: 숨 막히는 절경과 럭셔리 온천의 완벽한 조화"
 lat: 33.2855
 lng: 131.5055
-categories: ["고급 료칸", "절경"]
-thumbnail: "/static/images/hoshino_resorts_kai_beppu.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "오이타 벳푸에 자리한 호시노 리조트 카이 벳푸는 단순한 온천 료칸을 넘어선 미학적 경험을 선사합니다. 끓어오르는 온천 증기와 푸른 바다가 어우러진 장엄한 절경 속에서 럭셔리한 휴식과 지역 문화의 정수를 만끽할 수 있습니다. 전통과 현대가 조화롭게 어우러진 공간에서 몸과 마음의 진정한 재충전을 경험해 보세요."
-image_prompt: "A luxurious Japanese onsen resort, Hoshino Resorts KAI Beppu, with traditional architecture infused with modern elegance, perched on a hillside overlooking the vibrant steam plumes of Beppu and the vast expanse of the ocean. The foreground features a meticulously designed open-air rotenburo bath with crystal clear, milky blue mineral water, surrounded by lush, manicured Japanese gardens and natural rock formations. Steam rises gently from the bath, creating a serene atmosphere. In the background, the cityscape of Beppu is visible with its iconic 'hells' (jigoku) spewing white steam, and the endless blue of Beppu Bay stretching to the horizon under a soft, golden hour sky. Traditional Japanese lanterns subtly illuminate pathways. The overall aesthetic is tranquil, luxurious, and deeply connected to nature and local culture, capturing both the grandeur of the view and the intimacy of the onsen experience. Focus on natural materials like wood and stone, and soft, inviting lighting. There are no people visible, emphasizing peace and solitude."
+summary: 오이타 벳푸에 자리한 호시노 리조트 카이 벳푸는 단순한 온천 료칸을 넘어선 미학적 경험을 선사합니다. 끓어오르는 온천 증기와 푸른
+  바다가 어우러진 장엄한 절경 속에서 럭셔리한 휴식과 지역 문화의 정수를 만끽할 수 있습니다. 전통과 현대가 조화롭게 어우러진 공간에서 몸과 마음의
+  진정한 재충전을 경험해 보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_beppu.jpg
+title: '오이타 벳푸의 심장, 카이 벳푸: 숨 막히는 절경과 럭셔리 온천의 완벽한 조화'
 ---
 
 # 벳푸의 심장, 호시노 리조트 카이 벳푸에서 경험하는 궁극의 휴식과 미학

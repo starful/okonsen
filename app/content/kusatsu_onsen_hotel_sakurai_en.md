@@ -1,15 +1,29 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Great View
+- Local
+date: '2026-04-12'
+image_prompt: A luxurious traditional Japanese ryokan, Kusatsu Onsen Hotel Sakurai,
+  nestled amidst lush green mountains and steaming volcanic valleys in Gunma, Japan.
+  Show an exquisite outdoor rotenburo bath with crystal-clear, mineral-rich water,
+  offering a panoramic view of the vibrant, untouched natural landscape under a clear
+  blue sky. The scene should exude tranquility, luxury, and authentic Japanese aesthetics,
+  with intricate wooden architecture, subtle lighting, highly realistic, cinematic,
+  volumetric lighting, 8k --ar 16:9 --v 5.2
 lang: en
-title: "Kusatsu Onsen Hotel Sakurai: A Breathtaking Retreat Where Legendary Waters Meet Unrivaled Local Charm and Stunning Views"
 lat: 36.6205
 lng: 138.5999
-categories: ["Great View", "Local"]
-thumbnail: "/static/images/kusatsu_onsen_hotel_sakurai.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-12"
-agoda: ""
-summary: "Escape to Kusatsu Onsen Hotel Sakurai, where the legendary therapeutic waters of Kusatsu meet breathtaking Gunma landscapes and authentic local experiences. Immerse yourself in the tranquility of mineral-rich baths offering unparalleled scenic vistas, promising profound rejuvenation for body and soul. Discover a luxurious retreat that perfectly blends traditional Japanese hospitality with the vibrant spirit of one of Japan's most celebrated onsen towns."
-image_prompt: "A luxurious traditional Japanese ryokan, Kusatsu Onsen Hotel Sakurai, nestled amidst lush green mountains and steaming volcanic valleys in Gunma, Japan. Show an exquisite outdoor rotenburo bath with crystal-clear, mineral-rich water, offering a panoramic view of the vibrant, untouched natural landscape under a clear blue sky. The scene should exude tranquility, luxury, and authentic Japanese aesthetics, with intricate wooden architecture, subtle lighting, highly realistic, cinematic, volumetric lighting, 8k --ar 16:9 --v 5.2"
+summary: Escape to Kusatsu Onsen Hotel Sakurai, where the legendary therapeutic waters
+  of Kusatsu meet breathtaking Gunma landscapes and authentic local experiences. Immerse
+  yourself in the tranquility of mineral-rich baths offering unparalleled scenic vistas,
+  promising profound rejuvenation for body and soul. Discover a luxurious retreat
+  that perfectly blends traditional Japanese hospitality with the vibrant spirit of
+  one of Japan's most celebrated onsen towns.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_sakurai.jpg
+title: 'Kusatsu Onsen Hotel Sakurai: A Breathtaking Retreat Where Legendary Waters
+  Meet Unrivaled Local Charm and Stunning Views'
 ---
 
 ## Unveiling Kusatsu Onsen Hotel Sakurai: A Symphony of Stunning Views, Local Charm, and Pure Relaxation

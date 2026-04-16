@@ -1,15 +1,33 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Private Bath
+- Great View
+date: '2026-04-05'
+image_prompt: A serene, luxurious onsen resort nestled in the mountains of Kusatsu,
+  Gunma, Japan. The image should feature a traditional Japanese open-air private bath
+  (kashikiri rotenburo) made of natural stone, with steam rising gently from the rich,
+  mineral-laden water. The bath overlooks a panoramic vista of lush green forests
+  in autumn, with hints of red and gold foliage, and distant rolling hills under a
+  clear, crisp sky. A few traditional Japanese lanterns emit a soft glow. The architecture
+  of the surrounding hotel subtly blends into the natural environment, showcasing
+  elegant wooden elements and traditional Japanese aesthetics. The scene should evoke
+  tranquility, luxury, and a deep connection to nature, suitable for an elite travel
+  journal.
 lang: en
-title: "Kusatsu Onsen Hotel Village: Your Serene Escape to Volcanic Bliss and Unforgettable Views in Gunma"
 lat: 36.6211
 lng: 138.6011
-categories: ["Private Bath", "Great View"]
-thumbnail: "/static/images/kusatsu_onsen_hotel_village.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "Nestled amidst the breathtaking landscapes of Gunma, Kusatsu Onsen Hotel Village offers an unparalleled luxury escape, perfectly blending traditional Japanese hospitality with modern comforts. Immerse yourself in the legendary healing waters of Kusatsu, enjoying the ultimate privacy of your own bath while gazing upon spectacular, ever-changing vistas. This comprehensive guide invites you to discover a sanctuary where relaxation meets sublime natural beauty, promising an experience that rejuvenates body, mind, and soul."
-image_prompt: "A serene, luxurious onsen resort nestled in the mountains of Kusatsu, Gunma, Japan. The image should feature a traditional Japanese open-air private bath (kashikiri rotenburo) made of natural stone, with steam rising gently from the rich, mineral-laden water. The bath overlooks a panoramic vista of lush green forests in autumn, with hints of red and gold foliage, and distant rolling hills under a clear, crisp sky. A few traditional Japanese lanterns emit a soft glow. The architecture of the surrounding hotel subtly blends into the natural environment, showcasing elegant wooden elements and traditional Japanese aesthetics. The scene should evoke tranquility, luxury, and a deep connection to nature, suitable for an elite travel journal."
+summary: Nestled amidst the breathtaking landscapes of Gunma, Kusatsu Onsen Hotel
+  Village offers an unparalleled luxury escape, perfectly blending traditional Japanese
+  hospitality with modern comforts. Immerse yourself in the legendary healing waters
+  of Kusatsu, enjoying the ultimate privacy of your own bath while gazing upon spectacular,
+  ever-changing vistas. This comprehensive guide invites you to discover a sanctuary
+  where relaxation meets sublime natural beauty, promising an experience that rejuvenates
+  body, mind, and soul.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_village.jpg
+title: 'Kusatsu Onsen Hotel Village: Your Serene Escape to Volcanic Bliss and Unforgettable
+  Views in Gunma'
 ---
 
 ## Introduction: Discovering the Soul of Kusatsu at Hotel Village

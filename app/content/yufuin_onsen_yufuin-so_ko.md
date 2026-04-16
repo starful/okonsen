@@ -1,15 +1,24 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 타투 허용
+- 절경
+date: '2026-04-03'
+image_prompt: A serene, traditional Japanese ryokan in Yufuin, Oita, nestled amidst
+  lush greenery with a breathtaking view of Mount Yufu. The outdoor onsen features
+  crystal-clear thermal water, steam gently rising, and a guest with subtle tattoos
+  visible, relaxing in the bath. The sky is clear, with soft sunlight filtering through,
+  creating a tranquil and inviting atmosphere. Traditional Japanese architecture with
+  wooden elements and stone pathways. Mountain range in the background.
 lang: ko
-title: "몸과 마음을 치유하는 유후인소: 문신 친화적인 절경 온천 료칸의 모든 것"
 lat: 33.2611
 lng: 131.3644
-categories: ["타투 허용", "절경"]
-thumbnail: "/static/images/yufuin_onsen_yufuin-so.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "오이타 유후인의 그림 같은 자연 속에 자리한 유후인 온천 유후인소는 문신(타투)을 허용하며 방문객에게 편안하고 포괄적인 휴식을 선사합니다. 웅장한 유후다케의 절경을 감상하며 프라이빗한 온천욕을 즐기고, 미식의 향연과 전통적인 료칸의 정취를 만끽할 수 있는 특별한 공간입니다. 이곳에서 진정한 일본 료칸의 매력과 여유를 경험해보세요."
-image_prompt: "A serene, traditional Japanese ryokan in Yufuin, Oita, nestled amidst lush greenery with a breathtaking view of Mount Yufu. The outdoor onsen features crystal-clear thermal water, steam gently rising, and a guest with subtle tattoos visible, relaxing in the bath. The sky is clear, with soft sunlight filtering through, creating a tranquil and inviting atmosphere. Traditional Japanese architecture with wooden elements and stone pathways. Mountain range in the background."
+summary: 오이타 유후인의 그림 같은 자연 속에 자리한 유후인 온천 유후인소는 문신(타투)을 허용하며 방문객에게 편안하고 포괄적인 휴식을 선사합니다.
+  웅장한 유후다케의 절경을 감상하며 프라이빗한 온천욕을 즐기고, 미식의 향연과 전통적인 료칸의 정취를 만끽할 수 있는 특별한 공간입니다. 이곳에서
+  진정한 일본 료칸의 매력과 여유를 경험해보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_onsen_yufuin-so.jpg
+title: '몸과 마음을 치유하는 유후인소: 문신 친화적인 절경 온천 료칸의 모든 것'
 ---
 
 ## 유후인 온천 유후인소: 문신 허용, 절경 속 완벽한 휴식의 서막

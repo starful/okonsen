@@ -1,15 +1,28 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 가족탕
+- 절경
+date: '2026-03-24'
+image_prompt: A breathtaking, serene, and luxurious Japanese onsen ryokan named Hakone
+  Pax Yoshino, nestled in the lush, verdant mountains of Hakone, Japan. The scene
+  features an outdoor private family bath (kashikiri rotenburo) with steam gently
+  rising from the natural hot spring water. In the background, there's a dramatic,
+  panoramic view of autumn foliage (reds, oranges, yellows) covering the mountains,
+  perhaps with a glimpse of Lake Ashi or Mount Fuji in the distance under a clear
+  blue sky. The architecture of the ryokan is traditional Japanese, with elegant wooden
+  structures, shoji screens, and a meticulously maintained garden. The atmosphere
+  is peaceful, inviting, and deeply relaxing. Golden hour lighting. Ultra-realistic,
+  cinematic quality, highly detailed.
 lang: ko
-title: "하코네 팍스 요시노: 절경의 가족탕에서 만나는 평화, 잊을 수 없는 럭셔리 온천 료칸 여행"
 lat: 35.2299
 lng: 139.0965
-categories: ["가족탕", "절경"]
-thumbnail: "/static/images/hakone_pax_yoshino.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 팍스 요시노는 일본의 심장 하코네에 자리한 절경의 료칸입니다. 그림 같은 자연 속에서 프라이빗한 가족탕과 함께 최고의 휴식을 선사하며, 오감을 만족시키는 카이세키 요리는 잊을 수 없는 미식 경험을 제공합니다. 사랑하는 이들과 함께 진정한 평온과 감동을 만끽할 수 있는 완벽한 은신처입니다."
-image_prompt: "A breathtaking, serene, and luxurious Japanese onsen ryokan named Hakone Pax Yoshino, nestled in the lush, verdant mountains of Hakone, Japan. The scene features an outdoor private family bath (kashikiri rotenburo) with steam gently rising from the natural hot spring water. In the background, there's a dramatic, panoramic view of autumn foliage (reds, oranges, yellows) covering the mountains, perhaps with a glimpse of Lake Ashi or Mount Fuji in the distance under a clear blue sky. The architecture of the ryokan is traditional Japanese, with elegant wooden structures, shoji screens, and a meticulously maintained garden. The atmosphere is peaceful, inviting, and deeply relaxing. Golden hour lighting. Ultra-realistic, cinematic quality, highly detailed."
+summary: 하코네 팍스 요시노는 일본의 심장 하코네에 자리한 절경의 료칸입니다. 그림 같은 자연 속에서 프라이빗한 가족탕과 함께 최고의 휴식을
+  선사하며, 오감을 만족시키는 카이세키 요리는 잊을 수 없는 미식 경험을 제공합니다. 사랑하는 이들과 함께 진정한 평온과 감동을 만끽할 수 있는
+  완벽한 은신처입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_pax_yoshino.jpg
+title: '하코네 팍스 요시노: 절경의 가족탕에서 만나는 평화, 잊을 수 없는 럭셔리 온천 료칸 여행'
 ---
 
 ## 하코네 팍스 요시노: 자연의 품에서 만나는 완벽한 휴식처

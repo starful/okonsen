@@ -1,15 +1,26 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-04-12'
+image_prompt: A breathtaking panoramic view from the terraced outdoor onsen 'Tanayu'
+  at Beppu Suginoi Hotel, overlooking the sparkling Beppu Bay and the city lights
+  at dusk. The water is steaming gently, reflecting the warm glow of the setting sun
+  and the first twinkling city lights. Lush green foliage surrounds the multi-tiered
+  baths. A couple is subtly visible enjoying the view from a distance, conveying a
+  sense of luxury and relaxation. The atmosphere is serene and utterly magnificent.
+  Professional travel photography, hyper-realistic, dynamic lighting, 8k.
 lang: ko
-title: "벳푸 스기노이 호텔: 숨 막히는 절경과 럭셔리를 품은 가족 온천 여행의 완벽한 성지"
 lat: 33.2822
 lng: 131.4822
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/beppu_suginoi_hotel.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "오이타 벳푸의 상징, 스기노이 호텔은 압도적인 절경을 자랑하는 노천탕과 최고급 시설로 가족 여행객에게 잊을 수 없는 추억을 선사합니다. 품격 있는 서비스와 다양한 즐거움이 가득한 이곳에서 진정한 힐링과 일본 온천 문화의 정수를 경험해보세요. 밤하늘을 수놓는 불꽃놀이와 빛나는 벳푸 시내 전경은 당신의 여행을 더욱 특별하게 만들 것입니다."
-image_prompt: "A breathtaking panoramic view from the terraced outdoor onsen 'Tanayu' at Beppu Suginoi Hotel, overlooking the sparkling Beppu Bay and the city lights at dusk. The water is steaming gently, reflecting the warm glow of the setting sun and the first twinkling city lights. Lush green foliage surrounds the multi-tiered baths. A couple is subtly visible enjoying the view from a distance, conveying a sense of luxury and relaxation. The atmosphere is serene and utterly magnificent. Professional travel photography, hyper-realistic, dynamic lighting, 8k."
+summary: 오이타 벳푸의 상징, 스기노이 호텔은 압도적인 절경을 자랑하는 노천탕과 최고급 시설로 가족 여행객에게 잊을 수 없는 추억을 선사합니다.
+  품격 있는 서비스와 다양한 즐거움이 가득한 이곳에서 진정한 힐링과 일본 온천 문화의 정수를 경험해보세요. 밤하늘을 수놓는 불꽃놀이와 빛나는 벳푸
+  시내 전경은 당신의 여행을 더욱 특별하게 만들 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_suginoi_hotel.jpg
+title: '벳푸 스기노이 호텔: 숨 막히는 절경과 럭셔리를 품은 가족 온천 여행의 완벽한 성지'
 ---
 
 일본 규슈 오이타현의 심장부, 화산 활동이 빚어낸 뜨거운 온천의 도시 **벳푸(別府)**. 그중에서도 단연코 눈에 띄는 존재감을 자랑하며 수많은 여행객의 로망으로 자리 잡은 곳이 바로 **벳푸 스기노이 호텔(別府杉乃井ホテル)**입니다. 단순한 숙박 시설을 넘어, 그 자체로 하나의 거대한 리조트이자 온천 테마파크라 할 수 있는 이곳은 **압도적인 절경**, **최고급 료칸**의 품격, 그리고 온 가족이 함께 즐길 수 있는 **가족탕**을 완벽하게 갖춘 진정한 온천의 성지입니다. 벳푸 만을 발아래 두고 펼쳐지는 환상적인 파노라마 뷰와 끊임없이 솟아나는 천연 온천수, 그리고 최상급 서비스가 어우러진 스기노이 호텔은 당신의 일본 여행 버킷리스트 최상단에 놓여야 할 곳입니다.

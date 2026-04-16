@@ -1,15 +1,29 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+- 가족탕
+date: '2026-04-03'
+image_prompt: An elegant, luxurious traditional Japanese ryokan, Hoshino Resorts KAI
+  Yufuin, nestled in the picturesque rice terraces of Yufuin, Oita, Japan. The scene
+  features lush green rice paddies stretching towards a majestic Mount Yufu in the
+  distance, bathed in soft morning light. A couple is enjoying a private open-air
+  bath (rotenburo) with steam rising gently, surrounded by meticulously designed Japanese
+  gardens. The architectural style blends traditional wood and modern minimalist aesthetics,
+  showcasing intricate details and harmony with nature. Cherry blossoms or autumn
+  leaves might subtly enhance the seasonal beauty. The overall atmosphere is serene,
+  sophisticated, and deeply relaxing.
 lang: ko
-title: "유후인의 숨결 속, 층층이 빛나는 논밭의 절경을 품은 호시노 리조트 카이 유후인: 진정한 쉼을 찾아서"
 lat: 33.2522
 lng: 131.3711
-categories: ["고급 료칸", "절경", "가족탕"]
-thumbnail: "/static/images/hoshino_resorts_kai_yufuin.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "오이타 유후인의 그림 같은 자연 속에 자리한 호시노 리조트 카이 유후인은 층층이 펼쳐진 논밭과 웅장한 유후다케의 절경이 어우러진, 한 폭의 그림 같은 럭셔리 료칸입니다. 일본 전통 미학과 현대적 편안함이 조화롭게 어우러진 이곳에서, 프라이빗한 시간을 위한 가족탕과 오이타 현의 풍부한 제철 식재료로 빚어낸 미식의 향연은 잊을 수 없는 추억을 선사합니다. 사계절 내내 다채롭게 변모하는 자연 속에서 진정한 휴식과 감동을 경험해 보세요."
-image_prompt: "An elegant, luxurious traditional Japanese ryokan, Hoshino Resorts KAI Yufuin, nestled in the picturesque rice terraces of Yufuin, Oita, Japan. The scene features lush green rice paddies stretching towards a majestic Mount Yufu in the distance, bathed in soft morning light. A couple is enjoying a private open-air bath (rotenburo) with steam rising gently, surrounded by meticulously designed Japanese gardens. The architectural style blends traditional wood and modern minimalist aesthetics, showcasing intricate details and harmony with nature. Cherry blossoms or autumn leaves might subtly enhance the seasonal beauty. The overall atmosphere is serene, sophisticated, and deeply relaxing."
+summary: 오이타 유후인의 그림 같은 자연 속에 자리한 호시노 리조트 카이 유후인은 층층이 펼쳐진 논밭과 웅장한 유후다케의 절경이 어우러진,
+  한 폭의 그림 같은 럭셔리 료칸입니다. 일본 전통 미학과 현대적 편안함이 조화롭게 어우러진 이곳에서, 프라이빗한 시간을 위한 가족탕과 오이타 현의
+  풍부한 제철 식재료로 빚어낸 미식의 향연은 잊을 수 없는 추억을 선사합니다. 사계절 내내 다채롭게 변모하는 자연 속에서 진정한 휴식과 감동을 경험해
+  보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_yufuin.jpg
+title: '유후인의 숨결 속, 층층이 빛나는 논밭의 절경을 품은 호시노 리조트 카이 유후인: 진정한 쉼을 찾아서'
 ---
 
 # 유후인의 자연 속, 논밭의 절경과 함께하는 최고의 힐링, 호시노 리조트 카이 유후인

@@ -1,15 +1,33 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Tattoo OK
+- Great View
+- Luxury
+date: '2026-03-28'
+image_prompt: A breathtaking wide-angle shot of Musouen's iconic open-air onsen (rotemburo)
+  at dawn, nestled amidst lush Japanese gardens with steam gently rising from the
+  crystal-clear water. In the background, the majestic silhouette of Mount Yufu-dake
+  dominates the horizon, bathed in the soft, golden light of sunrise, with a clear
+  sky displaying delicate pastel hues. The scene conveys profound serenity, luxury,
+  and traditional Japanese aesthetics, with intricate rock formations and verdant
+  foliage surrounding the expansive bath. A lone, tasteful figure with visible tattoos
+  is gracefully enjoying the onsen, gazing at the panoramic view, embodying relaxation
+  and inclusivity. The architectural style of the ryokan is visible in the distance,
+  harmoniously blending with the natural landscape.
 lang: en
-title: "Musouen: Yufuin's Hidden Gem – Where Spectacular Views Meet Unrestricted Onsen Bliss for Tattooed Travelers"
 lat: 33.2511
 lng: 131.3522
-categories: ["Tattoo OK", "Great View", "Luxury"]
-thumbnail: "/static/images/musouen.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-28"
-agoda: ""
-summary: "Discover Musouen, a sublime ryokan nestled in Yufuin, Oita, offering an unparalleled onsen experience with breathtaking panoramic views of Mount Yufu. Renowned for its exceptionally welcoming policy towards tattooed guests, Musouen ensures everyone can indulge in the restorative power of its mineral-rich hot springs. This luxury escape perfectly blends traditional Japanese hospitality with modern comfort, promising an unforgettable journey of relaxation and cultural immersion."
-image_prompt: "A breathtaking wide-angle shot of Musouen's iconic open-air onsen (rotemburo) at dawn, nestled amidst lush Japanese gardens with steam gently rising from the crystal-clear water. In the background, the majestic silhouette of Mount Yufu-dake dominates the horizon, bathed in the soft, golden light of sunrise, with a clear sky displaying delicate pastel hues. The scene conveys profound serenity, luxury, and traditional Japanese aesthetics, with intricate rock formations and verdant foliage surrounding the expansive bath. A lone, tasteful figure with visible tattoos is gracefully enjoying the onsen, gazing at the panoramic view, embodying relaxation and inclusivity. The architectural style of the ryokan is visible in the distance, harmoniously blending with the natural landscape."
+summary: Discover Musouen, a sublime ryokan nestled in Yufuin, Oita, offering an unparalleled
+  onsen experience with breathtaking panoramic views of Mount Yufu. Renowned for its
+  exceptionally welcoming policy towards tattooed guests, Musouen ensures everyone
+  can indulge in the restorative power of its mineral-rich hot springs. This luxury
+  escape perfectly blends traditional Japanese hospitality with modern comfort, promising
+  an unforgettable journey of relaxation and cultural immersion.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/musouen.jpg
+title: 'Musouen: Yufuin''s Hidden Gem – Where Spectacular Views Meet Unrestricted
+  Onsen Bliss for Tattooed Travelers'
 ---
 
 ## Introduction: An Oasis of Serenity and Inclusivity in Yufuin

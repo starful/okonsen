@@ -1,15 +1,26 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+date: '2026-03-24'
+image_prompt: A breathtaking aerial view of Hotel Indigo Hakone Gora, nestled amidst
+  the lush, vibrant autumn foliage of Hakone, Japan. The hotel's modern, sophisticated
+  architecture harmonizes with traditional Japanese elements. A pristine outdoor rotenburo
+  with steaming water reflects the fiery red and gold leaves, offering a serene, panoramic
+  view of the surrounding mountains and Hayakawa River. Sunlight filters through the
+  trees, casting soft shadows. The scene evokes luxury, tranquility, and a deep connection
+  to nature. Include subtle mist rising from the hot spring, suggesting warmth and
+  relaxation. Focus on the integration of nature and design, highlighting the scenic
+  beauty.
 lang: ko
-title: "하코네 고라 호텔 인디고: 숨 막히는 절경 속 럭셔리 온천 료칸의 정수"
 lat: 35.2511
 lng: 139.0452
-categories: ["고급 료칸", "절경"]
-thumbnail: "/static/images/hotel_indigo_hakone_gora.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 고라 호텔 인디고는 숨 막히는 절경과 현대적인 감각이 어우러진 럭셔리 온천 료칸입니다. 풍부한 미네랄 온천수에 몸을 담그고, 계절의 변화를 온몸으로 느끼며 진정한 휴식을 경험하세요. 이곳에서의 숙박은 단순한 여행을 넘어 오감을 만족시키는 예술적인 경험이 될 것입니다."
-image_prompt: "A breathtaking aerial view of Hotel Indigo Hakone Gora, nestled amidst the lush, vibrant autumn foliage of Hakone, Japan. The hotel's modern, sophisticated architecture harmonizes with traditional Japanese elements. A pristine outdoor rotenburo with steaming water reflects the fiery red and gold leaves, offering a serene, panoramic view of the surrounding mountains and Hayakawa River. Sunlight filters through the trees, casting soft shadows. The scene evokes luxury, tranquility, and a deep connection to nature. Include subtle mist rising from the hot spring, suggesting warmth and relaxation. Focus on the integration of nature and design, highlighting the scenic beauty."
+summary: 하코네 고라 호텔 인디고는 숨 막히는 절경과 현대적인 감각이 어우러진 럭셔리 온천 료칸입니다. 풍부한 미네랄 온천수에 몸을 담그고,
+  계절의 변화를 온몸으로 느끼며 진정한 휴식을 경험하세요. 이곳에서의 숙박은 단순한 여행을 넘어 오감을 만족시키는 예술적인 경험이 될 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hotel_indigo_hakone_gora.jpg
+title: '하코네 고라 호텔 인디고: 숨 막히는 절경 속 럭셔리 온천 료칸의 정수'
 ---
 
 # 하코네 고라 호텔 인디고: 절경 속 럭셔리 온천 휴양의 극치

@@ -1,15 +1,30 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Luxury
+- Great View
+- Private Bath
+date: '2026-04-03'
+image_prompt: A breathtaking aerial view of Hoshino Resorts KAI Yufuin at dawn, showcasing
+  its meticulously designed traditional Japanese architecture with modern touches,
+  nestled amidst vibrant green terraced rice paddies with steam gently rising, and
+  the majestic Mount Yufu in the background under a soft, golden light. Focus on the
+  harmony between the ryokan and the surrounding natural landscape, emphasizing tranquility
+  and luxury. Japanese aesthetic, soft morning light, detailed, high resolution, cinematic.
 lang: en
-title: "Unveiling Hoshino Resorts KAI Yufuin: A Luxurious Onsen Sanctuary Amidst Oita's Breathtaking Landscapes"
 lat: 33.2522
 lng: 131.3711
-categories: ["Luxury", "Great View", "Private Bath"]
-thumbnail: "/static/images/hoshino_resorts_kai_yufuin.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Nestled in the idyllic setting of Yufuin, Oita, Hoshino Resorts KAI Yufuin offers an unparalleled luxury onsen experience where traditional elegance meets contemporary comfort. Immerse yourself in mineral-rich waters while gazing upon magnificent rice terraces and Mount Yufu, then retreat to meticulously designed rooms that exude a serene wabi-sabi aesthetic. This exquisite ryokan promises a rejuvenating escape, blending privacy with the splendor of nature and the artistry of Japanese hospitality."
-image_prompt: "A breathtaking aerial view of Hoshino Resorts KAI Yufuin at dawn, showcasing its meticulously designed traditional Japanese architecture with modern touches, nestled amidst vibrant green terraced rice paddies with steam gently rising, and the majestic Mount Yufu in the background under a soft, golden light. Focus on the harmony between the ryokan and the surrounding natural landscape, emphasizing tranquility and luxury. Japanese aesthetic, soft morning light, detailed, high resolution, cinematic."
+summary: Nestled in the idyllic setting of Yufuin, Oita, Hoshino Resorts KAI Yufuin
+  offers an unparalleled luxury onsen experience where traditional elegance meets
+  contemporary comfort. Immerse yourself in mineral-rich waters while gazing upon
+  magnificent rice terraces and Mount Yufu, then retreat to meticulously designed
+  rooms that exude a serene wabi-sabi aesthetic. This exquisite ryokan promises a
+  rejuvenating escape, blending privacy with the splendor of nature and the artistry
+  of Japanese hospitality.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hoshino_resorts_kai_yufuin.jpg
+title: 'Unveiling Hoshino Resorts KAI Yufuin: A Luxurious Onsen Sanctuary Amidst Oita''s
+  Breathtaking Landscapes'
 ---
 
 ## Introduction: Where Earth's Embrace Meets Refined Serenity

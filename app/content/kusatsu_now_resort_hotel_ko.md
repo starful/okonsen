@@ -1,15 +1,26 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 절경
+- 가족탕
+- 고급 료칸
+date: '2026-04-05'
+image_prompt: Luxurious Japanese onsen resort hotel in Kusatsu, Gunma, nestled amidst
+  a picturesque, verdant mountainous landscape under a clear blue sky. A beautiful,
+  steaming outdoor rotenburo (open-air bath) with panoramic views of the surrounding
+  nature, possibly with hints of autumn foliage or fresh snow. Traditional Japanese
+  architecture blends seamlessly with modern comfort. A serene atmosphere, steam rising
+  from the baths, and a sense of tranquility. Ideal for a high-end travel magazine
+  cover shot, golden hour lighting, cinematic.
 lang: ko
-title: "쿠사츠 나우 리조트 호텔: 절경과 프라이빗 가족탕이 선사하는 군마의 완벽한 휴식처"
 lat: 36.6188
 lng: 138.6022
-categories: ["절경", "가족탕", "고급 료칸"]
-thumbnail: "/static/images/kusatsu_now_resort_hotel.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "일본 3대 명천 쿠사츠 온천의 품격 있는 휴식을 약속하는 쿠사츠 나우 리조트 호텔은 웅장한 자연 경관을 배경으로 한 노천탕과 아늑한 프라이빗 가족탕으로 특별한 경험을 선사합니다. 탁 트인 절경 속에서 몸과 마음의 피로를 녹이고, 최고급 가이세키 요리로 미식의 향연을 즐겨보세요. 가족, 연인, 친구 누구와 함께하더라도 잊지 못할 추억을 만들 수 있는 군마의 보석 같은 료칸입니다."
-image_prompt: "Luxurious Japanese onsen resort hotel in Kusatsu, Gunma, nestled amidst a picturesque, verdant mountainous landscape under a clear blue sky. A beautiful, steaming outdoor rotenburo (open-air bath) with panoramic views of the surrounding nature, possibly with hints of autumn foliage or fresh snow. Traditional Japanese architecture blends seamlessly with modern comfort. A serene atmosphere, steam rising from the baths, and a sense of tranquility. Ideal for a high-end travel magazine cover shot, golden hour lighting, cinematic."
+summary: 일본 3대 명천 쿠사츠 온천의 품격 있는 휴식을 약속하는 쿠사츠 나우 리조트 호텔은 웅장한 자연 경관을 배경으로 한 노천탕과 아늑한
+  프라이빗 가족탕으로 특별한 경험을 선사합니다. 탁 트인 절경 속에서 몸과 마음의 피로를 녹이고, 최고급 가이세키 요리로 미식의 향연을 즐겨보세요.
+  가족, 연인, 친구 누구와 함께하더라도 잊지 못할 추억을 만들 수 있는 군마의 보석 같은 료칸입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_now_resort_hotel.jpg
+title: '쿠사츠 나우 리조트 호텔: 절경과 프라이빗 가족탕이 선사하는 군마의 완벽한 휴식처'
 ---
 
 # 쿠사츠 나우 리조트 호텔: 군마의 절경 속 힐링 오아시스

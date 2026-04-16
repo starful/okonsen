@@ -1,15 +1,28 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 절경
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: A breathtaking aerial view of The Prince Hakone Lake Ashinoko, a luxury
+  ryokan designed by Togo Murano, nestled harmoniously on the serene shores of Lake
+  Ashi in Hakone, Japan. The iconic conical roof structure is prominent, surrounded
+  by lush green mountains reflecting in the calm, shimmering lake. In the distance,
+  the majestic silhouette of Mount Fuji is visible under a clear, soft blue sky. Cherry
+  blossoms or vibrant autumn leaves are delicately scattered around the premises,
+  enhancing the natural beauty. The scene is bathed in soft, natural light, conveying
+  a sense of peace, tranquility, and understated elegance. Focus on the seamless integration
+  of architecture with nature. Detailed, high-resolution, cinematic quality, soft
+  light, natural colors.
 lang: ko
-title: "하코네 아시노코 호반의 왕자, 더 프린스 하코네 레이크 아시노코: 절경 속 럭셔리 온천 료칸의 정수"
 lat: 35.2122
 lng: 139.0111
-categories: ["절경", "고급 료칸"]
-thumbnail: "/static/images/the_prince_hakone_lake_ashinoko.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "일본 가나가와현 하코네의 아시노코 호반에 자리한 더 프린스 하코네 레이크 아시노코는 그림 같은 절경과 최상의 서비스로 오직 경험할 수 있는 럭셔리 료칸입니다. 일본 근대 건축의 거장 무라노 도고의 걸작품 속에서 심신을 치유하는 온천욕과 미식의 향연을 즐기며 잊지 못할 추억을 만들어보세요. 사계절 시시각각 변하는 호수의 풍경을 감상하며 진정한 휴식의 가치를 깨달을 수 있는 최고의 선택입니다."
-image_prompt: "A breathtaking aerial view of The Prince Hakone Lake Ashinoko, a luxury ryokan designed by Togo Murano, nestled harmoniously on the serene shores of Lake Ashi in Hakone, Japan. The iconic conical roof structure is prominent, surrounded by lush green mountains reflecting in the calm, shimmering lake. In the distance, the majestic silhouette of Mount Fuji is visible under a clear, soft blue sky. Cherry blossoms or vibrant autumn leaves are delicately scattered around the premises, enhancing the natural beauty. The scene is bathed in soft, natural light, conveying a sense of peace, tranquility, and understated elegance. Focus on the seamless integration of architecture with nature. Detailed, high-resolution, cinematic quality, soft light, natural colors."
+summary: 일본 가나가와현 하코네의 아시노코 호반에 자리한 더 프린스 하코네 레이크 아시노코는 그림 같은 절경과 최상의 서비스로 오직 경험할
+  수 있는 럭셔리 료칸입니다. 일본 근대 건축의 거장 무라노 도고의 걸작품 속에서 심신을 치유하는 온천욕과 미식의 향연을 즐기며 잊지 못할 추억을
+  만들어보세요. 사계절 시시각각 변하는 호수의 풍경을 감상하며 진정한 휴식의 가치를 깨달을 수 있는 최고의 선택입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg
+title: '하코네 아시노코 호반의 왕자, 더 프린스 하코네 레이크 아시노코: 절경 속 럭셔리 온천 료칸의 정수'
 ---
 
 # 하코네 아시노코 호반의 왕자, 더 프린스 하코네 레이크 아시노코: 절경 속 럭셔리 온천 료칸의 정수

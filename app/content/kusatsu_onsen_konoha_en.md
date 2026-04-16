@@ -1,15 +1,27 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Luxury
+date: '2026-04-05'
+image_prompt: A serene outdoor private onsen bath at Kusatsu Onsen Konoha, surrounded
+  by lush autumn foliage, steam rising gently from the mineral-rich water, with a
+  majestic panoramic view of distant Japanese mountains under a clear sky, soft morning
+  light, hyperrealistic, cinematic, warm color grading, 8K, highly detailed.
 lang: en
-title: "Kusatsu Onsen Konoha: Your Ultimate Guide to Unforgettable Private Baths, Majestic Views, and Serene Luxury in Gunma's Premier Hot Spring Haven"
 lat: 36.6199
 lng: 138.6044
-categories: ["Private Bath", "Great View", "Luxury"]
-thumbnail: "/static/images/kusatsu_onsen_konoha.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "Discover Kusatsu Onsen Konoha, an exquisite ryokan offering unparalleled private baths and breathtaking natural vistas amidst the renowned hot spring town of Kusatsu, Gunma. Immerse yourself in the healing waters and indulge in serene luxury, where traditional Japanese hospitality meets modern comfort. This guide unveils everything you need for an unforgettable escape, from therapeutic soaks to gourmet dining and scenic exploration."
-image_prompt: "A serene outdoor private onsen bath at Kusatsu Onsen Konoha, surrounded by lush autumn foliage, steam rising gently from the mineral-rich water, with a majestic panoramic view of distant Japanese mountains under a clear sky, soft morning light, hyperrealistic, cinematic, warm color grading, 8K, highly detailed."
+summary: Discover Kusatsu Onsen Konoha, an exquisite ryokan offering unparalleled
+  private baths and breathtaking natural vistas amidst the renowned hot spring town
+  of Kusatsu, Gunma. Immerse yourself in the healing waters and indulge in serene
+  luxury, where traditional Japanese hospitality meets modern comfort. This guide
+  unveils everything you need for an unforgettable escape, from therapeutic soaks
+  to gourmet dining and scenic exploration.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_konoha.jpg
+title: 'Kusatsu Onsen Konoha: Your Ultimate Guide to Unforgettable Private Baths,
+  Majestic Views, and Serene Luxury in Gunma''s Premier Hot Spring Haven'
 ---
 
 # Kusatsu Onsen Konoha: An Epitome of Serenity, Seclusion, and Sublime Scenery

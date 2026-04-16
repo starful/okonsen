@@ -1,15 +1,31 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Luxury
+- Great View
+- Private Bath
+date: '2026-03-24'
+image_prompt: A luxurious private outdoor onsen bath at Hotel Indigo Hakone Gora,
+  set against a backdrop of mist-shrouded, lush green mountains and a gently flowing
+  river at dawn. The steaming mineral-rich water reflects the soft, warm light of
+  the rising sun. Traditional Japanese architectural elements, such as natural wood
+  and stone, are seamlessly integrated with modern, minimalist design. A single, perfectly
+  placed Japanese maple tree adds a splash of autumn color. The scene evokes profound
+  tranquility, luxury, and natural beauty, captured with a wide-angle lens for a cinematic,
+  highly detailed photograph.
 lang: en
-title: "Unveiling Hotel Indigo Hakone Gora: A Sanctuary of Luxury, Serenity, and Spectacular Views in Japan's Onsen Heart"
 lat: 35.2511
 lng: 139.0452
-categories: ["Luxury", "Great View", "Private Bath"]
-thumbnail: "/static/images/hotel_indigo_hakone_gora.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Immerse yourself in the unparalleled luxury and breathtaking natural beauty of Hotel Indigo Hakone Gora, a modern ryokan offering an exquisite onsen experience. Perched amidst the majestic landscapes of Hakone, this sanctuary blends traditional Japanese hospitality with contemporary elegance and offers spectacular views. Discover serene private baths, innovative gastronomy, and a tranquil escape designed for ultimate rejuvenation and cultural immersion."
-image_prompt: "A luxurious private outdoor onsen bath at Hotel Indigo Hakone Gora, set against a backdrop of mist-shrouded, lush green mountains and a gently flowing river at dawn. The steaming mineral-rich water reflects the soft, warm light of the rising sun. Traditional Japanese architectural elements, such as natural wood and stone, are seamlessly integrated with modern, minimalist design. A single, perfectly placed Japanese maple tree adds a splash of autumn color. The scene evokes profound tranquility, luxury, and natural beauty, captured with a wide-angle lens for a cinematic, highly detailed photograph."
+summary: Immerse yourself in the unparalleled luxury and breathtaking natural beauty
+  of Hotel Indigo Hakone Gora, a modern ryokan offering an exquisite onsen experience.
+  Perched amidst the majestic landscapes of Hakone, this sanctuary blends traditional
+  Japanese hospitality with contemporary elegance and offers spectacular views. Discover
+  serene private baths, innovative gastronomy, and a tranquil escape designed for
+  ultimate rejuvenation and cultural immersion.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hotel_indigo_hakone_gora.jpg
+title: 'Unveiling Hotel Indigo Hakone Gora: A Sanctuary of Luxury, Serenity, and Spectacular
+  Views in Japan''s Onsen Heart'
 ---
 
 # Hotel Indigo Hakone Gora: Where Modern Luxury Meets Ancient Healing Waters

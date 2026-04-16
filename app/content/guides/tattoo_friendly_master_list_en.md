@@ -1,4 +1,7 @@
-```
+---
+{}
+---
+
 ---
 lang: en
 title: "Soak in Serenity: A Comprehensive Guide to Tattoo-Friendly Onsens in Japan for International Travelers"
@@ -60,4 +63,3 @@ While policies can change, here are some recommended onsen and ryokan known for 
 ## Embracing Onsen Culture: A Final Soak
 
 Enjoying an onsen with tattoos in Japan requires some planning and preparation, but it's entirely possible and incredibly rewarding. By understanding the historical context, utilizing practical strategies like covering stickers and private onsen, and choosing establishments known for their inclusive policies, you can immerse yourself in this quintessential Japanese experience without worry. Remember to always be respectful of local customs and traditions, and you'll be well on your way to a relaxing and unforgettable onsen adventure. With a little effort, you can unlock the soothing serenity of Japan's hot springs and create memories that will last a lifetime. So, pack your swimsuit (for mixed-gender onsen, if applicable), your covering stickers, and your sense of adventure, and prepare to soak in the wonders of Japan's onsen culture! Don’t let the tattoo policy deter you from experiencing one of Japan's most treasured traditions.
-```

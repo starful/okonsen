@@ -1,4 +1,7 @@
-```markdown
+---
+{}
+---
+
 ---
 lang: en
 title: "Hakone Onsen Vacation: Unwind in Luxury Ryokans & Scenic Hot Springs Near Tokyo"
@@ -96,4 +99,3 @@ While onsen are the main draw, Hakone offers plenty of other attractions:
 ## Conclusion: Your Unforgettable Hakone Onsen Journey Awaits
 
 A Hakone onsen vacation offers a perfect blend of relaxation, culture, and natural beauty, providing an unforgettable escape from the urban landscape of Tokyo. Whether you're seeking a luxurious ryokan experience with stunning Mt. Fuji views, a rejuvenating day trip onsen, or a cultural exploration of the region's art and history, Hakone has something to offer every traveler. Plan your trip carefully, considering your budget, desired level of luxury, and interests, and prepare to immerse yourself in the tranquility and beauty of this enchanting mountain resort town. Don't forget to book your **Romance Car** tickets in advance and consider purchasing the Hakone Free Pass for convenient and affordable transportation. Enjoy your Hakone onsen journey!
-```

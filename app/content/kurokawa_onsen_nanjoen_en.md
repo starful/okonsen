@@ -1,15 +1,30 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- Tattoo OK
+- Local
+- Private Bath
+date: '2026-04-12'
+image_prompt: A picturesque aerial view of Kurokawa Onsen Nanjoen nestled deep within
+  a lush, misty valley in Minamioguni, Kumamoto, Japan, during autumn. Traditional
+  Japanese ryokan buildings with dark wooden roofs and white walls are scattered amidst
+  vibrant red and gold maple trees, with steam gently rising from outdoor onsen baths.
+  A winding river is visible, and the surrounding mountains are covered in dense forest
+  under a soft, golden morning light. The scene should evoke tranquility, hidden beauty,
+  and profound Japanese aesthetics, with a hint of mist to emphasize the onsen experience.
 lang: en
-title: "Kurokawa Onsen Nanjoen: Embrace Authentic Kumamoto Luxury Where Tattoos Are Celebrated"
 lat: 33.0812
 lng: 131.1433
-categories: ["Tattoo OK", "Local", "Private Bath"]
-thumbnail: "/static/images/kurokawa_onsen_nanjoen.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "Discover Kurokawa Onsen Nanjoen, a truly unique Kumamoto ryokan where the warmth of **local hospitality** embraces every guest. Immerse yourself in the therapeutic embrace of its mineral-rich waters, knowing that **tattoos are respectfully welcomed**, a rare and refreshing policy. Experience the unparalleled blend of traditional Japanese charm, exquisite **private bathing**, and breathtaking natural beauty that awaits in this authentic sanctuary."
-image_prompt: "A picturesque aerial view of Kurokawa Onsen Nanjoen nestled deep within a lush, misty valley in Minamioguni, Kumamoto, Japan, during autumn. Traditional Japanese ryokan buildings with dark wooden roofs and white walls are scattered amidst vibrant red and gold maple trees, with steam gently rising from outdoor onsen baths. A winding river is visible, and the surrounding mountains are covered in dense forest under a soft, golden morning light. The scene should evoke tranquility, hidden beauty, and profound Japanese aesthetics, with a hint of mist to emphasize the onsen experience."
+summary: Discover Kurokawa Onsen Nanjoen, a truly unique Kumamoto ryokan where the
+  warmth of **local hospitality** embraces every guest. Immerse yourself in the therapeutic
+  embrace of its mineral-rich waters, knowing that **tattoos are respectfully welcomed**,
+  a rare and refreshing policy. Experience the unparalleled blend of traditional Japanese
+  charm, exquisite **private bathing**, and breathtaking natural beauty that awaits
+  in this authentic sanctuary.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_nanjoen.jpg
+title: 'Kurokawa Onsen Nanjoen: Embrace Authentic Kumamoto Luxury Where Tattoos Are
+  Celebrated'
 ---
 
 ## Unveiling Kurokawa Onsen Nanjoen: An Authentic Escape Where Everyone Belongs

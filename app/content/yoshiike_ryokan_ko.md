@@ -1,15 +1,25 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 절경
+- 로컬
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: A serene and luxurious traditional Japanese ryokan, Yoshiike Ryokan
+  in Hakone, with expansive, meticulously maintained Japanese gardens in autumn colors,
+  featuring a clear, natural hot spring outdoor bath (rotenburo) overlooking lush
+  mountains and a tranquil pond. The scene should evoke a sense of deep relaxation,
+  local authenticity, and breathtaking scenic beauty. Soft morning light, steam rising
+  from the bath, no people. Photorealistic, cinematic, highly detailed, tranquil atmosphere.
 lang: ko
-title: "하코네 요시이케 료칸: 숨 막히는 절경과 진정한 로컬 감성이 어우러진 최고의 온천 료칸"
 lat: 35.2305
 lng: 139.1042
-categories: ["절경", "로컬", "고급 료칸"]
-thumbnail: "/static/images/yoshiike_ryokan.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네의 심장부에 자리한 요시이케 료칸은 그림 같은 절경과 진정한 로컬 감성을 동시에 선사하는 특별한 휴식처입니다. 천연 온천수에서 몸을 담그고 눈앞에 펼쳐지는 비경을 감상하며 일상의 번잡함을 잊어보세요. 미식과 전통이 어우러진 이곳에서 잊을 수 없는 일본 료칸 체험을 만끽할 수 있습니다."
-image_prompt: "A serene and luxurious traditional Japanese ryokan, Yoshiike Ryokan in Hakone, with expansive, meticulously maintained Japanese gardens in autumn colors, featuring a clear, natural hot spring outdoor bath (rotenburo) overlooking lush mountains and a tranquil pond. The scene should evoke a sense of deep relaxation, local authenticity, and breathtaking scenic beauty. Soft morning light, steam rising from the bath, no people. Photorealistic, cinematic, highly detailed, tranquil atmosphere."
+summary: 하코네의 심장부에 자리한 요시이케 료칸은 그림 같은 절경과 진정한 로컬 감성을 동시에 선사하는 특별한 휴식처입니다. 천연 온천수에서
+  몸을 담그고 눈앞에 펼쳐지는 비경을 감상하며 일상의 번잡함을 잊어보세요. 미식과 전통이 어우러진 이곳에서 잊을 수 없는 일본 료칸 체험을 만끽할
+  수 있습니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yoshiike_ryokan.jpg
+title: '하코네 요시이케 료칸: 숨 막히는 절경과 진정한 로컬 감성이 어우러진 최고의 온천 료칸'
 ---
 
 ## **하코네 요시이케 료칸: 절경과 로컬 감성이 어우러진 꿈의 온천 여행**

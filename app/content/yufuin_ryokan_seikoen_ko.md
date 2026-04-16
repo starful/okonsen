@@ -1,15 +1,30 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-04-03'
+image_prompt: A serene and luxurious traditional Japanese ryokan in Yufuin, Oita,
+  nestled amidst lush green mountains. Focus on an outdoor 'kazokuburo' (private family
+  bath) made of natural stone and cypress wood, steaming gently, with a couple enjoying
+  the bath in a tranquil setting. The view from the bath should showcase the iconic
+  majestic Yufu-dake mountain under a clear blue sky, with vibrant autumn foliage
+  and fresh spring greenery subtly in the background. Emphasize warm, inviting lighting
+  from traditional lanterns, elegant Japanese architecture with sliding shoji screens
+  in the background, a peaceful atmosphere, and a strong sense of exclusive privacy.
+  Intricate details of polished wood, textured stones, and subtle water reflections
+  should be visible. Realistic, cinematic lighting, soft focus on the background,
+  high resolution, professional photography style.
 lang: ko
-title: "유후인 료칸 세이코엔: 압도적인 절경과 프라이빗 가족탕이 선사하는 오직 당신만을 위한 완벽한 힐링 여정"
 lat: 33.2699
 lng: 131.3677
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/yufuin_ryokan_seikoen.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "유후인 료칸 세이코엔은 긴린코 호수 근처에 자리한 숨겨진 보석으로, 프라이빗한 가족탕과 압도적인 자연 절경을 동시에 즐길 수 있는 특별한 료칸입니다. 이곳은 고즈넉한 정원과 전통적인 객실, 그리고 제철 재료로 정성껏 차려지는 가이세키 요리로 오감을 만족시키는 진정한 휴식을 선사합니다. 번잡함에서 벗어나 오직 당신과 소중한 사람들을 위한 평온하고 잊을 수 없는 추억을 만들고 싶다면, 세이코엔이 정답입니다."
-image_prompt: "A serene and luxurious traditional Japanese ryokan in Yufuin, Oita, nestled amidst lush green mountains. Focus on an outdoor 'kazokuburo' (private family bath) made of natural stone and cypress wood, steaming gently, with a couple enjoying the bath in a tranquil setting. The view from the bath should showcase the iconic majestic Yufu-dake mountain under a clear blue sky, with vibrant autumn foliage and fresh spring greenery subtly in the background. Emphasize warm, inviting lighting from traditional lanterns, elegant Japanese architecture with sliding shoji screens in the background, a peaceful atmosphere, and a strong sense of exclusive privacy. Intricate details of polished wood, textured stones, and subtle water reflections should be visible. Realistic, cinematic lighting, soft focus on the background, high resolution, professional photography style."
+summary: 유후인 료칸 세이코엔은 긴린코 호수 근처에 자리한 숨겨진 보석으로, 프라이빗한 가족탕과 압도적인 자연 절경을 동시에 즐길 수 있는
+  특별한 료칸입니다. 이곳은 고즈넉한 정원과 전통적인 객실, 그리고 제철 재료로 정성껏 차려지는 가이세키 요리로 오감을 만족시키는 진정한 휴식을
+  선사합니다. 번잡함에서 벗어나 오직 당신과 소중한 사람들을 위한 평온하고 잊을 수 없는 추억을 만들고 싶다면, 세이코엔이 정답입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_ryokan_seikoen.jpg
+title: '유후인 료칸 세이코엔: 압도적인 절경과 프라이빗 가족탕이 선사하는 오직 당신만을 위한 완벽한 힐링 여정'
 ---
 
 # 유후인 료칸 세이코엔: 자연이 빚어낸 한 폭의 그림 속 휴식처

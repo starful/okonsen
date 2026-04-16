@@ -1,4 +1,7 @@
-```
+---
+{}
+---
+
 ---
 lang: en
 title: "A Gourmet Journey: Unveiling Kaiseki Ryori at Japanese Ryokans - A Culinary Pilgrimage"
@@ -75,4 +78,3 @@ These ryokans are just a starting point. Research different regions of Japan and
 ## Conclusion: A Lasting Impression
 
 Experiencing Kaiseki Ryori at a traditional ryokan is more than just a meal; it's a transformative cultural experience. It's an opportunity to immerse yourself in the beauty and artistry of Japanese cuisine, to appreciate the importance of seasonality, and to experience the unparalleled hospitality of *omotenashi*. From the meticulous preparation of each dish to the serene ambiance of the ryokan, every detail is designed to create a lasting impression. So, plan your gourmet journey, choose your ryokan wisely, and prepare to embark on a culinary pilgrimage that will tantalize your taste buds and nourish your soul. The memories of your Kaiseki experience, the delicate flavors, and the warm hospitality, will undoubtedly stay with you long after you leave Japan. And, when you wake up the next morning, be ready for another delightful experience: your *ryokan breakfast*, a perfect ending to your gourmet adventure.
-```

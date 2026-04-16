@@ -1,15 +1,27 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Private Bath
+- Great View
+date: '2026-04-03'
+image_prompt: A picturesque traditional Japanese ryokan, Yufuin Ryokan Seikoen, nestled
+  in a lush, verdant valley with autumn foliage, Mount Yufu rising majestically in
+  the background, a private open-air onsen bath with steam gently rising, overlooking
+  a breathtaking panoramic landscape, serene, peaceful atmosphere, golden hour light,
+  highly detailed, photorealistic, cinematic.
 lang: en
-title: "Yufuin Ryokan Seikoen: Your Secluded Sanctuary with Breathtaking Views and Unforgettable Private Onsen Experiences"
 lat: 33.2699
 lng: 131.3677
-categories: ["Private Bath", "Great View"]
-thumbnail: "/static/images/yufuin_ryokan_seikoen.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Nestled amidst the serene beauty of Yufuin, Oita, Yufuin Ryokan Seikoen offers an unparalleled escape where traditional Japanese hospitality meets modern comfort. Guests are invited to immerse themselves in luxurious private family baths, each boasting truly spectacular views of Mount Yufu and the surrounding natural splendor. This exquisite ryokan promises a deeply rejuvenating and memorable experience, perfect for those seeking tranquility and authentic Japanese charm."
-image_prompt: "A picturesque traditional Japanese ryokan, Yufuin Ryokan Seikoen, nestled in a lush, verdant valley with autumn foliage, Mount Yufu rising majestically in the background, a private open-air onsen bath with steam gently rising, overlooking a breathtaking panoramic landscape, serene, peaceful atmosphere, golden hour light, highly detailed, photorealistic, cinematic."
+summary: Nestled amidst the serene beauty of Yufuin, Oita, Yufuin Ryokan Seikoen offers
+  an unparalleled escape where traditional Japanese hospitality meets modern comfort.
+  Guests are invited to immerse themselves in luxurious private family baths, each
+  boasting truly spectacular views of Mount Yufu and the surrounding natural splendor.
+  This exquisite ryokan promises a deeply rejuvenating and memorable experience, perfect
+  for those seeking tranquility and authentic Japanese charm.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_ryokan_seikoen.jpg
+title: 'Yufuin Ryokan Seikoen: Your Secluded Sanctuary with Breathtaking Views and
+  Unforgettable Private Onsen Experiences'
 ---
 
 ## Introduction: Discovering the Serene Majesty of Yufuin Ryokan Seikoen

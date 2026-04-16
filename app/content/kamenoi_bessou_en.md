@@ -1,15 +1,33 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Luxury
+- Local
+- Private Bath
+date: '2026-03-24'
+image_prompt: A serene, highly atmospheric wide-angle shot capturing the essence of
+  Kamenoi Bessou luxury ryokan in Yufuin, Oita, Japan, at golden hour. Focus on traditional
+  Japanese architecture with dark wooden structures and soft, warm interior lighting,
+  nestled amidst a lush, meticulously maintained Japanese garden featuring mature
+  maple trees with hints of autumn colors and vibrant moss. A tranquil pond with koi
+  fish reflects the glowing sky and surrounding greenery. In the foreground, subtle
+  steam rises from a beautiful outdoor rotenburo with smooth river stones, offering
+  a glimpse of the bath's inviting warmth. The overall mood is one of profound peace,
+  refined elegance, and timeless tradition, with soft, diffused lighting and a sense
+  of exclusive privacy. Highly detailed, cinematic, rich textures, natural light,
+  depth of field.
 lang: en
-title: "Kamenoi Bessou: Your Ultimate Retreat to Yufuin's Timeless Luxury and Serenity"
 lat: 33.2675
 lng: 131.3688
-categories: ["Luxury", "Local", "Private Bath"]
-thumbnail: "/static/images/kamenoi_bessou.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover Kamenoi Bessou, an iconic luxury ryokan nestled in the heart of tranquil Yufuin, where traditional elegance meets unparalleled natural beauty. Experience the profound serenity of its exquisite private baths, savor locally sourced kaiseki cuisine, and immerse yourself in an authentic Japanese escape. This esteemed establishment offers a truly local, deeply restorative experience, promising memories that will linger long after your departure."
-image_prompt: "A serene, highly atmospheric wide-angle shot capturing the essence of Kamenoi Bessou luxury ryokan in Yufuin, Oita, Japan, at golden hour. Focus on traditional Japanese architecture with dark wooden structures and soft, warm interior lighting, nestled amidst a lush, meticulously maintained Japanese garden featuring mature maple trees with hints of autumn colors and vibrant moss. A tranquil pond with koi fish reflects the glowing sky and surrounding greenery. In the foreground, subtle steam rises from a beautiful outdoor rotenburo with smooth river stones, offering a glimpse of the bath's inviting warmth. The overall mood is one of profound peace, refined elegance, and timeless tradition, with soft, diffused lighting and a sense of exclusive privacy. Highly detailed, cinematic, rich textures, natural light, depth of field."
+summary: Discover Kamenoi Bessou, an iconic luxury ryokan nestled in the heart of
+  tranquil Yufuin, where traditional elegance meets unparalleled natural beauty. Experience
+  the profound serenity of its exquisite private baths, savor locally sourced kaiseki
+  cuisine, and immerse yourself in an authentic Japanese escape. This esteemed establishment
+  offers a truly local, deeply restorative experience, promising memories that will
+  linger long after your departure.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kamenoi_bessou.jpg
+title: 'Kamenoi Bessou: Your Ultimate Retreat to Yufuin''s Timeless Luxury and Serenity'
 ---
 
 ## Introduction: A Sanctuary of Serenity in Yufuin

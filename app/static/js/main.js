@@ -55,12 +55,16 @@ function renderList(theme) {
         return onsen.categories.some(cat => CATEGORY_MAP[cat] === theme);
     });
 
+    // main.js 내의 renderList 함수 부분 수정
     filtered.forEach(onsen => {
         const card = document.createElement('div');
         card.className = 'onsen-card';
         card.innerHTML = `
             <a href="${onsen.link}?lang=${currentLang}">
-                <img src="${onsen.thumbnail}" class="card-thumb" alt="${onsen.title}" onerror="this.src='/static/images/default.png'">
+                <img src="${onsen.thumbnail}" 
+                    class="card-thumb" 
+                    alt="${onsen.title}" 
+                    onerror="this.onerror=null; this.src='https://storage.googleapis.com/ok-project-assets/okonsen/default.png';">
                 <div class="card-content">
                     <div class="card-meta">📍 ${onsen.address}</div>
                     <h3 class="card-title">${onsen.title}</h3>

@@ -1,4 +1,7 @@
-```
+---
+{}
+---
+
 ---
 lang: en
 title: "Unwind Together: Your Ultimate Guide to Finding and Enjoying Private Family Baths (Kashikiri-buro) in Japan"
@@ -69,4 +72,3 @@ These are just a few examples, and the best *kashikiri-buro* for you will depend
 ## Conclusion: Embrace the Tranquility of Private Onsen
 
 Finding and enjoying *kashikiri-buro* in Japan is a rewarding experience that allows you to connect with nature, rejuvenate your body and mind, and create lasting memories with loved ones. By following the tips and recommendations outlined in this guide, you can confidently navigate the world of private onsen and discover the perfect bathing experience to suit your needs. Whether you're a family seeking a relaxing getaway, a couple looking for a romantic escape, or an individual craving some solitude, *kashikiri-buro* offer a unique and unforgettable way to experience the beauty and tranquility of Japan. So, pack your bags, book your onsen, and prepare to unwind in the soothing embrace of Japan's private hot springs.
-```

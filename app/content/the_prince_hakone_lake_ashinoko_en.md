@@ -1,15 +1,27 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Great View
+- Luxury
+- Private Bath
+date: '2026-03-24'
+image_prompt: A serene aerial view capturing The Prince Hakone Lake Ashinoko, a luxurious
+  ryokan nestled on the tranquil shores of Lake Ashi, with Mount Fuji majestically
+  visible in the distance, surrounded by lush autumn foliage and mist, showcasing
+  a traditional outdoor onsen bath with steam rising, delicate Japanese architecture
+  blending into nature, golden hour lighting, cinematic, ultra-detailed, 8K.
 lang: en
-title: "Beyond Compare: Immerse in Unrivaled Luxury and Breathtaking Views at The Prince Hakone Lake Ashinoko"
 lat: 35.2122
 lng: 139.0111
-categories: ["Great View", "Luxury", "Private Bath"]
-thumbnail: "/static/images/the_prince_hakone_lake_ashinoko.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover unparalleled luxury at The Prince Hakone Lake Ashinoko, an exquisite ryokan offering some of Japan's most breathtaking views of Lake Ashi and Mount Fuji. Indulge in sublime hot spring baths, world-class gastronomy, and impeccable service that defines the pinnacle of Japanese hospitality. This is not just a stay; it's an immersive journey into serene beauty and refined elegance."
-image_prompt: "A serene aerial view capturing The Prince Hakone Lake Ashinoko, a luxurious ryokan nestled on the tranquil shores of Lake Ashi, with Mount Fuji majestically visible in the distance, surrounded by lush autumn foliage and mist, showcasing a traditional outdoor onsen bath with steam rising, delicate Japanese architecture blending into nature, golden hour lighting, cinematic, ultra-detailed, 8K."
+summary: Discover unparalleled luxury at The Prince Hakone Lake Ashinoko, an exquisite
+  ryokan offering some of Japan's most breathtaking views of Lake Ashi and Mount Fuji.
+  Indulge in sublime hot spring baths, world-class gastronomy, and impeccable service
+  that defines the pinnacle of Japanese hospitality. This is not just a stay; it's
+  an immersive journey into serene beauty and refined elegance.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg
+title: 'Beyond Compare: Immerse in Unrivaled Luxury and Breathtaking Views at The
+  Prince Hakone Lake Ashinoko'
 ---
 
 ## Introduction: Where Serenity Meets Grandeur

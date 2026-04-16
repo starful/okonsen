@@ -1,15 +1,24 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 절경
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: Exterior view of Hakone Ginyu ryokan nestled in a lush green mountain
+  valley in Hakone, Japan, showcasing its modern Japanese architecture with traditional
+  touches, multiple private open-air onsen baths visible on balconies, misty morning
+  fog clinging to the distant mountains, clear blue sky above, autumn foliage starting
+  to appear on trees, highly detailed, serene, luxurious, cinematic lighting, 8K,
+  wide shot.
 lang: ko
-title: "숨 막히는 절경과 최상의 럭셔리가 만나는 곳: 하코네 기인유 료칸 완전 정복 가이드"
 lat: 35.2423
 lng: 139.0611
-categories: ["절경", "고급 료칸"]
-thumbnail: "/static/images/hakone_ginyu.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네의 심장부에 자리한 하코네 기인유는 모든 객실에 딸린 전용 노천탕에서 잊을 수 없는 **절경**을 선사하는 **고급 료칸**입니다. 일본 전통 미학과 현대적인 편안함이 완벽하게 조화된 이곳에서 오감을 만족시키는 카이세키 요리와 함께 진정한 휴식을 경험해보세요. 단순한 숙박을 넘어선 평생 기억될 럭셔리 온천 여행을 꿈꾼다면, 하코네 기인유가 바로 그 해답입니다."
-image_prompt: "Exterior view of Hakone Ginyu ryokan nestled in a lush green mountain valley in Hakone, Japan, showcasing its modern Japanese architecture with traditional touches, multiple private open-air onsen baths visible on balconies, misty morning fog clinging to the distant mountains, clear blue sky above, autumn foliage starting to appear on trees, highly detailed, serene, luxurious, cinematic lighting, 8K, wide shot."
+summary: 하코네의 심장부에 자리한 하코네 기인유는 모든 객실에 딸린 전용 노천탕에서 잊을 수 없는 **절경**을 선사하는 **고급 료칸**입니다.
+  일본 전통 미학과 현대적인 편안함이 완벽하게 조화된 이곳에서 오감을 만족시키는 카이세키 요리와 함께 진정한 휴식을 경험해보세요. 단순한 숙박을
+  넘어선 평생 기억될 럭셔리 온천 여행을 꿈꾼다면, 하코네 기인유가 바로 그 해답입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ginyu.jpg
+title: '숨 막히는 절경과 최상의 럭셔리가 만나는 곳: 하코네 기인유 료칸 완전 정복 가이드'
 ---
 
 # 하코네 기인유: 절경 속 럭셔리 온천 료칸의 정수

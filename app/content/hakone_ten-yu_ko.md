@@ -1,15 +1,28 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: A breathtaking panoramic shot of Hakone Ten-yu luxury ryokan nestled
+  amidst the lush mountains of Hakone, Japan, with mist rising from the valley. Focus
+  on an outdoor private onsen bath on a balcony, with steam gently wafting, offering
+  a stunning view of verdant peaks and a distant lake under a soft, golden sunrise.
+  The architecture should blend traditional Japanese aesthetics with modern luxury,
+  featuring natural wood and stone elements. A family of four (two adults, two children)
+  is relaxing comfortably in the onsen, backs to the camera, enjoying the view. The
+  scene evokes tranquility, luxury, and connection with nature. High resolution, cinematic
+  lighting, warm inviting tones.
 lang: ko
-title: "하코네 텐유: 가족과 함께 절경을 만끽하는 프라이빗 럭셔리 온천 료칸 가이드"
 lat: 35.2393
 lng: 139.0456
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/hakone_ten-yu.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 텐유는 일본 가나가와현 하코네의 웅장한 자연 속에 자리한 최고급 료칸입니다. 모든 객실에 전용 노천탕을 갖추고 있어 프라이빗한 휴식을 선사하며, 사계절 변하는 하코네의 절경을 감상하며 진정한 힐링을 경험할 수 있습니다. 특히 가족탕 시설과 함께 최상의 서비스와 미식 경험이 어우러져 잊을 수 없는 추억을 선사합니다."
-image_prompt: "A breathtaking panoramic shot of Hakone Ten-yu luxury ryokan nestled amidst the lush mountains of Hakone, Japan, with mist rising from the valley. Focus on an outdoor private onsen bath on a balcony, with steam gently wafting, offering a stunning view of verdant peaks and a distant lake under a soft, golden sunrise. The architecture should blend traditional Japanese aesthetics with modern luxury, featuring natural wood and stone elements. A family of four (two adults, two children) is relaxing comfortably in the onsen, backs to the camera, enjoying the view. The scene evokes tranquility, luxury, and connection with nature. High resolution, cinematic lighting, warm inviting tones."
+summary: 하코네 텐유는 일본 가나가와현 하코네의 웅장한 자연 속에 자리한 최고급 료칸입니다. 모든 객실에 전용 노천탕을 갖추고 있어 프라이빗한
+  휴식을 선사하며, 사계절 변하는 하코네의 절경을 감상하며 진정한 힐링을 경험할 수 있습니다. 특히 가족탕 시설과 함께 최상의 서비스와 미식 경험이
+  어우러져 잊을 수 없는 추억을 선사합니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ten-yu.jpg
+title: '하코네 텐유: 가족과 함께 절경을 만끽하는 프라이빗 럭셔리 온천 료칸 가이드'
 ---
 
 ## 하코네 텐유: 오감을 사로잡는 절경 속 럭셔리 휴식처

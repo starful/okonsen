@@ -1,15 +1,32 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Private Bath
+- Great View
+date: '2026-04-05'
+image_prompt: A highly cinematic, wide-angle shot of Kusatsu Now Resort Hotel's outdoor
+  onsen (rotemburo) at dawn, steam gently rising from the natural hot spring water.
+  The bath is surrounded by lush, snow-dusted Japanese pine trees, with a dramatic,
+  sweeping panoramic view of the Kusatsu mountains and a soft, golden sunrise painting
+  the distant sky. The water is clear, inviting, and a solitary figure is seen in
+  contemplation, emphasizing tranquility and luxury. Architectural details of traditional
+  Japanese design elements are subtly visible in the ryokan structure in the background.
+  Highly detailed, ethereal lighting, tranquil atmosphere, cinematic, professional
+  travel photography.
 lang: en
-title: "Embrace Serenity: Kusatsu Now Resort Hotel – Where Panoramic Views Meet Private Indulgence in Japan's Premier Hot Spring Haven"
 lat: 36.6188
 lng: 138.6022
-categories: ["Private Bath", "Great View"]
-thumbnail: "/static/images/kusatsu_now_resort_hotel.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "Perched majestically amidst the verdant embrace of Kusatsu, Gunma, the Kusatsu Now Resort Hotel offers an unparalleled escape where nature's grandeur meets refined Japanese hospitality. Boasting breathtaking panoramic vistas from its renowned hot spring baths and exquisite private family onsen, it promises a sanctuary of rejuvenation for discerning travelers. Immerse yourself in the therapeutic waters, savor seasonal kaiseki, and experience an unforgettable journey into the heart of Japan's most celebrated onsen town."
-image_prompt: "A highly cinematic, wide-angle shot of Kusatsu Now Resort Hotel's outdoor onsen (rotemburo) at dawn, steam gently rising from the natural hot spring water. The bath is surrounded by lush, snow-dusted Japanese pine trees, with a dramatic, sweeping panoramic view of the Kusatsu mountains and a soft, golden sunrise painting the distant sky. The water is clear, inviting, and a solitary figure is seen in contemplation, emphasizing tranquility and luxury. Architectural details of traditional Japanese design elements are subtly visible in the ryokan structure in the background. Highly detailed, ethereal lighting, tranquil atmosphere, cinematic, professional travel photography."
+summary: Perched majestically amidst the verdant embrace of Kusatsu, Gunma, the Kusatsu
+  Now Resort Hotel offers an unparalleled escape where nature's grandeur meets refined
+  Japanese hospitality. Boasting breathtaking panoramic vistas from its renowned hot
+  spring baths and exquisite private family onsen, it promises a sanctuary of rejuvenation
+  for discerning travelers. Immerse yourself in the therapeutic waters, savor seasonal
+  kaiseki, and experience an unforgettable journey into the heart of Japan's most
+  celebrated onsen town.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_now_resort_hotel.jpg
+title: 'Embrace Serenity: Kusatsu Now Resort Hotel – Where Panoramic Views Meet Private
+  Indulgence in Japan''s Premier Hot Spring Haven'
 ---
 
 ## Introduction: A Symphony of Serenity and Splendor

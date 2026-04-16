@@ -1,15 +1,28 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Local
+- Private Bath
+date: '2026-04-12'
+image_prompt: A serene, traditional Japanese ryokan named Yoshinoya in Kusatsu Onsen
+  during autumn, viewed from a slight elevation showing intricate wooden architecture,
+  glowing soft interior lights, and steam gently rising from a secluded private outdoor
+  onsen bath surrounded by vibrant red and orange maple trees. A delicate stone lantern
+  adds a warm glow, creating an inviting and peaceful atmosphere. The sky is a clear
+  twilight blue, and there's a subtle mist in the distance over rolling mountains.
 lang: en
-title: "Unveiling Serenity: Your Definitive Guide to Kusatsu Onsen Ryokan Yoshinoya – An Authentic Local Sanctuary with Exquisite Private Baths"
 lat: 36.6241
 lng: 138.5962
-categories: ["Local", "Private Bath"]
-thumbnail: "/static/images/kusatsu_onsen_ryokan_yoshinoya.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-12"
-agoda: ""
-summary: "Escape to Kusatsu Onsen Ryokan Yoshinoya, a cherished local gem offering an intimate glimpse into Japan's timeless hospitality. Indulge in the therapeutic waters of their exquisite private baths, ensuring a deeply personal and restorative retreat. Experience authentic Japanese tradition nestled amidst the vibrant heart of one of Japan's most celebrated hot spring towns, making it an unforgettable journey for discerning travelers."
-image_prompt: "A serene, traditional Japanese ryokan named Yoshinoya in Kusatsu Onsen during autumn, viewed from a slight elevation showing intricate wooden architecture, glowing soft interior lights, and steam gently rising from a secluded private outdoor onsen bath surrounded by vibrant red and orange maple trees. A delicate stone lantern adds a warm glow, creating an inviting and peaceful atmosphere. The sky is a clear twilight blue, and there's a subtle mist in the distance over rolling mountains."
+summary: Escape to Kusatsu Onsen Ryokan Yoshinoya, a cherished local gem offering
+  an intimate glimpse into Japan's timeless hospitality. Indulge in the therapeutic
+  waters of their exquisite private baths, ensuring a deeply personal and restorative
+  retreat. Experience authentic Japanese tradition nestled amidst the vibrant heart
+  of one of Japan's most celebrated hot spring towns, making it an unforgettable journey
+  for discerning travelers.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg
+title: 'Unveiling Serenity: Your Definitive Guide to Kusatsu Onsen Ryokan Yoshinoya
+  – An Authentic Local Sanctuary with Exquisite Private Baths'
 ---
 
 # A Journey to the Soul of Kusatsu: Kusatsu Onsen Ryokan Yoshinoya – Where Tradition Embraces Tranquility

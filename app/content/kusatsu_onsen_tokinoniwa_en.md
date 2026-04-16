@@ -1,15 +1,29 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Luxury
+- Private Bath
+- Great View
+date: '2026-04-05'
+image_prompt: A serene outdoor private onsen bath at Kusatsu Onsen Tokinoniwa, surrounded
+  by lush, vibrant autumn foliage and traditional Japanese stone lanterns. The steam
+  gently rises from the emerald-green mineral-rich water. In the background, rolling
+  mountains under a soft, diffused morning light. The bath is empty, inviting, and
+  impeccably clean, showcasing a blend of natural beauty and refined Japanese design.
+  High detail, photorealistic, cinematic.
 lang: en
-title: "Indulge in Pure Bliss: Kusatsu Onsen Tokinoniwa, Where Luxury Meets Serene Views and Private Thermal Escapes"
 lat: 36.6199
 lng: 138.6055
-categories: ["Luxury", "Private Bath", "Great View"]
-thumbnail: "/static/images/kusatsu_onsen_tokinoniwa.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "Discover Kusatsu Onsen Tokinoniwa, an opulent sanctuary nestled amidst the breathtaking landscapes of Gunma, offering an unparalleled blend of traditional Japanese hospitality and modern comfort. Immerse yourself in the healing waters of its numerous private baths, each boasting spectacular views, or unwind in the expansive public rotenburo. This luxury ryokan promises an unforgettable escape where every detail is crafted for your utmost relaxation and rejuvenation."
-image_prompt: "A serene outdoor private onsen bath at Kusatsu Onsen Tokinoniwa, surrounded by lush, vibrant autumn foliage and traditional Japanese stone lanterns. The steam gently rises from the emerald-green mineral-rich water. In the background, rolling mountains under a soft, diffused morning light. The bath is empty, inviting, and impeccably clean, showcasing a blend of natural beauty and refined Japanese design. High detail, photorealistic, cinematic."
+summary: Discover Kusatsu Onsen Tokinoniwa, an opulent sanctuary nestled amidst the
+  breathtaking landscapes of Gunma, offering an unparalleled blend of traditional
+  Japanese hospitality and modern comfort. Immerse yourself in the healing waters
+  of its numerous private baths, each boasting spectacular views, or unwind in the
+  expansive public rotenburo. This luxury ryokan promises an unforgettable escape
+  where every detail is crafted for your utmost relaxation and rejuvenation.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_tokinoniwa.jpg
+title: 'Indulge in Pure Bliss: Kusatsu Onsen Tokinoniwa, Where Luxury Meets Serene
+  Views and Private Thermal Escapes'
 ---
 
 ## Introduction: A Symphony of Serenity and Splendor

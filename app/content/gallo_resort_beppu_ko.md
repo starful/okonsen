@@ -1,15 +1,26 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 고급 료칸
+date: '2026-04-12'
+image_prompt: A luxurious, modern Japanese onsen ryokan, Gallo Resort Beppu, built
+  on a cliff overlooking Beppu Bay. The image features a couple relaxing in a stunning
+  open-air private family bath (kashikiri onsen) with panoramic ocean and city views
+  at sunset. Steam rises gently from the hot spring water. The architecture blends
+  traditional Japanese elements with contemporary design, using natural wood and stone.
+  Lush green Japanese gardens surround the bath area. The sky is painted with vibrant
+  orange and purple hues. Ultra-realistic, cinematic lighting, high detail, golden
+  hour, Japanese aesthetics.
 lang: ko
-title: "벳푸 갈로 리조트: 절경 속 프라이빗 가족탕에서 경험하는 최고의 힐링, 규슈 럭셔리 온천 여행의 정점"
 lat: 33.3111
 lng: 131.4755
-categories: ["가족탕", "절경", "고급 료칸"]
-thumbnail: "/static/images/gallo_resort_beppu.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "벳푸만의 압도적인 절경을 품은 갈로 리조트는 프라이빗한 가족탕에서 진정한 휴식을 선사합니다. 품격 있는 서비스와 미식 경험이 더해져 잊지 못할 추억을 선사하며, 가족과 연인 모두에게 완벽한 온천 여행지입니다. 자연의 아름다움 속에서 치유와 재충전의 시간을 만끽해보세요."
-image_prompt: "A luxurious, modern Japanese onsen ryokan, Gallo Resort Beppu, built on a cliff overlooking Beppu Bay. The image features a couple relaxing in a stunning open-air private family bath (kashikiri onsen) with panoramic ocean and city views at sunset. Steam rises gently from the hot spring water. The architecture blends traditional Japanese elements with contemporary design, using natural wood and stone. Lush green Japanese gardens surround the bath area. The sky is painted with vibrant orange and purple hues. Ultra-realistic, cinematic lighting, high detail, golden hour, Japanese aesthetics."
+summary: 벳푸만의 압도적인 절경을 품은 갈로 리조트는 프라이빗한 가족탕에서 진정한 휴식을 선사합니다. 품격 있는 서비스와 미식 경험이 더해져
+  잊지 못할 추억을 선사하며, 가족과 연인 모두에게 완벽한 온천 여행지입니다. 자연의 아름다움 속에서 치유와 재충전의 시간을 만끽해보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/gallo_resort_beppu.jpg
+title: '벳푸 갈로 리조트: 절경 속 프라이빗 가족탕에서 경험하는 최고의 힐링, 규슈 럭셔리 온천 여행의 정점'
 ---
 
 # 벳푸 갈로 리조트: 절경과 프라이빗이 공존하는 규슈 최고의 힐링 공간

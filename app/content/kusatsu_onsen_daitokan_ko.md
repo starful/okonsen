@@ -1,15 +1,30 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 로컬
+- 절경
+date: '2026-04-05'
+image_prompt: A breathtaking panoramic view of Kusatsu Onsen Daitokan ryokan, nestled
+  majestically on a hillside overlooking the vibrant, steam-filled town of Kusatsu,
+  Gunma, Japan. It's late autumn, and the surrounding mountains are ablaze with a
+  tapestry of red, orange, and golden foliage. The ryokan's traditional dark wood
+  and white plaster architecture stands out against the colorful backdrop, with multi-tiered
+  roofs and delicate shoji screens visible. Steam from the famous Yubatake in the
+  town center gracefully rises, adding a mystical atmosphere. From the ryokan's elevated
+  position, a magnificent open-air rotemburo is visible, appearing as an infinity
+  pool seamlessly blending with the horizon of the autumn-painted mountains and a
+  clear, azure sky. The scene is bathed in the warm, golden light of the setting sun,
+  evoking a sense of ultimate tranquility, luxury, and a deep connection to nature
+  and Japanese tradition. --ar 16:9 --v 5.2
 lang: ko
-title: "구사쓰 온천 다이토칸: 일본 3대 명천에서 펼쳐지는 황홀경, 현지 매력과 절경이 조화된 최고의 료칸 체험"
 lat: 36.6222
 lng: 138.5977
-categories: ["로컬", "절경"]
-thumbnail: "/static/images/kusatsu_onsen_daitokan.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "군마현 구사쓰 온천의 중심부에 자리한 다이토칸은 수백 년의 역사를 간직한 현지 분위기와 숨 막히는 절경이 조화를 이루는 특별한 료칸입니다. 일본 3대 명천의 맑고 풍부한 온천수에 몸을 맡기고, 창밖으로 펼쳐지는 웅장한 자연 경관을 감상하며 진정한 휴식을 경험하세요. 전통과 현대가 어우러진 공간에서 오감을 만족시키는 가이세키 요리와 세심한 환대로 잊지 못할 추억을 선사합니다."
-image_prompt: "A breathtaking panoramic view of Kusatsu Onsen Daitokan ryokan, nestled majestically on a hillside overlooking the vibrant, steam-filled town of Kusatsu, Gunma, Japan. It's late autumn, and the surrounding mountains are ablaze with a tapestry of red, orange, and golden foliage. The ryokan's traditional dark wood and white plaster architecture stands out against the colorful backdrop, with multi-tiered roofs and delicate shoji screens visible. Steam from the famous Yubatake in the town center gracefully rises, adding a mystical atmosphere. From the ryokan's elevated position, a magnificent open-air rotemburo is visible, appearing as an infinity pool seamlessly blending with the horizon of the autumn-painted mountains and a clear, azure sky. The scene is bathed in the warm, golden light of the setting sun, evoking a sense of ultimate tranquility, luxury, and a deep connection to nature and Japanese tradition. --ar 16:9 --v 5.2"
+summary: 군마현 구사쓰 온천의 중심부에 자리한 다이토칸은 수백 년의 역사를 간직한 현지 분위기와 숨 막히는 절경이 조화를 이루는 특별한 료칸입니다.
+  일본 3대 명천의 맑고 풍부한 온천수에 몸을 맡기고, 창밖으로 펼쳐지는 웅장한 자연 경관을 감상하며 진정한 휴식을 경험하세요. 전통과 현대가 어우러진
+  공간에서 오감을 만족시키는 가이세키 요리와 세심한 환대로 잊지 못할 추억을 선사합니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_daitokan.jpg
+title: '구사쓰 온천 다이토칸: 일본 3대 명천에서 펼쳐지는 황홀경, 현지 매력과 절경이 조화된 최고의 료칸 체험'
 ---
 
 # 구사쓰 온천 다이토칸: 군마의 심장에서 피어나는 전통과 절경의 하모니

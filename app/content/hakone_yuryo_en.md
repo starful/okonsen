@@ -1,15 +1,27 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Private Bath
+- Tattoo OK
+date: '2026-03-24'
+image_prompt: A serene, luxurious private open-air onsen at Hakone Yuryo, with steam
+  rising gently from a natural stone bath surrounded by lush, vibrant Japanese forest
+  foliage, dappled sunlight filtering through the canopy. Traditional wooden architecture
+  is subtly visible in the background, exuding a sense of peaceful wabi-sabi aesthetic.
+  The water is clear, reflecting the verdant greenery, creating an inviting, tranquil
+  atmosphere, perfect for Midjourney, high detail, photorealistic.
 lang: en
-title: "Unveiling Hakone Yuryo: A Sanctuary of Serenity, Private Baths, and Tattoo-Friendly Luxury in Japan's Volcanic Heart"
 lat: 35.2321
 lng: 139.1023
-categories: ["Private Bath", "Tattoo OK"]
-thumbnail: "/static/images/hakone_yuryo.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover Hakone Yuryo, a tranquil onsen haven in the heart of Hakone, offering an unparalleled escape into nature's embrace. With its exclusive private baths and welcoming tattoo policy, it provides a deeply personal and inclusive experience for every guest. Immerse yourself in mineral-rich waters and serene surroundings for ultimate rejuvenation."
-image_prompt: "A serene, luxurious private open-air onsen at Hakone Yuryo, with steam rising gently from a natural stone bath surrounded by lush, vibrant Japanese forest foliage, dappled sunlight filtering through the canopy. Traditional wooden architecture is subtly visible in the background, exuding a sense of peaceful wabi-sabi aesthetic. The water is clear, reflecting the verdant greenery, creating an inviting, tranquil atmosphere, perfect for Midjourney, high detail, photorealistic."
+summary: Discover Hakone Yuryo, a tranquil onsen haven in the heart of Hakone, offering
+  an unparalleled escape into nature's embrace. With its exclusive private baths and
+  welcoming tattoo policy, it provides a deeply personal and inclusive experience
+  for every guest. Immerse yourself in mineral-rich waters and serene surroundings
+  for ultimate rejuvenation.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_yuryo.jpg
+title: 'Unveiling Hakone Yuryo: A Sanctuary of Serenity, Private Baths, and Tattoo-Friendly
+  Luxury in Japan''s Volcanic Heart'
 ---
 
 ## Introduction: A Hidden Gem in Hakone's Verdant Embrace

@@ -1,15 +1,26 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-04-03'
+image_prompt: A serene family enjoying a private outdoor onsen bath (rotenburo) at
+  a traditional Japanese ryokan in Yufuin, Japan. The bath is surrounded by lush autumn
+  foliage and gently flowing natural streams, with the distant view of Mount Yufu
+  shrouded in a soft morning mist. The family, a couple with a young child, is relaxed
+  and smiling, steam rising gently from the clear, mineral-rich water. The architecture
+  is rustic Japanese, incorporating natural wood and stone. Soft, warm sunlight filters
+  through the trees, creating dappled light on the water and stone. Highly detailed,
+  realistic, cinematic, tranquil atmosphere.
 lang: ko
-title: "유후인 마키노야: 가족과 함께 즐기는 진정한 로컬 온천의 매력, 오롯이 경험하는 평화"
 lat: 33.2666
 lng: 131.3621
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/makinoya.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "유후인의 고즈넉한 풍경 속에 자리한 마키노야는 북적임 없는 진정한 휴식을 선사하는 로컬 온천 료칸입니다. 이곳에서는 각기 다른 매력을 지닌 전용 가족탕에서 사랑하는 이들과 함께 온전한 시간을 보낼 수 있으며, 현지인처럼 여유로운 온천 문화를 깊이 체험할 수 있습니다. 마키노야는 화려함보다는 진정성과 편안함을 추구하는 여행자에게 잊지 못할 추억을 선사할 것입니다."
-image_prompt: "A serene family enjoying a private outdoor onsen bath (rotenburo) at a traditional Japanese ryokan in Yufuin, Japan. The bath is surrounded by lush autumn foliage and gently flowing natural streams, with the distant view of Mount Yufu shrouded in a soft morning mist. The family, a couple with a young child, is relaxed and smiling, steam rising gently from the clear, mineral-rich water. The architecture is rustic Japanese, incorporating natural wood and stone. Soft, warm sunlight filters through the trees, creating dappled light on the water and stone. Highly detailed, realistic, cinematic, tranquil atmosphere."
+summary: 유후인의 고즈넉한 풍경 속에 자리한 마키노야는 북적임 없는 진정한 휴식을 선사하는 로컬 온천 료칸입니다. 이곳에서는 각기 다른 매력을
+  지닌 전용 가족탕에서 사랑하는 이들과 함께 온전한 시간을 보낼 수 있으며, 현지인처럼 여유로운 온천 문화를 깊이 체험할 수 있습니다. 마키노야는
+  화려함보다는 진정성과 편안함을 추구하는 여행자에게 잊지 못할 추억을 선사할 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/makinoya.jpg
+title: '유후인 마키노야: 가족과 함께 즐기는 진정한 로컬 온천의 매력, 오롯이 경험하는 평화'
 ---
 
 # 유후인 마키노야: 로컬 감성 가득한 가족 온천 료칸에서 진정한 휴식을 만나다

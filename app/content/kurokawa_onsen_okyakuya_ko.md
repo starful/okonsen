@@ -1,15 +1,27 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-04-12'
+image_prompt: A highly detailed and atmospheric image of a traditional Japanese onsen
+  ryokan, Kurokawa Onsen Okyakuya, nestled in a lush, verdant valley in Minamioguni,
+  Kumamoto, Japan, during early autumn. The scene features a beautiful private family
+  rotenburo (outdoor bath) with steam rising gently from the natural hot spring water,
+  surrounded by moss-covered rocks and vibrant maple leaves in shades of red and orange.
+  In the background, traditional wooden ryokan architecture with soft, warm lighting
+  glows invitingly. A small, winding stone path leads to the bath. The water reflects
+  the surrounding autumn foliage and the clear sky. The atmosphere is serene, tranquil,
+  and luxurious, evoking a sense of deep relaxation and connection with nature. High
+  dynamic range, soft natural light, extremely detailed, photorealistic.
 lang: ko
-title: "흑천 온천 오캬쿠야: 구마모토 깊은 산속, 아늑한 가족탕과 정겨운 로컬 정취가 스며든 휴식처로 떠나는 특별한 여행"
 lat: 33.0815
 lng: 131.1405
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/kurokawa_onsen_okyakuya.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "구마모토 미나미오구니의 고즈넉한 흑천 온천마을에 자리한 오캬쿠야는 진정한 로컬 온천 경험을 선사합니다. 정취 넘치는 가족탕에서 사랑하는 이들과 오붓한 시간을 보내고, 자연 속에서 깊은 위안을 찾아보세요. 이곳은 일상에 지친 당신에게 따뜻한 위로와 잊지 못할 추억을 안겨줄 것입니다."
-image_prompt: "A highly detailed and atmospheric image of a traditional Japanese onsen ryokan, Kurokawa Onsen Okyakuya, nestled in a lush, verdant valley in Minamioguni, Kumamoto, Japan, during early autumn. The scene features a beautiful private family rotenburo (outdoor bath) with steam rising gently from the natural hot spring water, surrounded by moss-covered rocks and vibrant maple leaves in shades of red and orange. In the background, traditional wooden ryokan architecture with soft, warm lighting glows invitingly. A small, winding stone path leads to the bath. The water reflects the surrounding autumn foliage and the clear sky. The atmosphere is serene, tranquil, and luxurious, evoking a sense of deep relaxation and connection with nature. High dynamic range, soft natural light, extremely detailed, photorealistic."
+summary: 구마모토 미나미오구니의 고즈넉한 흑천 온천마을에 자리한 오캬쿠야는 진정한 로컬 온천 경험을 선사합니다. 정취 넘치는 가족탕에서 사랑하는
+  이들과 오붓한 시간을 보내고, 자연 속에서 깊은 위안을 찾아보세요. 이곳은 일상에 지친 당신에게 따뜻한 위로와 잊지 못할 추억을 안겨줄 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_okyakuya.jpg
+title: '흑천 온천 오캬쿠야: 구마모토 깊은 산속, 아늑한 가족탕과 정겨운 로컬 정취가 스며든 휴식처로 떠나는 특별한 여행'
 ---
 
 # 흑천 온천 오캬쿠야: 깊은 산속에서 만나는 진정한 휴식과 치유의 시간

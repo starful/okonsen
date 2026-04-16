@@ -1,15 +1,26 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 가족탕
+- 타투 허용
+date: '2026-03-24'
+image_prompt: A serene, luxurious Japanese onsen ryokan named Hakone Yuryo nestled
+  in a lush green forest in Hakone, Kanagawa. Focus on an outdoor private bath (kashikiri
+  onsen) with steam rising, surrounded by vibrant autumn foliage. Sunlight filters
+  through the trees, casting dappled light on the wooden architecture. A subtle, tasteful
+  tattoo is visible on a person's arm, relaxing in the water, looking peaceful and
+  happy. The overall atmosphere is tranquil, elegant, and inviting, showcasing traditional
+  Japanese aesthetics blended with modern comfort. High-resolution photography, natural
+  lighting.
 lang: ko
-title: "하코네 유료: 문신 걱정 없이 즐기는 프라이빗 온천의 정수, 가족 모두가 행복한 힐링 파라다이스"
 lat: 35.2321
 lng: 139.1023
-categories: ["가족탕", "타투 허용"]
-thumbnail: "/static/images/hakone_yuryo.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 유료는 문신이 있는 여행객도 마음 편히 온천을 즐길 수 있는 특별한 쉼터입니다. 고요한 숲속에 자리한 이곳은 아늑한 가족 전용탕과 대자연 속 노천탕을 자랑하며, 도심의 번잡함에서 벗어나 진정한 휴식을 선사합니다. 사랑하는 이들과 프라이빗한 시간을 보내며 일본 온천 문화의 정수를 경험해보세요."
-image_prompt: "A serene, luxurious Japanese onsen ryokan named Hakone Yuryo nestled in a lush green forest in Hakone, Kanagawa. Focus on an outdoor private bath (kashikiri onsen) with steam rising, surrounded by vibrant autumn foliage. Sunlight filters through the trees, casting dappled light on the wooden architecture. A subtle, tasteful tattoo is visible on a person's arm, relaxing in the water, looking peaceful and happy. The overall atmosphere is tranquil, elegant, and inviting, showcasing traditional Japanese aesthetics blended with modern comfort. High-resolution photography, natural lighting."
+summary: 하코네 유료는 문신이 있는 여행객도 마음 편히 온천을 즐길 수 있는 특별한 쉼터입니다. 고요한 숲속에 자리한 이곳은 아늑한 가족 전용탕과
+  대자연 속 노천탕을 자랑하며, 도심의 번잡함에서 벗어나 진정한 휴식을 선사합니다. 사랑하는 이들과 프라이빗한 시간을 보내며 일본 온천 문화의 정수를
+  경험해보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_yuryo.jpg
+title: '하코네 유료: 문신 걱정 없이 즐기는 프라이빗 온천의 정수, 가족 모두가 행복한 힐링 파라다이스'
 ---
 
 ## 하코네 유료: 자연 속에서 피어나는 진정한 치유의 시간

@@ -1,15 +1,30 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 절경
+- 타투 허용
+date: '2026-03-24'
+image_prompt: A breathtaking, expansive aerial view of Tenseien, a luxurious Japanese
+  onsen ryokan nestled deep within the lush, verdant mountains of Hakone, Kanagawa.
+  The scene captures the majestic, sprawling open-air rotenburo baths, seamlessly
+  integrated into the natural landscape, with a grand, multi-tiered waterfall cascading
+  gracefully into a pristine pond within the ryokan grounds. Steam gently rises from
+  the tranquil, mineral-rich onsen waters, contrasting with the vibrant greenery of
+  surrounding ancient trees and distant mountain peaks shrouded in a soft, ethereal
+  mist. The architecture should blend traditional Japanese elegance with modern comfort,
+  featuring dark wood, intricate tile work, and stone pathways. The atmosphere is
+  one of profound serenity, exclusivity, and harmony with nature, under a clear blue
+  sky transitioning into golden hour. Emphasize the `절경` (spectacular view) and the
+  sense of unparalleled relaxation. Ultra-realistic, wide shot, dynamic lighting,
+  high resolution, cinematic quality.
 lang: ko
-title: "하코네 텐세이엔: 절경 속 자유로운 휴식, 문신 허용 료칸에서 만나는 진정한 힐링"
 lat: 35.2281
 lng: 139.0982
-categories: ["절경", "타투 허용"]
-thumbnail: "/static/images/tenseien.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네의 심장부에 위치한 텐세이엔은 숨 막히는 자연 절경과 함께 진정한 휴식을 선사합니다. 문신에 대한 편견 없이 모두를 환영하며, 깊은 역사와 최고급 서비스로 오직 당신만을 위한 특별한 경험을 제공합니다. 고요한 온천물에 몸을 담그고 일상의 번잡함을 잊어보세요."
-image_prompt: "A breathtaking, expansive aerial view of Tenseien, a luxurious Japanese onsen ryokan nestled deep within the lush, verdant mountains of Hakone, Kanagawa. The scene captures the majestic, sprawling open-air rotenburo baths, seamlessly integrated into the natural landscape, with a grand, multi-tiered waterfall cascading gracefully into a pristine pond within the ryokan grounds. Steam gently rises from the tranquil, mineral-rich onsen waters, contrasting with the vibrant greenery of surrounding ancient trees and distant mountain peaks shrouded in a soft, ethereal mist. The architecture should blend traditional Japanese elegance with modern comfort, featuring dark wood, intricate tile work, and stone pathways. The atmosphere is one of profound serenity, exclusivity, and harmony with nature, under a clear blue sky transitioning into golden hour. Emphasize the `절경` (spectacular view) and the sense of unparalleled relaxation. Ultra-realistic, wide shot, dynamic lighting, high resolution, cinematic quality."
+summary: 하코네의 심장부에 위치한 텐세이엔은 숨 막히는 자연 절경과 함께 진정한 휴식을 선사합니다. 문신에 대한 편견 없이 모두를 환영하며,
+  깊은 역사와 최고급 서비스로 오직 당신만을 위한 특별한 경험을 제공합니다. 고요한 온천물에 몸을 담그고 일상의 번잡함을 잊어보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/tenseien.jpg
+title: '하코네 텐세이엔: 절경 속 자유로운 휴식, 문신 허용 료칸에서 만나는 진정한 힐링'
 ---
 
 # 하코네 텐세이엔: 자연이 선사하는 절경과 자유로움을 품은 온천 료칸

@@ -1,15 +1,28 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 타투 허용
+- 절경
+- 고급 료칸
+date: '2026-03-28'
+image_prompt: A breathtaking panoramic view of a traditional Japanese open-air onsen
+  (rotemburo) at sunset, with the majestic Mount Yufu (Yufuin-dake) in the background,
+  bathed in soft golden light. Steam gently rises from the large natural hot spring
+  pool, surrounded by meticulously arranged rocks and lush autumnal foliage. A person
+  with intricate tattoos is comfortably soaking in the bath, looking out at the stunning
+  mountainous landscape. The scene evokes a sense of deep tranquility, luxury, and
+  cultural acceptance, with a focus on traditional Japanese architecture blending
+  seamlessly with nature. Shot with a wide-angle lens, golden hour lighting, cinematic
+  quality, high detail.
 lang: ko
-title: "유후인 무소엔: 타투 친화적인 절경 온천에서 경험하는 압도적인 평화와 럭셔리"
 lat: 33.2511
 lng: 131.3522
-categories: ["타투 허용", "절경", "고급 료칸"]
-thumbnail: "/static/images/musouen.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-28"
-agoda: ""
-summary: "유후인 무소엔은 타투에 대한 개방적인 정책과 유후다케를 한눈에 담는 압도적인 절경을 자랑하는 고급 료칸입니다. 지친 일상에서 벗어나 몸과 마음을 치유하고 싶은 이들을 위한 완벽한 안식처로, 오이타의 청정한 자연 속에서 진정한 힐링을 선사합니다. 잊을 수 없는 미식 경험과 일본 전통의 미학이 깃든 공간에서 최고의 휴식을 만끽해 보세요."
-image_prompt: "A breathtaking panoramic view of a traditional Japanese open-air onsen (rotemburo) at sunset, with the majestic Mount Yufu (Yufuin-dake) in the background, bathed in soft golden light. Steam gently rises from the large natural hot spring pool, surrounded by meticulously arranged rocks and lush autumnal foliage. A person with intricate tattoos is comfortably soaking in the bath, looking out at the stunning mountainous landscape. The scene evokes a sense of deep tranquility, luxury, and cultural acceptance, with a focus on traditional Japanese architecture blending seamlessly with nature. Shot with a wide-angle lens, golden hour lighting, cinematic quality, high detail."
+summary: 유후인 무소엔은 타투에 대한 개방적인 정책과 유후다케를 한눈에 담는 압도적인 절경을 자랑하는 고급 료칸입니다. 지친 일상에서 벗어나
+  몸과 마음을 치유하고 싶은 이들을 위한 완벽한 안식처로, 오이타의 청정한 자연 속에서 진정한 힐링을 선사합니다. 잊을 수 없는 미식 경험과 일본
+  전통의 미학이 깃든 공간에서 최고의 휴식을 만끽해 보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/musouen.jpg
+title: '유후인 무소엔: 타투 친화적인 절경 온천에서 경험하는 압도적인 평화와 럭셔리'
 ---
 
 # 유후인 무소엔: 대자연 속에서 펼쳐지는 압도적인 평화와 럭셔리, 타투 친화적인 힐링의 성지

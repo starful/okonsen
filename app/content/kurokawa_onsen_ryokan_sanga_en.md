@@ -1,15 +1,30 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Local
+date: '2026-04-12'
+image_prompt: An atmospheric, immersive shot capturing the essence of Kurokawa Onsen
+  Ryokan Sanga. A guest is enjoying a private outdoor onsen (rotemburo) surrounded
+  by ancient, moss-covered rocks and vibrant autumn foliage, with a dense, mystical
+  forest and a gently flowing mountain stream in the background. Steam rises softly
+  from the warm, mineral-rich water. The lighting is warm and inviting, suggesting
+  either early morning mist or late afternoon golden hour. The architecture of the
+  ryokan is subtly visible, blending harmoniously with the natural environment. The
+  scene emphasizes tranquility, luxury, and the raw beauty of Japanese nature.
 lang: en
-title: "Kurokawa Onsen Ryokan Sanga: A Secluded Kumamoto Oasis of Natural Beauty, Private Retreats, and Authentic Japanese Charm"
 lat: 33.0788
 lng: 131.1322
-categories: ["Private Bath", "Great View", "Local"]
-thumbnail: "/static/images/kurokawa_onsen_ryokan_sanga.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "Escape to Kurokawa Onsen Ryokan Sanga, a hidden gem nestled amidst Kumamoto's breathtaking natural landscapes, offering a sanctuary where time slows down. Indulge in secluded private baths boasting spectacular natural views, savor exquisitely prepared local cuisine, and immerse yourself in the authentic, tranquil rhythm of traditional Japanese hospitality for an unforgettable journey into serenity."
-image_prompt: "An atmospheric, immersive shot capturing the essence of Kurokawa Onsen Ryokan Sanga. A guest is enjoying a private outdoor onsen (rotemburo) surrounded by ancient, moss-covered rocks and vibrant autumn foliage, with a dense, mystical forest and a gently flowing mountain stream in the background. Steam rises softly from the warm, mineral-rich water. The lighting is warm and inviting, suggesting either early morning mist or late afternoon golden hour. The architecture of the ryokan is subtly visible, blending harmoniously with the natural environment. The scene emphasizes tranquility, luxury, and the raw beauty of Japanese nature."
+summary: Escape to Kurokawa Onsen Ryokan Sanga, a hidden gem nestled amidst Kumamoto's
+  breathtaking natural landscapes, offering a sanctuary where time slows down. Indulge
+  in secluded private baths boasting spectacular natural views, savor exquisitely
+  prepared local cuisine, and immerse yourself in the authentic, tranquil rhythm of
+  traditional Japanese hospitality for an unforgettable journey into serenity.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_sanga.jpg
+title: 'Kurokawa Onsen Ryokan Sanga: A Secluded Kumamoto Oasis of Natural Beauty,
+  Private Retreats, and Authentic Japanese Charm'
 ---
 
 # Discovering Kurokawa Onsen Ryokan Sanga: A Kumamoto Retreat for the Soul

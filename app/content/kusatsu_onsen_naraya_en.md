@@ -1,15 +1,29 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Luxury
+- Private Bath
+date: '2026-04-05'
+image_prompt: A breathtaking view of a luxurious Japanese onsen ryokan, Kusatsu Onsen
+  Naraya, nestled amidst snow-dusted traditional architecture and lush winter foliage.
+  The scene features steam rising from outdoor private baths (kashikiri) at dusk,
+  overlooking a pristine, serene Japanese garden. Soft, warm light spills from elegantly
+  lit tatami rooms, evoking a sense of peaceful serenity and exclusive luxury. The
+  atmosphere is tranquil, inviting, and deeply traditional, with a focus on refined
+  aesthetics and natural beauty, high detail, photorealistic, cinematic lighting.
 lang: en
-title: "Kusatsu Onsen Naraya: A Sanctuary of Serenity – Unveiling Gunma's Pinnacle of Luxury and Private Retreats"
 lat: 36.6228
 lng: 138.5951
-categories: ["Luxury", "Private Bath"]
-thumbnail: "/static/images/kusatsu_onsen_naraya.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "Escape to Kusatsu Onsen Naraya, where the ancient traditions of Japanese hospitality meet unparalleled modern luxury in the heart of Gunma. Immerse yourself in the therapeutic embrace of Kusatsu's legendary waters within exquisite private baths, designed for ultimate relaxation and rejuvenation. This exclusive ryokan promises an unforgettable journey of refined elegance, gourmet delights, and profound tranquility."
-image_prompt: "A breathtaking view of a luxurious Japanese onsen ryokan, Kusatsu Onsen Naraya, nestled amidst snow-dusted traditional architecture and lush winter foliage. The scene features steam rising from outdoor private baths (kashikiri) at dusk, overlooking a pristine, serene Japanese garden. Soft, warm light spills from elegantly lit tatami rooms, evoking a sense of peaceful serenity and exclusive luxury. The atmosphere is tranquil, inviting, and deeply traditional, with a focus on refined aesthetics and natural beauty, high detail, photorealistic, cinematic lighting."
+summary: Escape to Kusatsu Onsen Naraya, where the ancient traditions of Japanese
+  hospitality meet unparalleled modern luxury in the heart of Gunma. Immerse yourself
+  in the therapeutic embrace of Kusatsu's legendary waters within exquisite private
+  baths, designed for ultimate relaxation and rejuvenation. This exclusive ryokan
+  promises an unforgettable journey of refined elegance, gourmet delights, and profound
+  tranquility.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_naraya.jpg
+title: 'Kusatsu Onsen Naraya: A Sanctuary of Serenity – Unveiling Gunma''s Pinnacle
+  of Luxury and Private Retreats'
 ---
 
 ## Kusatsu Onsen Naraya: A Journey into Pure Japanese Luxury and Timeless Serenity

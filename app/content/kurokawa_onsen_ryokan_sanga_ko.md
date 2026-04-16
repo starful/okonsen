@@ -1,15 +1,24 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 가족탕
+- 절경
+- 로컬
+date: '2026-04-12'
+image_prompt: A breathtaking aerial view of Kurokawa Onsen Ryokan Sanga nestled deep
+  within a lush, misty Japanese mountain valley, with traditional wooden ryokan buildings
+  scattered along a winding river, smoke rising from onsen baths, surrounded by vibrant
+  autumn foliage and untouched nature, showcasing its secluded and tranquil beauty.
+  High detail, cinematic, tranquil, serene, natural light.
 lang: ko
-title: "구로카와 온천 료칸 산가: 절경 속 프라이빗 온천과 미식, 가족 여행의 완벽한 안식처"
 lat: 33.0788
 lng: 131.1322
-categories: ["가족탕", "절경", "로컬"]
-thumbnail: "/static/images/kurokawa_onsen_ryokan_sanga.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "쿠마모토 미나미오구니의 깊은 산 속에 자리한 구로카와 온천 료칸 산가는 대자연의 품에서 진정한 힐링을 선사합니다. 장엄한 경치를 자랑하는 노천탕과 아늑한 전세 가족탕, 그리고 지역 특산물을 활용한 카이세키 요리는 잊을 수 없는 추억을 선사할 것입니다. 이 곳은 고즈넉한 일본의 정취와 최고급 서비스가 어우러진, 특별한 휴식을 꿈꾸는 모든 이들을 위한 이상적인 여행지입니다."
-image_prompt: "A breathtaking aerial view of Kurokawa Onsen Ryokan Sanga nestled deep within a lush, misty Japanese mountain valley, with traditional wooden ryokan buildings scattered along a winding river, smoke rising from onsen baths, surrounded by vibrant autumn foliage and untouched nature, showcasing its secluded and tranquil beauty. High detail, cinematic, tranquil, serene, natural light."
+summary: 쿠마모토 미나미오구니의 깊은 산 속에 자리한 구로카와 온천 료칸 산가는 대자연의 품에서 진정한 힐링을 선사합니다. 장엄한 경치를 자랑하는
+  노천탕과 아늑한 전세 가족탕, 그리고 지역 특산물을 활용한 카이세키 요리는 잊을 수 없는 추억을 선사할 것입니다. 이 곳은 고즈넉한 일본의 정취와
+  최고급 서비스가 어우러진, 특별한 휴식을 꿈꾸는 모든 이들을 위한 이상적인 여행지입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_sanga.jpg
+title: '구로카와 온천 료칸 산가: 절경 속 프라이빗 온천과 미식, 가족 여행의 완벽한 안식처'
 ---
 
 # 구로카와 온천 료칸 산가: 자연 속 평온한 휴식, 영혼의 안식처로의 초대

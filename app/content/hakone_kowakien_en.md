@@ -1,15 +1,29 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Luxury
+date: '2026-03-24'
+image_prompt: A breathtaking aerial view of Hakone Kowakien resort nestled amidst
+  vibrant autumn foliage and lush green mountains, with steam rising from several
+  open-air onsen baths, showcasing traditional Japanese architecture blending seamlessly
+  with nature. A large, beautifully designed private onsen bath with a family enjoying
+  the serene view of the Hakone landscape, clear blue sky, soft natural light, highly
+  detailed, photorealistic, cinematic.
 lang: en
-title: "Unwind in Sublime Luxury: Hakone Kowakien – Where Spectacular Views Meet Private Onsen Bliss in Japan's Premier Hot Spring Haven"
 lat: 35.2401
 lng: 139.0441
-categories: ["Private Bath", "Great View", "Luxury"]
-thumbnail: "/static/images/hakone_kowakien.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover the unparalleled grandeur of Hakone Kowakien, an exquisite retreat where the serenity of nature intertwines with luxurious Japanese hospitality. Boasting magnificent private baths perfect for families and couples, this destination offers truly spectacular views of Hakone's majestic landscapes. Prepare for an unforgettable journey into relaxation and refined elegance amidst one of Japan's most iconic onsen regions."
-image_prompt: "A breathtaking aerial view of Hakone Kowakien resort nestled amidst vibrant autumn foliage and lush green mountains, with steam rising from several open-air onsen baths, showcasing traditional Japanese architecture blending seamlessly with nature. A large, beautifully designed private onsen bath with a family enjoying the serene view of the Hakone landscape, clear blue sky, soft natural light, highly detailed, photorealistic, cinematic."
+summary: Discover the unparalleled grandeur of Hakone Kowakien, an exquisite retreat
+  where the serenity of nature intertwines with luxurious Japanese hospitality. Boasting
+  magnificent private baths perfect for families and couples, this destination offers
+  truly spectacular views of Hakone's majestic landscapes. Prepare for an unforgettable
+  journey into relaxation and refined elegance amidst one of Japan's most iconic onsen
+  regions.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_kowakien.jpg
+title: 'Unwind in Sublime Luxury: Hakone Kowakien – Where Spectacular Views Meet Private
+  Onsen Bliss in Japan''s Premier Hot Spring Haven'
 ---
 
 # Hakone Kowakien: An Oasis of Onsen Grandeur Amidst Hakone's Natural Splendor

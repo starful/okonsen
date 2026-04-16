@@ -1,15 +1,27 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-04-03'
+image_prompt: A serene, luxurious traditional Japanese ryokan in Yufuin, Oita, nestled
+  amidst lush greenery with views of Mount Yufu. The scene features a beautifully
+  designed outdoor private onsen (kashikiri-buro) with natural stone, steam rising
+  from the clear mineral-rich water, surrounded by meticulously manicured Japanese
+  garden elements like maple trees and moss. A traditional wooden structure with shoji
+  screens is visible nearby, embodying wabi-sabi aesthetics. The sky is a soft, clear
+  blue with a hint of morning mist. The overall atmosphere is tranquil, exclusive,
+  and deeply relaxing, emphasizing the local charm and private bath experience. Highly
+  detailed, cinematic, soft natural lighting.
 lang: ko
-title: "유후인 료치쿠: 북적이는 일상 속, 오직 당신만을 위한 프라이빗 온천의 정수"
 lat: 33.2661
 lng: 131.3633
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/yufu_ryochiku.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "유후인 료치쿠는 번잡함에서 벗어나 오직 당신과 당신의 소중한 사람만을 위한 진정한 휴식을 선사하는 특별한 료칸입니다. 이곳은 현대적인 편안함과 일본 전통의 미학이 조화롭게 어우러진 공간에서, 지역 특유의 따뜻한 환대와 함께 최상의 프라이빗 온천 경험을 제공합니다. 몸과 마음의 깊은 치유를 선사할 유후인 료치쿠에서 잊지 못할 추억을 만들어보세요."
-image_prompt: "A serene, luxurious traditional Japanese ryokan in Yufuin, Oita, nestled amidst lush greenery with views of Mount Yufu. The scene features a beautifully designed outdoor private onsen (kashikiri-buro) with natural stone, steam rising from the clear mineral-rich water, surrounded by meticulously manicured Japanese garden elements like maple trees and moss. A traditional wooden structure with shoji screens is visible nearby, embodying wabi-sabi aesthetics. The sky is a soft, clear blue with a hint of morning mist. The overall atmosphere is tranquil, exclusive, and deeply relaxing, emphasizing the local charm and private bath experience. Highly detailed, cinematic, soft natural lighting."
+summary: 유후인 료치쿠는 번잡함에서 벗어나 오직 당신과 당신의 소중한 사람만을 위한 진정한 휴식을 선사하는 특별한 료칸입니다. 이곳은 현대적인
+  편안함과 일본 전통의 미학이 조화롭게 어우러진 공간에서, 지역 특유의 따뜻한 환대와 함께 최상의 프라이빗 온천 경험을 제공합니다. 몸과 마음의
+  깊은 치유를 선사할 유후인 료치쿠에서 잊지 못할 추억을 만들어보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufu_ryochiku.jpg
+title: '유후인 료치쿠: 북적이는 일상 속, 오직 당신만을 위한 프라이빗 온천의 정수'
 ---
 
 ## 유후인 료치쿠: 북적이는 일상 속, 오직 당신만을 위한 프라이빗 온천의 정수

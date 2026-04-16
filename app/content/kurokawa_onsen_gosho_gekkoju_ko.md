@@ -1,15 +1,25 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+- 가족탕
+date: '2026-04-12'
+image_prompt: A breathtakingly beautiful luxurious private outdoor onsen bath at Kurokawa
+  Onsen Gosho Gekkoju, overlooking a serene Japanese forest and a gently flowing river,
+  under a clear blue sky. The bath water is steaming gently. The surrounding architecture
+  is traditional Japanese ryokan style with elegant wooden elements and natural stone.
+  Sunlight filters through the lush green leaves. No people, just the tranquil scenery.
+  High-resolution, cinematic lighting, ultra-detailed.
 lang: ko
-title: "쿠로카와 온천 고쇼 겟코주: 대자연 속 프라이빗 럭셔리, 절경을 품은 가족탕의 정수"
 lat: 33.0888
 lng: 131.1355
-categories: ["고급 료칸", "절경", "가족탕"]
-thumbnail: "/static/images/kurokawa_onsen_gosho_gekkoju.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "쿠마모토의 심장부, 쿠로카와 온천에 자리한 고쇼 겟코주는 대자연의 품에 안겨 진정한 휴식을 선사하는 최고급 료칸입니다. 모든 객실에 딸린 전용 온천과 아름다운 절경은 물론, 프라이빗한 가족탕에서 잊지 못할 추억을 만들 수 있습니다. 타투에 대한 개방적인 정책은 물론, 미식의 향연과 함께 몸과 마음을 치유하는 완벽한 럭셔리 온천 경험을 제공합니다."
-image_prompt: "A breathtakingly beautiful luxurious private outdoor onsen bath at Kurokawa Onsen Gosho Gekkoju, overlooking a serene Japanese forest and a gently flowing river, under a clear blue sky. The bath water is steaming gently. The surrounding architecture is traditional Japanese ryokan style with elegant wooden elements and natural stone. Sunlight filters through the lush green leaves. No people, just the tranquil scenery. High-resolution, cinematic lighting, ultra-detailed."
+summary: 쿠마모토의 심장부, 쿠로카와 온천에 자리한 고쇼 겟코주는 대자연의 품에 안겨 진정한 휴식을 선사하는 최고급 료칸입니다. 모든 객실에
+  딸린 전용 온천과 아름다운 절경은 물론, 프라이빗한 가족탕에서 잊지 못할 추억을 만들 수 있습니다. 타투에 대한 개방적인 정책은 물론, 미식의
+  향연과 함께 몸과 마음을 치유하는 완벽한 럭셔리 온천 경험을 제공합니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_gosho_gekkoju.jpg
+title: '쿠로카와 온천 고쇼 겟코주: 대자연 속 프라이빗 럭셔리, 절경을 품은 가족탕의 정수'
 ---
 
 # 쿠로카와 온천 고쇼 겟코주: 대자연의 품에서 누리는 지상의 낙원

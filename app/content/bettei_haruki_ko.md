@@ -1,15 +1,26 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-04-12'
+image_prompt: A serene, private Japanese family onsen bath (가족탕) at a traditional
+  ryokan named Bettei Haruki in Beppu, Oita. The bath is made of natural, smooth river
+  stones and dark wood, with steam gently rising from the crystal-clear, mineral-rich
+  water. Lush, vibrant green Japanese maple trees and mossy rocks surround the outdoor
+  bath, providing a sense of secluded tranquility. In the background, hints of traditional
+  wooden architecture with subtle ambient lighting. The atmosphere is peaceful, authentic,
+  and inviting, with no people present, emphasizing privacy and nature. Soft, warm
+  sunlight filters through the leaves.
 lang: ko
-title: "벳푸 벳테이 하루키: 현지인의 비밀스러운 안식처, 가족탕에서 진정한 온천 휴식을 만나다"
 lat: 33.3144
 lng: 131.4811
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/bettei_haruki.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "오이타 벳푸의 번화가에서 벗어나 진정한 일본 온천 문화의 정수를 경험하고 싶다면, 벳테이 하루키가 당신의 안식처가 될 것입니다. 이곳은 현지인들 사이에서만 은밀히 공유되는 보석 같은 장소로, 완벽한 프라이버시를 보장하는 가족탕이 특징입니다. 벳푸의 풍부한 온천수와 일본 전통의 미학이 어우러진 공간에서 오롯이 당신만을 위한 잊지 못할 휴식을 선사합니다."
-image_prompt: "A serene, private Japanese family onsen bath (가족탕) at a traditional ryokan named Bettei Haruki in Beppu, Oita. The bath is made of natural, smooth river stones and dark wood, with steam gently rising from the crystal-clear, mineral-rich water. Lush, vibrant green Japanese maple trees and mossy rocks surround the outdoor bath, providing a sense of secluded tranquility. In the background, hints of traditional wooden architecture with subtle ambient lighting. The atmosphere is peaceful, authentic, and inviting, with no people present, emphasizing privacy and nature. Soft, warm sunlight filters through the leaves."
+summary: 오이타 벳푸의 번화가에서 벗어나 진정한 일본 온천 문화의 정수를 경험하고 싶다면, 벳테이 하루키가 당신의 안식처가 될 것입니다. 이곳은
+  현지인들 사이에서만 은밀히 공유되는 보석 같은 장소로, 완벽한 프라이버시를 보장하는 가족탕이 특징입니다. 벳푸의 풍부한 온천수와 일본 전통의 미학이
+  어우러진 공간에서 오롯이 당신만을 위한 잊지 못할 휴식을 선사합니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/bettei_haruki.jpg
+title: '벳푸 벳테이 하루키: 현지인의 비밀스러운 안식처, 가족탕에서 진정한 온천 휴식을 만나다'
 ---
 
 # 벳푸 벳테이 하루키: 현지인의 은밀한 안식처, 오감을 깨우는 진정한 온천 체험

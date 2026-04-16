@@ -1,15 +1,30 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Local
+- Private Bath
+date: '2026-04-05'
+image_prompt: An atmospheric interior shot of a traditional Japanese private onsen
+  bath (kashikiri-buro) at Kusatsu Onsen Eidaya. The bath is made of dark, polished
+  hinoki wood or natural stone, filled with steaming, milky-white sulfur water. Soft,
+  warm light filters through shoji screens, highlighting the delicate steam rising
+  from the water. There are small, traditional bathing stools and wooden buckets at
+  the side. A small window offers a subtle glimpse of green foliage or falling snow
+  outside, implying a connection to nature. The overall mood is one of profound tranquility,
+  luxury, and authentic Japanese aesthetics, emphasizing the private, local, and intimate
+  experience.
 lang: en
-title: "Kusatsu Onsen Eidaya: An Authentic Local Sanctuary with Indulgent Private Baths in Japan's Premier Hot Spring Town"
 lat: 36.6255
 lng: 138.5988
-categories: ["Local", "Private Bath"]
-thumbnail: "/static/images/kusatsu_onsen_eidaya.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "Nestled in the heart of Kusatsu, Eidaya offers an exquisitely authentic local experience, far removed from the tourist crowds. Immerse yourself in the legendary healing waters of Kusatsu in the serene seclusion of their beautifully appointed private baths. This charming ryokan promises an intimate escape, blending traditional Japanese hospitality with the rejuvenating power of nature's finest springs."
-image_prompt: "An atmospheric interior shot of a traditional Japanese private onsen bath (kashikiri-buro) at Kusatsu Onsen Eidaya. The bath is made of dark, polished hinoki wood or natural stone, filled with steaming, milky-white sulfur water. Soft, warm light filters through shoji screens, highlighting the delicate steam rising from the water. There are small, traditional bathing stools and wooden buckets at the side. A small window offers a subtle glimpse of green foliage or falling snow outside, implying a connection to nature. The overall mood is one of profound tranquility, luxury, and authentic Japanese aesthetics, emphasizing the private, local, and intimate experience."
+summary: Nestled in the heart of Kusatsu, Eidaya offers an exquisitely authentic local
+  experience, far removed from the tourist crowds. Immerse yourself in the legendary
+  healing waters of Kusatsu in the serene seclusion of their beautifully appointed
+  private baths. This charming ryokan promises an intimate escape, blending traditional
+  Japanese hospitality with the rejuvenating power of nature's finest springs.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_eidaya.jpg
+title: 'Kusatsu Onsen Eidaya: An Authentic Local Sanctuary with Indulgent Private
+  Baths in Japan''s Premier Hot Spring Town'
 ---
 
 ## Unveiling Kusatsu Onsen Eidaya: A Sanctuary of Authentic Japanese Serenity

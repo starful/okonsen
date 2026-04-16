@@ -1,15 +1,26 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-04-03'
+image_prompt: A serene, traditional Japanese onsen ryokan named Yufuin Yasuha in the
+  mountainous landscape of Yufuin, Oita. Focus on a private open-air family bath (kazokuburo)
+  surrounded by lush autumn foliage, with steam rising gently from the mineral-rich
+  water. The bath is made of natural stone, and in the background, the majestic silhouette
+  of Mount Yufu is visible under a clear blue sky. A traditional wooden Japanese umbrella
+  (wagasa) is placed near the bath. The atmosphere is peaceful, luxurious, and deeply
+  authentic Japanese. The image should evoke a sense of tranquility, privacy, and
+  natural beauty. No people are in the shot.
 lang: ko
-title: "유후인 야스하: 대자연 속 프라이빗 온천, 가족과 함께 떠나는 오이타 힐링 여행"
 lat: 33.2651
 lng: 131.3455
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/yufuin_yasuha.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "오이타 유후인에 자리한 '유후인 야스하'는 번잡함에서 벗어나 오롯이 자연과 하나 되는 **로컬** 감성의 료칸입니다. 전 객실에 마련된 **가족탕**은 사랑하는 이들과 진정한 휴식을 만끽할 수 있는 프라이빗한 공간을 선사하며, 유후다케의 장엄한 풍경 속에서 온천욕의 진수를 경험하게 합니다. 진정한 치유와 평온을 찾아 떠나는 이들에게 야스하는 잊을 수 없는 추억을 선사할 것입니다."
-image_prompt: "A serene, traditional Japanese onsen ryokan named Yufuin Yasuha in the mountainous landscape of Yufuin, Oita. Focus on a private open-air family bath (kazokuburo) surrounded by lush autumn foliage, with steam rising gently from the mineral-rich water. The bath is made of natural stone, and in the background, the majestic silhouette of Mount Yufu is visible under a clear blue sky. A traditional wooden Japanese umbrella (wagasa) is placed near the bath. The atmosphere is peaceful, luxurious, and deeply authentic Japanese. The image should evoke a sense of tranquility, privacy, and natural beauty. No people are in the shot."
+summary: 오이타 유후인에 자리한 '유후인 야스하'는 번잡함에서 벗어나 오롯이 자연과 하나 되는 **로컬** 감성의 료칸입니다. 전 객실에 마련된
+  **가족탕**은 사랑하는 이들과 진정한 휴식을 만끽할 수 있는 프라이빗한 공간을 선사하며, 유후다케의 장엄한 풍경 속에서 온천욕의 진수를 경험하게
+  합니다. 진정한 치유와 평온을 찾아 떠나는 이들에게 야스하는 잊을 수 없는 추억을 선사할 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_yasuha.jpg
+title: '유후인 야스하: 대자연 속 프라이빗 온천, 가족과 함께 떠나는 오이타 힐링 여행'
 ---
 
 ## 유후인 야스하: 대자연 속 프라이빗 온천의 정수

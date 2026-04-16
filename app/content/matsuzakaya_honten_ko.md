@@ -1,15 +1,27 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 로컬
+- 타투 허용
+date: '2026-03-24'
+image_prompt: A serene traditional Japanese onsen ryokan, Matsuzakaya Honten in Hakone,
+  Kanagawa. The scene features a beautiful open-air bath (rotemburo) nestled amidst
+  lush green Japanese garden, with steam rising gently from the mineral-rich water.
+  Traditional wooden architecture of the ryokan is visible in the background, blending
+  harmoniously with nature. Autumn foliage is beginning to show hints of red and gold.
+  The sky is clear blue. Sunlight filtering through the trees. The atmosphere is peaceful,
+  inviting, and luxurious, capturing the essence of Japanese hospitality and deep
+  relaxation. No people are visible in the bath, just the tranquil setting. Intricate
+  details of the garden stones, moss, and traditional lanterns are visible.
 lang: ko
-title: "하코네 마츠자카야 본점: 문신 허용, 진정한 현지 분위기를 만끽하는 럭셔리 온천 료칸의 정수"
 lat: 35.2155
 lng: 139.0456
-categories: ["로컬", "타투 허용"]
-thumbnail: "/static/images/matsuzakaya_honten.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네의 심장부에 자리한 마츠자카야 본점은 오랜 역사와 함께 진정한 현지 정취를 선사하는 특별한 료칸입니다. 문신(타투)에 대한 편견 없이 모든 손님을 따뜻하게 환영하며, 전통적인 일본의 미학과 현대적인 편안함이 조화를 이루는 곳입니다. 이곳에서만 느낄 수 있는 평화로운 온천욕과 정갈한 가이세키 요리, 그리고 주변 자연의 아름다움 속에서 잊을 수 없는 추억을 만들어보세요."
-image_prompt: "A serene traditional Japanese onsen ryokan, Matsuzakaya Honten in Hakone, Kanagawa. The scene features a beautiful open-air bath (rotemburo) nestled amidst lush green Japanese garden, with steam rising gently from the mineral-rich water. Traditional wooden architecture of the ryokan is visible in the background, blending harmoniously with nature. Autumn foliage is beginning to show hints of red and gold. The sky is clear blue. Sunlight filtering through the trees. The atmosphere is peaceful, inviting, and luxurious, capturing the essence of Japanese hospitality and deep relaxation. No people are visible in the bath, just the tranquil setting. Intricate details of the garden stones, moss, and traditional lanterns are visible."
+summary: 하코네의 심장부에 자리한 마츠자카야 본점은 오랜 역사와 함께 진정한 현지 정취를 선사하는 특별한 료칸입니다. 문신(타투)에 대한 편견
+  없이 모든 손님을 따뜻하게 환영하며, 전통적인 일본의 미학과 현대적인 편안함이 조화를 이루는 곳입니다. 이곳에서만 느낄 수 있는 평화로운 온천욕과
+  정갈한 가이세키 요리, 그리고 주변 자연의 아름다움 속에서 잊을 수 없는 추억을 만들어보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/matsuzakaya_honten.jpg
+title: '하코네 마츠자카야 본점: 문신 허용, 진정한 현지 분위기를 만끽하는 럭셔리 온천 료칸의 정수'
 ---
 
 # 하코네 마츠자카야 본점: 현지 문화와 개방성을 품은 미식 온천 여행

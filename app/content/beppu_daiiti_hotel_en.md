@@ -1,15 +1,29 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Private Bath
+- Tattoo OK
+date: '2026-04-12'
+image_prompt: A serene, luxurious Japanese onsen ryokan exterior at dusk, nestled
+  amidst lush green hills in Beppu, Oita. Traditional wooden architecture with soft
+  glowing lanterns, steam gently rising from an open-air bath visible from a distance,
+  cherry blossoms delicately framing the scene. A couple is subtly enjoying a private
+  bath inside, emphasizing privacy and tranquility. The atmosphere is warm, inviting,
+  and highly photorealistic, capturing the essence of Japanese hospitality and natural
+  beauty.
 lang: en
-title: "Beppu Daiiti Hotel: Embrace Serenity and Freedom at Beppu's Premier Tattoo-Friendly Onsen Ryokan with Private Family Baths"
 lat: 33.2815
 lng: 131.5005
-categories: ["Private Bath", "Tattoo OK"]
-thumbnail: "/static/images/beppu_daiiti_hotel.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Discover the tranquil oasis of Beppu Daiiti Hotel, where the mineral-rich waters of Beppu invite unparalleled relaxation and rejuvenation. This esteemed ryokan proudly offers spacious private family baths, ensuring intimate moments of bliss for every guest seeking personal serenity. Experience authentic Japanese hospitality in an environment that warmly welcomes all, including those with tattoos, making it a truly inclusive and unforgettable escape."
-image_prompt: "A serene, luxurious Japanese onsen ryokan exterior at dusk, nestled amidst lush green hills in Beppu, Oita. Traditional wooden architecture with soft glowing lanterns, steam gently rising from an open-air bath visible from a distance, cherry blossoms delicately framing the scene. A couple is subtly enjoying a private bath inside, emphasizing privacy and tranquility. The atmosphere is warm, inviting, and highly photorealistic, capturing the essence of Japanese hospitality and natural beauty."
+summary: Discover the tranquil oasis of Beppu Daiiti Hotel, where the mineral-rich
+  waters of Beppu invite unparalleled relaxation and rejuvenation. This esteemed ryokan
+  proudly offers spacious private family baths, ensuring intimate moments of bliss
+  for every guest seeking personal serenity. Experience authentic Japanese hospitality
+  in an environment that warmly welcomes all, including those with tattoos, making
+  it a truly inclusive and unforgettable escape.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_daiiti_hotel.jpg
+title: 'Beppu Daiiti Hotel: Embrace Serenity and Freedom at Beppu''s Premier Tattoo-Friendly
+  Onsen Ryokan with Private Family Baths'
 ---
 
 # Beppu Daiiti Hotel: An Unforgettable Journey into Oita's Onsen Paradise

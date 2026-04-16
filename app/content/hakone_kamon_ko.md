@@ -1,15 +1,25 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 고급 료칸
+- 가족탕
+date: '2026-03-24'
+image_prompt: A luxurious Japanese ryokan onsen, Hakone Kamon, nestled in the lush
+  mountains of Hakone, Kanagawa. The scene features a beautiful outdoor private family
+  bath (kashikiri onsen) with steam rising gently from mineral-rich waters. The bath
+  is surrounded by vibrant autumn foliage and moss-covered rocks, offering a serene,
+  panoramic view of the distant mountains and a hint of Lake Ashi. Traditional wooden
+  architecture, soft ambient lighting, and elegant stone pathways. The water glistens,
+  inviting relaxation. Ultra-detailed, cinematic, warm tones, natural light, 8K, photography.
 lang: ko
-title: "하코네 카몬: 가족과 함께하는 럭셔리 온천 휴식, 프라이빗 온천의 정수를 경험하다"
 lat: 35.2345
 lng: 139.1022
-categories: ["고급 료칸", "가족탕"]
-thumbnail: "/static/images/hakone_kamon.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 카몬은 일본의 정신이 깃든 풍부한 자연 속에서 최상의 휴식을 선사하는 고급 료칸입니다. 이곳에서는 완벽한 프라이버시를 보장하는 다양한 가족탕을 통해 사랑하는 사람들과 오붓한 시간을 보낼 수 있습니다. 미식의 향연, 전통과 현대가 조화된 객실, 그리고 온몸을 감싸는 온천수의 치유력까지, 잊을 수 없는 추억을 선사할 것입니다."
-image_prompt: "A luxurious Japanese ryokan onsen, Hakone Kamon, nestled in the lush mountains of Hakone, Kanagawa. The scene features a beautiful outdoor private family bath (kashikiri onsen) with steam rising gently from mineral-rich waters. The bath is surrounded by vibrant autumn foliage and moss-covered rocks, offering a serene, panoramic view of the distant mountains and a hint of Lake Ashi. Traditional wooden architecture, soft ambient lighting, and elegant stone pathways. The water glistens, inviting relaxation. Ultra-detailed, cinematic, warm tones, natural light, 8K, photography."
+summary: 하코네 카몬은 일본의 정신이 깃든 풍부한 자연 속에서 최상의 휴식을 선사하는 고급 료칸입니다. 이곳에서는 완벽한 프라이버시를 보장하는
+  다양한 가족탕을 통해 사랑하는 사람들과 오붓한 시간을 보낼 수 있습니다. 미식의 향연, 전통과 현대가 조화된 객실, 그리고 온몸을 감싸는 온천수의
+  치유력까지, 잊을 수 없는 추억을 선사할 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_kamon.jpg
+title: '하코네 카몬: 가족과 함께하는 럭셔리 온천 휴식, 프라이빗 온천의 정수를 경험하다'
 ---
 
 # 하코네 카몬: 자연 속에서 피어나는 최상의 럭셔리 온천 경험

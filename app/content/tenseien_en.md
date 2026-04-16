@@ -1,15 +1,31 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Tattoo OK
+- Great View
+- Luxury
+date: '2026-03-24'
+image_prompt: A breathtaking aerial shot of Tenseien ryokan in Hakone, Japan, nestled
+  amidst vibrant autumn foliage. The expansive outdoor rotenburo is clearly visible,
+  with steam rising gently from the mineral-rich waters. A magnificent natural waterfall
+  cascades into a serene koi pond within the ryokan's meticulously landscaped Japanese
+  garden. Traditional wooden architecture with elegant tiled roofs blends seamlessly
+  with the surrounding nature. The scene is bathed in the golden hour light, casting
+  long shadows and highlighting the vivid reds, oranges, and yellows of the trees.
+  High dynamic range, cinematic quality, natural beauty, luxury travel photography.
 lang: en
-title: "Embrace Serenity and Spectacular Views: Tenseien Hakone, A Tattoo-Friendly Onsen Paradise"
 lat: 35.2281
 lng: 139.0982
-categories: ["Tattoo OK", "Great View", "Luxury"]
-thumbnail: "/static/images/tenseien.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Nestled in the heart of scenic Hakone, Tenseien offers an unparalleled onsen experience, famed for its breathtaking natural vistas and welcoming tattoo policy. Immerse yourself in the healing waters of its expansive open-air baths, surrounded by lush gardens and a majestic waterfall, promising a serene escape unlike any other. This luxurious ryokan harmonizes traditional Japanese hospitality with modern comfort, creating an unforgettable retreat where nature's beauty and relaxation converge."
-image_prompt: "A breathtaking aerial shot of Tenseien ryokan in Hakone, Japan, nestled amidst vibrant autumn foliage. The expansive outdoor rotenburo is clearly visible, with steam rising gently from the mineral-rich waters. A magnificent natural waterfall cascades into a serene koi pond within the ryokan's meticulously landscaped Japanese garden. Traditional wooden architecture with elegant tiled roofs blends seamlessly with the surrounding nature. The scene is bathed in the golden hour light, casting long shadows and highlighting the vivid reds, oranges, and yellows of the trees. High dynamic range, cinematic quality, natural beauty, luxury travel photography."
+summary: Nestled in the heart of scenic Hakone, Tenseien offers an unparalleled onsen
+  experience, famed for its breathtaking natural vistas and welcoming tattoo policy.
+  Immerse yourself in the healing waters of its expansive open-air baths, surrounded
+  by lush gardens and a majestic waterfall, promising a serene escape unlike any other.
+  This luxurious ryokan harmonizes traditional Japanese hospitality with modern comfort,
+  creating an unforgettable retreat where nature's beauty and relaxation converge.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/tenseien.jpg
+title: 'Embrace Serenity and Spectacular Views: Tenseien Hakone, A Tattoo-Friendly
+  Onsen Paradise'
 ---
 
 ## Introduction: Discovering Hakone's Crown Jewel, Tenseien

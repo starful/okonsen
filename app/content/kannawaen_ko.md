@@ -1,15 +1,28 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+date: '2026-04-12'
+image_prompt: A serene and luxurious traditional Japanese ryokan, Kannawaen, nestled
+  on a hillside overlooking the misty, geothermal landscape of Beppu, Oita, at dawn.
+  The image features a large outdoor onsen (rotemburo) with steam rising from the
+  clear, mineral-rich water, reflecting the warm glow of the sunrise. Lush Japanese
+  gardens with meticulously pruned trees and moss-covered rocks surround the bath.
+  In the background, traditional wooden ryokan buildings with elegant tiled roofs
+  are visible, blending harmoniously with the natural environment. The scene evokes
+  a sense of profound tranquility, luxury, and breathtaking natural beauty. There
+  are no people visible, focusing on the pristine environment and architecture. Detailed,
+  high-resolution, cinematic lighting.
 lang: ko
-title: "벳부 칸나와엔: 절경 속 럭셔리 힐링, 당신의 완벽한 휴식을 위한 궁극의 료칸 가이드"
 lat: 33.3155
 lng: 131.4722
-categories: ["고급 료칸", "절경"]
-thumbnail: "/static/images/kannawaen.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "벳부의 증기가 피어오르는 언덕에 자리한 칸나와엔은 단순한 숙소를 넘어선 경험을 선사합니다. 숨 막히는 절경을 배경으로 진정한 일본의 '고급 료칸' 문화를 만끽할 수 있는 이곳은 일상의 번잡함에서 벗어나 오롯이 자신에게 집중할 수 있는 완벽한 안식처입니다. 최고급 서비스와 미식의 향연, 그리고 몸과 마음을 치유하는 온천수가 어우러져 잊을 수 없는 추억을 선사할 것입니다."
-image_prompt: "A serene and luxurious traditional Japanese ryokan, Kannawaen, nestled on a hillside overlooking the misty, geothermal landscape of Beppu, Oita, at dawn. The image features a large outdoor onsen (rotemburo) with steam rising from the clear, mineral-rich water, reflecting the warm glow of the sunrise. Lush Japanese gardens with meticulously pruned trees and moss-covered rocks surround the bath. In the background, traditional wooden ryokan buildings with elegant tiled roofs are visible, blending harmoniously with the natural environment. The scene evokes a sense of profound tranquility, luxury, and breathtaking natural beauty. There are no people visible, focusing on the pristine environment and architecture. Detailed, high-resolution, cinematic lighting."
+summary: 벳부의 증기가 피어오르는 언덕에 자리한 칸나와엔은 단순한 숙소를 넘어선 경험을 선사합니다. 숨 막히는 절경을 배경으로 진정한 일본의
+  '고급 료칸' 문화를 만끽할 수 있는 이곳은 일상의 번잡함에서 벗어나 오롯이 자신에게 집중할 수 있는 완벽한 안식처입니다. 최고급 서비스와 미식의
+  향연, 그리고 몸과 마음을 치유하는 온천수가 어우러져 잊을 수 없는 추억을 선사할 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kannawaen.jpg
+title: '벳부 칸나와엔: 절경 속 럭셔리 힐링, 당신의 완벽한 휴식을 위한 궁극의 료칸 가이드'
 ---
 
 # 벳부 칸나와엔: 절경 속 럭셔리 힐링, 당신의 완벽한 휴식을 위한 궁극의 료칸 가이드

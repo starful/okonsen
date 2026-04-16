@@ -1,15 +1,31 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Local
+- Great View
+- Luxury
+date: '2026-04-03'
+image_prompt: A serene and luxurious traditional Japanese ryokan, Yufuin Hotel Shumeikan,
+  nestled amidst lush green mountains with a clear view of Mount Yufu. The scene features
+  a beautiful open-air onsen (rotemburo) with steam rising, overlooking a vibrant
+  autumn landscape. The architecture is elegant, showcasing natural wood and stone,
+  with soft lighting emanating from within. A few delicate Japanese maple leaves (momiji)
+  are visible in the foreground. The overall atmosphere is peaceful, inviting, and
+  highly aesthetic, capturing the essence of Japanese tranquility and luxury. Golden
+  hour lighting, highly detailed, photorealistic.
 lang: en
-title: "Yufuin Hotel Shumeikan: A Serene Escape with Breathtaking Views and Authentic Local Charm in Oita"
 lat: 33.2622
 lng: 131.3551
-categories: ["Local", "Great View", "Luxury"]
-thumbnail: "/static/images/yufuin_hotel_shumeikan.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Discover Yufuin Hotel Shumeikan, an exquisite sanctuary nestled in the heart of Oita's scenic Yufuin, offering unparalleled panoramic views of Mount Yufu. Immerse yourself in the authentic local culture and hospitality, experiencing luxury accommodations that blend traditional Japanese elegance with modern comfort. This guide unveils an unforgettable journey into tranquility, exceptional onsen experiences, and gourmet kaiseki dining amidst one of Japan's most picturesque hot spring towns."
-image_prompt: "A serene and luxurious traditional Japanese ryokan, Yufuin Hotel Shumeikan, nestled amidst lush green mountains with a clear view of Mount Yufu. The scene features a beautiful open-air onsen (rotemburo) with steam rising, overlooking a vibrant autumn landscape. The architecture is elegant, showcasing natural wood and stone, with soft lighting emanating from within. A few delicate Japanese maple leaves (momiji) are visible in the foreground. The overall atmosphere is peaceful, inviting, and highly aesthetic, capturing the essence of Japanese tranquility and luxury. Golden hour lighting, highly detailed, photorealistic."
+summary: Discover Yufuin Hotel Shumeikan, an exquisite sanctuary nestled in the heart
+  of Oita's scenic Yufuin, offering unparalleled panoramic views of Mount Yufu. Immerse
+  yourself in the authentic local culture and hospitality, experiencing luxury accommodations
+  that blend traditional Japanese elegance with modern comfort. This guide unveils
+  an unforgettable journey into tranquility, exceptional onsen experiences, and gourmet
+  kaiseki dining amidst one of Japan's most picturesque hot spring towns.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_hotel_shumeikan.jpg
+title: 'Yufuin Hotel Shumeikan: A Serene Escape with Breathtaking Views and Authentic
+  Local Charm in Oita'
 ---
 
 ## Introduction: Discovering the Soul of Yufuin at Shumeikan

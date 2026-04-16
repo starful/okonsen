@@ -1,15 +1,25 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 절경
+- 가족탕
+- 고급 료칸
+date: '2026-03-24'
+image_prompt: A breathtaking panoramic view from an open-air onsen at Ryuguden in
+  Hakone, Japan, overlooking Lake Ashi and Mount Fuji in the distance. The scene is
+  tranquil and luxurious, with steam rising from the hot spring, traditional Japanese
+  architecture in the foreground, and vibrant autumn foliage reflecting in the calm
+  waters. The lighting is soft and golden, capturing the serene beauty of a crisp
+  morning. Photography style is cinematic and grand, emphasizing the expansive landscape
+  and the feeling of exclusive serenity.
 lang: ko
-title: "하코네 류구덴: 압도적인 절경 속 프라이빗 온천의 정수, 가족과 연인을 위한 럭셔리 휴식"
 lat: 35.2188
 lng: 139.0188
-categories: ["절경", "가족탕", "고급 료칸"]
-thumbnail: "/static/images/ryuguden.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네 아시노코를 품은 류구덴은 압도적인 절경과 함께 진정한 휴식을 선사합니다. 프라이빗 가족탕에서 오직 우리만의 시간을 만끽하고, 섬세한 가이세키 요리로 미식의 향연을 경험하세요. 전통과 현대가 어우러진 공간에서 잊을 수 없는 추억을 만들 수 있는 하이엔드 료칸입니다."
-image_prompt: "A breathtaking panoramic view from an open-air onsen at Ryuguden in Hakone, Japan, overlooking Lake Ashi and Mount Fuji in the distance. The scene is tranquil and luxurious, with steam rising from the hot spring, traditional Japanese architecture in the foreground, and vibrant autumn foliage reflecting in the calm waters. The lighting is soft and golden, capturing the serene beauty of a crisp morning. Photography style is cinematic and grand, emphasizing the expansive landscape and the feeling of exclusive serenity."
+summary: 하코네 아시노코를 품은 류구덴은 압도적인 절경과 함께 진정한 휴식을 선사합니다. 프라이빗 가족탕에서 오직 우리만의 시간을 만끽하고,
+  섬세한 가이세키 요리로 미식의 향연을 경험하세요. 전통과 현대가 어우러진 공간에서 잊을 수 없는 추억을 만들 수 있는 하이엔드 료칸입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ryuguden.jpg
+title: '하코네 류구덴: 압도적인 절경 속 프라이빗 온천의 정수, 가족과 연인을 위한 럭셔리 휴식'
 ---
 
 # 하코네 류구덴: 아시노코의 숨결을 품은 절경 료칸에서 진정한 휴식을 만나다

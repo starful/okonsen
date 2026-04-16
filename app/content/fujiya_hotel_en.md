@@ -1,15 +1,28 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Luxury
+- Great View
+- Private Bath
+date: '2026-03-24'
+image_prompt: Exterior of the historic Fujiya Hotel in Hakone, Japan, showcasing its
+  elegant Western-style architecture with green copper roofs and white facades, nestled
+  amidst lush Japanese gardens with vibrant autumnal maple trees. A serene, traditional
+  Japanese stone pathway leads towards the grand entrance. Golden hour lighting, crisp
+  details, luxurious and historic atmosphere, highly detailed, photorealistic.
 lang: en
-title: "Timeless Elegance Meets Natural Bliss: Discover the Legendary Fujiya Hotel Hakone"
 lat: 35.2441
 lng: 139.0592
-categories: ["Luxury", "Great View", "Private Bath"]
-thumbnail: "/static/images/fujiya_hotel.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Step into a realm where history, luxury, and nature converge at the iconic Fujiya Hotel in Hakone, a beacon of refined hospitality since 1878. Experience the unparalleled grandeur of its Western-style architecture seamlessly blended with traditional Japanese elements, all while soaking in natural hot springs amidst breathtaking mountain scenery. Indulge in exquisite gastronomy and discover an enchanting escape that transcends time, offering an unforgettable journey for the discerning traveler."
-image_prompt: "Exterior of the historic Fujiya Hotel in Hakone, Japan, showcasing its elegant Western-style architecture with green copper roofs and white facades, nestled amidst lush Japanese gardens with vibrant autumnal maple trees. A serene, traditional Japanese stone pathway leads towards the grand entrance. Golden hour lighting, crisp details, luxurious and historic atmosphere, highly detailed, photorealistic."
+summary: Step into a realm where history, luxury, and nature converge at the iconic
+  Fujiya Hotel in Hakone, a beacon of refined hospitality since 1878. Experience the
+  unparalleled grandeur of its Western-style architecture seamlessly blended with
+  traditional Japanese elements, all while soaking in natural hot springs amidst breathtaking
+  mountain scenery. Indulge in exquisite gastronomy and discover an enchanting escape
+  that transcends time, offering an unforgettable journey for the discerning traveler.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/fujiya_hotel.jpg
+title: 'Timeless Elegance Meets Natural Bliss: Discover the Legendary Fujiya Hotel
+  Hakone'
 ---
 
 ## Introduction: A Grand Overture to Elegance and Serenity

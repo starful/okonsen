@@ -1,15 +1,30 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Private Bath
+- Local
+- Luxury
+date: '2026-04-03'
+image_prompt: A serene and luxurious private outdoor onsen bath at Yufuin Yasuha,
+  nestled amidst lush autumnal Japanese maple trees with vibrant red and gold leaves.
+  The bath is made of natural stone, steam gently rises from the pristine, mineral-rich
+  water. In the background, the majestic twin peaks of Mount Yufu are clearly visible
+  under a soft, clear blue sky. The scene is tranquil, inviting, and exudes traditional
+  Japanese wabi-sabi aesthetics, with careful attention to natural materials and a
+  sense of peaceful seclusion. Early morning light, high detail.
 lang: en
-title: "Yufuin Yasuha: A Secluded Oasis of Serenity with Private Onsen and Local Charm in Oita's Scenic Heart"
 lat: 33.2651
 lng: 131.3455
-categories: ["Private Bath", "Local", "Luxury"]
-thumbnail: "/static/images/yufuin_yasuha.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Nestled amidst the tranquil beauty of Yufuin, Oita, Yufuin Yasuha offers an unparalleled escape into authentic Japanese hospitality. Renowned for its exquisite private baths, this ryokan provides a deeply personal and luxurious onsen experience, allowing guests to immerse themselves in pure relaxation. Discover a hidden gem where local charm meets refined elegance, promising an unforgettable journey for the discerning traveler."
-image_prompt: "A serene and luxurious private outdoor onsen bath at Yufuin Yasuha, nestled amidst lush autumnal Japanese maple trees with vibrant red and gold leaves. The bath is made of natural stone, steam gently rises from the pristine, mineral-rich water. In the background, the majestic twin peaks of Mount Yufu are clearly visible under a soft, clear blue sky. The scene is tranquil, inviting, and exudes traditional Japanese wabi-sabi aesthetics, with careful attention to natural materials and a sense of peaceful seclusion. Early morning light, high detail."
+summary: Nestled amidst the tranquil beauty of Yufuin, Oita, Yufuin Yasuha offers
+  an unparalleled escape into authentic Japanese hospitality. Renowned for its exquisite
+  private baths, this ryokan provides a deeply personal and luxurious onsen experience,
+  allowing guests to immerse themselves in pure relaxation. Discover a hidden gem
+  where local charm meets refined elegance, promising an unforgettable journey for
+  the discerning traveler.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_yasuha.jpg
+title: 'Yufuin Yasuha: A Secluded Oasis of Serenity with Private Onsen and Local Charm
+  in Oita''s Scenic Heart'
 ---
 
 ## Unveiling the Tranquil Majesty of Yufuin Yasuha: An Onsen Sanctuary

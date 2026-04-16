@@ -1,4 +1,7 @@
-```markdown
+---
+{}
+---
+
 ---
 lang: en
 title: "Kurokawa Onsen: Discover Kyushu's Hidden Gem of Forest Baths and Onsen Hopping"
@@ -87,4 +90,3 @@ Beyond the main attractions, Kurokawa has several lesser-known gems waiting to b
 ## Conclusion: Reconnect with Nature and Tradition in Kurokawa
 
 Kurokawa Onsen is more than just a destination; it's a journey back in time, a celebration of nature, and a balm for the soul.  Its commitment to preserving its traditional atmosphere and its emphasis on natural beauty make it a truly unique and unforgettable experience.  By following this guide, you can plan your own adventure to this **Kyushu hidden gem**, indulging in the rejuvenating power of the **forest bath**, experiencing the thrill of **onsen hopping**, and immersing yourself in the charm of a **traditional village**. Escape the ordinary and discover the serenity that awaits you in Kurokawa Onsen. Your mind, body, and spirit will thank you.
-```

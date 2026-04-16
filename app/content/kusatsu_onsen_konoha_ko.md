@@ -1,15 +1,28 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 가족탕
+- 절경
+date: '2026-04-05'
+image_prompt: 'An idyllic, serene Japanese onsen ryokan named ''Kusatsu Onsen Konoha''
+  nestled in a mountainous, snowy landscape during winter. The scene features a beautifully
+  designed outdoor rotenburo (open-air bath) with steam rising from the clear, milky-white
+  hot spring water. Surrounding the bath are lush, snow-covered pine trees and traditional
+  Japanese architecture with dark wooden elements and subtle lighting. In the distance,
+  dramatic, mist-shrouded mountain peaks are visible under a soft, golden sunrise.
+  Focus on the sense of tranquility, luxury, and natural beauty. Include subtle hints
+  of a small, private family bath section, perhaps a screen or a separate smaller
+  enclosure. Style: Ukiyo-e inspired realism with soft, warm lighting.'
 lang: ko
-title: "쿠사츠 온센 코노하: 가족과 함께 절경을 만끽하는 궁극의 힐링 여정, 숨겨진 보석을 찾아서"
 lat: 36.6199
 lng: 138.6044
-categories: ["가족탕", "절경"]
-thumbnail: "/static/images/kusatsu_onsen_konoha.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "군마현 쿠사츠 온천의 심장부에 자리한 쿠사츠 온센 코노하는 가족 단위 여행객에게 완벽한 휴식처를 제공합니다. 이곳에서는 프라이빗한 **가족탕**에서 사랑하는 이들과 오붓한 시간을 보낼 수 있으며, 노천탕에서는 사계절 변화하는 **절경**을 감상하며 잊지 못할 추억을 만들 수 있습니다. 최고급 서비스와 미식 경험, 그리고 쿠사츠 온천수의 특별한 효능까지, 코노하는 몸과 마음을 치유하는 진정한 일본 온천 료칸의 정수를 선사합니다."
-image_prompt: "An idyllic, serene Japanese onsen ryokan named 'Kusatsu Onsen Konoha' nestled in a mountainous, snowy landscape during winter. The scene features a beautifully designed outdoor rotenburo (open-air bath) with steam rising from the clear, milky-white hot spring water. Surrounding the bath are lush, snow-covered pine trees and traditional Japanese architecture with dark wooden elements and subtle lighting. In the distance, dramatic, mist-shrouded mountain peaks are visible under a soft, golden sunrise. Focus on the sense of tranquility, luxury, and natural beauty. Include subtle hints of a small, private family bath section, perhaps a screen or a separate smaller enclosure. Style: Ukiyo-e inspired realism with soft, warm lighting."
+summary: 군마현 쿠사츠 온천의 심장부에 자리한 쿠사츠 온센 코노하는 가족 단위 여행객에게 완벽한 휴식처를 제공합니다. 이곳에서는 프라이빗한
+  **가족탕**에서 사랑하는 이들과 오붓한 시간을 보낼 수 있으며, 노천탕에서는 사계절 변화하는 **절경**을 감상하며 잊지 못할 추억을 만들 수
+  있습니다. 최고급 서비스와 미식 경험, 그리고 쿠사츠 온천수의 특별한 효능까지, 코노하는 몸과 마음을 치유하는 진정한 일본 온천 료칸의 정수를
+  선사합니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_konoha.jpg
+title: '쿠사츠 온센 코노하: 가족과 함께 절경을 만끽하는 궁극의 힐링 여정, 숨겨진 보석을 찾아서'
 ---
 
 # 쿠사츠 온센 코노하: 자연 속 깊은 휴식, 가족과 함께 만드는 추억의 페이지

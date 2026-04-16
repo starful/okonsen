@@ -1,15 +1,31 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- Tattoo OK
+- Great View
+- Local
+date: '2026-04-03'
+image_prompt: A wide-angle, cinematic shot of Kusatsu Onsen Sainokawara Rotenburo
+  at twilight, steam rising dramatically from the expansive, natural outdoor baths.
+  The water reflects the vibrant orange and purple hues of the sunset. Surrounding
+  the pools are lush, untouched volcanic rock formations and autumn-colored trees,
+  with distant snow-capped mountains under a star-dusted sky. A few discreet, diverse
+  individuals (some with visible tattoos) are soaking peacefully, looking out at the
+  panoramic view. The scene evokes a sense of serene, ancient wildness and profound
+  relaxation. Highly detailed, realistic, atmospheric, golden hour, Japanese aesthetic.
 lang: en
-title: "Kusatsu Onsen Sainokawara: Embrace Japan's Wild Heart in a Tattoo-Friendly Volcanic Wonderland"
 lat: 36.6231
 lng: 138.5966
-categories: ["Tattoo OK", "Great View", "Local"]
-thumbnail: "/static/images/kusatsu_onsen_sainokawara.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-03"
-agoda: ""
-summary: "Discover the unparalleled raw beauty of Kusatsu Onsen Sainokawara, a majestic outdoor bath inviting all to experience Japan's finest volcanic waters. Immerse yourself in the spectacular natural scenery of Gunma, where ancient traditions blend seamlessly with a welcoming, tattoo-friendly atmosphere. This is more than just a bath; it's an authentic journey into the heart of Japanese hot spring culture, offering profound relaxation and breathtaking views."
-image_prompt: "A wide-angle, cinematic shot of Kusatsu Onsen Sainokawara Rotenburo at twilight, steam rising dramatically from the expansive, natural outdoor baths. The water reflects the vibrant orange and purple hues of the sunset. Surrounding the pools are lush, untouched volcanic rock formations and autumn-colored trees, with distant snow-capped mountains under a star-dusted sky. A few discreet, diverse individuals (some with visible tattoos) are soaking peacefully, looking out at the panoramic view. The scene evokes a sense of serene, ancient wildness and profound relaxation. Highly detailed, realistic, atmospheric, golden hour, Japanese aesthetic."
+summary: Discover the unparalleled raw beauty of Kusatsu Onsen Sainokawara, a majestic
+  outdoor bath inviting all to experience Japan's finest volcanic waters. Immerse
+  yourself in the spectacular natural scenery of Gunma, where ancient traditions blend
+  seamlessly with a welcoming, tattoo-friendly atmosphere. This is more than just
+  a bath; it's an authentic journey into the heart of Japanese hot spring culture,
+  offering profound relaxation and breathtaking views.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_sainokawara.jpg
+title: 'Kusatsu Onsen Sainokawara: Embrace Japan''s Wild Heart in a Tattoo-Friendly
+  Volcanic Wonderland'
 ---
 
 ## Introduction: Where Earth's Embrace Meets Human Serenity

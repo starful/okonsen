@@ -1,15 +1,31 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Luxury
+date: '2026-04-12'
+image_prompt: A luxurious Japanese onsen ryokan, Hotel Shiragiku, at dusk in Beppu,
+  Oita. The scene captures a stunning open-air rotemburo with steam gently rising,
+  overlooking the sparkling lights of Beppu Bay and the city beyond. Traditional wooden
+  architecture with intricate details is visible, subtly lit by warm lanterns. In
+  the foreground, a beautifully arranged kaiseki meal with vibrant seasonal dishes
+  is presented on a low table in a tatami room, with a subtle hint of a private bath
+  entrance. The overall atmosphere is serene, opulent, and deeply inviting, emphasizing
+  natural beauty and refined comfort, high photographic quality, golden hour.
 lang: en
-title: "Hotel Shiragiku: Unveiling Beppu's Zenith of Onsen Luxury, Panoramic Vistas, and Intimate Private Retreats"
 lat: 33.2833
 lng: 131.4988
-categories: ["Private Bath", "Great View", "Luxury"]
-thumbnail: "/static/images/hotel_shiragiku.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Escape to Hotel Shiragiku, a beacon of refined luxury in Beppu, where the healing embrace of geothermal waters meets unparalleled elegance. Indulge in exclusive private baths offering breathtaking panoramic views, perfect for intimate family moments or serene solitude. Experience the harmonious blend of traditional Japanese hospitality and modern comfort, promising an unforgettable journey into tranquility and natural beauty."
-image_prompt: "A luxurious Japanese onsen ryokan, Hotel Shiragiku, at dusk in Beppu, Oita. The scene captures a stunning open-air rotemburo with steam gently rising, overlooking the sparkling lights of Beppu Bay and the city beyond. Traditional wooden architecture with intricate details is visible, subtly lit by warm lanterns. In the foreground, a beautifully arranged kaiseki meal with vibrant seasonal dishes is presented on a low table in a tatami room, with a subtle hint of a private bath entrance. The overall atmosphere is serene, opulent, and deeply inviting, emphasizing natural beauty and refined comfort, high photographic quality, golden hour."
+summary: Escape to Hotel Shiragiku, a beacon of refined luxury in Beppu, where the
+  healing embrace of geothermal waters meets unparalleled elegance. Indulge in exclusive
+  private baths offering breathtaking panoramic views, perfect for intimate family
+  moments or serene solitude. Experience the harmonious blend of traditional Japanese
+  hospitality and modern comfort, promising an unforgettable journey into tranquility
+  and natural beauty.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hotel_shiragiku.jpg
+title: 'Hotel Shiragiku: Unveiling Beppu''s Zenith of Onsen Luxury, Panoramic Vistas,
+  and Intimate Private Retreats'
 ---
 
 # Hotel Shiragiku: Where Beppu's Geothermal Heart Meets Unparalleled Luxury

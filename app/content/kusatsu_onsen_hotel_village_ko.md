@@ -1,15 +1,26 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 가족탕
+- 절경
+date: '2026-04-05'
+image_prompt: A luxurious Japanese onsen hotel village nestled amidst a snowy mountain
+  landscape, seen from an aerial perspective during golden hour. Traditional wooden
+  ryokan architecture with steaming outdoor baths, a family enjoying a private bath
+  with a panoramic view of snow-covered pine trees and distant peaks. A couple strolling
+  through a beautifully maintained Japanese garden. Soft, warm lighting emanating
+  from the buildings. Cinematic, highly detailed, stunning natural beauty, serene,
+  inviting atmosphere. Focus on the contrast of warm steam and cold snow, and the
+  intricate details of the traditional architecture. --ar 16:9 --v 5.2
 lang: ko
-title: "쿠사츠 온천 호텔 빌리지: 가족과 함께 즐기는 숨막히는 절경의 프라이빗 온천 휴양지"
 lat: 36.6211
 lng: 138.6011
-categories: ["가족탕", "절경"]
-thumbnail: "/static/images/kusatsu_onsen_hotel_village.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "일본 3대 명천 쿠사츠 온천의 심장부에 자리한 쿠사츠 온천 호텔 빌리지는 가족 단위 여행객에게 완벽한 안식처입니다. 탁 트인 자연 절경을 배경으로 여유롭게 즐기는 전용 가족탕은 잊을 수 없는 추억을 선사하며, 최고급 시설과 세심한 서비스는 진정한 힐링을 약속합니다. 몸과 마음의 피로를 녹이는 온천욕과 미식의 향연, 그리고 쿠사츠의 아름다운 풍경 속에서 완벽한 일본 온천 경험을 만끽하세요."
-image_prompt: "A luxurious Japanese onsen hotel village nestled amidst a snowy mountain landscape, seen from an aerial perspective during golden hour. Traditional wooden ryokan architecture with steaming outdoor baths, a family enjoying a private bath with a panoramic view of snow-covered pine trees and distant peaks. A couple strolling through a beautifully maintained Japanese garden. Soft, warm lighting emanating from the buildings. Cinematic, highly detailed, stunning natural beauty, serene, inviting atmosphere. Focus on the contrast of warm steam and cold snow, and the intricate details of the traditional architecture. --ar 16:9 --v 5.2"
+summary: 일본 3대 명천 쿠사츠 온천의 심장부에 자리한 쿠사츠 온천 호텔 빌리지는 가족 단위 여행객에게 완벽한 안식처입니다. 탁 트인 자연
+  절경을 배경으로 여유롭게 즐기는 전용 가족탕은 잊을 수 없는 추억을 선사하며, 최고급 시설과 세심한 서비스는 진정한 힐링을 약속합니다. 몸과 마음의
+  피로를 녹이는 온천욕과 미식의 향연, 그리고 쿠사츠의 아름다운 풍경 속에서 완벽한 일본 온천 경험을 만끽하세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_village.jpg
+title: '쿠사츠 온천 호텔 빌리지: 가족과 함께 즐기는 숨막히는 절경의 프라이빗 온천 휴양지'
 ---
 
 # 쿠사츠 온천 호텔 빌리지: 자연이 선사하는 최고의 휴식처

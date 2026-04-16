@@ -1,15 +1,27 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 로컬
+- 절경
+- 고급 료칸
+date: '2026-04-03'
+image_prompt: A serene aerial view of Yufuin Hotel Shumeikan nestled amidst lush green
+  hills and a backdrop of majestic Mount Yufu, under a soft morning light. The traditional
+  Japanese ryokan architecture with its dark wooden roofs and white walls is surrounded
+  by meticulously maintained Japanese gardens with a small pond. Smoke gently rises
+  from a distant onsen, hinting at the warm baths. The sky is a clear, gentle blue
+  with hints of pink and orange on the horizon. The atmosphere is peaceful, luxurious,
+  and deeply traditional, evoking a sense of tranquil escape. High resolution, professional
+  travel photography style, natural lighting, golden hour.
 lang: ko
-title: "유후인 슈메이칸 호텔: 고즈넉한 풍경 속 오직 당신만을 위한 힐링, 절경 온천 료칸의 정수"
 lat: 33.2622
 lng: 131.3551
-categories: ["로컬", "절경", "고급 료칸"]
-thumbnail: "/static/images/yufuin_hotel_shumeikan.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "유후인의 고즈넉한 풍경 속에 자리한 유후인 슈메이칸 호텔은 자연과 완벽하게 어우러진 힐링의 안식처입니다. 병풍처럼 펼쳐진 유후다케의 **빼어난 경치**를 감상하며 즐기는 **지역 특유의 온천**은 지친 몸과 마음에 진정한 휴식을 선사합니다. 오직 소수의 여행자만을 위한 특별한 경험, 슈메이칸에서 잊을 수 없는 추억을 만들어보세요."
-image_prompt: "A serene aerial view of Yufuin Hotel Shumeikan nestled amidst lush green hills and a backdrop of majestic Mount Yufu, under a soft morning light. The traditional Japanese ryokan architecture with its dark wooden roofs and white walls is surrounded by meticulously maintained Japanese gardens with a small pond. Smoke gently rises from a distant onsen, hinting at the warm baths. The sky is a clear, gentle blue with hints of pink and orange on the horizon. The atmosphere is peaceful, luxurious, and deeply traditional, evoking a sense of tranquil escape. High resolution, professional travel photography style, natural lighting, golden hour."
+summary: 유후인의 고즈넉한 풍경 속에 자리한 유후인 슈메이칸 호텔은 자연과 완벽하게 어우러진 힐링의 안식처입니다. 병풍처럼 펼쳐진 유후다케의
+  **빼어난 경치**를 감상하며 즐기는 **지역 특유의 온천**은 지친 몸과 마음에 진정한 휴식을 선사합니다. 오직 소수의 여행자만을 위한 특별한
+  경험, 슈메이칸에서 잊을 수 없는 추억을 만들어보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_hotel_shumeikan.jpg
+title: '유후인 슈메이칸 호텔: 고즈넉한 풍경 속 오직 당신만을 위한 힐링, 절경 온천 료칸의 정수'
 ---
 
 # 유후인 슈메이칸 호텔: 자연의 품에서 만나는 완벽한 휴식과 빼어난 경치

@@ -1,15 +1,29 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+- 고급 료칸
+date: '2026-04-03'
+image_prompt: A serene and luxurious Japanese ryokan called 'Ryokan Yuri' nestled
+  in the tranquil, lush green mountains of Yufuin, Oita, Japan. The scene should feature
+  a beautiful private open-air family onsen bath (kashikiri rotenburo) with steam
+  gently rising, surrounded by meticulously manicured Japanese garden elements, smooth
+  river stones, and vibrant maple leaves in autumn colors. A traditional wooden architectural
+  style with sliding shoji screens is visible in the background, exuding a sense of
+  wabi-sabi elegance. Sunlight filters through the trees, casting soft shadows. A
+  subtle hint of traditional Japanese paper lanterns. The atmosphere is peaceful,
+  inviting, and intimate, emphasizing privacy and connection with nature. Focus on
+  warm, inviting tones and exceptional detail, suitable for a high-end travel magazine.
 lang: ko
-title: "유후인의 숨겨진 보석, 료칸 유리: 가족탕에서 누리는 완벽한 프라이빗 휴식과 진정한 로컬 미학"
 lat: 33.2655
 lng: 131.3599
-categories: ["가족탕", "로컬", "고급 료칸"]
-thumbnail: "/static/images/ryokan_yuri.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "유후인의 아름다운 자연 속에 자리한 료칸 유리는 진정한 일본의 환대와 고요한 휴식을 선사합니다. 넓고 아늑한 **가족탕**에서 사랑하는 이들과 프라이빗한 시간을 보내며, 지역 특산물로 정성껏 준비된 **가이세키 요리**로 오감을 만족시킬 수 있습니다. 북적이는 관광지에서 벗어나 **로컬**의 정취를 만끽하고 싶은 분들에게 료칸 유리는 잊지 못할 추억을 선사할 것입니다."
-image_prompt: "A serene and luxurious Japanese ryokan called 'Ryokan Yuri' nestled in the tranquil, lush green mountains of Yufuin, Oita, Japan. The scene should feature a beautiful private open-air family onsen bath (kashikiri rotenburo) with steam gently rising, surrounded by meticulously manicured Japanese garden elements, smooth river stones, and vibrant maple leaves in autumn colors. A traditional wooden architectural style with sliding shoji screens is visible in the background, exuding a sense of wabi-sabi elegance. Sunlight filters through the trees, casting soft shadows. A subtle hint of traditional Japanese paper lanterns. The atmosphere is peaceful, inviting, and intimate, emphasizing privacy and connection with nature. Focus on warm, inviting tones and exceptional detail, suitable for a high-end travel magazine."
+summary: 유후인의 아름다운 자연 속에 자리한 료칸 유리는 진정한 일본의 환대와 고요한 휴식을 선사합니다. 넓고 아늑한 **가족탕**에서 사랑하는
+  이들과 프라이빗한 시간을 보내며, 지역 특산물로 정성껏 준비된 **가이세키 요리**로 오감을 만족시킬 수 있습니다. 북적이는 관광지에서 벗어나
+  **로컬**의 정취를 만끽하고 싶은 분들에게 료칸 유리는 잊지 못할 추억을 선사할 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ryokan_yuri.jpg
+title: '유후인의 숨겨진 보석, 료칸 유리: 가족탕에서 누리는 완벽한 프라이빗 휴식과 진정한 로컬 미학'
 ---
 
 # 유후인 료칸 유리: 오이타의 고즈넉한 온천 마을에서 만나는 진정한 휴식처

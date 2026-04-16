@@ -1,15 +1,30 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Great View
+- Luxury
+- Private Bath
+date: '2026-03-24'
+image_prompt: An ultra-luxurious, traditional Japanese ryokan, Hakone Ginyu, nestled
+  on a lush, steep mountainside in Hakone, Japan. The view is from a private open-air
+  onsen (rotenburo) balcony, overlooking a dramatic, misty valley filled with vibrant
+  autumn foliage and distant mountains under a soft, golden sunrise. Steam gently
+  rises from the stone bath. The interior of the ryokan room is visible, featuring
+  tatami mats, shoji screens, and minimalist design, emphasizing tranquility and connection
+  to nature. High resolution, serene, atmospheric, 8K.
 lang: en
-title: "Hakone Ginyu: Your Ultimate Sanctuary of Serenity, Luxury, and Breathtaking Views in Japan's Premier Onsen Destination"
 lat: 35.2423
 lng: 139.0611
-categories: ["Great View", "Luxury", "Private Bath"]
-thumbnail: "/static/images/hakone_ginyu.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover Hakone Ginyu, an unparalleled luxury ryokan nestled in the majestic mountains of Hakone, offering an exclusive escape where every suite boasts a private open-air onsen and **spectacular scenery**. Immerse yourself in sublime comfort, exquisite Japanese hospitality, and gourmet kaiseki dining, creating an unforgettable retreat for discerning travelers. This isn't just a stay; it's an immersive journey into the heart of Japanese elegance and natural beauty."
-image_prompt: "An ultra-luxurious, traditional Japanese ryokan, Hakone Ginyu, nestled on a lush, steep mountainside in Hakone, Japan. The view is from a private open-air onsen (rotenburo) balcony, overlooking a dramatic, misty valley filled with vibrant autumn foliage and distant mountains under a soft, golden sunrise. Steam gently rises from the stone bath. The interior of the ryokan room is visible, featuring tatami mats, shoji screens, and minimalist design, emphasizing tranquility and connection to nature. High resolution, serene, atmospheric, 8K."
+summary: Discover Hakone Ginyu, an unparalleled luxury ryokan nestled in the majestic
+  mountains of Hakone, offering an exclusive escape where every suite boasts a private
+  open-air onsen and **spectacular scenery**. Immerse yourself in sublime comfort,
+  exquisite Japanese hospitality, and gourmet kaiseki dining, creating an unforgettable
+  retreat for discerning travelers. This isn't just a stay; it's an immersive journey
+  into the heart of Japanese elegance and natural beauty.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_ginyu.jpg
+title: 'Hakone Ginyu: Your Ultimate Sanctuary of Serenity, Luxury, and Breathtaking
+  Views in Japan''s Premier Onsen Destination'
 ---
 
 ## Introduction: An Unforgettable Ascent to Serenity and Luxury

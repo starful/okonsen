@@ -1,15 +1,27 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+date: '2026-03-24'
+image_prompt: A breathtakingly beautiful, highly detailed, serene, and luxurious outdoor
+  onsen bath at Fujiya Hotel in Hakone, Japan, surrounded by lush, vibrant autumnal
+  foliage. The water is steaming gently, reflecting the clear blue sky and a distant
+  view of Mount Fuji or a picturesque valley. A classic Japanese wooden building with
+  intricate architectural details is visible in the background, exuding an aura of
+  timeless elegance and tradition. Soft, warm sunlight filters through the trees,
+  casting delicate shadows. The scene is tranquil, inviting, and captures the essence
+  of a high-end, traditional Japanese hot spring resort, ultra-wide angle, cinematic,
+  award-winning photography, natural lighting, sharp focus, serene atmosphere.
 lang: ko
-title: "하코네 후지야 호텔: 절경 속 140년 전통이 깃든 럭셔리 온천, 시간의 아름다움을 경험하다"
 lat: 35.2441
 lng: 139.0592
-categories: ["고급 료칸", "절경"]
-thumbnail: "/static/images/fujiya_hotel.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "하코네의 심장부에 위치한 후지야 호텔은 140여 년의 역사를 자랑하는 일본 최초의 서양식 리조트 호텔로, 시간이 멈춘 듯한 우아함과 최고의 서비스를 선사합니다. 사계절 시시각각 변하는 하코네의 아름다운 자연경관을 온몸으로 느끼며, 품격 있는 온천욕과 미식의 향연을 경험할 수 있는 특별한 공간입니다. 이곳에서 당신의 지친 몸과 마음에 진정한 쉼표를 선물하고 잊지 못할 추억을 만들어보세요."
-image_prompt: "A breathtakingly beautiful, highly detailed, serene, and luxurious outdoor onsen bath at Fujiya Hotel in Hakone, Japan, surrounded by lush, vibrant autumnal foliage. The water is steaming gently, reflecting the clear blue sky and a distant view of Mount Fuji or a picturesque valley. A classic Japanese wooden building with intricate architectural details is visible in the background, exuding an aura of timeless elegance and tradition. Soft, warm sunlight filters through the trees, casting delicate shadows. The scene is tranquil, inviting, and captures the essence of a high-end, traditional Japanese hot spring resort, ultra-wide angle, cinematic, award-winning photography, natural lighting, sharp focus, serene atmosphere."
+summary: 하코네의 심장부에 위치한 후지야 호텔은 140여 년의 역사를 자랑하는 일본 최초의 서양식 리조트 호텔로, 시간이 멈춘 듯한 우아함과
+  최고의 서비스를 선사합니다. 사계절 시시각각 변하는 하코네의 아름다운 자연경관을 온몸으로 느끼며, 품격 있는 온천욕과 미식의 향연을 경험할 수
+  있는 특별한 공간입니다. 이곳에서 당신의 지친 몸과 마음에 진정한 쉼표를 선물하고 잊지 못할 추억을 만들어보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/fujiya_hotel.jpg
+title: '하코네 후지야 호텔: 절경 속 140년 전통이 깃든 럭셔리 온천, 시간의 아름다움을 경험하다'
 ---
 
 # 하코네 후지야 호텔: 시간이 빚어낸 절경 속 럭셔리 온천 휴양의 정수

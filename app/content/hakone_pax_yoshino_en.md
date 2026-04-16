@@ -1,15 +1,28 @@
 ---
+address: Hakone, Kanagawa
+agoda: ''
+categories:
+- Private Bath
+- Great View
+- Luxury
+date: '2026-03-24'
+image_prompt: A beautifully composed, serene outdoor onsen at Hakone Pax Yoshino during
+  autumn, overlooking a lush, mist-shrouded mountain valley with vibrant red and gold
+  foliage. The steam gently rises from the tranquil water, reflecting the warm glow
+  of a setting sun. A Japanese maple tree frames the view, and a traditional wooden
+  bucket rests beside the bath. Emphasize luxury, tranquility, and a breathtaking
+  natural vista.
 lang: en
-title: "Hakone Pax Yoshino: Your Serene Escape to Private Onsens and Breathtaking Mountain Vistas"
 lat: 35.2299
 lng: 139.0965
-categories: ["Private Bath", "Great View", "Luxury"]
-thumbnail: "/static/images/hakone_pax_yoshino.jpg"
-address: "Hakone, Kanagawa"
-date: "2026-03-24"
-agoda: ""
-summary: "Discover Hakone Pax Yoshino, an exquisite ryokan blending traditional Japanese hospitality with modern comforts amidst Hakone's stunning natural beauty. Indulge in luxurious private onsens offering unparalleled views, perfect for an intimate and unforgettable escape. Experience world-class kaiseki dining and impeccable service that redefines luxury relaxation."
-image_prompt: "A beautifully composed, serene outdoor onsen at Hakone Pax Yoshino during autumn, overlooking a lush, mist-shrouded mountain valley with vibrant red and gold foliage. The steam gently rises from the tranquil water, reflecting the warm glow of a setting sun. A Japanese maple tree frames the view, and a traditional wooden bucket rests beside the bath. Emphasize luxury, tranquility, and a breathtaking natural vista."
+summary: Discover Hakone Pax Yoshino, an exquisite ryokan blending traditional Japanese
+  hospitality with modern comforts amidst Hakone's stunning natural beauty. Indulge
+  in luxurious private onsens offering unparalleled views, perfect for an intimate
+  and unforgettable escape. Experience world-class kaiseki dining and impeccable service
+  that redefines luxury relaxation.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_pax_yoshino.jpg
+title: 'Hakone Pax Yoshino: Your Serene Escape to Private Onsens and Breathtaking
+  Mountain Vistas'
 ---
 
 ## Introduction: An Oasis of Tranquility and Unrivaled Beauty

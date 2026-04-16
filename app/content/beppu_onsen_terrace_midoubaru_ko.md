@@ -1,15 +1,23 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 가족탕
+- 절경
+date: '2026-04-12'
+image_prompt: A breathtaking panoramic view from an open-air onsen bath at Beppu Onsen
+  Terrace Midoubaru in Oita, Japan. The bath is surrounded by traditional Japanese
+  architecture, with steam rising gently from the mineral-rich water. In the distance,
+  the sparkling Beppu Bay stretches out under a clear blue sky, meeting lush green
+  mountains. The scene evokes a sense of serene luxury and deep relaxation. Morning
+  light, highly detailed, photorealistic, cinematic.
 lang: ko
-title: "벳푸 온천 테라스 미도우바루: 벳푸의 숨 막히는 절경과 프라이빗 가족탕에서 경험하는 궁극의 힐링"
 lat: 33.2911
 lng: 131.4655
-categories: ["가족탕", "절경"]
-thumbnail: "/static/images/beppu_onsen_terrace_midoubaru.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "오이타 벳푸의 해발 300m 고지에 위치한 벳푸 온천 테라스 미도우바루는 벳푸만과 웅장한 산맥이 어우러진 파노라마 절경을 선사합니다. 모든 객실에 딸린 프라이빗 노천탕과 전세 가족탕은 진정한 휴식을 약속하며, 미식의 향연과 세심한 서비스는 잊을 수 없는 추억을 선사합니다."
-image_prompt: "A breathtaking panoramic view from an open-air onsen bath at Beppu Onsen Terrace Midoubaru in Oita, Japan. The bath is surrounded by traditional Japanese architecture, with steam rising gently from the mineral-rich water. In the distance, the sparkling Beppu Bay stretches out under a clear blue sky, meeting lush green mountains. The scene evokes a sense of serene luxury and deep relaxation. Morning light, highly detailed, photorealistic, cinematic."
+summary: 오이타 벳푸의 해발 300m 고지에 위치한 벳푸 온천 테라스 미도우바루는 벳푸만과 웅장한 산맥이 어우러진 파노라마 절경을 선사합니다.
+  모든 객실에 딸린 프라이빗 노천탕과 전세 가족탕은 진정한 휴식을 약속하며, 미식의 향연과 세심한 서비스는 잊을 수 없는 추억을 선사합니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_terrace_midoubaru.jpg
+title: '벳푸 온천 테라스 미도우바루: 벳푸의 숨 막히는 절경과 프라이빗 가족탕에서 경험하는 궁극의 힐링'
 ---
 
 # 벳푸 온천 테라스 미도우바루: 하늘과 맞닿은 절경 속에서 프라이빗 힐링을 만나다

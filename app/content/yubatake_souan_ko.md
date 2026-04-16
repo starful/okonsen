@@ -1,15 +1,24 @@
 ---
+address: Kusatsu, Gunma
+agoda: ''
+categories:
+- 가족탕
+- 타투 허용
+date: '2026-04-05'
+image_prompt: A serene and luxurious Japanese onsen ryokan exterior named Yubatake
+  Souan in Kusatsu, Gunma, Japan, at twilight. The entrance features traditional wooden
+  architecture with subtle lighting, snow gently falling, and steam rising from a
+  nearby onsen. A traditional red lantern hangs, casting a warm glow. The scene conveys
+  peace, tradition, and exclusive comfort. Focus on architectural detail, soft lighting,
+  and a hint of steam, ultra-realistic, cinematic quality.
 lang: ko
-title: "쿠사츠 온천 유바타케 소안: 문신 허용 가족탕에서 만끽하는 진정한 일본 료칸의 미학"
 lat: 36.6233
 lng: 138.5961
-categories: ["가족탕", "타투 허용"]
-thumbnail: "/static/images/yubatake_souan.jpg"
-address: "Kusatsu, Gunma"
-date: "2026-04-05"
-agoda: ""
-summary: "쿠사츠 온천의 심장, 유바타케 소안은 일본 전통의 아름다움과 현대적 편의를 겸비한 특별한 료칸입니다. 특히 **문신 허용** 정책과 **프라이빗 가족탕**은 모든 방문객에게 자유롭고 아늑한 휴식을 선사합니다. 세계 3대 온천수의 치유력을 온전히 느끼며, 잊을 수 없는 추억을 만들어보세요."
-image_prompt: "A serene and luxurious Japanese onsen ryokan exterior named Yubatake Souan in Kusatsu, Gunma, Japan, at twilight. The entrance features traditional wooden architecture with subtle lighting, snow gently falling, and steam rising from a nearby onsen. A traditional red lantern hangs, casting a warm glow. The scene conveys peace, tradition, and exclusive comfort. Focus on architectural detail, soft lighting, and a hint of steam, ultra-realistic, cinematic quality."
+summary: 쿠사츠 온천의 심장, 유바타케 소안은 일본 전통의 아름다움과 현대적 편의를 겸비한 특별한 료칸입니다. 특히 **문신 허용** 정책과
+  **프라이빗 가족탕**은 모든 방문객에게 자유롭고 아늑한 휴식을 선사합니다. 세계 3대 온천수의 치유력을 온전히 느끼며, 잊을 수 없는 추억을
+  만들어보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yubatake_souan.jpg
+title: '쿠사츠 온천 유바타케 소안: 문신 허용 가족탕에서 만끽하는 진정한 일본 료칸의 미학'
 ---
 
 # 쿠사츠 온천 유바타케 소안: 모두를 위한 전통 료칸의 안식처

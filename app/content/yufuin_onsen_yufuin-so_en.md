@@ -1,15 +1,29 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- Tattoo OK
+- Great View
+- Private Bath
+date: '2026-04-03'
+image_prompt: A serene, luxurious onsen ryokan in Yufuin, Japan, with traditional
+  wooden architecture, surrounded by lush green mountains and mist. A beautiful open-air
+  bath (rotenburo) with steam rising, overlooking the iconic Mount Yufu under a clear
+  blue sky. The scene conveys deep relaxation, tranquility, and harmony with nature.
+  Early morning light, soft warm tones, ultra-realistic, cinematic.
 lang: en
-title: "Yufuin Onsen Yufuin-so: A Luxurious, Tattoo-Friendly Retreat with Breathtaking Views in Japan's Enchanting Hot Spring Village"
 lat: 33.2611
 lng: 131.3644
-categories: ["Tattoo OK", "Great View", "Private Bath"]
-thumbnail: "/static/images/yufuin_onsen_yufuin-so.jpg"
-address: "Yufuin, Oita"
-date: "2026-04-03"
-agoda: ""
-summary: "Discover the unparalleled charm of Yufuin Onsen Yufuin-so, a sanctuary where traditional Japanese luxury meets modern inclusivity, offering a rare **tattoo-friendly** experience amidst the stunning landscapes of Oita. Immerse yourself in the tranquility of its private and public baths, each boasting **spectacular views** of the majestic Mount Yufu, promising a serene escape for every discerning traveler. Indulge in exquisite kaiseki dining, refined accommodations, and the rejuvenating embrace of Yufuin's renowned hot springs, creating an unforgettable journey into Japanese hospitality."
-image_prompt: "A serene, luxurious onsen ryokan in Yufuin, Japan, with traditional wooden architecture, surrounded by lush green mountains and mist. A beautiful open-air bath (rotenburo) with steam rising, overlooking the iconic Mount Yufu under a clear blue sky. The scene conveys deep relaxation, tranquility, and harmony with nature. Early morning light, soft warm tones, ultra-realistic, cinematic."
+summary: Discover the unparalleled charm of Yufuin Onsen Yufuin-so, a sanctuary where
+  traditional Japanese luxury meets modern inclusivity, offering a rare **tattoo-friendly**
+  experience amidst the stunning landscapes of Oita. Immerse yourself in the tranquility
+  of its private and public baths, each boasting **spectacular views** of the majestic
+  Mount Yufu, promising a serene escape for every discerning traveler. Indulge in
+  exquisite kaiseki dining, refined accommodations, and the rejuvenating embrace of
+  Yufuin's renowned hot springs, creating an unforgettable journey into Japanese hospitality.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_onsen_yufuin-so.jpg
+title: 'Yufuin Onsen Yufuin-so: A Luxurious, Tattoo-Friendly Retreat with Breathtaking
+  Views in Japan''s Enchanting Hot Spring Village'
 ---
 
 ## Unveiling Yufuin Onsen Yufuin-so: A Sanctuary of Serenity and Inclusivity

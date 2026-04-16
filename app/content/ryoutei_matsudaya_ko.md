@@ -1,15 +1,27 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 가족탕
+date: '2026-04-12'
+image_prompt: A serene and luxurious traditional Japanese ryokan, Ryoutei Matsudaya,
+  nestled in a quiet, lush green garden in Beppu, Oita. The image should feature a
+  beautiful outdoor private family onsen (kashikiri-buro) with steam rising, surrounded
+  by carefully manicured Japanese maple trees and stone lanterns. A traditional wooden
+  building with elegant shoji screens and a dark tiled roof is visible in the background,
+  exuding a sense of refined tranquility and historical charm. The lighting is soft
+  and warm, capturing the peaceful ambiance of a late afternoon or early morning.
+  There are no people visible, allowing the viewer to imagine themselves in this private
+  sanctuary.
 lang: ko
-title: "벳푸 료테이 마츠다야: 품격 있는 휴식과 오직 우리만을 위한 가족탕이 선사하는 황홀경"
 lat: 33.3166
 lng: 131.4711
-categories: ["고급 료칸", "가족탕"]
-thumbnail: "/static/images/ryoutei_matsudaya.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "벳푸의 고즈넉한 골목에 자리한 료테이 마츠다야는 **고급 료칸**의 진수를 보여줍니다. 프라이빗한 **가족탕**에서 사랑하는 이들과 진정한 휴식을 만끽하고, 제철 재료로 정성껏 준비된 가이세키 요리로 오감을 만족시킬 수 있습니다. 전통과 현대가 조화된 아름다운 공간에서 잊을 수 없는 추억을 만들어보세요."
-image_prompt: "A serene and luxurious traditional Japanese ryokan, Ryoutei Matsudaya, nestled in a quiet, lush green garden in Beppu, Oita. The image should feature a beautiful outdoor private family onsen (kashikiri-buro) with steam rising, surrounded by carefully manicured Japanese maple trees and stone lanterns. A traditional wooden building with elegant shoji screens and a dark tiled roof is visible in the background, exuding a sense of refined tranquility and historical charm. The lighting is soft and warm, capturing the peaceful ambiance of a late afternoon or early morning. There are no people visible, allowing the viewer to imagine themselves in this private sanctuary."
+summary: 벳푸의 고즈넉한 골목에 자리한 료테이 마츠다야는 **고급 료칸**의 진수를 보여줍니다. 프라이빗한 **가족탕**에서 사랑하는 이들과
+  진정한 휴식을 만끽하고, 제철 재료로 정성껏 준비된 가이세키 요리로 오감을 만족시킬 수 있습니다. 전통과 현대가 조화된 아름다운 공간에서 잊을
+  수 없는 추억을 만들어보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ryoutei_matsudaya.jpg
+title: '벳푸 료테이 마츠다야: 품격 있는 휴식과 오직 우리만을 위한 가족탕이 선사하는 황홀경'
 ---
 
 ## 서론: 벳푸 료테이 마츠다야에 대한 첫인상과 특별함

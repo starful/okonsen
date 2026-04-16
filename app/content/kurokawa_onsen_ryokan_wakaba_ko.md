@@ -1,15 +1,25 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-04-12'
+image_prompt: A serene and traditional Japanese ryokan named Wakaba in Kurokawa Onsen,
+  Kumamoto, nestled amidst lush autumn foliage. Focus on a beautifully designed private
+  outdoor family bath (kashikiri onsen) with steam rising, surrounded by natural rocks
+  and vibrant red maple leaves. A subtle warm glow emanates from traditional paper
+  lanterns. The atmosphere is peaceful, inviting, and slightly mystical, with a touch
+  of wabi-sabi aesthetics. Clear blue sky with soft sunlight filtering through the
+  trees. Highly detailed, photorealistic, cinematic lighting.
 lang: ko
-title: "구로카와 온천 료칸 와카바: 아늑한 가족탕과 정통 로컬의 매력이 어우러진 규슈의 숨겨진 보석"
 lat: 33.0822
 lng: 131.1422
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/kurokawa_onsen_ryokan_wakaba.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "구로카와 온천 료칸 와카바는 규슈 구마모토현의 한적한 마을에 자리 잡은, 자연과 조화로운 진정한 휴식을 선사하는 료칸입니다. 이곳은 프라이빗한 시간을 보장하는 개별 노천탕, 즉 '가족탕'의 천국이자, 지역의 정서와 전통을 고스란히 간직한 '로컬'의 매력이 가득한 곳입니다. 번잡한 일상에서 벗어나, 자연의 품에서 진정한 일본 온천의 미학을 경험하고 싶은 분들에게 완벽한 안식처가 될 것입니다."
-image_prompt: "A serene and traditional Japanese ryokan named Wakaba in Kurokawa Onsen, Kumamoto, nestled amidst lush autumn foliage. Focus on a beautifully designed private outdoor family bath (kashikiri onsen) with steam rising, surrounded by natural rocks and vibrant red maple leaves. A subtle warm glow emanates from traditional paper lanterns. The atmosphere is peaceful, inviting, and slightly mystical, with a touch of wabi-sabi aesthetics. Clear blue sky with soft sunlight filtering through the trees. Highly detailed, photorealistic, cinematic lighting."
+summary: 구로카와 온천 료칸 와카바는 규슈 구마모토현의 한적한 마을에 자리 잡은, 자연과 조화로운 진정한 휴식을 선사하는 료칸입니다. 이곳은
+  프라이빗한 시간을 보장하는 개별 노천탕, 즉 '가족탕'의 천국이자, 지역의 정서와 전통을 고스란히 간직한 '로컬'의 매력이 가득한 곳입니다. 번잡한
+  일상에서 벗어나, 자연의 품에서 진정한 일본 온천의 미학을 경험하고 싶은 분들에게 완벽한 안식처가 될 것입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_wakaba.jpg
+title: '구로카와 온천 료칸 와카바: 아늑한 가족탕과 정통 로컬의 매력이 어우러진 규슈의 숨겨진 보석'
 ---
 
 ### Introduction (서론)

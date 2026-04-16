@@ -1,15 +1,23 @@
 ---
+address: Yufuin, Oita
+agoda: ''
+categories:
+- 고급 료칸
+- 절경
+date: '2026-03-24'
+image_prompt: An exquisite aerial view of Yufuin Tamanoyu ryokan nestled in a lush
+  green valley at the foot of Mount Yufu in Oita, Japan, with traditional Japanese
+  architecture, thatched roofs, tranquil private gardens, steaming open-air onsen
+  baths visible through dense foliage, misty morning atmosphere, soft natural light,
+  highly detailed, serene, luxurious, traditional Japanese painting style, cinematic.
 lang: ko
-title: "유후인 타마노유: 숨 막히는 절경과 품격이 어우러진 럭셔리 료칸의 정수"
 lat: 33.2681
 lng: 131.3622
-categories: ["고급 료칸", "절경"]
-thumbnail: "/static/images/yufuin_tamanoyu.jpg"
-address: "Yufuin, Oita"
-date: "2026-03-24"
-agoda: ""
-summary: "자연의 품에 안겨 진정한 휴식을 선사하는 유후인 타마노유는 일본 최고급 료칸 중 하나로 손꼽힙니다. 유후다케의 웅장한 절경을 배경으로 펼쳐지는 개별 노천탕과 품격 있는 서비스는 잊을 수 없는 경험을 약속합니다. 전통과 현대가 조화를 이루는 공간에서 미식과 온천의 정수를 만끽하며 일상의 피로를 말끔히 씻어내세요."
-image_prompt: "An exquisite aerial view of Yufuin Tamanoyu ryokan nestled in a lush green valley at the foot of Mount Yufu in Oita, Japan, with traditional Japanese architecture, thatched roofs, tranquil private gardens, steaming open-air onsen baths visible through dense foliage, misty morning atmosphere, soft natural light, highly detailed, serene, luxurious, traditional Japanese painting style, cinematic."
+summary: 자연의 품에 안겨 진정한 휴식을 선사하는 유후인 타마노유는 일본 최고급 료칸 중 하나로 손꼽힙니다. 유후다케의 웅장한 절경을 배경으로
+  펼쳐지는 개별 노천탕과 품격 있는 서비스는 잊을 수 없는 경험을 약속합니다. 전통과 현대가 조화를 이루는 공간에서 미식과 온천의 정수를 만끽하며
+  일상의 피로를 말끔히 씻어내세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_tamanoyu.jpg
+title: '유후인 타마노유: 숨 막히는 절경과 품격이 어우러진 럭셔리 료칸의 정수'
 ---
 
 # 유후인 타마노유: 오이타 절경 속 럭셔리 료칸의 표상

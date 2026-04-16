@@ -1,15 +1,25 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- 가족탕
+- 로컬
+date: '2026-04-12'
+image_prompt: A serene, traditional Japanese ryokan 'Yamada Bessou' in Beppu, Oita,
+  featuring a cozy, warm family private onsen bath (kashikiri onsen) with steam rising
+  gently from mineral-rich waters. The bath is surrounded by natural stone and lush,
+  subtle Japanese garden elements, with soft, ambient lighting creating a tranquil
+  atmosphere. A small, elegant wooden bucket and ladle are visible. The focus is on
+  intimacy and relaxation, reflecting local charm and authentic Japanese hospitality.
+  Evening light, subtle HDR, photorealistic, cinematic quality.
 lang: ko
-title: "벳푸 야마다 벳소우: 현지인처럼 즐기는 프라이빗 온천, 진정한 휴식의 보물창고"
 lat: 33.2825
 lng: 131.5022
-categories: ["가족탕", "로컬"]
-thumbnail: "/static/images/yamada_bessou.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "오이타 벳푸의 숨겨진 보석, 야마다 벳소우는 번잡함을 벗어나 진정한 현지 분위기를 만끽할 수 있는 료칸입니다. 이곳은 현대적인 편안함과 전통적인 아름다움이 조화를 이루며, 특히 전용 가족탕에서 프라이빗한 온천 경험을 제공합니다. 몸과 마음을 치유하고 잊을 수 없는 추억을 만들 완벽한 휴식처를 찾고 있다면 야마다 벳소우가 정답입니다."
-image_prompt: "A serene, traditional Japanese ryokan 'Yamada Bessou' in Beppu, Oita, featuring a cozy, warm family private onsen bath (kashikiri onsen) with steam rising gently from mineral-rich waters. The bath is surrounded by natural stone and lush, subtle Japanese garden elements, with soft, ambient lighting creating a tranquil atmosphere. A small, elegant wooden bucket and ladle are visible. The focus is on intimacy and relaxation, reflecting local charm and authentic Japanese hospitality. Evening light, subtle HDR, photorealistic, cinematic quality."
+summary: 오이타 벳푸의 숨겨진 보석, 야마다 벳소우는 번잡함을 벗어나 진정한 현지 분위기를 만끽할 수 있는 료칸입니다. 이곳은 현대적인 편안함과
+  전통적인 아름다움이 조화를 이루며, 특히 전용 가족탕에서 프라이빗한 온천 경험을 제공합니다. 몸과 마음을 치유하고 잊을 수 없는 추억을 만들 완벽한
+  휴식처를 찾고 있다면 야마다 벳소우가 정답입니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yamada_bessou.jpg
+title: '벳푸 야마다 벳소우: 현지인처럼 즐기는 프라이빗 온천, 진정한 휴식의 보물창고'
 ---
 
 # 벳푸 야마다 벳소우: 현지인의 숨결이 깃든 프라이빗 온천에서의 완벽한 휴식

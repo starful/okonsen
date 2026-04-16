@@ -1,15 +1,32 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Tattoo OK
+- Local
+date: '2026-04-12'
+image_prompt: A historically significant Japanese public bathhouse, Beppu Takegawara
+  Onsen, built in 1938 with traditional wooden architecture and a distinctive tiled
+  roof. The scene is illuminated by soft, warm light, casting inviting shadows on
+  the aged wooden walls and intricate details. Steam gently rises from the entrance,
+  hinting at the therapeutic warmth within. A few locals, some with discreet tattoos,
+  are respectfully entering or exiting, their faces reflecting a sense of tranquility
+  and contentment. The setting sun casts a golden hue on the surrounding traditional
+  Japanese street, with subtle hints of steam rising from distant onsens in the background.
+  The atmosphere is serene, authentic, and welcoming, capturing the essence of a cherished
+  community landmark.
 lang: en
-title: "Beppu Takegawara Onsen: Embrace Authentic Tradition & Tattoo-Friendly Bliss in Japan's Steaming Heart"
 lat: 33.2788
 lng: 131.5044
-categories: ["Tattoo OK", "Local"]
-thumbnail: "/static/images/beppu_onsen_takegawara.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Discover the soul of Beppu at Takegawara Onsen, a historic gem where ancient traditions meet modern inclusivity, offering a profoundly authentic local experience. Immerse yourself in the unique sand baths and communal hot springs, where a welcoming atmosphere extends to everyone, including those with tattoos. This iconic bathhouse provides an unparalleled glimpse into Japan's rich onsen culture, promising rejuvenation and a truly memorable journey."
-image_prompt: "A historically significant Japanese public bathhouse, Beppu Takegawara Onsen, built in 1938 with traditional wooden architecture and a distinctive tiled roof. The scene is illuminated by soft, warm light, casting inviting shadows on the aged wooden walls and intricate details. Steam gently rises from the entrance, hinting at the therapeutic warmth within. A few locals, some with discreet tattoos, are respectfully entering or exiting, their faces reflecting a sense of tranquility and contentment. The setting sun casts a golden hue on the surrounding traditional Japanese street, with subtle hints of steam rising from distant onsens in the background. The atmosphere is serene, authentic, and welcoming, capturing the essence of a cherished community landmark."
+summary: Discover the soul of Beppu at Takegawara Onsen, a historic gem where ancient
+  traditions meet modern inclusivity, offering a profoundly authentic local experience.
+  Immerse yourself in the unique sand baths and communal hot springs, where a welcoming
+  atmosphere extends to everyone, including those with tattoos. This iconic bathhouse
+  provides an unparalleled glimpse into Japan's rich onsen culture, promising rejuvenation
+  and a truly memorable journey.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_takegawara.jpg
+title: 'Beppu Takegawara Onsen: Embrace Authentic Tradition & Tattoo-Friendly Bliss
+  in Japan''s Steaming Heart'
 ---
 
 # Beppu Takegawara Onsen: A Journey into the Heart of Japan's Steaming Legacy

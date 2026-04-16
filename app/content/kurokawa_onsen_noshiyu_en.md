@@ -1,15 +1,31 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- Luxury
+- Private Bath
+date: '2026-04-12'
+image_prompt: A breathtaking aerial view of Kurokawa Onsen Noshiyu ryokan nestled
+  amidst a dense, ancient Japanese forest in autumn, with vibrant red and golden maple
+  trees surrounding traditional dark-wood buildings and stone pathways. Wisps of steam
+  rise delicately from multiple outdoor onsen baths, some visible as serene pools
+  of milky-white water. The overall atmosphere is peaceful, luxurious, and deeply
+  integrated with nature, capturing the essence of wabi-sabi aesthetics under a soft,
+  golden hour light. Traditional Japanese architecture with intricate rooflines and
+  natural materials is highlighted. High detail, photorealistic.
 lang: en
-title: "Escape to Serenity: Unveiling the Timeless Elegance and Secluded Luxury of Kurokawa Onsen Noshiyu – Your Ultimate Kumamoto Retreat"
 lat: 33.0825
 lng: 131.1411
-categories: ["Luxury", "Private Bath"]
-thumbnail: "/static/images/kurokawa_onsen_noshiyu.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Noshiyu stands as an epitome of refined Japanese hospitality, offering an unparalleled escape into luxurious tranquility. This exquisite ryokan masterfully blends traditional aesthetics with modern comfort, providing guests an intimate journey into Japan's revered onsen culture. Boasting an array of exceptional private family baths, Noshiyu invites you to immerse yourself in therapeutic waters while surrounded by breathtaking natural beauty, ensuring a deeply personal and unforgettable retreat."
-image_prompt: "A breathtaking aerial view of Kurokawa Onsen Noshiyu ryokan nestled amidst a dense, ancient Japanese forest in autumn, with vibrant red and golden maple trees surrounding traditional dark-wood buildings and stone pathways. Wisps of steam rise delicately from multiple outdoor onsen baths, some visible as serene pools of milky-white water. The overall atmosphere is peaceful, luxurious, and deeply integrated with nature, capturing the essence of wabi-sabi aesthetics under a soft, golden hour light. Traditional Japanese architecture with intricate rooflines and natural materials is highlighted. High detail, photorealistic."
+summary: Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Noshiyu
+  stands as an epitome of refined Japanese hospitality, offering an unparalleled escape
+  into luxurious tranquility. This exquisite ryokan masterfully blends traditional
+  aesthetics with modern comfort, providing guests an intimate journey into Japan's
+  revered onsen culture. Boasting an array of exceptional private family baths, Noshiyu
+  invites you to immerse yourself in therapeutic waters while surrounded by breathtaking
+  natural beauty, ensuring a deeply personal and unforgettable retreat.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_noshiyu.jpg
+title: 'Escape to Serenity: Unveiling the Timeless Elegance and Secluded Luxury of
+  Kurokawa Onsen Noshiyu – Your Ultimate Kumamoto Retreat'
 ---
 
 # Kurokawa Onsen Noshiyu: A Symphony of Seclusion, Luxury, and Natural Grandeur

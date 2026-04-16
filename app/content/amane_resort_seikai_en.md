@@ -1,15 +1,30 @@
 ---
+address: Beppu, Oita
+agoda: ''
+categories:
+- Luxury
+- Great View
+- Private Bath
+date: '2026-04-12'
+image_prompt: An aerial view of a luxurious Japanese ryokan (AMANE Resort Seikai)
+  nestled on the coastline of Beppu, Oita, at sunrise. The architectural style is
+  modern Japanese with traditional elements, featuring multiple open-air onsen pools
+  terraced towards the ocean. Steam rises gently from the pools, reflecting the warm
+  hues of the rising sun over the Pacific Ocean. Elegant, minimalist design, with
+  lush greenery and natural stone pathways. The sky is painted with soft oranges,
+  pinks, and purples, and the ocean is calm with a gentle sparkle. High detail, cinematic,
+  tranquil, inviting. 8K.
 lang: en
-title: "AMANE Resort Seikai: Where Beppu's Geothermal Grandeur Meets Unrivaled Oceanfront Luxury and Private Onsen Bliss"
 lat: 33.3088
 lng: 131.5033
-categories: ["Luxury", "Great View", "Private Bath"]
-thumbnail: "/static/images/amane_resort_seikai.jpg"
-address: "Beppu, Oita"
-date: "2026-04-12"
-agoda: ""
-summary: "Nestled on Beppu's shimmering coastline, AMANE Resort Seikai offers an unparalleled luxury ryokan experience, blending exquisite Japanese hospitality with breathtaking ocean vistas. Indulge in sublime private onsen baths, savor meticulously crafted kaiseki cuisine, and awaken to the gentle serenade of the Pacific, making every moment an unforgettable escape into Japanese elegance and geothermal wonder."
-image_prompt: "An aerial view of a luxurious Japanese ryokan (AMANE Resort Seikai) nestled on the coastline of Beppu, Oita, at sunrise. The architectural style is modern Japanese with traditional elements, featuring multiple open-air onsen pools terraced towards the ocean. Steam rises gently from the pools, reflecting the warm hues of the rising sun over the Pacific Ocean. Elegant, minimalist design, with lush greenery and natural stone pathways. The sky is painted with soft oranges, pinks, and purples, and the ocean is calm with a gentle sparkle. High detail, cinematic, tranquil, inviting. 8K."
+summary: Nestled on Beppu's shimmering coastline, AMANE Resort Seikai offers an unparalleled
+  luxury ryokan experience, blending exquisite Japanese hospitality with breathtaking
+  ocean vistas. Indulge in sublime private onsen baths, savor meticulously crafted
+  kaiseki cuisine, and awaken to the gentle serenade of the Pacific, making every
+  moment an unforgettable escape into Japanese elegance and geothermal wonder.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/amane_resort_seikai.jpg
+title: 'AMANE Resort Seikai: Where Beppu''s Geothermal Grandeur Meets Unrivaled Oceanfront
+  Luxury and Private Onsen Bliss'
 ---
 
 ## Introduction: Awaken to the Ocean's Embrace at AMANE Resort Seikai

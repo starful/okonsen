@@ -1,15 +1,26 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- 고급 료칸
+- 가족탕
+date: '2026-04-12'
+image_prompt: A luxurious traditional Japanese ryokan, Kurokawa Onsen Noshiyu, nestled
+  deeply within a lush, verdant forest in Minamioguni, Kumamoto. The scene features
+  a beautiful open-air private family bath (kashikiri onsen) with steam rising gently
+  from the mineral-rich water, surrounded by moss-covered rocks and ancient trees.
+  The architectural style is elegant wabi-sabi, blending seamlessly with nature. Sunlight
+  filters through the dense canopy, dappling the scene. A subtle hint of traditional
+  Japanese lanterns or a wooden bridge adds to the serene ambiance. Extremely detailed,
+  cinematic lighting, natural colors, tranquil atmosphere.
 lang: ko
-title: "아소 숲속의 럭셔리 휴식처, 구로카와 온천 노시유: 최고급 가족탕과 절경이 선사하는 치유의 시간"
 lat: 33.0825
 lng: 131.1411
-categories: ["고급 료칸", "가족탕"]
-thumbnail: "/static/images/kurokawa_onsen_noshiyu.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "구로카와 온천 노시유는 아소산 자락의 울창한 숲 속에 자리한 최고급 료칸으로, 자연 속 진정한 휴식을 선사합니다. 프라이빗한 시간을 위한 개별 가족탕은 물론, 사계절 변하는 절경을 감상하며 온천욕을 즐길 수 있는 특별한 경험을 제공합니다. 섬세한 가이세키 요리와 전통의 미학이 깃든 공간에서 잊지 못할 추억을 만들어보세요."
-image_prompt: "A luxurious traditional Japanese ryokan, Kurokawa Onsen Noshiyu, nestled deeply within a lush, verdant forest in Minamioguni, Kumamoto. The scene features a beautiful open-air private family bath (kashikiri onsen) with steam rising gently from the mineral-rich water, surrounded by moss-covered rocks and ancient trees. The architectural style is elegant wabi-sabi, blending seamlessly with nature. Sunlight filters through the dense canopy, dappling the scene. A subtle hint of traditional Japanese lanterns or a wooden bridge adds to the serene ambiance. Extremely detailed, cinematic lighting, natural colors, tranquil atmosphere."
+summary: 구로카와 온천 노시유는 아소산 자락의 울창한 숲 속에 자리한 최고급 료칸으로, 자연 속 진정한 휴식을 선사합니다. 프라이빗한 시간을
+  위한 개별 가족탕은 물론, 사계절 변하는 절경을 감상하며 온천욕을 즐길 수 있는 특별한 경험을 제공합니다. 섬세한 가이세키 요리와 전통의 미학이
+  깃든 공간에서 잊지 못할 추억을 만들어보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_noshiyu.jpg
+title: '아소 숲속의 럭셔리 휴식처, 구로카와 온천 노시유: 최고급 가족탕과 절경이 선사하는 치유의 시간'
 ---
 
 # 구로카와 온천 노시유: 숲속 비밀 온천에서 꿈같은 휴식을 경험하다

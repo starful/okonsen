@@ -1,16 +1,33 @@
 ---
+address: Minamioguni, Kumamoto
+agoda: ''
+categories:
+- Private Bath
+- Great View
+date: '2026-04-12'
+image_prompt: A luxurious Japanese ryokan called Kurokawa Onsen Yamamizuki, nestled
+  beside a crystal-clear mountain river. The scene is bathed in soft, natural light,
+  highlighting traditional wooden architecture with intricate details. Lush green
+  foliage surrounds the ryokan, with vibrant autumn leaves in the background. A steaming
+  open-air rotenburo overlooks the river, featuring large, smooth rocks and clear,
+  inviting onsen water. The atmosphere is serene and tranquil, evoking a sense of
+  deep relaxation and natural beauty. Include subtle traditional Japanese lanterns
+  and carefully placed garden elements, with a hint of mist rising from the water,
+  creating an ethereal ambiance.
 lang: en
-title: "Kurokawa Onsen Yamamizuki: A Secluded Riverfront Sanctuary Where Nature's Grandeur Meets Private Bliss"
 lat: 33.0844
 lng: 131.1455
-categories: ["Private Bath", "Great View"]
-thumbnail: "/static/images/kurokawa_onsen_yamamizuki.jpg"
-address: "Minamioguni, Kumamoto"
-date: "2026-04-12"
-agoda: ""
-summary: "Nestled deep within the enchanting Kurokawa Onsen village, Yamamizuki offers an unparalleled escape where the symphony of the river and breathtaking natural vistas create a restorative haven. Boasting exquisite private baths and expansive open-air onsens with panoramic views, this ryokan is a testament to traditional Japanese hospitality and serene beauty. Prepare for an unforgettable journey into tranquility, enveloped by the pristine wilderness of Kumamoto's Aso region."
-image_prompt: "A luxurious Japanese ryokan called Kurokawa Onsen Yamamizuki, nestled beside a crystal-clear mountain river. The scene is bathed in soft, natural light, highlighting traditional wooden architecture with intricate details. Lush green foliage surrounds the ryokan, with vibrant autumn leaves in the background. A steaming open-air rotenburo overlooks the river, featuring large, smooth rocks and clear, inviting onsen water. The atmosphere is serene and tranquil, evoking a sense of deep relaxation and natural beauty. Include subtle traditional Japanese lanterns and carefully placed garden elements, with a hint of mist rising from the water, creating an ethereal ambiance."
+summary: Nestled deep within the enchanting Kurokawa Onsen village, Yamamizuki offers
+  an unparalleled escape where the symphony of the river and breathtaking natural
+  vistas create a restorative haven. Boasting exquisite private baths and expansive
+  open-air onsens with panoramic views, this ryokan is a testament to traditional
+  Japanese hospitality and serene beauty. Prepare for an unforgettable journey into
+  tranquility, enveloped by the pristine wilderness of Kumamoto's Aso region.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yamamizuki.jpg
+title: 'Kurokawa Onsen Yamamizuki: A Secluded Riverfront Sanctuary Where Nature''s
+  Grandeur Meets Private Bliss'
 ---
+
 # Kurokawa Onsen Yamamizuki: An Ode to Serenity and Sublime Nature in Kumamoto
 
 ## Introduction: A Hidden Gem Amidst Nature's Embrace
