@@ -1,17 +1,37 @@
 <header>
     <div class="header-container">
+        <!-- 1. 왼쪽: 가이드 목록 링크 -->
         <div class="header-left">
-            <a href="/guides?lang={{ lang }}" class="nav-guide-link">📖 {{ 'Onsen Guides' if lang == 'en' else '온천 가이드' }}</a>
+            <a href="/guides?lang={{ lang }}" class="nav-guide-link">
+                📖 {{ 'Onsen Guides' if lang == 'en' else '온천 가이드' }}
+            </a>
         </div>
+
+        <!-- 2. 중앙: 로고 (홈 링크) -->
         <div class="logo-wrapper">
-            <a href="/?lang={{ lang }}"><img src="/static/images/logo.png" alt="OKOnsen" class="logo-img"></a>
+            <a href="/?lang={{ lang }}">
+                <img src="/static/images/logo.png" alt="OKOnsen" class="logo-img">
+            </a>
         </div>
+
+        <!-- 3. 오른쪽: 언어 선택기 -->
         <div class="header-right">
             <div class="lang-selector">
                 {% if base_id %}
-                    <a href="/guide/{{ base_id }}_en?lang=en" class="lang-btn {{ 'active' if lang == 'en' }}">EN</a>
-                    <a href="/guide/{{ base_id }}_ko?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}">KO</a>
+                    {# 상세 페이지(온천 또는 가이드)일 경우 언어별 전용 ID로 연결 #}
+                    {% if request.path.startswith('/onsen/') %}
+                        <a href="/onsen/{{ base_id }}_en?lang=en" class="lang-btn {{ 'active' if lang == 'en' }}">EN</a>
+                        <a href="/onsen/{{ base_id }}_ko?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}">KO</a>
+                    {% elif request.path.startswith('/guide/') %}
+                        <a href="/guide/{{ base_id }}_en?lang=en" class="lang-btn {{ 'active' if lang == 'en' }}">EN</a>
+                        <a href="/guide/{{ base_id }}_ko?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}">KO</a>
+                    {% else %}
+                        {# 기타 예외 상황은 일반 쿼리스트링 전환 #}
+                        <a href="?lang=en" class="lang-btn {{ 'active' if lang == 'en' }}">EN</a>
+                        <a href="?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}">KO</a>
+                    {% endif %}
                 {% else %}
+                    {# 메인 페이지 또는 목록 페이지일 경우 쿼리스트링만 변경 #}
                     <a href="?lang=en" class="lang-btn {{ 'active' if lang == 'en' }}">EN</a>
                     <a href="?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}">KO</a>
                 {% endif %}
@@ -19,16 +39,28 @@
         </div>
     </div>
 
-    <!-- [핵심] 메인 페이지(/)에서만 필터 바를 보여줍니다 -->
+    <!-- [필터 바] 메인 페이지(/)에서만 노출 -->
     {% if request.path == '/' %}
     <div class="top-filter-bar">
         <div class="theme-filter-buttons">
-            <button class="theme-button active" data-theme="all">{{ 'All' if lang == 'en' else '전체' }} <span class="count-badge" id="count-all">0</span></button>
-            <button class="theme-button" data-theme="private">🛁 {{ 'Private' if lang == 'en' else '가족탕' }} <span class="count-badge" id="count-private">0</span></button>
-            <button class="theme-button" data-theme="tattoo">⭕ {{ 'Tattoo OK' if lang == 'en' else '타투허용' }} <span class="count-badge" id="count-tattoo">0</span></button>
-            <button class="theme-button" data-theme="view">🗻 {{ 'View' if lang == 'en' else '절경' }} <span class="count-badge" id="count-view">0</span></button>
-            <button class="theme-button" data-theme="luxury">✨ {{ 'Luxury' if lang == 'en' else '고급' }} <span class="count-badge" id="count-luxury">0</span></button>
-            <button class="theme-button" data-theme="local">🏮 {{ 'Local' if lang == 'en' else '로컬' }} <span class="count-badge" id="count-local">0</span></button>
+            <button class="theme-button active" data-theme="all">
+                {{ 'All' if lang == 'en' else '전체' }} <span class="count-badge" id="count-all">0</span>
+            </button>
+            <button class="theme-button" data-theme="private">
+                🛁 {{ 'Private' if lang == 'en' else '가족탕' }} <span class="count-badge" id="count-private">0</span>
+            </button>
+            <button class="theme-button" data-theme="tattoo">
+                ⭕ {{ 'Tattoo OK' if lang == 'en' else '타투허용' }} <span class="count-badge" id="count-tattoo">0</span>
+            </button>
+            <button class="theme-button" data-theme="view">
+                🗻 {{ 'View' if lang == 'en' else '절경' }} <span class="count-badge" id="count-view">0</span>
+            </button>
+            <button class="theme-button" data-theme="luxury">
+                ✨ {{ 'Luxury' if lang == 'en' else '고급' }} <span class="count-badge" id="count-luxury">0</span>
+            </button>
+            <button class="theme-button" data-theme="local">
+                🏮 {{ 'Local' if lang == 'en' else '로컬' }} <span class="count-badge" id="count-local">0</span>
+            </button>
         </div>
     </div>
     {% endif %}

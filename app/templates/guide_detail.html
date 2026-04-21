@@ -3,6 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://okonsen.net{{ request.path }}">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ summary }}">
+    <meta property="og:image" content="{{ image_url or post.thumbnail }}">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="{{ title }}">
+    <meta property="twitter:description" content="{{ summary }}">
+    <meta property="twitter:image" content="{{ image_url or post.thumbnail }}">
     <title>{{ title }} - OKOnsen Guide</title>
     <meta name="description" content="{{ summary }}">
     <link rel="icon" href="/static/images/favicons.ico">
@@ -66,31 +78,14 @@
         }
 
         /* 5. 마크다운 본문 스타일링 */
-        .guide-body-content {
-            font-size: 1.15rem;
-            color: #333;
-        }
+        .guide-body-content h1 { font-size: 1.8rem !important; }
+        .guide-body-content h2 { font-size: 1.6rem !important; border-bottom: 3px solid #e74c3c; display: inline-block; }
+        .guide-body-content h3 { font-size: 1.4rem !important; }
 
-        .guide-body-content h2 {
-            font-size: 1.9rem;
-            margin-top: 50px;
-            margin-bottom: 20px;
-            padding-bottom: 10px;
-            border-bottom: 4px solid #e74c3c; /* 포인트 레드 */
-            display: inline-block;
-            font-weight: 800;
-            color: #000;
-        }
-
-        .guide-body-content h3 {
-            font-size: 1.5rem;
-            margin-top: 35px;
-            color: #222;
-            font-weight: 700;
-        }
-
-        .guide-body-content p {
-            margin-bottom: 1.8rem;
+        .guide-body-content p { 
+            font-size: 1.15rem !important; 
+            line-height: 1.85; 
+            color: #444; 
         }
 
         /* 테이블 디자인 */

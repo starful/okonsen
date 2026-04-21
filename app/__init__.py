@@ -209,9 +209,20 @@ def onsen_detail(onsen_id):
     if isinstance(post.get('categories'), str):
         post['categories'] = [c.strip() for c in post['categories'].split(',')]
 
+    # 💡 [추가] 언어 코드(_en, _ko)를 제거한 base_id 추출
+    base_id = onsen_id.rsplit('_', 1)[0]
+    lang = post.get('lang', 'en')
+
     content_html = markdown.markdown(post.content, extensions=['tables'])
-    stats = get_footer_stats(post.get('lang', 'en'))
-    return render_template('detail.html', post=post, content=content_html, **stats)
+    stats = get_footer_stats(lang)
+    
+    # 💡 base_id와 현재 lang을 템플릿에 전달
+    return render_template('detail.html', 
+                           post=post, 
+                           content=content_html, 
+                           base_id=base_id, 
+                           lang=lang, 
+                           **stats)
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 8080))
