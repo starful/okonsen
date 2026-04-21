@@ -1,5 +1,5 @@
 #!/bin/bash
-# ♨️ OKOnsen 자동 배포 파이프라인 (Safe Admin Sync 버전)
+# ♨️ OKOnsen 자동 배포 파이프라인 (Safe Admin Sync 버전 - 최종 수정)
 set -e
 
 RED='\033[0;31m'
@@ -46,16 +46,16 @@ print_ok "컨텐츠 생성 완료"
 
 # STEP 2: 이미지 처리 및 GCS 동기화
 print_step "STEP 2: 이미지 수집 및 최적화"
-# fetch_images.py가 돌아갈 때, STEP 0에서 가져온 사진이 이미 있으면 새로 생성하지 않습니다.
 python3 script/fetch_images.py
 python3 script/optimize_images.py
 
-print_info "최종 이미지 버킷 동기화 중..."
-gcloud storage rsync "$LOCAL_IMAGES" "$GCS_BUCKET" --recursive --checksum
+print_info "최종 이미지 버킷 동기화 중 (체크섬 전용 방식)..."
+# 💡 [수정] 현재 환경에서 지원하는 --checksums-only 옵션 사용
+gcloud storage rsync "$LOCAL_IMAGES" "$GCS_BUCKET" --recursive --checksums-only
 
-# 공개 읽기 권한 일괄 부여 (필요 시)
+# 공개 읽기 권한 일괄 부여
 gsutil -m acl ch -u AllUsers:R "$GCS_BUCKET/**" &>/dev/null || true
-print_ok "이미지 GCS 업로드 완료"
+print_ok "이미지 GCS 업로드 및 권한 설정 완료"
 
 # STEP 3: 데이터 빌드
 print_step "STEP 3: 데이터 빌드"
@@ -65,11 +65,10 @@ print_ok "데이터 빌드(JSON + Sitemap) 완료"
 # STEP 4: Git Push
 print_step "STEP 4: GitHub 업데이트"
 git add .
-# 변경사항이 있을 때만 커밋
 if ! git diff-index --quiet HEAD --; then
     git commit -m "$COMMIT_MSG"
     git push origin main
-    print_ok "Git 업데이트 완료 (최신 사진 정보 포함)"
+    print_ok "Git 업데이트 완료"
 else
     print_info "변경 사항 없음 -> Git Push 건너뜀"
 fi
