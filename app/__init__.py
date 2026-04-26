@@ -93,6 +93,14 @@ def get_footer_stats(lang):
         "last_updated": CACHED_DATA.get('last_updated', '2026.03.19')
     }
 
+def get_featured_onsens(lang, limit=12):
+    """서버사이드 내부 링크용 온천 목록(크롤러가 바로 따라갈 수 있는 링크)"""
+    data_list = CACHED_DATA.get('onsens', [])
+    filtered = [o for o in data_list if o.get('lang') == lang]
+    if not filtered:
+        filtered = [o for o in data_list if o.get('lang') == 'en']
+    return filtered[:limit]
+
 def get_all_guides(lang):
     guides = []
     if not os.path.exists(GUIDE_DIR): return guides
@@ -176,11 +184,13 @@ def api_onsens():
 def index():
     lang = request.args.get('lang', 'en')
     top_guides = get_all_guides(lang)[:3]
+    featured_onsens = get_featured_onsens(lang)
     stats = get_footer_stats(lang)
     return render_template(
         'index.html',
         lang=lang,
         guides=top_guides,
+        featured_onsens=featured_onsens,
         google_maps_api_key=GOOGLE_MAPS_API_KEY,
         **stats
     )
@@ -202,10 +212,13 @@ def guide_detail(guide_id):
         raw_content = f.read()
         post = frontmatter.loads(raw_content)
         title = post.get('title')
+        summary = post.get('summary')
         body = post.content
         if not title or title == "None":
             title_match = re.search(r'title:\s*"(.*?)"', raw_content)
             title = title_match.group(1) if title_match else "Travel Guide"
+        if not summary or summary == "None":
+            summary = post.content[:160].replace('\n', ' ').strip()
 
         # 본문 설정값/코드블록 제거
         body = re.sub(r'---.*?---', '', body, flags=re.DOTALL)
@@ -217,7 +230,7 @@ def guide_detail(guide_id):
     stats = get_footer_stats(lang)
 
     return render_template('guide_detail.html', 
-                           title=title, content=content_html, lang=lang, 
+                           title=title, summary=summary, content=content_html, lang=lang, 
                            image_url=image_url, base_id=base_id, **stats)
 
 @app.route('/onsen/<onsen_id>')

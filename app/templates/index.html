@@ -9,6 +9,9 @@
     <meta name="agd-partner-manual-verification" />
     
     <link rel="canonical" href="https://okonsen.net/?lang={{ lang }}" />
+    <link rel="alternate" hreflang="en" href="https://okonsen.net/?lang=en" />
+    <link rel="alternate" hreflang="ko" href="https://okonsen.net/?lang=ko" />
+    <link rel="alternate" hreflang="x-default" href="https://okonsen.net/?lang=en" />
 
     <title>{{ 'OKOnsen - Discover Japan\'s Best Hot Springs & Ryokans' if lang == 'en' else 'OKOnsen - 일본 온천 & 료칸 가이드' }}</title>
     <meta name="description" content="{{ 'Find the perfect Japanese Onsen. Filter by private baths, tattoo-friendly spots, and luxury ryokans.' if lang == 'en' else '나에게 완벽한 일본 온천을 찾아보세요. 가족탕, 문신 허용 여부, 럭셔리 등 테마별 필터링 제공.' }}">
@@ -103,6 +106,23 @@
                 <div id="onsen-list" class="onsen-grid"></div>
                 <div id="scroll-sentinel" style="height: 20px;"></div>
             </section>
+
+            {% if featured_onsens %}
+            <section style="max-width: 1200px; margin: 24px auto 8px; padding: 0 12px;">
+                <h3 style="font-size: 1rem; color: #555; margin-bottom: 8px;">
+                    {{ 'Popular Onsen Pages' if lang == 'en' else '인기 온천 페이지' }}
+                </h3>
+                <ul style="display: flex; flex-wrap: wrap; gap: 10px 16px; list-style: none; padding: 0; margin: 0;">
+                    {% for onsen in featured_onsens %}
+                    <li>
+                        <a href="{{ onsen.link }}" style="color: #1f6feb; text-decoration: underline;">
+                            {{ onsen.title }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
         </div>
     </main>
 
