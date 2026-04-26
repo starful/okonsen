@@ -6,6 +6,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="agd-partner-manual-verification" />
     
     <link rel="canonical" href="https://okonsen.net/?lang={{ lang }}" />
 
@@ -38,6 +39,18 @@
                 }
             });
         });
+
+        function onGoogleMapsLoadError() {
+            const mapEl = document.getElementById('map');
+            if (!mapEl) return;
+            mapEl.innerHTML = `
+                <div style="height:100%;display:flex;align-items:center;justify-content:center;text-align:center;padding:20px;color:#444;">
+                    ${new URLSearchParams(window.location.search).get('lang') === 'ko'
+                        ? '지도를 불러오지 못했습니다. 잠시 후 새로고침 해주세요.'
+                        : 'Map failed to load. Please refresh and try again.'}
+                </div>
+            `;
+        }
     </script>
 </head>
 <body>
@@ -96,12 +109,9 @@
     {% include 'footer.html' %}
 
 
-    <!-- 기존 로더 스크립트를 지우고 아래 한 줄로 교체하세요 -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=REDACTED_GOOGLE_API_KEY&libraries=marker&v=beta"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key={{ google_maps_api_key }}&libraries=marker&v=beta" onerror="onGoogleMapsLoadError()"></script>
     
     <!-- main.js 호출 (type="module" 유지) -->
     <script type="module" src="/static/js/main.js"></script>
-</body>
-</html>
 </body>
 </html>

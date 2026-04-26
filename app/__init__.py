@@ -7,9 +7,24 @@ import markdown
 import re
 import hashlib
 import copy
+from dotenv import load_dotenv
 
 app = Flask(__name__)
 Compress(app)
+
+# Load .env from project root for local development.
+load_dotenv(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.env'))
+
+# Backward compatibility:
+# - GOOGLE_MAPS_API_KEY: recommended variable name for browser maps key
+# - GOOGLE_PLACES_API_KEY: legacy variable name used in this project
+# - fallback key: temporary safety net to keep map working during migration
+DEFAULT_MAPS_API_KEY = 'REDACTED_GOOGLE_API_KEY'
+GOOGLE_MAPS_API_KEY = (
+    os.environ.get('GOOGLE_MAPS_API_KEY')
+    or os.environ.get('GOOGLE_PLACES_API_KEY')
+    or DEFAULT_MAPS_API_KEY
+).strip()
 
 # ==========================================
 # 1. 절대 경로 및 데이터 로드
@@ -162,7 +177,13 @@ def index():
     lang = request.args.get('lang', 'en')
     top_guides = get_all_guides(lang)[:3]
     stats = get_footer_stats(lang)
-    return render_template('index.html', lang=lang, guides=top_guides, **stats)
+    return render_template(
+        'index.html',
+        lang=lang,
+        guides=top_guides,
+        google_maps_api_key=GOOGLE_MAPS_API_KEY,
+        **stats
+    )
 
 @app.route('/guides')
 def guide_list():

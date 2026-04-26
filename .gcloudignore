@@ -1,3 +1,15 @@
+# Keep build context minimal and prevent secrets upload.
+.git
+.gitignore
+.gcloudignore
+.dockerignore
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
 .git/
 .gitignore
 .dockerignore

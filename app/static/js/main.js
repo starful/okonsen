@@ -33,7 +33,17 @@ async function initPage() {
 
 function initMap() {
     const mapContainer = document.getElementById("map");
-    if (!mapContainer || !window.google) return;
+    if (!mapContainer) return;
+    if (!window.google || !window.google.maps) {
+        mapContainer.innerHTML = `
+            <div style="height:100%;display:flex;align-items:center;justify-content:center;text-align:center;padding:20px;color:#444;">
+                ${currentLang === 'ko'
+                    ? '지도를 불러오지 못했습니다. 잠시 후 새로고침 해주세요.'
+                    : 'Map failed to load. Please refresh and try again.'}
+            </div>
+        `;
+        return;
+    }
 
     // 지도 생성 (AdvancedMarker를 위해 mapId 권장)
     map = new google.maps.Map(mapContainer, {

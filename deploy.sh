@@ -1,19 +1,21 @@
 #!/bin/bash
-# ♨️ OKOnsen 자동 배포 파이프라인 (Safe Admin Sync 버전 - 최종 수정)
-set -e
+# OKOnsen deployment helper script.
+set -euo pipefail
 
-RED='\033[0;31m'
 GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
 CYAN='\033[0;36m'
 BOLD='\033[1m'
 NC='\033[0m'
 
 PROJECT_ROOT="$(cd "$(dirname "$0")" && pwd)"
-GCS_BUCKET="gs://ok-project-assets/okonsen"
+GCS_BUCKET="${GCS_BUCKET:-gs://ok-project-assets/okonsen}"
 LOCAL_IMAGES="app/static/images"
-COMMIT_MSG="update: auto-generated contents and synced to GCS $(date '+%Y-%m-%d %H:%M') (Safe Sync)"
+GCP_PROJECT_ID="${GCP_PROJECT_ID:-starful-258005}"
+
+MODE="full"
+DO_GIT=false
+DO_CLOUD_DEPLOY=false
 
 print_step() {
     echo ""
@@ -24,61 +26,144 @@ print_step() {
 print_ok()   { echo -e "${GREEN}  ✅ $1${NC}"; }
 print_info() { echo -e "  ℹ️  $1"; }
 
-clear
-echo -e "${BOLD}${CYAN}  ♨️  OKOnsen GCS 통합 배포 파이프라인 시작 (Safe Sync)${NC}"
+usage() {
+    cat <<'EOF'
+Usage: ./deploy.sh [MODE] [OPTIONS]
+
+Modes (default: full)
+  --full           Run all local generation steps
+  --content-only   Generate guides/onsen markdown only
+  --images-only    Sync+fetch+optimize+upload images only
+  --build-only     Build JSON/sitemap only
+  --deploy-only    Trigger Cloud Build deploy only
+
+Options
+  --with-git       Commit and push generated changes
+  --with-deploy    Trigger gcloud builds submit after generation
+  --help           Show this help
+
+Environment overrides
+  GCS_BUCKET       Default: gs://ok-project-assets/okonsen
+  GCP_PROJECT_ID   Default: starful-258005
+EOF
+}
+
+require_cmd() {
+    if ! command -v "$1" >/dev/null 2>&1; then
+        echo "Missing required command: $1" >&2
+        exit 1
+    fi
+}
+
+sync_cloud_images_to_local() {
+    print_step "STEP A: Cloud -> Local image sync"
+    mkdir -p "$LOCAL_IMAGES"
+    gcloud storage rsync "$GCS_BUCKET" "$LOCAL_IMAGES" --recursive
+    print_ok "Cloud image sync completed"
+}
+
+generate_content() {
+    print_step "STEP B: Generate content markdown"
+    python3 script/guide_generator.py
+    python3 script/onsen_generator.py
+    print_ok "Content generation completed"
+}
+
+process_and_upload_images() {
+    print_step "STEP C: Process and upload images"
+    python3 script/fetch_images.py
+    python3 script/optimize_images.py
+    gcloud storage rsync "$LOCAL_IMAGES" "$GCS_BUCKET" --recursive --checksums-only
+    gsutil -m acl ch -u AllUsers:R "$GCS_BUCKET/**" >/dev/null 2>&1 || true
+    print_ok "Image upload and ACL update completed"
+}
+
+build_data() {
+    print_step "STEP D: Build JSON and sitemap"
+    python3 script/build_data.py
+    print_ok "Data build completed"
+}
+
+git_push_changes() {
+    print_step "STEP E: Commit and push changes"
+    git add .
+    if ! git diff-index --quiet HEAD --; then
+        local commit_msg
+        commit_msg="chore: update generated contents $(date '+%Y-%m-%d %H:%M')"
+        git commit -m "$commit_msg"
+        git push origin main
+        print_ok "Git push completed"
+    else
+        print_info "No changes detected, skipping git push"
+    fi
+}
+
+deploy_cloud_run() {
+    print_step "STEP F: Trigger Cloud Build"
+    gcloud builds submit --project "$GCP_PROJECT_ID"
+    print_ok "Cloud Build deployment completed"
+}
+
+for arg in "$@"; do
+    case "$arg" in
+        --full) MODE="full" ;;
+        --content-only) MODE="content-only" ;;
+        --images-only) MODE="images-only" ;;
+        --build-only) MODE="build-only" ;;
+        --deploy-only) MODE="deploy-only" ;;
+        --with-git) DO_GIT=true ;;
+        --with-deploy) DO_CLOUD_DEPLOY=true ;;
+        --help|-h) usage; exit 0 ;;
+        *)
+            echo "Unknown argument: $arg" >&2
+            usage
+            exit 1
+            ;;
+    esac
+done
+
+cd "$PROJECT_ROOT"
 START_TIME=$SECONDS
 
-# STEP 0: 클라우드 이미지 동기화 (알바생 업로드 사진 가져오기)
-print_step "STEP 0: 클라우드 이미지 역동기화"
-mkdir -p "$LOCAL_IMAGES"
-print_info "알바생이 올린 사진을 가져오는 중 ($GCS_BUCKET -> 로컬)..."
-# 클라우드의 최신 상태를 로컬로 먼저 가져와서 로컬의 옛날 사진이 덮어쓰는 것을 방지합니다.
-gcloud storage rsync "$GCS_BUCKET" "$LOCAL_IMAGES" --recursive
-print_ok "클라우드 이미지 동기화 완료"
+print_info "Mode: $MODE"
+print_info "Bucket: $GCS_BUCKET"
+print_info "Project: $GCP_PROJECT_ID"
 
-# STEP 1: AI 컨텐츠 및 가이드 생성
-print_step "STEP 1: AI 컨텐츠 생성"
-echo "📝 가이드 생성 중 (3개 제한)..."
-python3 script/guide_generator.py
-echo "♨️ 온천 상세페이지 생성 중..."
-python3 script/onsen_generator.py
-print_ok "컨텐츠 생성 완료"
+require_cmd python3
+require_cmd gcloud
 
-# STEP 2: 이미지 처리 및 GCS 동기화
-print_step "STEP 2: 이미지 수집 및 최적화"
-python3 script/fetch_images.py
-python3 script/optimize_images.py
+case "$MODE" in
+    full)
+        require_cmd gsutil
+        sync_cloud_images_to_local
+        generate_content
+        process_and_upload_images
+        build_data
+        ;;
+    content-only)
+        generate_content
+        ;;
+    images-only)
+        require_cmd gsutil
+        sync_cloud_images_to_local
+        process_and_upload_images
+        ;;
+    build-only)
+        build_data
+        ;;
+    deploy-only)
+        DO_CLOUD_DEPLOY=true
+        ;;
+esac
 
-print_info "최종 이미지 버킷 동기화 중 (체크섬 전용 방식)..."
-# 💡 [수정] 현재 환경에서 지원하는 --checksums-only 옵션 사용
-gcloud storage rsync "$LOCAL_IMAGES" "$GCS_BUCKET" --recursive --checksums-only
-
-# 공개 읽기 권한 일괄 부여
-gsutil -m acl ch -u AllUsers:R "$GCS_BUCKET/**" &>/dev/null || true
-print_ok "이미지 GCS 업로드 및 권한 설정 완료"
-
-# STEP 3: 데이터 빌드
-print_step "STEP 3: 데이터 빌드"
-python3 script/build_data.py
-print_ok "데이터 빌드(JSON + Sitemap) 완료"
-
-# STEP 4: Git Push
-print_step "STEP 4: GitHub 업데이트"
-git add .
-if ! git diff-index --quiet HEAD --; then
-    git commit -m "$COMMIT_MSG"
-    git push origin main
-    print_ok "Git 업데이트 완료"
-else
-    print_info "변경 사항 없음 -> Git Push 건너뜀"
+if [ "$DO_GIT" = true ]; then
+    require_cmd git
+    git_push_changes
 fi
 
-# STEP 5: Cloud Build 배포
-print_step "STEP 5: Google Cloud Run 배포"
-gcloud builds submit --project starful-258005
-print_ok "Cloud Run 배포 완료"
+if [ "$DO_CLOUD_DEPLOY" = true ]; then
+    deploy_cloud_run
+fi
 
-ELAPSED=$(( SECONDS - START_TIME ))
-echo -e "\n${BOLD}${GREEN} 🎉 모든 배포 공정이 성공적으로 완료되었습니다!${NC}"
-echo -e "  ⏱️  총 소요시간: $((ELAPSED/60))분 $((ELAPSED%60))초"
-echo -e "  🌐 라이브 주소: https://okonsen.net\n"
+ELAPSED=$((SECONDS - START_TIME))
+echo -e "\n${BOLD}${GREEN}Done in $((ELAPSED/60))m $((ELAPSED%60))s${NC}"

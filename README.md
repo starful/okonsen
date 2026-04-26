@@ -1,121 +1,127 @@
-# ♨️ OKOnsen - Japan Hot Spring & Ryokan Discovery Map
+# OKOnsen
 
-An interactive, multi-language web platform designed to help global travelers discover their perfect Japanese Onsen and Ryokan. Filter locations by specific needs (Tattoo-friendly, Private Baths, Luxury) and explore deeply detailed, SEO-optimized guides.
+Flask-based web service for discovering onsen/ryokan with multilingual content, map filtering, and generated markdown-driven data.
 
-🔗 **Live Demo:** https://okonsen.net
+Live: [https://okonsen.net](https://okonsen.net)
 
----
+## Highlights
 
-## ✨ Key Features
+- Server-rendered pages with Flask + Jinja templates.
+- Frontend map/list UI in `app/static/js/main.js`.
+- Content source in markdown (`app/content`) compiled into JSON.
+- No runtime DB dependency for core read paths.
+- Optional automation for content generation, image processing, and deployment.
 
-* **Interactive Map UI**: Explore curated hot springs across Japan using a custom Google Maps interface with interactive markers.
-* **Niche Theme Filtering**: Instantly filter onsens by highly sought-after themes:
-  * 🛁 Private Bath (Kashikiri-buro)
-  * ⭕ Tattoo OK
-  * 🗻 Great View (Mt. Fuji, Ocean, Mountains)
-  * ✨ Luxury Ryokan
-  * 🏮 Local / Hidden Gems
-* **Native Multi-Language Support**: Seamlessly switch between **English** and **Korean** content without relying on widget translators.
-* **AI-Powered Mega Content**: Automated content generation using **Google Gemini 2.5 Flash**, producing 7,000+ character SEO-optimized articles with Midjourney image prompts.
-* **Affiliate Monetization Ready**: Deep link integration for Agoda to maximize booking conversions.
-* **Ultra-Fast Performance**: No traditional databases. Markdown files are compiled into a lightweight JSON file and cached in memory using Flask.
+## Stack
 
----
+- Backend: Python, Flask, flask-compress, Gunicorn
+- Frontend: HTML/CSS, vanilla JavaScript (ES modules), Google Maps JS API
+- Content/Data: Markdown + frontmatter -> `app/static/json/onsen_data.json`
+- Infra: Docker, Cloud Build, Cloud Run
 
-## 🛠️ Tech Stack & Architecture
+## Required Environment Variables
 
-* **Backend**: Python 3.10, Flask (with `flask-compress` and Gunicorn)
-* **Frontend**: Vanilla JavaScript (ESM), HTML5, CSS3, Google Maps API (Advanced Markers)
-* **Data & Content**: Markdown with YAML Frontmatter compiled to JSON
-* **AI Integration**: `google-genai` (Gemini 2.5 Flash API)
-* **Image Processing**: Pillow (PIL) for automated resizing and compression
-* **Infrastructure**: Docker, Google Cloud Run, Cloud Build
+Create `.env` (or export in your shell):
 
----
-
-## 🤖 Powerful Automation Scripts
-
-This project includes highly efficient Python scripts to automate content creation and optimize assets.
-
-### 1. `script/onsen_generator.py`
-Reads `script/csv/onsens.csv` and automatically generates bilingual (EN/KO) Markdown files.
-* Generates 7k-8k character deep-dive articles (History, Water Quality, Kaiseki, Access).
-* Automatically creates Midjourney prompts for fake/conceptual imagery.
-* Handles API rate limits safely (`time.sleep`).
-
-### 2. `script/optimize_images.py`
-Scans the `app/static/images/` directory to compress heavy images.
-* Resizes images to max 800px width.
-* Converts formats to lightweight `.jpg` (quality: 75%).
-* Protects essential UI assets (e.g., `logo.png`, `favicons.ico`).
-
-### 3. `script/build_data.py`
-Compiles all `.md` files in `app/content/` into a single `onsen_data.json` for the frontend.
-* Auto-generates `sitemap.xml` for SEO.
-
----
-
-## 🚀 How to Run Locally
-
-### 1. Installation
-Clone the repository and install dependencies:
-```bash
-git clone https://github.com/starful/okonsen.git
-cd okonsen
-pip install -r requirements.txt
-```
-
-### 2. Set Up Environment Variables
-Create a `.env` file in the root directory and add your Gemini API key:
 ```env
-GEMINI_API_KEY=your_google_gemini_api_key_here
+GEMINI_API_KEY=your_gemini_api_key
+GOOGLE_MAPS_API_KEY=your_google_maps_browser_key
 ```
 
-### 3. Generate & Build Data
+`GOOGLE_MAPS_API_KEY` is injected into `index.html` from Flask. No map key is hardcoded in templates.
+
+## Local Run
+
 ```bash
-# 1. Optimize downloaded images
-python script/optimize_images.py
-
-# 2. Generate Markdown files via AI (Reads onsens.csv)
-python script/onsen_generator.py
-
-# 3. Build JSON data and Sitemap
-python script/build_data.py
+pip install -r requirements.txt
+python3 script/build_data.py
+python3 app/__init__.py
 ```
 
-### 4. Run the Server
+Open `http://localhost:8080`.
+
+## Build/Generation Scripts
+
+- `script/guide_generator.py`: generates guide markdown
+- `script/onsen_generator.py`: generates onsen markdown
+- `script/fetch_images.py`: fetches images
+- `script/optimize_images.py`: compresses/resizes images
+- `script/build_data.py`: builds JSON + sitemap
+
+## Deployment Script
+
+`deploy.sh` is now step-oriented and does not force all operations every time.
+
+### Modes
+
 ```bash
-python app/__init__.py
-# or using gunicorn:
-# gunicorn --bind 0.0.0.0:8080 app:app
+./deploy.sh --full
+./deploy.sh --content-only
+./deploy.sh --images-only
+./deploy.sh --build-only
+./deploy.sh --deploy-only
 ```
-Visit `http://localhost:8080` in your browser.
 
----
+### Optional flags
 
-## 📂 Project Structure
+```bash
+./deploy.sh --full --with-git --with-deploy
+```
+
+- `--with-git`: `git add/commit/push`
+- `--with-deploy`: runs `gcloud builds submit`
+
+### Optional env overrides
+
+```bash
+GCS_BUCKET=gs://your-bucket/path GCP_PROJECT_ID=your-project ./deploy.sh --images-only
+```
+
+## Cloud Run Deployment (Recommended)
+
+Do not rely on `.env` in Cloud Run. Inject runtime variables during deployment.
+
+`cloudbuild.yaml` supports these substitutions:
+
+- `_GOOGLE_MAPS_API_KEY`
+- `_GEMINI_API_KEY`
+
+Example:
+
+```bash
+gcloud builds submit \
+  --substitutions=_GOOGLE_MAPS_API_KEY="your_maps_key",_GEMINI_API_KEY="your_gemini_key"
+```
+
+The deploy step applies them to Cloud Run via `--set-env-vars`.
+
+## Secret Safety
+
+- `.env` and `.env.*` are excluded from Docker/Cloud Build context.
+- Added `.dockerignore` and `.gcloudignore` to prevent accidental secret uploads.
+
+## Project Structure
 
 ```text
 okonsen/
 ├── app/
-│   ├── content/                 # Generated Markdown files
-│   ├── static/                  # CSS, JS, Images, JSON
-│   ├── templates/               # HTML Templates
-│   └── __init__.py              # Flask App Entry
+│   ├── __init__.py
+│   ├── content/
+│   ├── static/
+│   │   ├── css/
+│   │   ├── images/
+│   │   ├── js/
+│   │   │   └── main.js
+│   │   └── json/
+│   └── templates/
 ├── script/
-│   ├── csv/
-│   │   └── onsens.csv           # Master list of Onsens & Agoda Links
-│   ├── build_data.py            # MD to JSON/XML compiler
-│   ├── onsen_generator.py       # Gemini AI Content Bot
-│   └── optimize_images.py       # Image Compressor
-├── .env                         # API Keys (Git Ignored)
-├── Dockerfile                   
-├── cloudbuild.yaml              
-└── requirements.txt             
+├── deploy.sh
+├── Dockerfile
+├── cloudbuild.yaml
+└── requirements.txt
 ```
 
----
+## Notes
 
-## 🛡️ License
-
-This project is proprietary and maintained by the OKOnsen Project Team.
+- Legacy/unused JS modules were removed from `app/static/js` to avoid mixed domain logic.
+- Keep generated content and static assets versioned carefully when using `--with-git`.
