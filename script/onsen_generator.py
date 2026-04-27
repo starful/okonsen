@@ -1,6 +1,7 @@
 import os
 import csv
 import time
+import sys
 from datetime import datetime
 from google import genai
 from dotenv import load_dotenv
@@ -121,5 +122,11 @@ def process_csv_auto(limit=10):
         print("💡 새로 생성할 컨텐츠가 없습니다.")
 
 if __name__ == "__main__":
-    # 한 번 실행 시 온천 5곳(10개 파일) 생성 시도
-    process_csv_auto(limit=5)
+    # 기본 10개 주제, 인자/환경변수로 오버라이드 가능
+    env_limit = os.environ.get("CONTENT_LIMIT")
+    arg_limit = sys.argv[1] if len(sys.argv) > 1 else None
+    try:
+        run_limit = int(arg_limit or env_limit or 10)
+    except ValueError:
+        run_limit = 10
+    process_csv_auto(limit=run_limit)

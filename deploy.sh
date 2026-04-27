@@ -16,6 +16,8 @@ GCP_PROJECT_ID="${GCP_PROJECT_ID:-starful-258005}"
 MODE="full"
 DO_GIT=false
 DO_CLOUD_DEPLOY=false
+CONTENT_LIMIT="${CONTENT_LIMIT:-10}"
+GUIDE_LIMIT="${GUIDE_LIMIT:-3}"
 
 print_step() {
     echo ""
@@ -43,6 +45,8 @@ Options
 Environment overrides
   GCS_BUCKET       Default: gs://ok-project-assets/okonsen
   GCP_PROJECT_ID   Default: starful-258005
+  CONTENT_LIMIT    Default: 10
+  GUIDE_LIMIT      Default: 3
 EOF
 }
 
@@ -62,8 +66,8 @@ sync_cloud_images_to_local() {
 
 generate_content() {
     print_step "STEP B: Generate content markdown"
-    python3 script/guide_generator.py
-    python3 script/onsen_generator.py
+    python3 script/guide_generator.py "$GUIDE_LIMIT"
+    python3 script/onsen_generator.py "$CONTENT_LIMIT"
     print_ok "Content generation completed"
 }
 
@@ -124,6 +128,7 @@ START_TIME=$SECONDS
 print_info "Mode: $MODE"
 print_info "Bucket: $GCS_BUCKET"
 print_info "Project: $GCP_PROJECT_ID"
+print_info "Limits: content=${CONTENT_LIMIT}, guide=${GUIDE_LIMIT}"
 
 require_cmd python3
 require_cmd gcloud

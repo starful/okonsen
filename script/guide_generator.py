@@ -1,5 +1,6 @@
 import os
 import csv
+import sys
 import concurrent.futures
 from datetime import datetime
 from google import genai
@@ -52,7 +53,7 @@ def generate_guide(row, lang):
     except Exception as e:
         return f"❌ 에러: {filename} - {str(e)}"
 
-def run_batch():
+def run_batch(limit=3):
     missing_tasks = []
     
     # 1. 먼저 생성이 필요한(파일이 없는) 작업 목록을 전부 수집합니다.
@@ -69,9 +70,8 @@ def run_batch():
                 if not os.path.exists(filepath):
                     missing_tasks.append((row, lang))
 
-    # 2. 💡 생성 제한(Limit) 적용: 상위 3개만 선택
-    LIMIT = 3
-    tasks_to_run = missing_tasks[:LIMIT]
+    # 2. 💡 생성 제한(Limit) 적용
+    tasks_to_run = missing_tasks[:limit]
 
     if not tasks_to_run:
         print("💡 모든 가이드가 이미 생성되어 있습니다. 새로 생성할 항목이 없습니다.")
@@ -79,11 +79,18 @@ def run_batch():
 
     print(f"🚀 총 {len(missing_tasks)}개의 대기 작업 중 상위 {len(tasks_to_run)}개 생성을 시작합니다...")
 
-    # 3. 멀티스레딩으로 실행 (3개이므로 빠르게 처리됩니다)
-    with concurrent.futures.ThreadPoolExecutor(max_workers=LIMIT) as executor:
+    # 3. 멀티스레딩 실행
+    workers = max(1, min(limit, 5))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
         futures = [executor.submit(generate_guide, t[0], t[1]) for t in tasks_to_run]
         for future in concurrent.futures.as_completed(futures):
             print(future.result())
 
 if __name__ == "__main__":
-    run_batch()
+    env_limit = os.environ.get("GUIDE_LIMIT")
+    arg_limit = sys.argv[1] if len(sys.argv) > 1 else None
+    try:
+        run_limit = int(arg_limit or env_limit or 3)
+    except ValueError:
+        run_limit = 3
+    run_batch(limit=run_limit)
