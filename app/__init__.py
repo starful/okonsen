@@ -18,12 +18,10 @@ load_dotenv(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file_
 # Backward compatibility:
 # - GOOGLE_MAPS_API_KEY: recommended variable name for browser maps key
 # - GOOGLE_PLACES_API_KEY: legacy variable name used in this project
-# - fallback key: temporary safety net to keep map working during migration
-DEFAULT_MAPS_API_KEY = 'REDACTED_GOOGLE_API_KEY'
 GOOGLE_MAPS_API_KEY = (
     os.environ.get('GOOGLE_MAPS_API_KEY')
     or os.environ.get('GOOGLE_PLACES_API_KEY')
-    or DEFAULT_MAPS_API_KEY
+    or ''
 ).strip()
 
 # ==========================================
