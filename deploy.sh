@@ -31,15 +31,13 @@ usage() {
 Usage: ./deploy.sh [MODE] [OPTIONS]
 
 Modes (default: full)
-  --full           Run all local generation steps
-  --content-only   Generate guides/onsen markdown only
-  --images-only    Sync+fetch+optimize+upload images only
-  --build-only     Build JSON/sitemap only
+  --full           Sync images + generate content + image process + build
+  --content-only   Generate guides/onsen markdown + build only
   --deploy-only    Trigger Cloud Build deploy only
 
 Options
   --with-git       Commit and push generated changes
-  --with-deploy    Trigger gcloud builds submit after generation
+  --with-deploy    Trigger deploy after selected mode
   --help           Show this help
 
 Environment overrides
@@ -108,8 +106,6 @@ for arg in "$@"; do
     case "$arg" in
         --full) MODE="full" ;;
         --content-only) MODE="content-only" ;;
-        --images-only) MODE="images-only" ;;
-        --build-only) MODE="build-only" ;;
         --deploy-only) MODE="deploy-only" ;;
         --with-git) DO_GIT=true ;;
         --with-deploy) DO_CLOUD_DEPLOY=true ;;
@@ -142,13 +138,6 @@ case "$MODE" in
         ;;
     content-only)
         generate_content
-        ;;
-    images-only)
-        require_cmd gsutil
-        sync_cloud_images_to_local
-        process_and_upload_images
-        ;;
-    build-only)
         build_data
         ;;
     deploy-only)
