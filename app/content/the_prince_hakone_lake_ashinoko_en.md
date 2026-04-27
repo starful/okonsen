@@ -14,14 +14,11 @@ image_prompt: A serene aerial view capturing The Prince Hakone Lake Ashinoko, a 
 lang: en
 lat: 35.2122
 lng: 139.0111
-summary: Discover unparalleled luxury at The Prince Hakone Lake Ashinoko, an exquisite
-  ryokan offering some of Japan's most breathtaking views of Lake Ashi and Mount Fuji.
-  Indulge in sublime hot spring baths, world-class gastronomy, and impeccable service
-  that defines the pinnacle of Japanese hospitality. This is not just a stay; it's
-  an immersive journey into serene beauty and refined elegance.
+summary: Lake Ashi views, Mount Fuji on clear days, private onsen (kashikiri), and
+  kaiseki at The Prince Hakone Lake Ashinoko—Murano Togo architecture. Baths, rooms,
+  and what to book first, in one guide.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg
-title: 'Beyond Compare: Immerse in Unrivaled Luxury and Breathtaking Views at The
-  Prince Hakone Lake Ashinoko'
+title: 'The Prince Hakone Lake Ashinoko | Onsen Ryokan on Lake Ashi & Fuji Views'
 ---
 
 ## Introduction: Where Serenity Meets Grandeur

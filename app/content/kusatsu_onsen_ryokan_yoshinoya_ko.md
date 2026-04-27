@@ -14,11 +14,9 @@ image_prompt: A serene and traditional Japanese ryokan in Kusatsu Onsen, Gunma, 
 lang: ko
 lat: 36.6241
 lng: 138.5962
-summary: 분주한 일상에서 벗어나 진정한 일본의 정취를 느끼고 싶다면, 군마현 쿠사츠 온천의 료칸 요시노야가 완벽한 해답입니다. 이곳은 활기찬
-  쿠사츠 마을의 심장부에 위치하여 현지 문화를 깊이 체험하고 싶어 하는 여행자에게 이상적이며, 아늑한 가족탕에서 오붓한 시간을 보내며 피로를 녹일
-  수 있는 특별한 휴식을 선사합니다.
+summary: 유바타케 도보권 쿠사츠 온천 료칸 요시노야—예약제 가족탕, 강한 유황천, 로컬 료칸 분위기. 욕종·객실·예약 팁을 여행 전에 한눈에.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg
-title: '숨겨진 보석, 쿠사츠 온천 요시노야 료칸: 가족탕에서 누리는 진정한 현지 힐링 경험'
+title: '쿠사츠 온천 료칸 요시노야 | 유바타케 근처 가족탕 온천 숙소'
 ---
 
 ## 쿠사츠 온천 요시노야 료칸: 현지의 정취와 가족의 온기가 스며든 특별한 휴식처

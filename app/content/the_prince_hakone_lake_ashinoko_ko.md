@@ -18,11 +18,10 @@ image_prompt: A breathtaking aerial view of The Prince Hakone Lake Ashinoko, a l
 lang: ko
 lat: 35.2122
 lng: 139.0111
-summary: 일본 가나가와현 하코네의 아시노코 호반에 자리한 더 프린스 하코네 레이크 아시노코는 그림 같은 절경과 최상의 서비스로 오직 경험할
-  수 있는 럭셔리 료칸입니다. 일본 근대 건축의 거장 무라노 도고의 걸작품 속에서 심신을 치유하는 온천욕과 미식의 향연을 즐기며 잊지 못할 추억을
-  만들어보세요. 사계절 시시각각 변하는 호수의 풍경을 감상하며 진정한 휴식의 가치를 깨달을 수 있는 최고의 선택입니다.
+summary: 아시노코 호반 온천 료칸 더 프린스 하코네—맑은 날 후지산, 노천·가족탕(가시키리), 가이세키까지 한 번에 정리. 무라노 도고 설계와 입실 전
+  체크 포인트를 빠르게 확인하세요.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg
-title: '하코네 아시노코 호반의 왕자, 더 프린스 하코네 레이크 아시노코: 절경 속 럭셔리 온천 료칸의 정수'
+title: '더 프린스 하코네 레이크 아시노코 | 아시노코 호반 온천 료칸 가이드'
 ---
 
 # 하코네 아시노코 호반의 왕자, 더 프린스 하코네 레이크 아시노코: 절경 속 럭셔리 온천 료칸의 정수
