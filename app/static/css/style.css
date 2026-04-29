@@ -55,7 +55,7 @@ header {
 
 /* 로고 크기 고정 - 상세페이지 무너짐 방지 핵심 */
 .logo-img {
-    height: 45px !important;
+    height: 70px !important;
     width: auto;
     display: block;
     transition: all 0.3s ease;
@@ -68,6 +68,7 @@ header {
     display: flex;
     align-items: center;
     gap: 6px;
+    white-space: nowrap;
 }
 .nav-guide-link:hover { color: var(--accent-red); }
 
@@ -282,10 +283,18 @@ header {
 
 @media (max-width: 768px) {
     .header-container { grid-template-columns: auto 1fr auto; padding: 10px 15px; }
-    .header-left { display: none; }
-    .logo-img { height: 38px !important; }
+    .header-left { display: block; }
+    .nav-guide-link { font-size: 0.82rem; gap: 4px; }
+    .logo-img { height: 48px !important; max-width: 50vw; object-fit: contain; }
+    .lang-btn { padding: 5px 12px; font-size: 0.82rem; }
     .detail-container { padding: 30px 20px; margin: 20px 15px; border-radius: 15px; }
     .detail-title { font-size: 1.8rem; }
     .detail-img { height: 250px; }
     .guide-highlight-container { padding: 25px 15px; border-radius: 20px; }
+}
+
+@media (max-width: 480px) {
+    .nav-guide-link { font-size: 0.75rem; }
+    .logo-img { height: 40px !important; max-width: 46vw; }
+    .lang-btn { padding: 4px 10px; font-size: 0.76rem; }
 }
