@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template, abort, request, redirect
+from flask import Flask, jsonify, render_template, abort, request, redirect, send_from_directory
 from flask_compress import Compress
 import json
 import os
@@ -167,6 +167,8 @@ def seo_url_normalization():
     p = request.path
     if p.startswith("/static/") or p.startswith("/api/"):
         return None
+    if p in ("/sitemap.xml", "/robots.txt"):
+        return None
     if request.headers.get("X-Forwarded-Proto", "").lower() == "http":
         return redirect(request.url.replace("http://", "https://", 1), code=301)
     args = request.args
@@ -182,6 +184,17 @@ def seo_url_normalization():
         if keys == {"lang"} and args.get("lang") == "en":
             return redirect(p, code=301)
     return None
+
+
+@app.route('/sitemap.xml')
+def sitemap_xml():
+    """Search Console / crawlers expect https://okonsen.net/sitemap.xml (see robots.txt)."""
+    return send_from_directory(STATIC_DIR, 'sitemap.xml', mimetype='application/xml')
+
+
+@app.route('/robots.txt')
+def robots_txt():
+    return send_from_directory(STATIC_DIR, 'robots.txt', mimetype='text/plain')
 
 
 @app.route('/api/onsens')
