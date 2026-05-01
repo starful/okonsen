@@ -71,11 +71,10 @@ def generate_sitemap(onsens, guides):
     xml.append('    <priority>1.0</priority>')
     xml.append('  </url>')
 
-    # 언어별 메인/가이드 목록 페이지
+    # 허브: 영어 기본 URL + 한국어 변형 (/?lang=en 등은 앱에서 / 로 301)
     static_urls = [
-        (f'{BASE_URL}/?lang=en', '0.9'),
         (f'{BASE_URL}/?lang=ko', '0.9'),
-        (f'{BASE_URL}/guides?lang=en', '0.8'),
+        (f'{BASE_URL}/guides', '0.8'),
         (f'{BASE_URL}/guides?lang=ko', '0.8'),
     ]
     for loc, priority in static_urls:

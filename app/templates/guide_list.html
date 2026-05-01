@@ -6,10 +6,10 @@
     <title>{{ 'All Onsen Guides - OKOnsen' if lang == 'en' else '모든 온천 가이드 - OKOnsen' }}</title>
     <meta name="description" content="{{ 'Explore our deep-dive travel guides about Japanese onsens and ryokans.' if lang == 'en' else '일본 온천과 료칸 여행을 위한 깊이 있는 팁과 가이드를 만나보세요.' }}">
     
-    <link rel="canonical" href="https://okonsen.net/guides?lang={{ lang }}" />
-    <link rel="alternate" hreflang="en" href="https://okonsen.net/guides?lang=en" />
+    <link rel="canonical" href="https://okonsen.net{{ '/guides?lang=ko' if lang == 'ko' else '/guides' }}" />
+    <link rel="alternate" hreflang="en" href="https://okonsen.net/guides" />
     <link rel="alternate" hreflang="ko" href="https://okonsen.net/guides?lang=ko" />
-    <link rel="alternate" hreflang="x-default" href="https://okonsen.net/guides?lang=en" />
+    <link rel="alternate" hreflang="x-default" href="https://okonsen.net/guides" />
     <link rel="icon" href="/static/images/favicons.ico" type="image/x-icon">
     <link rel="stylesheet" href="/static/css/style.css">
 
@@ -22,7 +22,8 @@
             document.addEventListener('DOMContentLoaded', function() {
                 var btns = document.querySelectorAll('.lang-btn');
                 btns.forEach(function(btn) {
-                    if (btn.getAttribute('href').indexOf('?lang=' + currentLang) !== -1) {
+                    var dl = btn.getAttribute('data-lang');
+                    if (dl && dl === currentLang) {
                         btn.classList.add('active');
                     } else {
                         btn.classList.remove('active');
@@ -124,7 +125,7 @@
         <div class="all-guides-grid">
             {% if guides %}
                 {% for guide in guides %}
-                <a href="/guide/{{ guide.id }}?lang={{ lang }}" style="text-decoration: none; color: inherit;">
+                <a href="/guide/{{ guide.id }}" style="text-decoration: none; color: inherit;">
                     <article class="guide-full-card">
                         <img src="{{ guide.image }}" alt="{{ guide.title }}" class="guide-full-img" loading="lazy">
                         <div class="guide-full-body">

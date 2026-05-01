@@ -217,7 +217,7 @@
 
             <!-- 하단 이동 버튼 -->
             <div class="back-section">
-                <a href="/?lang={{ post.lang }}" class="btn-back">
+                <a href="{{ '/?lang=ko' if post.lang == 'ko' else '/' }}" class="btn-back">
                     {{ '← Back to Onsen Map' if post.lang == 'en' else '← 온천 지도로 돌아가기' }}
                 </a>
             </div>

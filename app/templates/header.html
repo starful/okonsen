@@ -2,14 +2,14 @@
     <div class="header-container">
         <!-- 1. 왼쪽: 가이드 목록 링크 -->
         <div class="header-left">
-            <a href="/guides?lang={{ lang }}" class="nav-guide-link">
+            <a href="{{ '/guides?lang=ko' if lang == 'ko' else '/guides' }}" class="nav-guide-link">
                 📖 {{ 'Guides' if lang == 'en' else '가이드' }}
             </a>
         </div>
 
         <!-- 2. 중앙: 로고 (홈 링크) -->
         <div class="logo-wrapper">
-            <a href="/?lang={{ lang }}">
+            <a href="{{ '/?lang=ko' if lang == 'ko' else '/' }}">
                 <img src="/static/images/logo.png" alt="OKOnsen" class="logo-img">
             </a>
         </div>
@@ -18,22 +18,24 @@
         <div class="header-right">
             <div class="lang-selector">
                 {% if base_id %}
-                    {# 상세 페이지(온천 또는 가이드)일 경우 언어별 전용 ID로 연결 #}
                     {% if request.path.startswith('/onsen/') %}
-                        <a href="/onsen/{{ base_id }}_en?lang=en" class="lang-btn {{ 'active' if lang == 'en' }}">EN</a>
-                        <a href="/onsen/{{ base_id }}_ko?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}">KO</a>
+                        <a href="/onsen/{{ base_id }}_en" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
+                        <a href="/onsen/{{ base_id }}_ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
                     {% elif request.path.startswith('/guide/') %}
-                        <a href="/guide/{{ base_id }}_en?lang=en" class="lang-btn {{ 'active' if lang == 'en' }}">EN</a>
-                        <a href="/guide/{{ base_id }}_ko?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}">KO</a>
+                        <a href="/guide/{{ base_id }}_en" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
+                        <a href="/guide/{{ base_id }}_ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
                     {% else %}
-                        {# 기타 예외 상황은 일반 쿼리스트링 전환 #}
-                        <a href="?lang=en" class="lang-btn {{ 'active' if lang == 'en' }}">EN</a>
-                        <a href="?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}">KO</a>
+                        <a href="/" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
+                        <a href="/?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
                     {% endif %}
                 {% else %}
-                    {# 메인 페이지 또는 목록 페이지일 경우 쿼리스트링만 변경 #}
-                    <a href="?lang=en" class="lang-btn {{ 'active' if lang == 'en' }}">EN</a>
-                    <a href="?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}">KO</a>
+                    {% if request.path == '/guides' %}
+                        <a href="/guides" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
+                        <a href="/guides?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
+                    {% else %}
+                        <a href="/" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
+                        <a href="/?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
+                    {% endif %}
                 {% endif %}
             </div>
         </div>

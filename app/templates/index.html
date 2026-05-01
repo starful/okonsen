@@ -8,10 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="agd-partner-manual-verification" />
     
-    <link rel="canonical" href="https://okonsen.net/?lang={{ lang }}" />
-    <link rel="alternate" hreflang="en" href="https://okonsen.net/?lang=en" />
+    <link rel="canonical" href="https://okonsen.net{{ '/?lang=ko' if lang == 'ko' else '/' }}" />
+    <link rel="alternate" hreflang="en" href="https://okonsen.net/" />
     <link rel="alternate" hreflang="ko" href="https://okonsen.net/?lang=ko" />
-    <link rel="alternate" hreflang="x-default" href="https://okonsen.net/?lang=en" />
+    <link rel="alternate" hreflang="x-default" href="https://okonsen.net/" />
 
     <title>{{ 'Onsen Ryokan Japan Finder | Private Baths & Hakone Picks | OKOnsen' if lang == 'en' else '일본 온천 료칸 찾기 | 가족탕·하코네 숙소 비교 | OKOnsen' }}</title>
     <meta name="description" content="{{ 'Compare real Japanese onsen ryokans: private baths (kashikiri), tattoo-friendly stays, and lake-view picks for Hakone & beyond. Open the map and filter in seconds.' if lang == 'en' else '하코네·쿠사츠·유후인 등 일본 온천 료칸을 가족탕, 문신 가능, 럭셔리로 바로 비교하세요. 지도 필터로 숙소 후보를 몇 초 만에 좁혀 보세요.' }}">
@@ -34,8 +34,8 @@
             const urlParams = new URLSearchParams(window.location.search);
             const currentLang = urlParams.get('lang') || 'en';
             document.querySelectorAll('.lang-btn').forEach(btn => {
-                const href = btn.getAttribute('href');
-                if (href && href.indexOf('lang=' + currentLang) !== -1) {
+                const dl = btn.getAttribute('data-lang');
+                if (dl && dl === currentLang) {
                     btn.classList.add('active');
                 } else {
                     btn.classList.remove('active');
@@ -78,7 +78,7 @@
                 
                 <div class="guide-large-grid">
                     {% for guide in guides %}
-                    <a href="/guide/{{ guide.id }}?lang={{ lang }}" class="guide-large-card">
+                    <a href="/guide/{{ guide.id }}" class="guide-large-card">
                         <div class="guide-card-img-wrapper">
                             <img src="{{ guide.image }}" alt="{{ guide.title }}">
                         </div>
@@ -91,7 +91,7 @@
                 </div>
 
                 <div class="guide-view-all-wrapper">
-                    <a href="/guides?lang={{ lang }}" class="btn-view-all">
+                    <a href="{{ '/guides?lang=ko' if lang == 'ko' else '/guides' }}" class="btn-view-all">
                         {{ 'View All Guides / 가이드 전체보기' }}
                     </a>
                 </div>

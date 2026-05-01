@@ -159,6 +159,31 @@ CATEGORY_MAPPING = {
     "고급 료칸": "Luxury", "고급": "Luxury", "로컬": "Local"
 }
 
+
+@app.before_request
+def seo_url_normalization():
+    if request.method != "GET":
+        return None
+    p = request.path
+    if p.startswith("/static/") or p.startswith("/api/"):
+        return None
+    if request.headers.get("X-Forwarded-Proto", "").lower() == "http":
+        return redirect(request.url.replace("http://", "https://", 1), code=301)
+    args = request.args
+    keys = set(args.keys())
+    if p == "/" and keys == {"lang"} and args.get("lang") == "en":
+        return redirect("/", code=301)
+    if p == "/guides" and keys == {"lang"} and args.get("lang") == "en":
+        return redirect("/guides", code=301)
+    if p.startswith("/guide/") and len(p) > len("/guide/"):
+        if keys == {"lang"} and args.get("lang") == "en":
+            return redirect(p, code=301)
+    if p.startswith("/onsen/") and len(p) > len("/onsen/"):
+        if keys == {"lang"} and args.get("lang") == "en":
+            return redirect(p, code=301)
+    return None
+
+
 @app.route('/api/onsens')
 def api_onsens():
     requested_lang = request.args.get('lang', 'en')
@@ -202,7 +227,10 @@ def guide_list():
 
 @app.route('/guide/<guide_id>')
 def guide_detail(guide_id):
-    lang = request.args.get('lang', 'en')
+    inferred_lang = "ko" if guide_id.endswith("_ko") else "en"
+    lang = request.args.get("lang", inferred_lang)
+    if lang not in ("en", "ko"):
+        lang = inferred_lang
     path = os.path.join(GUIDE_DIR, f"{guide_id}.md")
     if not os.path.exists(path): abort(404)
     

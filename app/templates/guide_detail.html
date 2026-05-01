@@ -183,7 +183,7 @@
 
             <!-- 하단 백 버튼 -->
             <div class="back-section">
-                <a href="/guides?lang={{ lang }}" class="btn-back-to-list">
+                <a href="{{ '/guides?lang=ko' if lang == 'ko' else '/guides' }}" class="btn-back-to-list">
                     {{ '← Back to Guides List' if lang == 'en' else '← 가이드 목록으로 돌아가기' }}
                 </a>
             </div>
