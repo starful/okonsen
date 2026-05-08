@@ -14,10 +14,9 @@ image_prompt: A serene, traditional Japanese ryokan named Yoshinoya in Kusatsu O
 lang: en
 lat: 36.6241
 lng: 138.5962
-summary: Kusatsu Gunma ryokan Yoshinoya near Yubatake—kashikiri private baths, strong
-  sulfur spring water, local inn vibe. Bath types, rooms, and what to reserve first.
+summary: "Choosing where to stay in Kusatsu? Check Yoshinoya's location, kashikiri private bath details, and booking tips near Yubatake hot spring area."
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg
-title: 'Kusatsu Onsen Ryokan Yoshinoya | Private Baths Near Yubatake'
+title: "Kusatsu Ryokan Yoshinoya (2026): Private Baths Near Yubatake"
 ---
 
 # A Journey to the Soul of Kusatsu: Kusatsu Onsen Ryokan Yoshinoya – Where Tradition Embraces Tranquility

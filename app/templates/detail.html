@@ -7,7 +7,7 @@
     <!-- SEO 기본 태그 -->
     <title>{{ post.title }} - OKOnsen</title>
     <meta name="description" content="{{ post.summary }}">
-    <link rel="canonical" href="https://okonsen.net/onsen/{{ post.id }}">
+    <link rel="canonical" href="https://okonsen.net/onsen/{{ onsen_id }}">
     <link rel="alternate" hreflang="en" href="https://okonsen.net/onsen/{{ base_id }}_en">
     <link rel="alternate" hreflang="ko" href="https://okonsen.net/onsen/{{ base_id }}_ko">
     <link rel="alternate" hreflang="x-default" href="https://okonsen.net/onsen/{{ base_id }}_en">
@@ -15,7 +15,7 @@
 
     <!-- Open Graph / Facebook (소셜 공유 최적화) -->
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://okonsen.net/onsen/{{ post.id }}">
+    <meta property="og:url" content="https://okonsen.net/onsen/{{ onsen_id }}">
     <meta property="og:title" content="{{ post.title }}">
     <meta property="og:description" content="{{ post.summary }}">
     <meta property="og:image" content="{{ post.thumbnail }}">
@@ -101,7 +101,7 @@
             color: #222;
         }
 
-        /* 아고다 예약 박스 */
+        /* Klook 예약 박스 */
         .booking-section {
             text-align: center;
             margin: 60px 0;
@@ -116,7 +116,7 @@
             font-weight: 700;
             color: #2c3e50;
         }
-        .btn-agoda {
+        .btn-klook {
             display: inline-block;
             background-color: #3498db;
             color: white !important;
@@ -128,7 +128,7 @@
             box-shadow: 0 15px 30px rgba(52, 152, 219, 0.3);
             transition: all 0.3s;
         }
-        .btn-agoda:hover { transform: translateY(-5px); background-color: #2980b9; box-shadow: 0 20px 40px rgba(52, 152, 219, 0.4); }
+        .btn-klook:hover { transform: translateY(-5px); background-color: #2980b9; box-shadow: 0 20px 40px rgba(52, 152, 219, 0.4); }
 
         .back-section {
             text-align: center;
@@ -153,7 +153,7 @@
             .detail-title { font-size: 1.9rem; }
             .onsen-body-content { font-size: 1.1rem; }
             .booking-section { padding: 30px 20px; }
-            .btn-agoda { font-size: 1.1rem; width: 100%; box-sizing: border-box; }
+            .btn-klook { font-size: 1.1rem; width: 100%; box-sizing: border-box; }
         }
     </style>
 
@@ -203,17 +203,45 @@
                 {{ content | safe }}
             </div>
 
+            {% if related_guides %}
+            <section class="back-section" style="margin-top:40px;">
+                <h2 style="font-size:1.2rem; margin-bottom:14px; color:#333;">
+                    {{ 'Related Onsen Guides' if post.lang == 'en' else '함께 읽기 좋은 온천 가이드' }}
+                </h2>
+                <ul style="margin:0; padding-left:18px; line-height:1.8;">
+                    {% for g in related_guides %}
+                    <li>
+                        <a href="/guide/{{ g.id }}" style="color:#1f6feb; text-decoration:underline;">{{ g.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
+
+            {% if featured_onsens %}
+            <section class="back-section" style="margin-top:24px;">
+                <h2 style="font-size:1.2rem; margin-bottom:14px; color:#333;">
+                    {{ 'Related Ryokan Pages' if post.lang == 'en' else '다른 료칸 페이지 보기' }}
+                </h2>
+                <ul style="margin:0; padding-left:18px; line-height:1.8;">
+                    {% for onsen in featured_onsens %}
+                    <li>
+                        <a href="{{ onsen.link }}" style="color:#1f6feb; text-decoration:underline;">{{ onsen.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
+
             <!-- 예약 섹션 -->
-            {% if post.agoda %}
             <div class="booking-section">
                 <p class="booking-text">
-                    {{ '✨ Discover the best rates and availability for this Ryokan on Agoda' if post.lang == 'en' else '✨ 아고다에서 이 료칸의 실시간 최저가와 빈 객실을 확인해보세요' }}
+                    {{ '✨ Check deals and availability for this Ryokan on Klook' if post.lang == 'en' else '✨ Klook에서 이 료칸의 할인 요금과 예약 가능 여부를 확인해보세요' }}
                 </p>
-                <a href="{{ post.agoda }}" target="_blank" rel="nofollow noopener" class="btn-agoda">
-                    {{ 'Check Prices on Agoda' if post.lang == 'en' else '아고다 최저가 확인하기' }}
+                <a href="{{ 'https://klook.tpo.mx/KrsQol51' if post.lang == 'en' else 'https://klook.tpo.mx/h3gc7R4V' }}" target="_blank" rel="nofollow sponsored noopener" class="btn-klook">
+                    {{ 'View on Klook' if post.lang == 'en' else 'Klook에서 보기' }}
                 </a>
             </div>
-            {% endif %}
 
             <!-- 하단 이동 버튼 -->
             <div class="back-section">

@@ -7,6 +7,7 @@ import markdown
 import re
 import hashlib
 import copy
+from typing import List, Dict
 from dotenv import load_dotenv
 
 app = Flask(__name__)
@@ -99,6 +100,33 @@ def get_featured_onsens(lang, limit=12):
         filtered = [o for o in data_list if o.get('lang') == 'en']
     return filtered[:limit]
 
+
+def normalize_markdown_source(raw_text: str) -> str:
+    """Normalize malformed markdown sources before frontmatter parsing."""
+    text = raw_text.lstrip('\ufeff')
+    # Some generated files start with a stray "yaml" line before frontmatter.
+    text = re.sub(r'^\s*yaml\s*\n(?=---\s*\n)', '', text, count=1, flags=re.IGNORECASE)
+    # Remove empty frontmatter stub if followed by real frontmatter.
+    text = re.sub(r'^---\s*\n\{\}\s*\n---\s*\n(?=---\s*\n)', '', text, count=1, flags=re.MULTILINE)
+    return text
+
+
+def extract_faq_items(body: str, limit: int = 6) -> List[Dict[str, str]]:
+    """Extract Q/A pairs from markdown body for FAQPage schema."""
+    pattern = re.compile(
+        r'\*\*Q\d*[:：]\s*(.*?)\*\*\s*\nA[:：]\s*(.*?)(?=\n\s*\*\*Q\d*[:：]|\Z)',
+        re.DOTALL
+    )
+    faqs = []
+    for q, a in pattern.findall(body):
+        q_clean = re.sub(r'\s+', ' ', q).strip()
+        a_clean = re.sub(r'\s+', ' ', a).strip()
+        if q_clean and a_clean:
+            faqs.append({"question": q_clean, "answer": a_clean})
+        if len(faqs) >= limit:
+            break
+    return faqs
+
 def get_all_guides(lang):
     guides = []
     if not os.path.exists(GUIDE_DIR): return guides
@@ -111,7 +139,7 @@ def get_all_guides(lang):
             base_id = f.replace(f"_{lang}.md", "")
             try:
                 with open(path, 'r', encoding='utf-8') as file:
-                    raw_text = file.read()
+                    raw_text = normalize_markdown_source(file.read())
                     post = frontmatter.loads(raw_text)
                     title = post.get('title')
                     summary = post.get('summary')
@@ -192,6 +220,16 @@ def sitemap_xml():
     return send_from_directory(STATIC_DIR, 'sitemap.xml', mimetype='application/xml')
 
 
+@app.route('/sitemap-core.xml')
+def sitemap_core_xml():
+    return send_from_directory(STATIC_DIR, 'sitemap-core.xml', mimetype='application/xml')
+
+
+@app.route('/sitemap-longtail.xml')
+def sitemap_longtail_xml():
+    return send_from_directory(STATIC_DIR, 'sitemap-longtail.xml', mimetype='application/xml')
+
+
 @app.route('/robots.txt')
 def robots_txt():
     return send_from_directory(STATIC_DIR, 'robots.txt', mimetype='text/plain')
@@ -248,7 +286,7 @@ def guide_detail(guide_id):
     if not os.path.exists(path): abort(404)
     
     with open(path, 'r', encoding='utf-8') as f:
-        raw_content = f.read()
+        raw_content = normalize_markdown_source(f.read())
         post = frontmatter.loads(raw_content)
         title = post.get('title')
         summary = post.get('summary')
@@ -262,22 +300,27 @@ def guide_detail(guide_id):
         # 본문 설정값/코드블록 제거
         body = re.sub(r'---.*?---', '', body, flags=re.DOTALL)
         body = body.replace('```markdown', '').replace('```', '').strip()
+        body = re.sub(r'\(Agoda 링크는 .*?예정입니다\.\)', '', body, flags=re.IGNORECASE)
 
     content_html = markdown.markdown(body, extensions=['tables', 'toc', 'fenced_code'])
     base_id = guide_id.rsplit('_', 1)[0]
     image_url = get_mapped_image(base_id)
+    faq_items = extract_faq_items(body)
+    related_guides = [g for g in get_all_guides(lang) if g.get('id') != guide_id][:6]
+    featured_onsens = get_featured_onsens(lang, limit=10)
     stats = get_footer_stats(lang)
 
     return render_template('guide_detail.html', 
                            title=title, summary=summary, content=content_html, lang=lang, 
-                           image_url=image_url, base_id=base_id, **stats)
+                           image_url=image_url, base_id=base_id, faq_items=faq_items,
+                           related_guides=related_guides, featured_onsens=featured_onsens, **stats)
 
 @app.route('/onsen/<onsen_id>')
 def onsen_detail(onsen_id):
     md_path = os.path.join(CONTENT_DIR, f"{onsen_id}.md")
     if not os.path.exists(md_path): abort(404)
     with open(md_path, 'r', encoding='utf-8') as f:
-        post = frontmatter.load(f)
+        post = frontmatter.loads(normalize_markdown_source(f.read()))
     
     if isinstance(post.get('categories'), str):
         post['categories'] = [c.strip() for c in post['categories'].split(',')]
@@ -287,6 +330,8 @@ def onsen_detail(onsen_id):
     lang = post.get('lang', 'en')
 
     content_html = markdown.markdown(post.content, extensions=['tables'])
+    related_guides = get_all_guides(lang)[:6]
+    featured_onsens = [o for o in get_featured_onsens(lang, limit=10) if o.get('id') != onsen_id][:8]
     stats = get_footer_stats(lang)
     
     # 💡 base_id와 현재 lang을 템플릿에 전달
@@ -294,7 +339,10 @@ def onsen_detail(onsen_id):
                            post=post, 
                            content=content_html, 
                            base_id=base_id, 
+                           onsen_id=onsen_id,
                            lang=lang, 
+                           related_guides=related_guides,
+                           featured_onsens=featured_onsens,
                            **stats)
 
 if __name__ == '__main__':

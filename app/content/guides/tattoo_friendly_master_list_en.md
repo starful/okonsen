@@ -4,8 +4,8 @@
 
 ---
 lang: en
-title: "Soak in Serenity: A Comprehensive Guide to Tattoo-Friendly Onsens in Japan for International Travelers"
-summary: "Don't let tattoos keep you from experiencing Japan's iconic onsen culture! This guide provides practical tips and recommendations for finding and enjoying tattoo-friendly onsen, ensuring a relaxing and culturally immersive experience."
+title: "Tattoo-Friendly Onsen Japan (2026): Practical Rules, Stickers, and Private Baths"
+summary: "Planning Japan with tattoos? See what is actually allowed, how to use cover stickers, and where private baths make your onsen trip stress-free."
 date: "2026-04-16"
 ---
 

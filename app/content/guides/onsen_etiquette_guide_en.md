@@ -4,8 +4,8 @@
 
 ---
 lang: en
-title: "Soak in Serenity: The Ultimate Guide to Japanese Onsen Etiquette & Bathing Rules"
-summary: "Unlock the secrets to enjoying Japan's renowned hot springs with our comprehensive guide. Learn the proper onsen etiquette, from yukata to towel usage, ensuring a respectful and relaxing experience."
+title: "Japanese Onsen Rules Explained: What to Do Before You Enter"
+summary: "Confused about onsen manners? Get a simple, step-by-step guide to washing, towels, nudity rules, and tattoo policy so you can enter with confidence."
 date: "2024-04-15"
 ---
 

@@ -163,6 +163,26 @@
       "author": {"@type": "Organization", "name": "OKOnsen"}
     }
     </script>
+    {% if faq_items %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for faq in faq_items %}
+        {
+          "@type": "Question",
+          "name": {{ faq.question|tojson }},
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": {{ faq.answer|tojson }}
+          }
+        }{% if not loop.last %},{% endif %}
+        {% endfor %}
+      ]
+    }
+    </script>
+    {% endif %}
 </head>
 <body>
     <!-- 헤더 임포트 (높이값은 위 스타일에서 강제 고정) -->
@@ -180,6 +200,36 @@
             <div class="guide-body-content">
                 {{ content | safe }}
             </div>
+
+            {% if related_guides %}
+            <section class="back-section" style="margin-top:48px;">
+                <h2 style="font-size:1.2rem; margin-bottom:14px; color:#333;">
+                    {{ 'Related Onsen Guides' if lang == 'en' else '함께 읽기 좋은 온천 가이드' }}
+                </h2>
+                <ul style="margin:0; padding-left:18px; line-height:1.8;">
+                    {% for g in related_guides %}
+                    <li>
+                        <a href="/guide/{{ g.id }}" style="color:#1f6feb; text-decoration:underline;">{{ g.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
+
+            {% if featured_onsens %}
+            <section class="back-section" style="margin-top:24px;">
+                <h2 style="font-size:1.2rem; margin-bottom:14px; color:#333;">
+                    {{ 'Popular Ryokan Pages' if lang == 'en' else '인기 료칸 페이지' }}
+                </h2>
+                <ul style="margin:0; padding-left:18px; line-height:1.8;">
+                    {% for onsen in featured_onsens %}
+                    <li>
+                        <a href="{{ onsen.link }}" style="color:#1f6feb; text-decoration:underline;">{{ onsen.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
 
             <!-- 하단 백 버튼 -->
             <div class="back-section">

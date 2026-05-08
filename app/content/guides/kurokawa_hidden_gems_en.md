@@ -4,8 +4,8 @@
 
 ---
 lang: en
-title: "Kurokawa Onsen: Discover Kyushu's Hidden Gem of Forest Baths and Onsen Hopping"
-summary: "Escape to Kurokawa Onsen, a beautifully preserved hot spring village nestled in Kyushu's mountains. Experience traditional Japanese hospitality, invigorating onsen hopping, and the rejuvenating power of the forest."
+title: "Kurokawa Onsen Guide (2026): Hidden Ryokans, Pass Tips, and Best Baths"
+summary: "Find the best Kurokawa ryokans and rotenburo in one guide, including onsen hopping pass tips, where to stay, and how to plan a quieter visit."
 date: "2026-04-15"
 ---
 

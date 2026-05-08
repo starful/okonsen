@@ -4,8 +4,8 @@
 
 ---
 lang: en
-title: "Hakone Onsen Vacation: Unwind in Luxury Ryokans & Scenic Hot Springs Near Tokyo"
-summary: "Escape the Tokyo bustle and immerse yourself in the rejuvenating waters and breathtaking scenery of Hakone. Discover the best ryokans, hidden onsen gems, and unforgettable experiences just a short trip away."
+title: "Hakone Onsen Guide (2026): Best Areas, Ryokans, and Day-Trip Plan from Tokyo"
+summary: "Compare Hakone onsen areas fast: where to stay, top ryokans, private bath options, and a practical route from Tokyo for first-time travelers."
 date: "2024-10-27"
 ---
 

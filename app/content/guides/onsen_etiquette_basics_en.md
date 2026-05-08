@@ -1,8 +1,8 @@
 ```markdown
 ---
 lang: en
-title: "The Ultimate Guide to Onsen Etiquette: Mastering Japanese Bathing Rules"
-summary: "Unlock the secrets to a truly authentic and respectful onsen experience in Japan. This comprehensive guide covers everything from washing rituals and yukata etiquette to tattoo policies and crucial do's and don'ts."
+title: "Onsen Etiquette in Japan (2026): 15 Rules First-Timers Must Know"
+summary: "New to Japanese onsen? Learn the exact bathing rules, tattoo etiquette, towel dos and don'ts, and common mistakes to avoid before your first soak."
 date: "2026-04-16"
 ---
 

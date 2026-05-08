@@ -1,6 +1,468 @@
 {
-  "last_updated": "2026.05.01 20:55",
+  "last_updated": "2026.05.08 16:39",
   "onsens": [
+    {
+      "id": "kinosaki_onsen_tokiwa_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 도키와: 시간을 초월한 료칸 경험",
+      "lat": 35.6225,
+      "lng": 134.8128,
+      "categories": [
+        "료칸",
+        "온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg",
+      "address": "효고현 도요오카시 기노사키초 유시마 467",
+      "published": "2026-04-28",
+      "summary": "기노사키 온천 중심부에 자리잡은 도키와 료칸은 전통과 현대적인 편안함이 조화롭게 어우러진 곳입니다. 7개의 온천 순례를 즐기고, 정갈한 가이세키 요리를 맛보며, 유카타를 입고 거리를 거닐어 보세요. 시간을 초월한 특별한 경험을 선사합니다.",
+      "link": "/onsen/kinosaki_onsen_tokiwa_ko"
+    },
+    {
+      "id": "kinosaki_onsen_shinmatsuya_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 신마츠야 완벽 가이드: 최고의 료칸 체험",
+      "lat": 35.6288,
+      "lng": 134.8166,
+      "categories": [
+        "료칸",
+        "온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg",
+      "address": "Toyooka, Hyogo",
+      "published": "2026-04-28",
+      "summary": "기노사키 온천의 심장부에 자리 잡은 신마츠야는 전통과 현대적인 편안함이 완벽하게 조화를 이루는 료칸입니다. 7개의 공중 온천 순례와 함께 잊을 수 없는 가이세키 요리, 그리고 고요한 다다미방에서의 휴식은 최고의 온천 경험을 선사합니다. 이 가이드에서 신마츠야의 모든 것을 파헤쳐 보세요.",
+      "link": "/onsen/kinosaki_onsen_shinmatsuya_ko"
+    },
+    {
+      "id": "kinosaki_onsen_shinmatsuya_en",
+      "lang": "en",
+      "title": "Shinmatsuya Ryokan: A Timeless Onsen Retreat in Kinosaki",
+      "lat": 35.6288,
+      "lng": 134.8166,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Kinosaki",
+        "Hyogo",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg",
+      "address": "376 Kinosakicho Yushima, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-04-28",
+      "summary": "Shinmatsuya Ryokan, nestled in the heart of Kinosaki Onsen, offers an unforgettable journey into traditional Japanese hospitality. Experience rejuvenating onsen waters, exquisite cuisine, and serene surroundings in this meticulously crafted ryokan. Discover a sanctuary where time slows down and the essence of Japanese culture flourishes.",
+      "link": "/onsen/kinosaki_onsen_shinmatsuya_en"
+    },
+    {
+      "id": "kinosaki_onsen_sento_en",
+      "lang": "en",
+      "title": "Kinosaki Onsen: A Deep Dive into Hyogo's Beloved Bathing Paradise",
+      "lat": 35.6251,
+      "lng": 134.8125,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Hyogo Prefecture",
+        "Hot Springs",
+        "Japan Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sento.jpg",
+      "address": "Toyooka, Hyogo",
+      "published": "2026-04-28",
+      "summary": "Kinosaki Onsen, a charming onsen town in Hyogo, is renowned for its traditional atmosphere and seven distinct public bathhouses (soto-yu). Experience the quintessential Japanese onsen experience, strolling through willow-lined streets in yukata, hopping between rejuvenating hot spring baths. This guide provides an in-depth exploration of Kinosaki Onsen, from its rich history to its delightful gastronomy and the best ways to navigate its unique bathing culture.",
+      "link": "/onsen/kinosaki_onsen_sento_en"
+    },
+    {
+      "id": "kinosaki_onsen_koyado_en_ko",
+      "lang": "ko",
+      "title": "기노사키 온센 코야도 엔: 숨겨진 료칸 보석 탐험",
+      "lat": 35.6241,
+      "lng": 134.8141,
+      "categories": [
+        "온천",
+        "료칸"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_koyado_en.jpg",
+      "address": "Toyooka, Hyogo",
+      "published": "2026-04-28",
+      "summary": "기노사키 온천 중심부에 자리 잡은 코야도 엔은 전통과 현대적인 편안함이 완벽하게 조화를 이루는 숨겨진 보석 같은 료칸입니다.  시간이 멈춘 듯한 분위기 속에서 진정한 일본의 환대를 경험하고, 미식의 향연과 함께 심신의 휴식을 취해보세요. 이 상세 가이드에서 코야도 엔의 매력에 흠뻑 빠져보세요.",
+      "link": "/onsen/kinosaki_onsen_koyado_en_ko"
+    },
+    {
+      "id": "kinosaki_onsen_kawaguchiya_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 가와구치야: 전통과 현대가 어우러진 럭셔리 온천 체험",
+      "lat": 35.6211,
+      "lng": 134.8105,
+      "categories": [
+        "온천",
+        "료칸",
+        "일본여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kawaguchiya.jpg",
+      "address": "Toyooka, Hyogo",
+      "published": "2026-04-28",
+      "summary": "기노사키 온천의 중심에 위치한 가와구치야는 100년 이상의 역사를 자랑하는 료칸입니다. 전통적인 일본식 건축과 현대적인 편의 시설이 조화롭게 어우러져 특별한 휴식을 선사합니다. 고급 가이세키 요리와 다양한 온천탕을 즐기며 잊지 못할 추억을 만들어 보세요.",
+      "link": "/onsen/kinosaki_onsen_kawaguchiya_ko"
+    },
+    {
+      "id": "kinosaki_onsen_kawaguchiya_en",
+      "lang": "en",
+      "title": "Kinosaki Onsen Kawaguchiya: A Deep Dive into Hyogo's Tranquil Retreat",
+      "lat": 35.6211,
+      "lng": 134.8105,
+      "categories": [
+        "Onsen Ryokan",
+        "Kinosaki Onsen",
+        "Hyogo Prefecture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kawaguchiya.jpg",
+      "address": "386 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-04-28",
+      "summary": "Kawaguchiya Ryokan in Kinosaki Onsen offers an authentic and immersive Japanese onsen experience. Renowned for its warm hospitality, delectable cuisine featuring local ingredients, and convenient access to Kinosaki's famed public bathhouses, it's the perfect base for exploring this charming town. Discover meticulously crafted rooms, soothing onsen waters, and a journey into traditional Japanese culture.",
+      "link": "/onsen/kinosaki_onsen_kawaguchiya_en"
+    },
+    {
+      "id": "arima_onsen_taketoritei_maruyama_en",
+      "lang": "en",
+      "title": "Arima Onsen Taketoritei Maruyama: A Luxurious Escape into Japanese Tradition",
+      "lat": 34.7922,
+      "lng": 135.2488,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Japanese Culture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_taketoritei_maruyama.jpg",
+      "address": "808 Arima-cho, Kita-ku, Kobe, Hyogo 651-1401, Japan",
+      "published": "2026-04-28",
+      "summary": "Taketoritei Maruyama, nestled in the heart of Arima Onsen, offers an unparalleled experience of Japanese hospitality and refined elegance. This exquisite ryokan boasts stunning architecture, private onsen baths in every room, and a commitment to culinary excellence. Prepare for a journey of rejuvenation and cultural immersion in one of Japan's oldest and most celebrated hot spring towns.",
+      "link": "/onsen/arima_onsen_taketoritei_maruyama_en"
+    },
+    {
+      "id": "arima_onsen_arima_grand_hotel_ko",
+      "lang": "ko",
+      "title": "아리마 온센 아리마 그랜드 호텔: 럭셔리 온천 경험 완벽 가이드",
+      "lat": 34.7955,
+      "lng": 135.2455,
+      "categories": [
+        "온천",
+        "료칸",
+        "고베",
+        "아리마 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg",
+      "address": "고베, 효고현",
+      "published": "2026-04-28",
+      "summary": "아리마 온천의 중심에 자리 잡은 아리마 그랜드 호텔은 럭셔리함과 전통이 완벽하게 조화를 이루는 곳입니다. 금천과 은천, 두 가지 독특한 온천수를 경험하고, 최고급 가이세키 요리와 숨 막히는 산 전망을 만끽하세요. 고베 여행의 잊지 못할 추억을 선사할 최고의 온천 료칸입니다.",
+      "link": "/onsen/arima_onsen_arima_grand_hotel_ko"
+    },
+    {
+      "id": "kinosaki_onsen_sento_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 센토: 일본 최고의 온천 마을 완벽 가이드",
+      "lat": 35.6251,
+      "lng": 134.8125,
+      "categories": [
+        "온천",
+        "일본 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sento.jpg",
+      "address": "도요오카, 효고",
+      "published": "2026-04-21",
+      "summary": "기노사키 온천은 일본 효고현에 위치한 그림 같은 온천 마을입니다. 7개의 공중 목욕탕을 자유롭게 드나들며 유카타를 입고 거리를 거니는 특별한 경험을 선사합니다. 전통적인 분위기, 뛰어난 온천수, 맛있는 음식으로 잊지 못할 추억을 만들어 보세요.",
+      "link": "/onsen/kinosaki_onsen_sento_ko"
+    },
+    {
+      "id": "kurokawa_onsen_yama_no_yado_ko",
+      "lang": "ko",
+      "title": "구로카와 온천 야마노야도: 자연 속 숨겨진 료칸에서 즐기는 궁극의 휴식",
+      "lat": 33.0855,
+      "lng": 131.1466,
+      "categories": [
+        "온천 료칸",
+        "구마모토 여행",
+        "일본 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yama_no_yado.jpg",
+      "address": "구마모토현 미나미오구니마치",
+      "published": "2026-04-16",
+      "summary": "구로카와 온천 중심부에 자리 잡은 야마노야도는 자연과 조화롭게 어우러진 전통 료칸입니다. 계곡을 따라 흐르는 강물 소리를 들으며, 잊을 수 없는 온천 경험과 고급 가이세키 요리를 만끽하세요. 완벽한 휴식을 위한 야마노야도의 모든 것을 소개합니다.",
+      "link": "/onsen/kurokawa_onsen_yama_no_yado_ko"
+    },
+    {
+      "id": "kurokawa_onsen_yama_no_yado_en",
+      "lang": "en",
+      "title": "Yama no Yado: Kurokawa Onsen's Rustic Mountain Retreat (Full Guide)",
+      "lat": 33.0855,
+      "lng": 131.1466,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Kurokawa Onsen",
+        "Luxury Travel",
+        "Japan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yama_no_yado.jpg",
+      "address": "Kurokawa Onsen, Minamioguni, Kumamoto Prefecture, Japan",
+      "published": "2026-04-16",
+      "summary": "Yama no Yado is a beautifully rustic ryokan nestled in the heart of Kurokawa Onsen, offering a deeply immersive experience in Japanese hospitality and natural hot springs. Its secluded location, combined with exceptional service and exquisite cuisine, provides an unforgettable escape from the ordinary. Discover the true meaning of relaxation amidst the stunning scenery of Kumamoto.",
+      "link": "/onsen/kurokawa_onsen_yama_no_yado_en"
+    },
+    {
+      "id": "kurokawa_onsen_shinmeikan_en",
+      "lang": "en",
+      "title": "Shinmeikan Ryokan: Kurokawa Onsen's Hidden Cave Bath Gem",
+      "lat": 33.0811,
+      "lng": 131.1425,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Kurokawa Onsen",
+        "Cave Bath",
+        "Kumamoto"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_shinmeikan.jpg",
+      "address": "6600 Manganji, Minamioguni, Aso District, Kumamoto 869-2404, Japan",
+      "published": "2026-04-16",
+      "summary": "Shinmeikan Ryokan, nestled in the heart of Kurokawa Onsen, is renowned for its unique and captivating cave bath, a true marvel of natural hot spring experiences. Beyond the cave, its wabi-sabi aesthetic, coupled with exquisite kaiseki cuisine, provides an immersive Japanese ryokan experience. Discover the charm and tranquility that make Shinmeikan a cherished destination for onsen enthusiasts.",
+      "link": "/onsen/kurokawa_onsen_shinmeikan_en"
+    },
+    {
+      "id": "kurokawa_onsen_oku_no_yu_ko",
+      "lang": "ko",
+      "title": "구로카와 온천 오쿠노유 완벽 가이드: 숨겨진 보석을 찾아서",
+      "lat": 33.0799,
+      "lng": 131.1455,
+      "categories": [
+        "온천",
+        "료칸",
+        "구마모토",
+        "미나미오구니"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_oku_no_yu.jpg",
+      "address": "구마모토현 미나미오구니마치",
+      "published": "2026-04-16",
+      "summary": "구로카와 온천 깊숙한 곳에 자리 잡은 오쿠노유는 고요함과 전통의 정수를 담은 료칸입니다. 웅장한 자연 속에서 즐기는 노천탕, 섬세한 가이세키 요리, 그리고 와비사비 정신이 깃든 건축은 잊을 수 없는 경험을 선사합니다. 숨 막힐 듯 아름다운 구마모토의 자연을 배경으로 진정한 일본 온천 문화를 경험하세요.",
+      "link": "/onsen/kurokawa_onsen_oku_no_yu_ko"
+    },
+    {
+      "id": "kurokawa_onsen_oku_no_yu_en",
+      "lang": "en",
+      "title": "Oku no Yu Kurokawa Onsen: A Deep Dive into Kumamoto's Hidden Gem",
+      "lat": 33.0799,
+      "lng": 131.1455,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Kurokawa Onsen",
+        "Kumamoto",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_oku_no_yu.jpg",
+      "address": "6593 Manganji, Minamioguni, Aso District, Kumamoto 869-2402, Japan",
+      "published": "2026-04-16",
+      "summary": "Nestled in the heart of Kurokawa Onsen, Oku no Yu Ryokan offers an authentic and luxurious escape steeped in Japanese tradition. Experience the healing waters of its diverse onsen, indulge in exquisite Kaiseki cuisine, and immerse yourself in the serene beauty of the surrounding landscape. Discover why Oku no Yu is more than just a ryokan; it's a journey into the soul of Japan.",
+      "link": "/onsen/kurokawa_onsen_oku_no_yu_en"
+    },
+    {
+      "id": "kurokawa_onsen_fujiya_ko",
+      "lang": "ko",
+      "title": "구로카와 온천 후지야: 숨겨진 온천 낙원을 탐험하다 (완벽 가이드)",
+      "lat": 33.0819,
+      "lng": 131.1409,
+      "categories": [
+        "온천",
+        "료칸",
+        "구마모토",
+        "가족 여행",
+        "커플 여행",
+        "일본 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_fujiya.jpg",
+      "address": "구마모토현 미나미오구니마치 만조지 6796-3",
+      "published": "2026-04-16",
+      "summary": "구로카와 온천 후지야는 고요한 분위기, 전통적인 건축, 그리고 잊을 수 없는 온천 경험을 제공하는 숨겨진 보석입니다. 류칸의 역사와 철학, 그리고 주변의 아름다운 자연을 만끽하며 진정한 휴식을 취해보세요. 이 상세한 가이드와 함께 후지야에서의 특별한 시간을 계획하세요.",
+      "link": "/onsen/kurokawa_onsen_fujiya_ko"
+    },
+    {
+      "id": "kurokawa_onsen_fujiya_en",
+      "lang": "en",
+      "title": "Kurokawa Onsen Fujiya: A Deep Dive into Kumamoto's Hidden Gem",
+      "lat": 33.0819,
+      "lng": 131.1409,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Japanese Culture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_fujiya.jpg",
+      "address": "Manganji, Minamioguni, Aso District, Kumamoto 869-2402, Japan",
+      "published": "2026-04-16",
+      "summary": "Fujiya Ryokan in Kurokawa Onsen is more than just a place to stay; it's an immersion into the heart of Japanese hospitality and natural beauty. Nestled within a secluded valley, this meticulously crafted ryokan offers an authentic onsen experience characterized by breathtaking landscapes, exquisite cuisine, and a profound sense of tranquility. Discover the allure of Kurokawa through the lens of Fujiya's unique charm.",
+      "link": "/onsen/kurokawa_onsen_fujiya_en"
+    },
+    {
+      "id": "kinosaki_onsen_tsubakino_ryokan_ko",
+      "lang": "ko",
+      "title": "키노사키 온천 츠바키노 료칸: 고요함과 럭셔리의 완벽한 조화",
+      "lat": 35.6222,
+      "lng": 134.8133,
+      "categories": [
+        "온천 료칸",
+        "일본 여행",
+        "럭셔리 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tsubakino_ryokan.jpg",
+      "address": "효고현 도요오카시 키노사키초 유시마 487",
+      "published": "2026-04-16",
+      "summary": "키노사키 온천의 중심부에 위치한 츠바키노 료칸은 전통적인 일본의 아름다움과 현대적인 편안함이 조화롭게 어우러진 곳입니다.  7개의 온천 순례를 즐기기에 완벽한 위치이며, 료칸 자체의 고급스러운 시설과 정갈한 가이세키 요리는 잊지 못할 경험을 선사합니다.  고요한 분위기 속에서 진정한 휴식을 원하는 분들에게 강력히 추천합니다.",
+      "link": "/onsen/kinosaki_onsen_tsubakino_ryokan_ko"
+    },
+    {
+      "id": "kinosaki_onsen_tsubakino_ryokan_en",
+      "lang": "en",
+      "title": "Tsubakino Ryokan, Kinosaki Onsen: A Deep Dive into Hyogo's Premier Crab & Hot Spring Haven",
+      "lat": 35.6222,
+      "lng": 134.8133,
+      "categories": [
+        "Onsen Ryokan",
+        "Kinosaki Onsen",
+        "Luxury Travel",
+        "Hyogo Prefecture",
+        "Crab Cuisine"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tsubakino_ryokan.jpg",
+      "address": "376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-04-16",
+      "summary": "Tsubakino Ryokan offers an immersive experience in the heart of Kinosaki Onsen. This meticulously maintained ryokan blends traditional aesthetics with modern comfort, renowned for its exquisite crab-focused kaiseki cuisine and rejuvenating onsen waters. Explore this comprehensive guide for an in-depth look at Tsubakino's charm, from its historical roots to practical travel tips.",
+      "link": "/onsen/kinosaki_onsen_tsubakino_ryokan_en"
+    },
+    {
+      "id": "kinosaki_onsen_tajimaya_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 다지마야 료칸: 시간을 멈추는 듯한 평온함 속으로",
+      "lat": 35.6277,
+      "lng": 134.8155,
+      "categories": [
+        "온천 료칸",
+        "기노사키 온천",
+        "효고현 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tajimaya.jpg",
+      "address": "일본 효고현 도요오카시 기노사키초 유시마 487",
+      "published": "2026-04-16",
+      "summary": "기노사키 온천 중심부에 위치한 다지마야 료칸은 전통과 현대적인 편안함이 조화롭게 어우러진 곳입니다. 마음을 편안하게 해주는 온천욕과 정갈한 가이세키 요리를 즐기며 일본 전통의 미를 경험할 수 있습니다. 유카타를 입고 거리를 거닐며 일곱 개의 온천을 순례하는 특별한 경험을 선사합니다.",
+      "link": "/onsen/kinosaki_onsen_tajimaya_ko"
+    },
+    {
+      "id": "kinosaki_onsen_tajimaya_en",
+      "lang": "en",
+      "title": "Kinosaki Onsen Tajimaya: A Deep Dive into Tradition and Tranquility",
+      "lat": 35.6277,
+      "lng": 134.8155,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Kinosaki",
+        "Luxury Travel",
+        "Cultural Immersion"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tajimaya.jpg",
+      "address": "376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-04-16",
+      "summary": "Tajimaya Ryokan, nestled in the heart of Kinosaki Onsen, offers an unparalleled journey into Japanese tradition. This meticulously maintained ryokan seamlessly blends historical charm with modern comforts, providing guests with an immersive onsen experience. From its exquisite kaiseki cuisine to its serene rotenburo overlooking the Otani River, Tajimaya embodies the essence of Japanese hospitality.",
+      "link": "/onsen/kinosaki_onsen_tajimaya_en"
+    },
+    {
+      "id": "kinosaki_onsen_nishimuraya_ricca_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 니시무라야 릿카: 럭셔리 료칸 경험의 정수",
+      "lat": 35.6233,
+      "lng": 134.8088,
+      "categories": [
+        "온천",
+        "료칸",
+        "럭셔리 여행",
+        "기노사키 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_nishimuraya_ricca.jpg",
+      "address": "효고현 도요오카시 기노사키초 유시마 467",
+      "published": "2026-04-16",
+      "summary": "니시무라야 릿카는 기노사키 온천의 중심부에 위치한 럭셔리 료칸으로, 전통과 현대적인 편안함이 조화롭게 어우러진 곳입니다.  세련된 건축, 고급스러운 객실, 미각을 자극하는 가이세키 요리, 그리고 심신을 치유하는 온천 경험을 제공합니다.  기노사키의 아름다움을 만끽하며 특별한 휴식을 원하는 여행객에게 완벽한 선택입니다.",
+      "link": "/onsen/kinosaki_onsen_nishimuraya_ricca_ko"
+    },
+    {
+      "id": "kinosaki_onsen_nishimuraya_ricca_en",
+      "lang": "en",
+      "title": "Nishimuraya Ricca: A Deep Dive into Kinosaki Onsen's Modern Zen",
+      "lat": 35.6233,
+      "lng": 134.8088,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Japanese Culture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_nishimuraya_ricca.jpg",
+      "address": "166 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-04-16",
+      "summary": "Nishimuraya Ricca offers a contemporary take on the traditional onsen ryokan experience in the charming town of Kinosaki. Renowned for its sophisticated design, delectable cuisine, and personalized service, it provides a serene escape into the heart of Japanese hospitality. Prepare to be enveloped in minimalist elegance and unparalleled relaxation.",
+      "link": "/onsen/kinosaki_onsen_nishimuraya_ricca_en"
+    },
+    {
+      "id": "kinosaki_onsen_nishimuraya_honkan_en",
+      "lang": "en",
+      "title": "Nishimuraya Honkan: A Kinosaki Onsen Immersion in History & Luxury",
+      "lat": 35.6255,
+      "lng": 134.8111,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Luxury Travel",
+        "Cultural Immersion",
+        "Japan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_nishimuraya_honkan.jpg",
+      "address": "166 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-04-16",
+      "summary": "Nishimuraya Honkan, a Kinosaki Onsen institution dating back to the Edo period, offers an unparalleled ryokan experience. Immerse yourself in the town's seven public onsen, then retreat to Nishimuraya's refined elegance, exquisite cuisine, and restorative baths. This is more than a stay; it's a journey into the heart of Japanese hospitality and tradition.",
+      "link": "/onsen/kinosaki_onsen_nishimuraya_honkan_en"
+    },
+    {
+      "id": "kinosaki_onsen_morizuya_en",
+      "lang": "en",
+      "title": "Morizuya Ryokan: A Deep Dive into Kinosaki Onsen's Tranquil Heart",
+      "lat": 35.6244,
+      "lng": 134.8122,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Kinosaki",
+        "Hyogo",
+        "Japan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_morizuya.jpg",
+      "address": "376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-04-16",
+      "summary": "Morizuya Ryokan, nestled in the heart of Kinosaki Onsen, offers a deeply immersive traditional Japanese experience. From its meticulously designed rooms showcasing wabi-sabi aesthetics to its soothing onsen waters and exquisite kaiseki cuisine, Morizuya promises a journey of tranquil rejuvenation. Discover the essence of Japanese hospitality and immerse yourself in the charming atmosphere of this renowned onsen town.",
+      "link": "/onsen/kinosaki_onsen_morizuya_en"
+    },
+    {
+      "id": "kinosaki_onsen_mikuniya_en",
+      "lang": "en",
+      "title": "Kinosaki Onsen Mikuniya: A Journey into Timeless Elegance and Healing Waters",
+      "lat": 35.6266,
+      "lng": 134.8144,
+      "categories": [
+        "Onsen Ryokan",
+        "Traditional Japanese Inn",
+        "Kinosaki Onsen"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_mikuniya.jpg",
+      "address": "487 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-04-16",
+      "summary": "Mikuniya Ryokan in Kinosaki Onsen offers a sanctuary of refined tranquility, immersing guests in the town's centuries-old onsen culture. Experience unparalleled hospitality, exquisite cuisine, and rejuvenating waters in this exquisitely preserved traditional inn. This is more than a stay; it's an immersion into the heart of Japan's onsen tradition.",
+      "link": "/onsen/kinosaki_onsen_mikuniya_en"
+    },
     {
       "id": "yamada_bessou_ko",
       "lang": "ko",
@@ -117,7 +579,7 @@
     {
       "id": "kusatsu_onsen_ryokan_yoshinoya_en",
       "lang": "en",
-      "title": "Kusatsu Onsen Ryokan Yoshinoya | Private Baths Near Yubatake",
+      "title": "Kusatsu Ryokan Yoshinoya (2026): Private Baths Near Yubatake",
       "lat": 36.6241,
       "lng": 138.5962,
       "categories": [
@@ -127,7 +589,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-12",
-      "summary": "Kusatsu Gunma ryokan Yoshinoya near Yubatake—kashikiri private baths, strong sulfur spring water, local inn vibe. Bath types, rooms, and what to reserve first.",
+      "summary": "Choosing where to stay in Kusatsu? Check Yoshinoya's location, kashikiri private bath details, and booking tips near Yubatake hot spring area.",
       "link": "/onsen/kusatsu_onsen_ryokan_yoshinoya_en"
     },
     {
@@ -1399,7 +1861,7 @@
     {
       "id": "yufuin_onsen_yufuin-so_en",
       "lang": "en",
-      "title": "Yufuin Onsen Yufuin-so: A Luxurious, Tattoo-Friendly Retreat with Breathtaking Views in Japan's Enchanting Hot Spring Village",
+      "title": "Yufuin-so Onsen Ryokan (2026): Tattoo-Friendly Stay with Mt. Yufu Views",
       "lat": 33.2611,
       "lng": 131.3644,
       "categories": [
@@ -1410,7 +1872,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_onsen_yufuin-so.jpg",
       "address": "Yufuin, Oita",
       "published": "2026-04-03",
-      "summary": "Discover the unparalleled charm of Yufuin Onsen Yufuin-so, a sanctuary where traditional Japanese luxury meets modern inclusivity, offering a rare **tattoo-friendly** experience amidst the stunning landscapes of Oita. Immerse yourself in the tranquility of its private and public baths, each boasting **spectacular views** of the majestic Mount Yufu, promising a serene escape for every discerning traveler. Indulge in exquisite kaiseki dining, refined accommodations, and the rejuvenating embrace of Yufuin's renowned hot springs, creating an unforgettable journey into Japanese hospitality.",
+      "summary": "Looking for a tattoo-friendly ryokan in Yufuin? Compare baths, views, and stay experience at Yufuin-so before you reserve.",
       "link": "/onsen/yufuin_onsen_yufuin-so_en"
     },
     {
@@ -1996,7 +2458,7 @@
     {
       "id": "the_prince_hakone_lake_ashinoko_en",
       "lang": "en",
-      "title": "The Prince Hakone Lake Ashinoko | Onsen Ryokan on Lake Ashi & Fuji Views",
+      "title": "The Prince Hakone Lake Ashinoko Review (2026): Lake Ashi Views & Private Baths",
       "lat": 35.2122,
       "lng": 139.0111,
       "categories": [
@@ -2007,7 +2469,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
-      "summary": "Lake Ashi views, Mount Fuji on clear days, private onsen (kashikiri), and kaiseki at The Prince Hakone Lake Ashinoko—Murano Togo architecture. Baths, rooms, and what to book first, in one guide.",
+      "summary": "See if this Hakone ryokan is right for your trip: Lake Ashi view highlights, private bath options, room tips, and what to book first.",
       "link": "/onsen/the_prince_hakone_lake_ashinoko_en"
     },
     {
@@ -2622,6 +3084,78 @@
       "published": "2026-03-24",
       "summary": "Step into a realm where history, luxury, and nature converge at the iconic Fujiya Hotel in Hakone, a beacon of refined hospitality since 1878. Experience the unparalleled grandeur of its Western-style architecture seamlessly blended with traditional Japanese elements, all while soaking in natural hot springs amidst breathtaking mountain scenery. Indulge in exquisite gastronomy and discover an enchanting escape that transcends time, offering an unforgettable journey for the discerning traveler.",
       "link": "/onsen/fujiya_hotel_en"
+    },
+    {
+      "id": "kurokawa_onsen_shinmeikan_ko",
+      "lang": "ko",
+      "title": "구로카와 온천 신메이칸: 숨겨진 동굴 온천의 절경과 와비사비의 정수",
+      "lat": 33.0811,
+      "lng": 131.1425,
+      "categories": [
+        "온천",
+        "료칸",
+        "구마모토",
+        "가족 여행",
+        "커플 여행",
+        "일본 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_shinmeikan.jpg",
+      "address": "구마모토현 아소군 미나미오구니마치 만죠 6796-3",
+      "published": "2024-10-27",
+      "summary": "구마모토현 구로카와 온천에 위치한 신메이칸은 300년 역사를 자랑하는 전통 료칸입니다. 동굴 온천으로 유명하며, 자연과 조화를 이룬 와비사비 스타일의 객실과 정갈한 가이세키 요리를 경험할 수 있습니다. 미나미오구니 주변 관광지와 함께 특별한 일본 온천 여행을 계획해보세요.",
+      "link": "/onsen/kurokawa_onsen_shinmeikan_ko"
+    },
+    {
+      "id": "kinosaki_onsen_morizuya_ko",
+      "lang": "ko",
+      "title": "키노사키 온천 모리츠야: 전통과 현대의 조화로운 경험",
+      "lat": 35.6244,
+      "lng": 134.8122,
+      "categories": [
+        "온천 료칸",
+        "키노사키 온천",
+        "효고현 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_morizuya.jpg",
+      "address": "효고현 도요오카시 키노사키초 유시마 444",
+      "published": "2024-10-27",
+      "summary": "키노사키 온천 중심부에 자리 잡은 모리츠야 료칸은 유서 깊은 역사와 현대적인 편안함이 조화를 이루는 곳입니다. 7개의 외탕 순례와 더불어 료칸 내의 풍요로운 온천, 그리고 정갈한 가이세키 요리를 통해 일본 전통 온천 문화를 만끽할 수 있습니다. 시간 여행을 떠나는 듯한 고즈넉한 분위기 속에서 진정한 휴식을 경험해보세요.",
+      "link": "/onsen/kinosaki_onsen_morizuya_ko"
+    },
+    {
+      "id": "kinosaki_onsen_mikuniya_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 미쿠니야: 시간 여행을 떠나는 듯한 고급 료칸 체험 가이드",
+      "lat": 35.6266,
+      "lng": 134.8144,
+      "categories": [
+        "온천 료칸",
+        "효고현",
+        "기노사키 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_mikuniya.jpg",
+      "address": "일본 〒669-6101 Hyogo, Toyooka, Kinosakicho Yushima, 537",
+      "published": "2024-10-27",
+      "summary": "기노사키 온천 마을 중심부에 위치한 미쿠니야는 전통적인 일본 료칸의 정수를 경험할 수 있는 곳입니다. 300년 역사를 자랑하는 이 료칸은 고풍스러운 분위기와 현대적인 편안함이 조화롭게 어우러져 특별한 휴식을 선사합니다. 노천탕에서 즐기는 온천욕, 제철 식재료로 만든 가이세키 요리, 그리고 주변 관광 명소까지, 완벽한 온천 여행을 위한 모든 것을 갖추고 있습니다.",
+      "link": "/onsen/kinosaki_onsen_mikuniya_ko"
+    },
+    {
+      "id": "kinosaki_onsen_nishimuraya_honkan_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 니시무라야 혼칸: 시간을 초월한 료칸 경험 완벽 가이드",
+      "lat": 35.6255,
+      "lng": 134.8111,
+      "categories": [
+        "온천 료칸",
+        "고급 료칸",
+        "기노사키 온천",
+        "효고현 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_nishimuraya_honkan.jpg",
+      "address": "효고현 도요오카시 기노사키초 유시마 469",
+      "published": "2024-04-16",
+      "summary": "니시무라야 혼칸은 150년 이상의 역사를 자랑하는 기노사키 온천의 대표적인 료칸입니다. 전통적인 일본 미학과 최상의 서비스를 결합하여 특별한 휴식을 선사합니다. 아름다운 온천, 정갈한 가이세키 요리, 그리고 주변 관광 명소까지, 완벽한 일본 여행을 위한 모든 것을 갖추고 있습니다.",
+      "link": "/onsen/kinosaki_onsen_nishimuraya_honkan_ko"
     }
   ]
 }

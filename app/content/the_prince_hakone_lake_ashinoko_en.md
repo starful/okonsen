@@ -14,11 +14,9 @@ image_prompt: A serene aerial view capturing The Prince Hakone Lake Ashinoko, a 
 lang: en
 lat: 35.2122
 lng: 139.0111
-summary: Lake Ashi views, Mount Fuji on clear days, private onsen (kashikiri), and
-  kaiseki at The Prince Hakone Lake Ashinoko—Murano Togo architecture. Baths, rooms,
-  and what to book first, in one guide.
+summary: "See if this Hakone ryokan is right for your trip: Lake Ashi view highlights, private bath options, room tips, and what to book first."
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg
-title: 'The Prince Hakone Lake Ashinoko | Onsen Ryokan on Lake Ashi & Fuji Views'
+title: "The Prince Hakone Lake Ashinoko Review (2026): Lake Ashi Views & Private Baths"
 ---
 
 ## Introduction: Where Serenity Meets Grandeur

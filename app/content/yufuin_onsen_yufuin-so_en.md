@@ -14,16 +14,9 @@ image_prompt: A serene, luxurious onsen ryokan in Yufuin, Japan, with traditiona
 lang: en
 lat: 33.2611
 lng: 131.3644
-summary: Discover the unparalleled charm of Yufuin Onsen Yufuin-so, a sanctuary where
-  traditional Japanese luxury meets modern inclusivity, offering a rare **tattoo-friendly**
-  experience amidst the stunning landscapes of Oita. Immerse yourself in the tranquility
-  of its private and public baths, each boasting **spectacular views** of the majestic
-  Mount Yufu, promising a serene escape for every discerning traveler. Indulge in
-  exquisite kaiseki dining, refined accommodations, and the rejuvenating embrace of
-  Yufuin's renowned hot springs, creating an unforgettable journey into Japanese hospitality.
+summary: "Looking for a tattoo-friendly ryokan in Yufuin? Compare baths, views, and stay experience at Yufuin-so before you reserve."
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_onsen_yufuin-so.jpg
-title: 'Yufuin Onsen Yufuin-so: A Luxurious, Tattoo-Friendly Retreat with Breathtaking
-  Views in Japan''s Enchanting Hot Spring Village'
+title: "Yufuin-so Onsen Ryokan (2026): Tattoo-Friendly Stay with Mt. Yufu Views"
 ---
 
 ## Unveiling Yufuin Onsen Yufuin-so: A Sanctuary of Serenity and Inclusivity
