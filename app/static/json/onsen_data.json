@@ -1,6 +1,343 @@
 {
-  "last_updated": "2026.05.08 16:39",
+  "last_updated": "2026.05.12 15:16",
   "onsens": [
+    {
+      "id": "kinosaki_onsen_tokiwa_en",
+      "lang": "en",
+      "title": "Kinosaki Onsen Tokiwa: A Timeless Retreat in Japan's Onsen Paradise",
+      "lat": 35.6225,
+      "lng": 134.8128,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Kinosaki",
+        "Hyogo",
+        "Luxury Travel",
+        "Japan Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg",
+      "address": "376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-05-12",
+      "summary": "Kinosaki Onsen Tokiwa offers an enchanting escape into traditional Japanese hospitality. Nestled in the heart of Kinosaki, this ryokan provides unparalleled access to the town's seven iconic public onsen. Experience the ultimate relaxation with exquisite cuisine, elegant rooms, and a serene atmosphere steeped in history and natural beauty.",
+      "link": "/onsen/kinosaki_onsen_tokiwa_en"
+    },
+    {
+      "id": "kinosaki_onsen_sensui_ko",
+      "lang": "ko",
+      "title": "키노사키 온천 센스이: 숨겨진 낙원의 깊은 곳을 탐험하다",
+      "lat": 35.6261,
+      "lng": 134.8115,
+      "categories": [
+        "온천 료칸",
+        "일본 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sensui.jpg",
+      "address": "효고현 도요오카시 키노사키초 유시마",
+      "published": "2026-05-12",
+      "summary": "키노사키 온천 마을의 중심부에서 조금 떨어진 센스이는 고요함과 전통이 완벽하게 조화를 이루는 곳입니다. 섬세한 가이세키 요리, 마음을 달래는 온천수, 그리고 유서 깊은 건축물을 통해 진정한 일본의 아름다움을 경험하세요. 번잡함에서 벗어나 자연과 문화에 흠뻑 빠져 잊을 수 없는 휴식을 선사합니다.",
+      "link": "/onsen/kinosaki_onsen_sensui_ko"
+    },
+    {
+      "id": "kinosaki_onsen_sensui_en",
+      "lang": "en",
+      "title": "Sensui: A Tranquil Escape in Kinosaki Onsen's Heart",
+      "lat": 35.6261,
+      "lng": 134.8115,
+      "categories": [
+        "Onsen Ryokan",
+        "Kinosaki Onsen",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sensui.jpg",
+      "address": "376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-05-12",
+      "summary": "Sensui Ryokan offers an intimate and refined onsen experience in the charming canal town of Kinosaki. Known for its impeccable service, exquisite cuisine, and serene atmosphere, Sensui provides a tranquil retreat for discerning travelers seeking authentic Japanese hospitality. Its prime location makes exploring Kinosaki's seven public bathhouses effortless.",
+      "link": "/onsen/kinosaki_onsen_sensui_en"
+    },
+    {
+      "id": "kinosaki_onsen_sanyoso_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 산요소 완벽 가이드: 럭셔리 료칸 체험",
+      "lat": 35.6258,
+      "lng": 134.8177,
+      "categories": [
+        "온천 료칸",
+        "기노사키 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sanyoso.jpg",
+      "address": "효고현 도요오카시 기노사키초 유시마 78",
+      "published": "2026-05-12",
+      "summary": "기노사키 온천의 고급 료칸인 산요소는 전통과 현대적인 편안함이 조화롭게 어우러진 곳입니다. 최상급 가이세키 요리, 다양한 온천탕, 아름다운 일본식 정원을 경험하며 잊지 못할 휴식을 즐길 수 있습니다. 유카타를 입고 기노사키 온천 마을을 산책하며 특별한 추억을 만들어보세요.",
+      "link": "/onsen/kinosaki_onsen_sanyoso_ko"
+    },
+    {
+      "id": "kinosaki_onsen_sanyoso_en",
+      "lang": "en",
+      "title": "Kinosaki Onsen Sanyoso: A Deep Dive into Hyogo's Hidden Gem",
+      "lat": 35.6258,
+      "lng": 134.8177,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sanyoso.jpg",
+      "address": "357 Kinosakicho Yushima, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-05-12",
+      "summary": "Sanyoso Ryokan, nestled in the heart of Kinosaki Onsen, offers an unparalleled experience of tranquility and traditional Japanese hospitality. Renowned for its exquisite cuisine, breathtaking views, and meticulously curated onsen, Sanyoso is more than just a stay – it's an immersion into the art of Japanese relaxation. Discover the essence of wabi-sabi amidst the calming embrace of Hyogo's natural beauty.",
+      "link": "/onsen/kinosaki_onsen_sanyoso_en"
+    },
+    {
+      "id": "kinosaki_onsen_onishiya_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 오니시야 료칸: 깊이 있는 체험 가이드",
+      "lat": 35.6299,
+      "lng": 134.8188,
+      "categories": [
+        "온천 료칸",
+        "일본 여행",
+        "효고현"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_onishiya.jpg",
+      "address": "豊岡市, 兵庫県",
+      "published": "2026-05-12",
+      "summary": "기노사키 온천의 중심에 자리한 오니시야 료칸은 전통과 현대가 조화롭게 어우러진 특별한 경험을 선사합니다. 고급스러운 객실, 뛰어난 온천수, 정성 가득한 가이세키 요리는 잊지 못할 추억을 만들어 줄 것입니다. 이 가이드에서 오니시야 료칸의 모든 것을 자세히 알아보세요.",
+      "link": "/onsen/kinosaki_onsen_onishiya_ko"
+    },
+    {
+      "id": "kinosaki_onsen_onishiya_en",
+      "lang": "en",
+      "title": "Onishiya: A Deep Dive into Kinosaki Onsen's Refined Elegance",
+      "lat": 35.6299,
+      "lng": 134.8188,
+      "categories": [
+        "Onsen Ryokan",
+        "Kinosaki Onsen",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_onishiya.jpg",
+      "address": "Yushima 467, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-05-12",
+      "summary": "Onishiya in Kinosaki Onsen is a testament to understated luxury, blending traditional Japanese aesthetics with modern comforts. This meticulously designed ryokan offers an unparalleled onsen experience with its exquisite baths and delectable cuisine. From its serene atmosphere to its impeccable service, Onishiya promises an unforgettable retreat into the heart of Japanese hospitality.",
+      "link": "/onsen/kinosaki_onsen_onishiya_en"
+    },
+    {
+      "id": "kinosaki_onsen_koyado_en_en",
+      "lang": "en",
+      "title": "Kinosaki Onsen Koyado En: A Luxurious Ryokan Retreat in Hyogo",
+      "lat": 35.6241,
+      "lng": 134.8141,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Japanese Culture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_koyado_en.jpg",
+      "address": "Toyooka, Hyogo",
+      "published": "2026-05-12",
+      "summary": "Koyado En, nestled in the heart of Kinosaki Onsen, offers a uniquely refined experience. This intimate ryokan blends traditional Japanese aesthetics with modern comforts, creating a haven of tranquility and culinary excellence. Discover the art of relaxation and personalized service in this exquisite Hyogo gem.",
+      "link": "/onsen/kinosaki_onsen_koyado_en_en"
+    },
+    {
+      "id": "kinosaki_onsen_kinosaki_yamata_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 야마타: 7개의 온천을 즐기는 료칸 체험 완벽 가이드",
+      "lat": 35.6235,
+      "lng": 134.8151,
+      "categories": [
+        "온천 료칸",
+        "기노사키 온천",
+        "효고현 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kinosaki_yamata.jpg",
+      "address": "효고현 도요오카시 기노사키초 유노사토 813",
+      "published": "2026-05-12",
+      "summary": "기노사키 온천 야마타는 전통과 현대의 조화가 돋보이는 고급 료칸입니다. 7개의 개성 넘치는 온천 순례와 더불어 제철 식재료를 사용한 가이세키 요리를 맛보며 최고의 휴식을 경험할 수 있습니다. 기노사키 온천 마을의 중심부에 위치하여 주변 관광지 접근성 또한 뛰어납니다.",
+      "link": "/onsen/kinosaki_onsen_kinosaki_yamata_ko"
+    },
+    {
+      "id": "kinosaki_onsen_kinosaki_yamata_en",
+      "lang": "en",
+      "title": "Kinosaki Yamata: A Deep Dive into Hyogo's Exquisite Onsen Ryokan",
+      "lat": 35.6235,
+      "lng": 134.8151,
+      "categories": [
+        "Onsen Ryokan",
+        "Kinosaki Onsen",
+        "Hyogo Prefecture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kinosaki_yamata.jpg",
+      "address": "Toyooka, Hyogo",
+      "published": "2026-05-12",
+      "summary": "Kinosaki Yamata is more than just an onsen ryokan; it's an immersive experience in traditional Japanese hospitality. Nestled in the heart of Kinosaki Onsen, it offers a perfect blend of refined elegance and rustic charm. From the meticulously curated Kaiseki dinners to the soothing waters of its private onsen, Yamata promises an unforgettable escape.",
+      "link": "/onsen/kinosaki_onsen_kinosaki_yamata_en"
+    },
+    {
+      "id": "arima_onsen_tosen_goshobo_ko",
+      "lang": "ko",
+      "title": "아리마 온센 도센 고쇼보: 역사와 전통이 살아 숨쉬는 료칸 체험 완벽 가이드",
+      "lat": 34.7966,
+      "lng": 135.2477,
+      "categories": [
+        "온천 료칸",
+        "아리마 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg",
+      "address": "고베, 효고현",
+      "published": "2026-05-12",
+      "summary": "아리마 온천의 중심부에 위치한 도센 고쇼보는 800년이 넘는 역사를 자랑하는 전통 료칸입니다. 금천과 은천 두 종류의 온천수를 즐길 수 있으며, 계절별 식재료를 사용한 정통 가이세키 요리는 잊지 못할 미식 경험을 선사합니다. 고베와 효고현 주변 관광 명소와의 접근성도 뛰어나 일본 전통 문화와 아름다운 자연을 만끽할 수 있습니다.",
+      "link": "/onsen/arima_onsen_tosen_goshobo_ko"
+    },
+    {
+      "id": "arima_onsen_tosen_goshobo_en",
+      "lang": "en",
+      "title": "Arima Onsen Tosen Goshobo: A Deep Dive into Kobe's Historic Hot Spring Haven",
+      "lat": 34.7966,
+      "lng": 135.2477,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Cultural Immersion"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-12",
+      "summary": "Tosen Goshobo, nestled in the heart of Arima Onsen, Kobe, is more than just a ryokan; it's a journey through time. With a history spanning over 800 years, this venerable establishment offers a uniquely intimate and authentic onsen experience. Prepare to be enveloped in refined elegance, therapeutic waters, and the understated charm of traditional Japanese hospitality.",
+      "link": "/onsen/arima_onsen_tosen_goshobo_en"
+    },
+    {
+      "id": "arima_onsen_taketoritei_maruyama_ko",
+      "lang": "ko",
+      "title": "아리마 온천 타케토리테이 마루야마: 럭셔리 온천 료칸 완벽 가이드",
+      "lat": 34.7922,
+      "lng": 135.2488,
+      "categories": [
+        "온천",
+        "료칸",
+        "럭셔리 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_taketoritei_maruyama.jpg",
+      "address": "효고현 고베시 기타구 아리마초 1364-1",
+      "published": "2026-05-12",
+      "summary": "타케토리테이 마루야마는 고베 아리마 온천에 위치한 최고급 료칸으로, 전통적인 아름다움과 현대적인 편안함을 결합했습니다. 금천과 은천 두 가지 온천수를 즐길 수 있으며, 정통 가이세키 요리와 섬세한 서비스는 잊지 못할 경험을 선사합니다. 고요한 분위기 속에서 진정한 휴식을 원하는 여행객에게 완벽한 선택입니다.",
+      "link": "/onsen/arima_onsen_taketoritei_maruyama_ko"
+    },
+    {
+      "id": "arima_onsen_nakanobo_zuien_ko",
+      "lang": "ko",
+      "title": "아리마 온센 나카노보 즈이에엔: 고베에서 즐기는 럭셔리 온천 체험 완벽 가이드",
+      "lat": 34.7977,
+      "lng": 135.2466,
+      "categories": [
+        "온천 료칸",
+        "고베 여행",
+        "아리마 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_nakanobo_zuien.jpg",
+      "address": "고베, 효고",
+      "published": "2026-05-12",
+      "summary": "아리마 온천의 역사와 전통을 고스란히 담은 나카노보 즈이에엔은 고급스러운 서비스와 아름다운 자연 경관을 자랑합니다. 킨센(금천)과 긴센(은천) 두 종류의 온천수를 경험하고, 정갈한 가이세키 요리를 맛보며 완벽한 휴식을 즐겨보세요. 고베 관광과 함께 잊지 못할 온천 여행을 선사합니다.",
+      "link": "/onsen/arima_onsen_nakanobo_zuien_ko"
+    },
+    {
+      "id": "arima_onsen_nakanobo_zuien_en",
+      "lang": "en",
+      "title": "Arima Onsen Nakanobo Zuien: A Deep Dive into Kobe's Luxurious Hot Spring Retreat",
+      "lat": 34.7977,
+      "lng": 135.2466,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Japanese Culture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_nakanobo_zuien.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-12",
+      "summary": "Nakanobo Zuien offers a refined onsen experience in the historic Arima Onsen. This luxury ryokan is celebrated for its kinsen (gold water) and ginsen (silver water) baths, exquisite kaiseki cuisine, and impeccable service. A stay here is a journey into traditional Japanese hospitality with modern comforts.",
+      "link": "/onsen/arima_onsen_nakanobo_zuien_en"
+    },
+    {
+      "id": "arima_onsen_kinzan_ko",
+      "lang": "ko",
+      "title": "아리마 온센 긴잔: 고베의 심장에서 즐기는 럭셔리 온천 체험",
+      "lat": 34.7988,
+      "lng": 135.2488,
+      "categories": [
+        "온천 료칸",
+        "아리마 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_kinzan.jpg",
+      "address": "고베, 효고현",
+      "published": "2026-05-12",
+      "summary": "아리마 온센 긴잔은 고베 효고현의 아름다운 아리마 온천 마을에 위치한 고급 료칸입니다. 전통적인 일본식 미학과 현대적인 편안함이 조화롭게 어우러져 특별한 휴식을 선사합니다. 금천의 유황 온천수에 몸을 담그고, 정성껏 준비된 가이세키 요리를 맛보며 잊지 못할 시간을 만들어보세요.",
+      "link": "/onsen/arima_onsen_kinzan_ko"
+    },
+    {
+      "id": "arima_onsen_kinzan_en",
+      "lang": "en",
+      "title": "Arima Onsen Kinzan: Kobe's Luxurious Hot Spring Retreat",
+      "lat": 34.7988,
+      "lng": 135.2488,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_kinzan.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-12",
+      "summary": "Escape to Arima Onsen Kinzan, a haven of tranquility nestled in the mountains of Kobe. Renowned for its therapeutic hot spring waters and exquisite Kaiseki cuisine, Kinzan offers an unforgettable Japanese ryokan experience. Discover the timeless beauty of Arima, and immerse yourself in traditional hospitality and breathtaking natural surroundings.",
+      "link": "/onsen/arima_onsen_kinzan_en"
+    },
+    {
+      "id": "arima_onsen_gekkoen_yugetsusan_ko",
+      "lang": "ko",
+      "title": "아리마 온천 겟코엔 유게츠산 완벽 가이드: 역사, 온천, 미식 그리고 숨겨진 팁",
+      "lat": 34.7911,
+      "lng": 135.2511,
+      "categories": [
+        "온천 료칸",
+        "고베 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_gekkoen_yugetsusan.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-12",
+      "summary": "겟코엔 유게츠산은 고베 아리마 온천의 아름다운 자연 속에 자리 잡은 료칸입니다. 킨센(金泉)과 긴센(銀泉) 두 가지 온천을 즐길 수 있으며, 정통 가이세키 요리와 편안한 객실을 제공합니다. 특별한 일본 온천 경험을 찾고 있다면 유게츠산은 최고의 선택이 될 것입니다.",
+      "link": "/onsen/arima_onsen_gekkoen_yugetsusan_ko"
+    },
+    {
+      "id": "arima_onsen_gekkoen_yugetsusan_en",
+      "lang": "en",
+      "title": "Arima Onsen Gekkoen Yugetsusan: A Deep Dive into Kobe's Luxurious Hot Spring Retreat",
+      "lat": 34.7911,
+      "lng": 135.2511,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Japanese Culture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_gekkoen_yugetsusan.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-12",
+      "summary": "Gekkoen Yugetsusan, nestled in the historic Arima Onsen, offers an unparalleled onsen experience. Immerse yourself in the healing waters of its renowned Kinsen and Ginsen springs, indulge in exquisite Kaiseki cuisine, and discover the refined elegance of a traditional Japanese ryokan. This sanctuary promises a rejuvenating escape steeped in tradition and natural beauty.",
+      "link": "/onsen/arima_onsen_gekkoen_yugetsusan_en"
+    },
+    {
+      "id": "arima_onsen_arima_grand_hotel_en",
+      "lang": "en",
+      "title": "Arima Grand Hotel: A Luxurious Onsen Retreat in Historic Arima Onsen",
+      "lat": 34.7955,
+      "lng": 135.2455,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Hyogo Prefecture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-12",
+      "summary": "Nestled in the heart of Arima Onsen, one of Japan's oldest hot spring towns, the Arima Grand Hotel offers an unparalleled experience of traditional Japanese hospitality combined with modern luxury. Famous for its **Kinsen (gold water)** and **Ginsen (silver water)**, this hotel provides a rejuvenating escape. From exquisite Kaiseki dinners to breathtaking views, Arima Grand Hotel is a destination in itself.",
+      "link": "/onsen/arima_onsen_arima_grand_hotel_en"
+    },
     {
       "id": "kinosaki_onsen_tokiwa_ko",
       "lang": "ko",
