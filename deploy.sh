@@ -34,6 +34,7 @@ Usage: ./deploy.sh [MODE] [OPTIONS]
 
 Modes (default: full)
   --full           Sync images + generate content + image process + build
+  --images-only    Sync GCS, fetch/optimize onsen photos, upload to GCS (no content/deploy)
   --content-only   Generate guides/onsen markdown + build only
   --deploy-only    Trigger Cloud Build deploy only
 
@@ -76,7 +77,8 @@ process_and_upload_images() {
     python3 script/fetch_images.py
     python3 script/optimize_images.py
     gcloud storage rsync "$LOCAL_IMAGES" "$GCS_BUCKET" --recursive --checksums-only
-    gsutil -m acl ch -u AllUsers:R "$GCS_BUCKET/**" >/dev/null 2>&1 || true
+    # ACL refresh can take several minutes; cap wait so images-only does not hang.
+    timeout 120 gsutil -m acl ch -u AllUsers:R "$GCS_BUCKET/**" >/dev/null 2>&1 || true
     print_ok "Image upload and ACL update completed"
 }
 
@@ -109,6 +111,7 @@ deploy_cloud_run() {
 for arg in "$@"; do
     case "$arg" in
         --full) MODE="full" ;;
+        --images-only) MODE="images-only" ;;
         --content-only) MODE="content-only" ;;
         --deploy-only) MODE="deploy-only" ;;
         --with-git) DO_GIT=true ;;
@@ -140,6 +143,11 @@ case "$MODE" in
         generate_content
         process_and_upload_images
         build_data
+        ;;
+    images-only)
+        require_cmd gsutil
+        sync_cloud_images_to_local
+        process_and_upload_images
         ;;
     content-only)
         generate_content
