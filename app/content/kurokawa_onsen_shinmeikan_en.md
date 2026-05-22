@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Shinmeikan Ryokan: Kurokawa Onsen's Hidden Cave Bath Gem"

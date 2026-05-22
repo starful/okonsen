@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Morizuya Ryokan: A Deep Dive into Kinosaki Onsen's Tranquil Heart"

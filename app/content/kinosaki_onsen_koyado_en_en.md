@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Kinosaki Onsen Koyado En: A Luxurious Ryokan Retreat in Hyogo"

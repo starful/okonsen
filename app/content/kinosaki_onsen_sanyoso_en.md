@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Kinosaki Onsen Sanyoso: A Deep Dive into Hyogo's Hidden Gem"

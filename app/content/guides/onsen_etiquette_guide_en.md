@@ -1,8 +1,4 @@
 ---
-{}
----
-
----
 lang: en
 title: "Japanese Onsen Rules Explained: What to Do Before You Enter"
 summary: "Confused about onsen manners? Get a simple, step-by-step guide to washing, towels, nudity rules, and tattoo policy so you can enter with confidence."

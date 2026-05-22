@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Tsubakino Ryokan, Kinosaki Onsen: A Deep Dive into Hyogo's Premier Crab & Hot Spring Haven"

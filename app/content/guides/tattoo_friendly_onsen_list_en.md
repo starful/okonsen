@@ -1,11 +1,7 @@
 ---
-{}
----
-
----
 lang: en
-title: "Beyond the Ink: Your Ultimate Guide to Tattoo-Friendly Onsen in Japan"
-summary: "Navigating Japan's onsen culture with tattoos can be tricky. This guide provides everything you need to know about finding tattoo-friendly onsen, from using covering stickers to booking private baths, ensuring a relaxing and respectful experience."
+title: "Tattoo-Friendly Onsen Japan (2026): Rules, Stickers & Ryokan List"
+summary: "Planning Japan with tattoos? See what is allowed, cover-sticker tips, and ryokans with private baths before you book."
 date: "2026-04-15"
 ---
 

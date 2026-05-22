@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Kinosaki Onsen: A Deep Dive into Hyogo's Beloved Bathing Paradise"

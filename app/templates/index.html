@@ -107,6 +107,23 @@
                 <div id="scroll-sentinel" style="height: 20px;"></div>
             </section>
 
+            {% if boost_guides %}
+            <section style="max-width: 1200px; margin: 8px auto 16px; padding: 0 12px;">
+                <h3 style="font-size: 1rem; color: #555; margin-bottom: 8px;">
+                    {{ 'Top Travel Guides (Start Here)' if lang == 'en' else '핵심 온천 가이드 (먼저 읽기)' }}
+                </h3>
+                <ul style="display: flex; flex-wrap: wrap; gap: 10px 16px; list-style: none; padding: 0; margin: 0;">
+                    {% for guide in boost_guides %}
+                    <li>
+                        <a href="/guide/{{ guide.id }}" style="color: #1f6feb; text-decoration: underline;">
+                            {{ guide.title }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
+
             {% if featured_onsens %}
             <section style="max-width: 1200px; margin: 24px auto 8px; padding: 0 12px;">
                 <h3 style="font-size: 1rem; color: #555; margin-bottom: 8px;">

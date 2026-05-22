@@ -1,8 +1,4 @@
 ---
-{}
----
-
----
 lang: en
 title: "Hakone Onsen Guide (2026): Best Areas, Ryokans, and Day-Trip Plan from Tokyo"
 summary: "Compare Hakone onsen areas fast: where to stay, top ryokans, private bath options, and a practical route from Tokyo for first-time travelers."

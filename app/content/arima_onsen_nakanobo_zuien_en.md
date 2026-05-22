@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Arima Onsen Nakanobo Zuien: A Deep Dive into Kobe's Luxurious Hot Spring Retreat"

@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://okonsen.net/onsen/gallo_resort_beppu_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/gallo_resort_beppu_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/bettei_haruki_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/bettei_haruki_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/onsen/beppu_suginoi_hotel_ko</loc>
     <lastmod>2026-04-12</lastmod>
     <priority>0.8</priority>
@@ -201,16 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/yufuin_onsen_yufuin-so_ko</loc>
-    <lastmod>2026-04-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/yufuin_onsen_yufuin-so_en</loc>
-    <lastmod>2026-04-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/yufuin_kutsurogi_no_yado_nanakawa_ko</loc>
     <lastmod>2026-04-03</lastmod>
     <priority>0.8</priority>
@@ -377,16 +387,6 @@
   </url>
   <url>
     <loc>https://okonsen.net/onsen/yoshiike_ryokan_en</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/the_prince_hakone_lake_ashinoko_ko</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/the_prince_hakone_lake_ashinoko_en</loc>
     <lastmod>2026-03-24</lastmod>
     <priority>0.8</priority>
   </url>
@@ -561,6 +561,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://okonsen.net/onsen/gora_kadan_ko</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/onsen/gora_kadan_en</loc>
     <lastmod>2026-03-24</lastmod>
     <priority>0.8</priority>
@@ -596,48 +601,28 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/guide/kurokawa_hidden_gems_en</loc>
+    <loc>https://okonsen.net/guide/ryokan_kaiseki_dining_ko</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/guide/tattoo_friendly_onsen_list_ko</loc>
-    <lastmod>2024-10-27</lastmod>
+    <loc>https://okonsen.net/guide/ryokan_kaiseki_dining_en</loc>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/guide/hakone_area_deep_dive_en</loc>
-    <lastmod>2024-10-27</lastmod>
+    <loc>https://okonsen.net/guide/ryokan_kaiseki_experience_ko</loc>
+    <lastmod>2024-10-26</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/guide/beppu_hell_tour_guide_ko</loc>
-    <lastmod>2024-10-27</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/hakone_area_deep_dive_ko</loc>
-    <lastmod>2024-04-25</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/onsen_etiquette_guide_en</loc>
-    <lastmod>2024-04-15</lastmod>
+    <loc>https://okonsen.net/guide/winter_yukimi_rotemburo_en</loc>
+    <lastmod>2024-02-29</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guide/hakone_day_trip_guide_en</loc>
     <lastmod>2024-02-29</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/beppu_hell_tour_guide_en</loc>
-    <lastmod>2024-01-26</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/onsen_etiquette_guide_ko</loc>
-    <lastmod>2023-10-27</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>

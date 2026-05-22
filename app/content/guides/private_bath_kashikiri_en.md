@@ -1,8 +1,4 @@
 ---
-{}
----
-
----
 lang: en
 title: "Unwind Together: Your Ultimate Guide to Finding and Enjoying Private Family Baths (Kashikiri-buro) in Japan"
 summary: "Escape the crowds and create lasting memories in Japan by discovering the serene world of kashikiri-buro. This guide offers practical advice, booking tips, and expert recommendations for finding and enjoying private family onsen."

@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Arima Onsen Gekkoen Yugetsusan: A Deep Dive into Kobe's Luxurious Hot Spring Retreat"

@@ -1,8 +1,4 @@
 ---
-{}
----
-
----
 lang: en
 title: "A Gourmet Journey: Unveiling Kaiseki Ryori at Japanese Ryokans - A Culinary Pilgrimage"
 summary: "Embark on a culinary exploration of Kaiseki Ryori, the epitome of Japanese fine dining. Discover the history, etiquette, and where to experience this multicourse masterpiece within the serene setting of a traditional ryokan, complete with seasonal ingredients and unparalleled 'omotenashi'."

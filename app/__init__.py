@@ -10,6 +10,26 @@ import copy
 from typing import List, Dict
 from dotenv import load_dotenv
 
+CORE_GUIDE_BASES = [
+    "tattoo_friendly_onsen_list",
+    "kurokawa_hidden_gems",
+    "tattoo_friendly_master_list",
+    "onsen_etiquette_basics",
+    "onsen_etiquette_guide",
+    "hakone_area_deep_dive",
+    "private_bath_kashikiri",
+    "beppu_hell_tour_guide",
+]
+CORE_ONSEN_IDS = [
+    "kusatsu_onsen_ryokan_yoshinoya_en",
+    "kusatsu_onsen_ryokan_yoshinoya_ko",
+    "kurokawa_onsen_hozantei_en",
+    "the_prince_hakone_lake_ashinoko_en",
+    "the_prince_hakone_lake_ashinoko_ko",
+    "yufuin_onsen_yufuin-so_en",
+    "yufuin_onsen_yufuin-so_ko",
+]
+
 app = Flask(__name__)
 Compress(app)
 
@@ -92,13 +112,37 @@ def get_footer_stats(lang):
         "last_updated": CACHED_DATA.get('last_updated', '2026.03.19')
     }
 
+def prioritize_by_ids(items, priority_ids, id_key="id"):
+    priority_set = set(priority_ids)
+    priority_map = {pid: idx for idx, pid in enumerate(priority_ids)}
+    prioritized = [x for x in items if x.get(id_key) in priority_set]
+    remaining = [x for x in items if x.get(id_key) not in priority_set]
+    prioritized.sort(key=lambda x: priority_map.get(x.get(id_key), 999))
+    return prioritized + remaining
+
+
 def get_featured_onsens(lang, limit=12):
     """서버사이드 내부 링크용 온천 목록(크롤러가 바로 따라갈 수 있는 링크)"""
     data_list = CACHED_DATA.get('onsens', [])
     filtered = [o for o in data_list if o.get('lang') == lang]
     if not filtered:
         filtered = [o for o in data_list if o.get('lang') == 'en']
-    return filtered[:limit]
+    lang_ids = [oid for oid in CORE_ONSEN_IDS if oid.endswith(f"_{lang}")]
+    ranked = prioritize_by_ids(filtered, lang_ids)
+    return ranked[:limit]
+
+
+def get_priority_guides(lang, limit=8):
+    """GSC 고노출 가이드를 홈/허브에서 우선 노출."""
+    guides = get_all_guides(lang)
+    ordered = []
+    for base in CORE_GUIDE_BASES:
+        target_id = f"{base}_{lang}"
+        for g in guides:
+            if g.get("id") == target_id:
+                ordered.append(g)
+                break
+    return ordered[:limit]
 
 
 def normalize_markdown_source(raw_text: str) -> str:
@@ -195,7 +239,7 @@ def seo_url_normalization():
     p = request.path
     if p.startswith("/static/") or p.startswith("/api/"):
         return None
-    if p in ("/sitemap.xml", "/robots.txt"):
+    if p in ("/sitemap.xml", "/sitemap-core.xml", "/sitemap-longtail.xml", "/robots.txt"):
         return None
     if request.headers.get("X-Forwarded-Proto", "").lower() == "http":
         return redirect(request.url.replace("http://", "https://", 1), code=301)
@@ -206,10 +250,16 @@ def seo_url_normalization():
     if p == "/guides" and keys == {"lang"} and args.get("lang") == "en":
         return redirect("/guides", code=301)
     if p.startswith("/guide/") and len(p) > len("/guide/"):
+        slug = p.rsplit("/", 1)[-1]
         if keys == {"lang"} and args.get("lang") == "en":
             return redirect(p, code=301)
+        if keys == {"lang"} and args.get("lang") == "ko" and slug.endswith("_ko"):
+            return redirect(p, code=301)
     if p.startswith("/onsen/") and len(p) > len("/onsen/"):
+        slug = p.rsplit("/", 1)[-1]
         if keys == {"lang"} and args.get("lang") == "en":
+            return redirect(p, code=301)
+        if keys == {"lang"} and args.get("lang") == "ko" and slug.endswith("_ko"):
             return redirect(p, code=301)
     return None
 
@@ -257,13 +307,16 @@ def api_onsens():
 @app.route('/')
 def index():
     lang = request.args.get('lang', 'en')
-    top_guides = get_all_guides(lang)[:3]
+    priority_guides = get_priority_guides(lang, limit=3)
+    top_guides = priority_guides if priority_guides else get_all_guides(lang)[:3]
+    boost_guides = get_priority_guides(lang, limit=8)
     featured_onsens = get_featured_onsens(lang)
     stats = get_footer_stats(lang)
     return render_template(
         'index.html',
         lang=lang,
         guides=top_guides,
+        boost_guides=boost_guides,
         featured_onsens=featured_onsens,
         google_maps_api_key=GOOGLE_MAPS_API_KEY,
         **stats
@@ -273,8 +326,9 @@ def index():
 def guide_list():
     lang = request.args.get('lang', 'en')
     all_guides = get_all_guides(lang)
+    boost_guides = get_priority_guides(lang, limit=8)
     stats = get_footer_stats(lang)
-    return render_template('guide_list.html', guides=all_guides, lang=lang, **stats)
+    return render_template('guide_list.html', guides=all_guides, boost_guides=boost_guides, lang=lang, **stats)
 
 @app.route('/guide/<guide_id>')
 def guide_detail(guide_id):

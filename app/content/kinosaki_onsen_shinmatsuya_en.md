@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Shinmatsuya Ryokan: A Timeless Onsen Retreat in Kinosaki"

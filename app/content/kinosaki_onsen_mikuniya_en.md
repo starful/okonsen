@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Kinosaki Onsen Mikuniya: A Journey into Timeless Elegance and Healing Waters"

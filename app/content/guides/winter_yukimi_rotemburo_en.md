@@ -1,4 +1,3 @@
-```markdown
 ---
 lang: en
 title: "The Magic of Snow-Viewing Onsens (Yukimi-rotemburo): Unforgettable Winter Escapes in Northern Japan"
@@ -80,4 +79,3 @@ Here are a few carefully selected onsen ryokans offering exceptional snow-viewin
 ## Conclusion: Embracing the Serenity of Winter
 
 Experiencing a Yukimi-rotemburo in Northern Japan is more than just a relaxing soak; it's an immersion into Japanese culture, a celebration of natural beauty, and a profound connection with the tranquility of winter. Whether you choose the vast landscapes of Hokkaido or the historic charm of Tohoku, the experience will leave you refreshed, rejuvenated, and with memories that will last a lifetime. So, embrace the magic of the snow, the warmth of the onsen, and the serenity of the Japanese winter, and embark on your unforgettable snow-viewing adventure.
-```

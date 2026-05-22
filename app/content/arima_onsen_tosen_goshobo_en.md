@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Arima Onsen Tosen Goshobo: A Deep Dive into Kobe's Historic Hot Spring Haven"

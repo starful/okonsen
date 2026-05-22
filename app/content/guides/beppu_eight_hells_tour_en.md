@@ -88,4 +88,3 @@ Beppu offers a wide range of accommodation options, from traditional ryokans (Ja
 ## Conclusion: Beppu - A Geothermal Paradise Awaits
 
 Beppu is a destination that truly engages the senses. The visual spectacle of the Eight Hells, the therapeutic embrace of a sand bath, and the unique culinary experiences make Beppu a truly unforgettable destination. From the vibrant blue waters of Umi Jigoku to the bubbling mud of Oniishibozu Jigoku, each "Hell" offers a unique glimpse into the earth's powerful internal forces. Indulging in a sand bath at Beppu Kaihin Sunayu is an experience unlike any other, leaving you feeling refreshed and rejuvenated. Plan your trip to Beppu and discover the wonders of this geothermal paradise in Kyushu, Japan. You won't be disappointed!
-```

@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Nishimuraya Honkan: A Kinosaki Onsen Immersion in History & Luxury"

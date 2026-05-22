@@ -1,8 +1,4 @@
 ---
-{}
----
-
----
 lang: en
 title: "Beppu Onsen: Journey Through the Eight Hells and Relaxing Sand Baths of Kyushu"
 summary: "Discover the otherworldly beauty of Beppu Onsen's Eight Hells, bubbling volcanic wonders, and unwind with a traditional sand bath experience. Your ultimate guide to exploring this Kyushu travel gem."

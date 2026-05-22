@@ -1,4 +1,3 @@
-```markdown
 ---
 lang: en
 title: "Onsen Etiquette in Japan (2026): 15 Rules First-Timers Must Know"
@@ -81,4 +80,3 @@ Tattoos in Japan are often associated with organized crime (yakuza), leading to 
 ## Conclusion: Embrace the Serenity and Respect the Tradition
 
 Mastering onsen etiquette unlocks a truly enriching and authentic Japanese experience. By understanding the cultural significance, following the bathing rules, and showing respect for other bathers, you can fully immerse yourself in the serenity and therapeutic benefits of this cherished tradition. So, pack your yukata, embrace the ritual, and prepare to discover the rejuvenating power of the Japanese onsen. With this guide in hand, you'll be well-equipped to navigate the onsen experience with confidence and create lasting memories of your travels in Japan. Remember to be respectful, observant, and most importantly, enjoy the moment. Happy soaking!
-```

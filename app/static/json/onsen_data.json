@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026.05.12 15:16",
+  "last_updated": "2026.05.22 21:46",
   "onsens": [
     {
       "id": "kinosaki_onsen_tokiwa_en",
@@ -916,7 +916,7 @@
     {
       "id": "kusatsu_onsen_ryokan_yoshinoya_en",
       "lang": "en",
-      "title": "Kusatsu Ryokan Yoshinoya (2026): Private Baths Near Yubatake",
+      "title": "Kusatsu Ryokan Yoshinoya (2026): Private Baths Near Yubatake | Book Guide",
       "lat": 36.6241,
       "lng": 138.5962,
       "categories": [
@@ -926,7 +926,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg",
       "address": "Kusatsu, Gunma",
       "published": "2026-04-12",
-      "summary": "Choosing where to stay in Kusatsu? Check Yoshinoya's location, kashikiri private bath details, and booking tips near Yubatake hot spring area.",
+      "summary": "Ranked ~9th for kusatsu onsen ryokan yoshinoya searches. See location, kashikiri baths, and booking tips near Yubatake.",
       "link": "/onsen/kusatsu_onsen_ryokan_yoshinoya_en"
     },
     {
@@ -1312,7 +1312,7 @@
     {
       "id": "kurokawa_onsen_hozantei_en",
       "lang": "en",
-      "title": "Kurokawa Onsen Hozantei: A Symphony of Seclusion, Stellar Views, and Private Hot Spring Bliss in Kumamoto's Heart",
+      "title": "Kurokawa Onsen Hozantei (2026): Valley Views, Private Baths & Stay Tips",
       "lat": 33.0911,
       "lng": 131.1488,
       "categories": [
@@ -1323,7 +1323,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_hozantei.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
-      "summary": "Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Hozantei offers an unparalleled escape where magnificent natural scenery meets the height of Japanese hospitality. This luxurious ryokan is celebrated for its breathtaking views from secluded open-air baths and an exquisite selection of private onsen, providing an intimate, unforgettable retreat. Prepare to immerse yourself in a world of refined tranquility, gourmet kaiseki, and the restorative power of Kumamoto's legendary hot springs.",
+      "summary": "Considering Hozantei in Kurokawa? Compare rotenburo views, kashikiri baths, room types, and what to book first.",
       "link": "/onsen/kurokawa_onsen_hozantei_en"
     },
     {
@@ -3372,6 +3372,23 @@
       "published": "2026-03-24",
       "summary": "Discover Hakone Airu, a hidden gem nestled in the heart of Hakone, offering an unparalleled onsen experience with exquisite private baths and an authentic local atmosphere. Immerse yourself in the tranquility of this luxury ryokan, where tradition meets modern comfort, promising a rejuvenating escape from the everyday. From its pristine hot springs to its seasonal gastronomy, Hakone Airu redefines the art of Japanese hospitality for the discerning traveler.",
       "link": "/onsen/hakone_airu_en"
+    },
+    {
+      "id": "gora_kadan_ko",
+      "lang": "ko",
+      "title": "하코네 고라 카단: 일본 최고의 럭셔리 료칸에서 진정한 와비사비와 최상의 휴식을 경험하세요",
+      "lat": 35.2492,
+      "lng": 139.0465,
+      "categories": [
+        "고급 료칸",
+        "가족탕",
+        "절경"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/gora_kadan.jpg",
+      "address": "Hakone, Kanagawa",
+      "published": "2026-03-24",
+      "summary": "하코네의 고즈넉한 자연 속에 자리한 고라 카단은 미슐랭 가이드에 등재된 최고급 료칸으로, 일본 전통의 미학과 현대적인 편안함이 완벽하게 조화된 공간입니다. 전 객실에 전용 노천탕을 갖추고 있으며, 탁 트인 절경 속에서 프라이빗한 온천욕을 즐길 수 있어 가족이나 연인에게 최상의 휴식을 선사합니다. 와비사비 정신이 깃든 건축과 예술적인 가이세키 요리, 그리고 세심한 서비스는 방문객들에게 잊을 수 없는 추억을 선사할 것입니다.",
+      "link": "/onsen/gora_kadan_ko"
     },
     {
       "id": "gora_kadan_en",

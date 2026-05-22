@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Nishimuraya Ricca: A Deep Dive into Kinosaki Onsen's Modern Zen"

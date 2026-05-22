@@ -1,8 +1,4 @@
 ---
-{}
----
-
----
 lang: en
 title: "Snowy Bliss: Unveiling the Magic of Yukimi-Rotemburo (Snow-Viewing Onsens) in Northern Japan"
 summary: "Escape to a winter wonderland and immerse yourself in the ultimate relaxation experience: a Yukimi-Rotemburo. Discover the best snow-viewing onsens in Hokkaido and Tohoku and learn how to make the most of your winter onsen getaway in Northern Japan."

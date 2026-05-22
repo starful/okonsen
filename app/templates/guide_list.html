@@ -122,6 +122,23 @@
             <p>{{ 'Deep dive into our expert travel tips.' if lang == 'en' else '여행 전문가가 전하는 깊이 있는 온천 꿀팁 모음' }}</p>
         </div>
 
+        {% if boost_guides %}
+        <section style="max-width: 1200px; margin: 0 auto 24px; padding: 0 20px;">
+            <h2 style="font-size: 1.2rem; color: #333; margin-bottom: 10px;">
+                {{ 'Priority Guides for Indexing' if lang == 'en' else '우선 추천 가이드' }}
+            </h2>
+            <ul style="display: flex; flex-wrap: wrap; gap: 10px 16px; list-style: none; padding: 0; margin: 0 0 10px 0;">
+                {% for guide in boost_guides %}
+                <li>
+                    <a href="/guide/{{ guide.id }}" style="color: #1f6feb; text-decoration: underline;">
+                        {{ guide.title }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+        {% endif %}
+
         <div class="all-guides-grid">
             {% if guides %}
                 {% for guide in guides %}

@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Kinosaki Onsen Tajimaya: A Deep Dive into Tradition and Tranquility"

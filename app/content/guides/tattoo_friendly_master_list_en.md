@@ -1,8 +1,4 @@
 ---
-{}
----
-
----
 lang: en
 title: "Tattoo-Friendly Onsen Japan (2026): Practical Rules, Stickers, and Private Baths"
 summary: "Planning Japan with tattoos? See what is actually allowed, how to use cover stickers, and where private baths make your onsen trip stress-free."

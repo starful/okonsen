@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Kurokawa Onsen Fujiya: A Deep Dive into Kumamoto's Hidden Gem"

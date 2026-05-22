@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Arima Onsen Taketoritei Maruyama: A Luxurious Escape into Japanese Tradition"

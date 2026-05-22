@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Arima Grand Hotel: A Luxurious Onsen Retreat in Historic Arima Onsen"

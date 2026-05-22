@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Sensui: A Tranquil Escape in Kinosaki Onsen's Heart"

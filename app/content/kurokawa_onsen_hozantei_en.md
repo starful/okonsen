@@ -18,16 +18,9 @@ image_prompt: A breathtaking aerial view of Kurokawa Onsen Hozantei, nestled dee
 lang: en
 lat: 33.0911
 lng: 131.1488
-summary: Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Hozantei
-  offers an unparalleled escape where magnificent natural scenery meets the height
-  of Japanese hospitality. This luxurious ryokan is celebrated for its breathtaking
-  views from secluded open-air baths and an exquisite selection of private onsen,
-  providing an intimate, unforgettable retreat. Prepare to immerse yourself in a world
-  of refined tranquility, gourmet kaiseki, and the restorative power of Kumamoto's
-  legendary hot springs.
+summary: "Considering Hozantei in Kurokawa? Compare rotenburo views, kashikiri baths, room types, and what to book first."
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_hozantei.jpg
-title: 'Kurokawa Onsen Hozantei: A Symphony of Seclusion, Stellar Views, and Private
-  Hot Spring Bliss in Kumamoto''s Heart'
+title: "Kurokawa Onsen Hozantei (2026): Valley Views, Private Baths & Stay Tips"
 ---
 
 ## Kurokawa Onsen Hozantei: A Sanctuary of Serenity Amidst Kumamoto's Majestic Peaks

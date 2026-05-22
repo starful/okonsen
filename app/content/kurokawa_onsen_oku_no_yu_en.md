@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Oku no Yu Kurokawa Onsen: A Deep Dive into Kumamoto's Hidden Gem"

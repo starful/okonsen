@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Kinosaki Yamata: A Deep Dive into Hyogo's Exquisite Onsen Ryokan"

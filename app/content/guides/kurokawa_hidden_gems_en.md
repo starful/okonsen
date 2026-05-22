@@ -1,8 +1,4 @@
 ---
-{}
----
-
----
 lang: en
 title: "Kurokawa Onsen Guide (2026): Hidden Ryokans, Pass Tips, and Best Baths"
 summary: "Find the best Kurokawa ryokans and rotenburo in one guide, including onsen hopping pass tips, where to stay, and how to plan a quieter visit."

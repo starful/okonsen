@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Yama no Yado: Kurokawa Onsen's Rustic Mountain Retreat (Full Guide)"

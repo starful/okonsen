@@ -5,12 +5,16 @@ import markdown
 import re
 from bs4 import BeautifulSoup
 from datetime import datetime
+import sys
 
 # ==========================================
 # ⚙️ 경로 및 설정
 # ==========================================
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 BASE_DIR = os.path.dirname(SCRIPT_DIR)
+sys.path.insert(0, SCRIPT_DIR)
+
+from seo_priority import CORE_GUIDE_BASES, CORE_ONSEN_IDS, guide_id, prioritize_by_ids
 
 CONTENT_DIR = os.path.join(BASE_DIR, 'app', 'content')
 GUIDE_DIR = os.path.join(CONTENT_DIR, 'guides')
@@ -124,13 +128,19 @@ def generate_sitemap(onsens, guides, include_static=True):
 def split_sitemap_sets(onsens, guides):
     """
     Discovery-only 상태를 줄이기 위해 색인 우선순위용(core)과 후순위(longtail)로 분리.
-    - core: 허브 + 최신/핵심 URL
+    - core: GSC 고노출 URL + 최신 URL
     - longtail: 나머지 상세 URL
     """
-    core_onsens = onsens[:90]
-    longtail_onsens = onsens[90:]
-    core_guides = guides[:20]
-    longtail_guides = guides[20:]
+    priority_guide_ids = [guide_id(base, "en") for base in CORE_GUIDE_BASES] + [
+        guide_id(base, "ko") for base in CORE_GUIDE_BASES
+    ]
+    onsens_ranked = prioritize_by_ids(onsens, CORE_ONSEN_IDS)
+    guides_ranked = prioritize_by_ids(guides, priority_guide_ids)
+
+    core_onsens = onsens_ranked[:90]
+    longtail_onsens = onsens_ranked[90:]
+    core_guides = guides_ranked[:24]
+    longtail_guides = guides_ranked[24:]
     return core_onsens, longtail_onsens, core_guides, longtail_guides
 
 

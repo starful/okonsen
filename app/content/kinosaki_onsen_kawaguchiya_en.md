@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Kinosaki Onsen Kawaguchiya: A Deep Dive into Hyogo's Tranquil Retreat"

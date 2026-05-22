@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Arima Onsen Kinzan: Kobe's Luxurious Hot Spring Retreat"

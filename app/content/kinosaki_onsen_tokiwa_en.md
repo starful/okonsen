@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Kinosaki Onsen Tokiwa: A Timeless Retreat in Japan's Onsen Paradise"

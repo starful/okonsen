@@ -1,4 +1,3 @@
-yaml
 ---
 lang: en
 title: "Onishiya: A Deep Dive into Kinosaki Onsen's Refined Elegance"
