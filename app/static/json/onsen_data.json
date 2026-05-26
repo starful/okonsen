@@ -1,6 +1,346 @@
 {
-  "last_updated": "2026.05.22 21:46",
+  "last_updated": "2026.05.26 21:57",
   "onsens": [
+    {
+      "id": "noboribetsu_dai-ichi_takimotokan_ko",
+      "lang": "ko",
+      "title": "지고쿠다니 옆 낙원: 노보리베츠 다이-이치 타키모토칸 온천 완벽 가이드",
+      "lat": 42.4977,
+      "lng": 141.1466,
+      "categories": [
+        "온천",
+        "료칸"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_dai-ichi_takimotokan.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-05-26",
+      "summary": "유황 냄새가 코를 찌르는 지옥계곡 옆, 낙원 같은 휴식이 기다립니다. 노보리베츠 다이-이치 타키모토칸은 다양한 종류의 온천탕과 홋카이도 최고의 가이세키 요리를 제공하는 료칸입니다. 이 완벽 가이드로 최상의 온천 경험을 계획하세요.",
+      "link": "/onsen/noboribetsu_dai-ichi_takimotokan_ko"
+    },
+    {
+      "id": "noboribetsu_dai-ichi_takimotokan_en",
+      "lang": "en",
+      "title": "Noboribetsu Dai-ichi Takimotokan: A Volcanic Onsen Paradise in Hokkaido",
+      "lat": 42.4977,
+      "lng": 141.1466,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Hokkaido"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_dai-ichi_takimotokan.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-05-26",
+      "summary": "Noboribetsu Dai-ichi Takimotokan is more than just a ryokan; it's an immersive journey into the heart of Hokkaido's volcanic landscape. With its legendary onsen offering a multitude of mineral-rich waters and sprawling bath complex, it promises rejuvenation and a deep connection to nature. Prepare to be captivated by the traditional hospitality, exquisite cuisine, and the sheer power of Noboribetsu's geothermal wonders.",
+      "link": "/onsen/noboribetsu_dai-ichi_takimotokan_en"
+    },
+    {
+      "id": "arima_onsen_tocen_goshobo_ko",
+      "lang": "ko",
+      "title": "아리마 온센 토센 고쇼보: 역사와 전통이 살아 숨쉬는 고급 료칸 체험 완벽 가이드",
+      "lat": 34.7965,
+      "lng": 135.2475,
+      "categories": [
+        "온천 료칸",
+        "고베 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tocen_goshobo.jpg",
+      "address": "고베, 효고현",
+      "published": "2026-05-26",
+      "summary": "아리마 온센의 중심에 위치한 토센 고쇼보는 800년이 넘는 역사를 자랑하는 료칸입니다. 금천과 은천, 두 가지 온천수를 즐길 수 있으며, 정갈한 가이세키 요리와 와비사비 미학이 깃든 객실은 잊지 못할 경험을 선사합니다. 고베 여행의 특별한 추억을 만들고 싶다면 토센 고쇼보를 방문해보세요.",
+      "link": "/onsen/arima_onsen_tocen_goshobo_ko"
+    },
+    {
+      "id": "arima_onsen_tocen_goshobo_en",
+      "lang": "en",
+      "title": "Arima Onsen Tocen Goshobo: A Deep Dive into Kobe's Timeless Luxury",
+      "lat": 34.7965,
+      "lng": 135.2475,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Japanese Culture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tocen_goshobo.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-26",
+      "summary": "Tocen Goshobo isn't just a ryokan; it's an immersion into centuries of Japanese hospitality and the healing power of Arima Onsen. This historic inn seamlessly blends traditional aesthetics with modern comforts, offering an unforgettable experience steeped in elegance and tranquility. Discover the legendary Kin-no-Yu and Gin-no-Yu waters in an atmosphere of refined luxury.",
+      "link": "/onsen/arima_onsen_tocen_goshobo_en"
+    },
+    {
+      "id": "arima_onsen_spa_terrace_shisui_ko",
+      "lang": "ko",
+      "title": "고베 아리마 온천 스파 테라스 스이: 럭셔리 온천 경험 완벽 가이드",
+      "lat": 34.7931,
+      "lng": 135.2451,
+      "categories": [
+        "온천 료칸",
+        "럭셔리 여행",
+        "고베 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_spa_terrace_shisui.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-26",
+      "summary": "고베 아리마 온천에 위치한 스파 테라스 스이(SPA TERRACE Shisui)는 현대적인 디자인과 전통적인 온천 경험이 완벽하게 조화를 이루는 럭셔리 료칸입니다. 금천과 은천 두 가지 독특한 온천수를 즐길 수 있으며, 고베의 아름다운 자연을 감상하며 휴식을 취할 수 있습니다. 최고급 가이세키 요리와 세심한 서비스는 잊지 못할 추억을 선사합니다.",
+      "link": "/onsen/arima_onsen_spa_terrace_shisui_ko"
+    },
+    {
+      "id": "arima_onsen_spa_terrace_shisui_en",
+      "lang": "en",
+      "title": "Arima Onsen SPA TERRACE Shisui: A Kobe Sanctuary of Golden Waters",
+      "lat": 34.7931,
+      "lng": 135.2451,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Kobe Travel Guide"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_spa_terrace_shisui.jpg",
+      "address": "Arimacho, Kita Ward, Kobe, Hyogo 651-1401, Japan",
+      "published": "2026-05-26",
+      "summary": "SPA TERRACE Shisui is a modern ryokan in the heart of Arima Onsen, blending traditional Japanese hospitality with contemporary design. Its prime location offers stunning views and easy access to the town's famous golden and silver hot springs. Experience luxurious comfort, exquisite cuisine, and unparalleled relaxation in this refined Kobe retreat.",
+      "link": "/onsen/arima_onsen_spa_terrace_shisui_en"
+    },
+    {
+      "id": "arima_onsen_okuno_hosomichi_ko",
+      "lang": "ko",
+      "title": "아리마 온센 오쿠노 호소미치: 고베 럭셔리 온천 여행 완벽 가이드",
+      "lat": 34.7888,
+      "lng": 135.2455,
+      "categories": [
+        "온천",
+        "료칸",
+        "일본여행",
+        "고베",
+        "럭셔리"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_okuno_hosomichi.jpg",
+      "address": "고베, 효고",
+      "published": "2026-05-26",
+      "summary": "아리마 온센 오쿠노 호소미치는 일본에서 가장 오래된 온천 마을 중 하나인 아리마에 위치한 럭셔리 료칸입니다. 전통적인 일본식 미학과 현대적인 편안함이 조화롭게 어우러져 잊을 수 없는 경험을 선사합니다. 금천과 은천, 두 가지 종류의 온천수를 즐기며 고베의 아름다운 자연을 만끽하세요.",
+      "link": "/onsen/arima_onsen_okuno_hosomichi_ko"
+    },
+    {
+      "id": "arima_onsen_okuno_hosomichi_en",
+      "lang": "en",
+      "title": "Arima Onsen Okuno Hosomichi: A Journey into Kobe's Golden Waters",
+      "lat": 34.7888,
+      "lng": 135.2455,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_okuno_hosomichi.jpg",
+      "address": "Arimacho, Kita-ku, Kobe, Hyogo Prefecture 651-1401, Japan",
+      "published": "2026-05-26",
+      "summary": "Okuno Hosomichi in Arima Onsen isn't just a ryokan; it's a portal to traditional Japanese hospitality, refined elegance, and the healing embrace of *kinsen* (gold water) and *ginsen* (silver water). This secluded haven offers an immersive experience, connecting you with centuries of history and the natural beauty of the Rokko mountains. Prepare for an unforgettable journey into the heart of Japanese onsen culture.",
+      "link": "/onsen/arima_onsen_okuno_hosomichi_en"
+    },
+    {
+      "id": "arima_onsen_negiya_ryofukaku_ko",
+      "lang": "ko",
+      "title": "아리마 온센 네기야 료후카쿠: 고베의 고급스러운 온천 경험 완벽 가이드",
+      "lat": 34.7944,
+      "lng": 135.2505,
+      "categories": [
+        "온천",
+        "료칸"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_negiya_ryofukaku.jpg",
+      "address": "고베, 효고현",
+      "published": "2026-05-26",
+      "summary": "아리마 온천의 중심부에 자리한 네기야 료후카쿠는 전통과 현대적인 편안함이 조화롭게 어우러진 고급 료칸입니다. 금천과 은천 두 가지 독특한 온천수를 경험하고, 정통 가이세키 요리와 세심한 서비스를 만끽하며 잊을 수 없는 시간을 보내세요. 고베와 효고현의 아름다운 자연과 문화를 탐험하기에도 최적의 위치를 자랑합니다.",
+      "link": "/onsen/arima_onsen_negiya_ryofukaku_ko"
+    },
+    {
+      "id": "arima_onsen_negiya_ryofukaku_en",
+      "lang": "en",
+      "title": "Arima Onsen Negiya Ryofukaku: A Luxurious Kobe Escape",
+      "lat": 34.7944,
+      "lng": 135.2505,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_negiya_ryofukaku.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-26",
+      "summary": "Negiya Ryofukaku offers an unparalleled onsen experience in the historic Arima Onsen town. Known for its golden and silver waters, this ryokan seamlessly blends traditional Japanese hospitality with modern comfort. Indulge in exquisite cuisine, stunning architecture, and therapeutic bathing in the heart of Kobe.",
+      "link": "/onsen/arima_onsen_negiya_ryofukaku_en"
+    },
+    {
+      "id": "arima_onsen_motoyu_kosenkaku_ko",
+      "lang": "ko",
+      "title": "아리마 온천 모토유 고센카쿠: 잊을 수 없는 온천 경험 가이드",
+      "lat": 34.7999,
+      "lng": 135.2444,
+      "categories": [
+        "온천 료칸",
+        "아리마 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_motoyu_kosenkaku.jpg",
+      "address": "고베, 효고현",
+      "published": "2026-05-26",
+      "summary": "아리마 온천의 심장부에 위치한 모토유 고센카쿠는 풍부한 역사와 고급스러운 온천 경험을 제공합니다. 금천과 은천의 독특한 온천수를 즐기고, 전통적인 료칸의 아름다움과 현대적인 편안함을 만끽하세요. 특별한 가이세키 요리와 주변 관광 명소를 통해 잊지 못할 여행을 만들어보세요.",
+      "link": "/onsen/arima_onsen_motoyu_kosenkaku_ko"
+    },
+    {
+      "id": "arima_onsen_motoyu_kosenkaku_en",
+      "lang": "en",
+      "title": "Arima Onsen Motoyu Kosenkaku: Kobe's Luxurious Hot Spring Haven",
+      "lat": 34.7999,
+      "lng": 135.2444,
+      "categories": [
+        "Onsen Ryokan",
+        "Arima Onsen",
+        "Hyogo Prefecture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_motoyu_kosenkaku.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-26",
+      "summary": "Nestled in the heart of Arima Onsen, Motoyu Kosenkaku offers a traditional Japanese ryokan experience steeped in history and renowned for its therapeutic waters. Indulge in authentic Kaiseki cuisine, soak in mineral-rich hot springs, and immerse yourself in the serene atmosphere of this historic retreat. Discover the timeless charm of Arima Onsen at Motoyu Kosenkaku.",
+      "link": "/onsen/arima_onsen_motoyu_kosenkaku_en"
+    },
+    {
+      "id": "arima_onsen_kamiobo_ko",
+      "lang": "ko",
+      "title": "고베 아리마 온센 가미오보: 럭셔리 온천 료칸 완벽 가이드",
+      "lat": 34.7971,
+      "lng": 135.2461,
+      "categories": [
+        "온천 료칸",
+        "일본 여행",
+        "고베"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_kamiobo.jpg",
+      "address": "고베, 효고",
+      "published": "2026-05-26",
+      "summary": "아리마 온센의 숨겨진 보석, 가미오보는 전통과 현대의 조화로운 만남을 선사하는 럭셔리 료칸입니다. 금천과 은천, 두 가지 명탕을 경험하고, 섬세한 가이세키 요리와 와비사비 미학이 깃든 객실에서 최고의 휴식을 누리세요. 고베 여행의 특별한 추억을 만들어줄 가미오보의 모든 것을 소개합니다.",
+      "link": "/onsen/arima_onsen_kamiobo_ko"
+    },
+    {
+      "id": "arima_onsen_kamiobo_en",
+      "lang": "en",
+      "title": "Arima Onsen Kamiobo: A Luxurious Escape in Kobe's Historic Hot Spring Town",
+      "lat": 34.7971,
+      "lng": 135.2461,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_kamiobo.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-26",
+      "summary": "Nestled in the heart of Arima Onsen, Kobe, Kamiobo offers a meticulously curated experience blending traditional Japanese hospitality with modern luxury. Renowned for its **golden and silver hot springs**, exquisite Kaiseki cuisine, and refined architecture, this ryokan provides an unforgettable retreat. Discover the profound tranquility and cultural richness of Japan at Arima Onsen Kamiobo.",
+      "link": "/onsen/arima_onsen_kamiobo_en"
+    },
+    {
+      "id": "arima_onsen_hyoe_koyokaku_ko",
+      "lang": "ko",
+      "title": "아리마 온천 효에 코요카쿠: 고베 최고의 럭셔리 온천 체험 완벽 가이드",
+      "lat": 34.7941,
+      "lng": 135.2481,
+      "categories": [
+        "온천",
+        "료칸",
+        "고베",
+        "아리마 온천",
+        "럭셔리 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_hyoe_koyokaku.jpg",
+      "address": "고베, 효고",
+      "published": "2026-05-26",
+      "summary": "아리마 온천 효에 코요카쿠는 일본 최고(日本三大古泉)의 역사를 자랑하는 아리마 온천 마을에 자리 잡은 럭셔리 료칸입니다. 4개의 각기 다른 스타일의 온천탕과 정통 가이세키 요리, 그리고 섬세한 서비스는 잊을 수 없는 온천 경험을 선사합니다. 고베 여행의 정점을 찍을 수 있는 효에 코요카쿠에서 진정한 휴식을 경험해보세요.",
+      "link": "/onsen/arima_onsen_hyoe_koyokaku_ko"
+    },
+    {
+      "id": "arima_onsen_hyoe_koyokaku_en",
+      "lang": "en",
+      "title": "Arima Onsen Hyoe Koyokaku: A Deep Dive into Kobe's Premier Hot Spring Retreat",
+      "lat": 34.7941,
+      "lng": 135.2481,
+      "categories": [
+        "Onsen Ryokan",
+        "Hyogo Prefecture",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_hyoe_koyokaku.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-26",
+      "summary": "Hyoe Koyokaku, nestled in the historic Arima Onsen town, offers an unparalleled hot spring experience just a short journey from Kobe. This celebrated ryokan boasts traditional architecture, exquisite cuisine, and legendary onsen waters renowned for their therapeutic properties. Prepare to be enveloped in tranquility and Japanese hospitality at its finest.",
+      "link": "/onsen/arima_onsen_hyoe_koyokaku_en"
+    },
+    {
+      "id": "arima_onsen_hanamusubi_ko",
+      "lang": "ko",
+      "title": "아리마 온센 하나무스비: 고베에서 만나는 고요한 럭셔리 온천 료칸 완벽 가이드",
+      "lat": 34.7933,
+      "lng": 135.2499,
+      "categories": [
+        "온천",
+        "료칸",
+        "고베",
+        "아리마 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_hanamusubi.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-05-26",
+      "summary": "아리마 온센 하나무스비는 일본 3대 온천 중 하나인 아리마 온천에 위치한 고급 료칸입니다. 금천과 은천, 두 종류의 온천수를 즐길 수 있으며, 정갈한 가이세키 요리와 편안한 객실은 잊지 못할 경험을 선사합니다. 고베 여행 중 특별한 휴식을 원한다면 하나무스비가 최고의 선택이 될 것입니다.",
+      "link": "/onsen/arima_onsen_hanamusubi_ko"
+    },
+    {
+      "id": "arima_onsen_hanamusubi_en",
+      "lang": "en",
+      "title": "Arima Onsen Hanamusubi: A Luxurious Escape into Kobe's Golden Waters",
+      "lat": 34.7933,
+      "lng": 135.2499,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Japanese Culture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_hanamusubi.jpg",
+      "address": "Arimacho, Kita Ward, Kobe, Hyogo 651-1401, Japan",
+      "published": "2026-05-26",
+      "summary": "Hanamusubi in Arima Onsen, Kobe, is a haven of sophisticated tranquility. Immerse yourself in the renowned golden waters of Arima, savor exquisite Kaiseki cuisine, and experience impeccable Japanese hospitality. This ryokan offers a truly luxurious and unforgettable onsen experience.",
+      "link": "/onsen/arima_onsen_hanamusubi_en"
+    },
+    {
+      "id": "arima_onsen_gin_suiso_ko",
+      "lang": "ko",
+      "title": "아리마 온천 긴스이소: 고베 럭셔리 료칸 완벽 가이드",
+      "lat": 34.7915,
+      "lng": 135.2522,
+      "categories": [
+        "온천 료칸",
+        "고급 료칸",
+        "아리마 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_gin_suiso.jpg",
+      "address": "고베, 효고현",
+      "published": "2026-05-26",
+      "summary": "아리마 온천의 정수, 긴스이소에서 잊을 수 없는 시간을 경험하세요. 전통적인 료칸의 아름다움과 현대적인 편안함이 조화롭게 어우러진 곳입니다. 금천과 은천의 특별한 온천수, 정갈한 가이세키 요리, 그리고 세심한 서비스가 여러분을 기다립니다.",
+      "link": "/onsen/arima_onsen_gin_suiso_ko"
+    },
+    {
+      "id": "arima_onsen_gin_suiso_en",
+      "lang": "en",
+      "title": "Arima Onsen Gin Suiso: A Deep Dive into Kobe's Luxurious Hot Spring Haven",
+      "lat": 34.7915,
+      "lng": 135.2522,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Japanese Culture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_gin_suiso.jpg",
+      "address": "Arima-cho 808, Kita-ku, Kobe, Hyogo 651-1401, Japan",
+      "published": "2026-05-26",
+      "summary": "Arima Onsen Gin Suiso offers a sublime blend of traditional Japanese hospitality and modern luxury in the heart of Arima Onsen. Renowned for its distinctive *kinsen* (gold water) and *ginsen* (silver water) hot springs, this ryokan provides an unparalleled onsen experience. Guests can indulge in exquisite kaiseki cuisine, serene rooms designed with minimalist elegance, and the rejuvenating power of Arima's therapeutic waters.",
+      "link": "/onsen/arima_onsen_gin_suiso_en"
+    },
     {
       "id": "kinosaki_onsen_tokiwa_en",
       "lang": "en",

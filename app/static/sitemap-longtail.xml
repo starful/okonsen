@@ -1,6 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_ryokan_sanga_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_okyakuya_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_okyakuya_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_noshiyu_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_noshiyu_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_nanjoen_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_nanjoen_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_kurokawaso_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_kurokawaso_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_ikoi_ryokan_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_ikoi_ryokan_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_hozantei_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_gosho_gekkoju_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_gosho_gekkoju_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kannawaen_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kannawaen_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hotel_shiragiku_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hotel_shiragiku_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hoshino_resorts_kai_beppu_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hoshino_resorts_kai_beppu_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/onsen/gallo_resort_beppu_ko</loc>
     <lastmod>2026-04-12</lastmod>
     <priority>0.8</priority>
@@ -599,6 +699,21 @@
     <loc>https://okonsen.net/onsen/kinosaki_onsen_nishimuraya_honkan_ko</loc>
     <lastmod>2024-04-16</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/beppu_eight_hells_tour_ko</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/winter_onsen_experience_ko</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/winter_onsen_experience_en</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guide/ryokan_kaiseki_dining_ko</loc>
