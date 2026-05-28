@@ -1,15 +1,31 @@
 ---
 lang: en
-title: "Shinmeikan Ryokan: Kurokawa Onsen's Hidden Cave Bath Gem"
+title: 'Shinmeikan Ryokan: Kurokawa Onsen''s Famous Cave Bath Guide'
 lat: 33.0811
 lng: 131.1425
-categories: ["Onsen", "Ryokan", "Kurokawa Onsen", "Cave Bath", "Kumamoto"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_shinmeikan.jpg"
-address: "6600 Manganji, Minamioguni, Aso District, Kumamoto 869-2404, Japan"
-date: "2026-04-16"
-agoda: "https://www.agoda.com/shinmeikan-ryokan/hotel/aso-kumamoto-jp.html?cid=1844104"
-summary: "Shinmeikan Ryokan, nestled in the heart of Kurokawa Onsen, is renowned for its unique and captivating cave bath, a true marvel of natural hot spring experiences. Beyond the cave, its wabi-sabi aesthetic, coupled with exquisite kaiseki cuisine, provides an immersive Japanese ryokan experience. Discover the charm and tranquility that make Shinmeikan a cherished destination for onsen enthusiasts."
+categories:
+- Onsen
+- Ryokan
+- Kurokawa Onsen
+- Cave Bath
+- Kumamoto
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_shinmeikan.jpg
+address: 6600 Manganji, Minamioguni, Aso District, Kumamoto 869-2404, Japan
+date: '2026-04-16'
+agoda: https://www.agoda.com/shinmeikan-ryokan/hotel/aso-kumamoto-jp.html?cid=1844104
+summary: Shinmeikan Ryokan, nestled in the heart of Kurokawa Onsen, is renowned for
+  its unique and captivating cave bath, a true marvel of natural hot spring experiences.
+  Beyond the cave, its wabi-sabi aesthetic, coupled with exquisite kaiseki cuisine,
+  provides an immersive Japanese ryokan experience. Discover the charm and tranquility
+  that make Shinmeikan a cherished destination for onsen enthusiasts.
+description: Discover Shinmeikan Ryokan in Kurokawa Onsen, world-renowned for its
+  extraordinary hand-carved cave bath, rustic riverside charm, and authentic kaiseki
+  dining.
+seo_title: 'Shinmeikan: Kurokawa Onsen''s Famous Cave Bath Ryokan | OKOnsen'
+seo_description: Experience Kurokawa Onsen's famous hand-carved cave bath at Shinmeikan
+  Ryokan. Plan your stay with our expert guide to its baths, rooms, and dining.
 ---
+
 
 ## Shinmeikan Ryokan: Unveiling Kurokawa Onsen's Subterranean Secret
 
