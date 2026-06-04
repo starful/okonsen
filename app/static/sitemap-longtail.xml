@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://okonsen.net/onsen/kusatsu_onsen_pension_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kusatsu_onsen_hotel_sakurai_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kusatsu_onsen_hotel_sakurai_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_yumerindo_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_yumerindo_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_yamamizuki_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_yamamizuki_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_ryokan_wakaba_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_ryokan_wakaba_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_ryokan_sanga_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/onsen/kurokawa_onsen_ryokan_sanga_en</loc>
     <lastmod>2026-04-12</lastmod>
     <priority>0.8</priority>
@@ -699,6 +749,41 @@
     <loc>https://okonsen.net/onsen/kinosaki_onsen_nishimuraya_honkan_ko</loc>
     <lastmod>2024-04-16</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/kinosaki_seven_bath_crawl_en</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/ginzan_onsen_nostalgia_en</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/beppu_eight_hells_tour_en</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/arima_onsen_golden_water_ko</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/arima_onsen_golden_water_en</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/winter_yukimi_rotemburo_ko</loc>
+    <lastmod>2026-05-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/hakone_day_trip_guide_ko</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guide/beppu_eight_hells_tour_ko</loc>

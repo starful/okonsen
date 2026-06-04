@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://okonsen.net/</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://okonsen.net/?lang=ko</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides?lang=ko</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -53,6 +53,56 @@
   <url>
     <loc>https://okonsen.net/onsen/yufuin_onsen_yufuin-so_ko</loc>
     <lastmod>2026-04-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/noboribetsu_onsen_park_hotel_miyabitei_ko</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/noboribetsu_onsen_park_hotel_miyabitei_en</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/noboribetsu_onsen_oyado_kiyomizuya_ko</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/noboribetsu_onsen_oyado_kiyomizuya_en</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/noboribetsu_onsen_noboribetsu_grand_hotel_ko</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/noboribetsu_onsen_noboribetsu_grand_hotel_en</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/noboribetsu_onsen_kashoutei_hanaya_en</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/noboribetsu_onsen_hotel_mahoroba_ko</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/noboribetsu_onsen_hotel_mahoroba_en</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/noboribetsu_onsen_bourou_noguchi_en</loc>
+    <lastmod>2026-06-04</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -421,56 +471,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/kusatsu_onsen_pension_en</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kusatsu_onsen_hotel_sakurai_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kusatsu_onsen_hotel_sakurai_en</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_yumerindo_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_yumerindo_en</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_yamamizuki_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_yamamizuki_en</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_ryokan_wakaba_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_ryokan_wakaba_en</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_ryokan_sanga_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/guide/tattoo_friendly_onsen_list_en</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.7</priority>
@@ -552,42 +552,42 @@
   </url>
   <url>
     <loc>https://okonsen.net/guide/yufuin_scenic_walk_ko</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guide/yufuin_scenic_walk_en</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guide/ryokan_kaiseki_experience_en</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/noboribetsu_hell_valley_ko</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/noboribetsu_hell_valley_en</loc>
+    <lastmod>2026-06-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guide/kurokawa_village_walk_ko</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guide/kurokawa_village_walk_en</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/guide/beppu_eight_hells_tour_en</loc>
-    <lastmod>2026-05-26</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/winter_yukimi_rotemburo_ko</loc>
-    <lastmod>2026-05-12</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/hakone_day_trip_guide_ko</loc>
-    <lastmod>2026-04-16</lastmod>
+    <loc>https://okonsen.net/guide/kinosaki_seven_bath_crawl_ko</loc>
+    <lastmod>2026-06-04</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>

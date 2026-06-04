@@ -1,6 +1,197 @@
 {
-  "last_updated": "2026.05.26 21:57",
+  "last_updated": "2026.06.04 21:41",
   "onsens": [
+    {
+      "id": "noboribetsu_onsen_park_hotel_miyabitei_ko",
+      "lang": "ko",
+      "title": "노보리베츠 온천 파크 호텔 미야비테이: 지옥계곡이 선사하는 치유의 여정",
+      "lat": 42.4951,
+      "lng": 141.1451,
+      "categories": [
+        "온천",
+        "료칸",
+        "홋카이도",
+        "노보리베츠"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_park_hotel_miyabitei.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-06-04",
+      "summary": "홋카이도 노보리베츠 온천의 중심에 자리한 파크 호텔 미야비테이는 자연의 경이로움과 전통 료칸의 미학이 조화된 안식처입니다. 활화산 지형이 뿜어내는 다채로운 온천수를 경험하며 몸과 마음의 깊은 치유를 선사합니다. 미야비테이에서만 느낄 수 있는 세심한 환대와 제철 식재료로 빚어낸 가이세키 요리는 잊지 못할 추억을 선사할 것입니다.",
+      "link": "/onsen/noboribetsu_onsen_park_hotel_miyabitei_ko"
+    },
+    {
+      "id": "noboribetsu_onsen_park_hotel_miyabitei_en",
+      "lang": "en",
+      "title": "Noboribetsu Onsen Park Hotel Miyabitei: A Sanctuary of Sulfur and Serenity in Hokkaido",
+      "lat": 42.4951,
+      "lng": 141.1451,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Hokkaido",
+        "Luxury Travel",
+        "Wellness",
+        "Geothermal Springs"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_park_hotel_miyabitei.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-06-04",
+      "summary": "Nestled amidst the ethereal, volcanic landscape of Noboribetsu, Hokkaido, Noboribetsu Onsen Park Hotel Miyabitei offers an exquisite blend of traditional Japanese hospitality and modern comfort. It provides direct access to Noboribetsu's famed therapeutic thermal waters, allowing guests to immerse themselves in rich sulfur and chloride springs. Experience a true escape where the harmony of nature, refined gastronomy, and unparalleled relaxation converge to rejuvenate body and soul.",
+      "link": "/onsen/noboribetsu_onsen_park_hotel_miyabitei_en"
+    },
+    {
+      "id": "noboribetsu_onsen_oyado_kiyomizuya_ko",
+      "lang": "ko",
+      "title": "노보리베츠 온천 오야도 키요미즈야: 지옥계곡 품은 미학적 온천 료칸 심층 가이드",
+      "lat": 42.4933,
+      "lng": 141.1433,
+      "categories": [
+        "일본 료칸",
+        "홋카이도 온천",
+        "가이세키 요리",
+        "전통 숙소"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_oyado_kiyomizuya.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-06-04",
+      "summary": "홋카이도 노보리베츠의 심장부에 자리한 오야도 키요미즈야는 단순한 숙박 시설을 넘어, 일본 전통의 미학과 치유의 온천수를 오롯이 경험할 수 있는 특별한 공간입니다. 유황 온천의 신비로운 효능과 제철 식재료로 빚어낸 가이세키 요리, 그리고 와비사비 정신이 깃든 객실에서 진정한 힐링을 선사합니다. 이곳은 자연과 조화를 이루며 시간의 흐름을 잊게 하는 고요한 안식처로, 북쪽 대지의 정수를 만끽할 수 있는 최고의 선택이 될 것입니다.",
+      "link": "/onsen/noboribetsu_onsen_oyado_kiyomizuya_ko"
+    },
+    {
+      "id": "noboribetsu_onsen_oyado_kiyomizuya_en",
+      "lang": "en",
+      "title": "Noboribetsu Onsen Oyado Kiyomizuya: A Sanctuary of Volcanic Bliss in Hokkaido",
+      "lat": 42.4933,
+      "lng": 141.1433,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Hokkaido",
+        "Traditional Japanese Inn",
+        "Wellness"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_oyado_kiyomizuya.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-06-04",
+      "summary": "Nestled amidst the dramatic volcanic landscapes of Noboribetsu, Oyado Kiyomizuya offers a serene escape, blending traditional Japanese hospitality with unparalleled onsen experiences. This distinguished ryokan provides a deep immersion into Hokkaido's therapeutic hot springs and refined culinary arts. Discover a sanctuary where tranquility and tradition converge, promising an unforgettable journey for the discerning traveler.",
+      "link": "/onsen/noboribetsu_onsen_oyado_kiyomizuya_en"
+    },
+    {
+      "id": "noboribetsu_onsen_noboribetsu_grand_hotel_ko",
+      "lang": "ko",
+      "title": "노보리베츠 온천 노보리베츠 그랜드 호텔: 지옥계곡의 심장, 치유의 명천이 흐르는 곳",
+      "lat": 42.4955,
+      "lng": 141.1444,
+      "categories": [
+        "노보리베츠 온천",
+        "일본 온천",
+        "료칸",
+        "가족여행",
+        "홋카이도 여행",
+        "미식"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_noboribetsu_grand_hotel.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-06-04",
+      "summary": "홋카이도의 숨겨진 보석, 노보리베츠 온천에 자리한 노보리베츠 그랜드 호텔은 전통적인 일본 환대와 현대적인 편안함이 완벽하게 조화된 공간입니다. 지옥계곡에서 솟아나는 다채로운 온천수를 마음껏 즐기며 진정한 힐링을 경험할 수 있습니다. 미식, 안락한 객실, 그리고 주변의 경이로운 자연경관까지, 모든 것이 어우러져 잊지 못할 추억을 선사하는 곳입니다.",
+      "link": "/onsen/noboribetsu_onsen_noboribetsu_grand_hotel_ko"
+    },
+    {
+      "id": "noboribetsu_onsen_noboribetsu_grand_hotel_en",
+      "lang": "en",
+      "title": "Noboribetsu Grand Hotel: A Journey into Hokkaido's Volcanic Onsen Wonderland",
+      "lat": 42.4955,
+      "lng": 141.1444,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Hokkaido",
+        "Japanese Culture",
+        "Family Friendly"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_noboribetsu_grand_hotel.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-06-04",
+      "summary": "Nestled in the heart of Noboribetsu, Hokkaido, the Noboribetsu Grand Hotel stands as a beacon of classic onsen luxury, seamlessly blending traditional Japanese elegance with refined Western comforts. This venerable establishment offers an unparalleled immersion into the region's famed geothermal waters, boasting multiple spring types renowned for their therapeutic benefits. Prepare for an exquisite journey of relaxation, gourmet delights, and cultural discovery amidst Hokkaido's dramatic volcanic landscape.",
+      "link": "/onsen/noboribetsu_onsen_noboribetsu_grand_hotel_en"
+    },
+    {
+      "id": "noboribetsu_onsen_kashoutei_hanaya_en",
+      "lang": "en",
+      "title": "Noboribetsu Onsen Kashoutei Hanaya: A Sanctuary of Volcanic Serenity in Hokkaido",
+      "lat": 42.4911,
+      "lng": 141.1411,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Hokkaido",
+        "Japanese Culture",
+        "Wellness"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_kashoutei_hanaya.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-06-04",
+      "summary": "Nestled amidst the sulfurous drama of Noboribetsu's 'Hell Valley,' Kashoutei Hanaya offers a profound escape into traditional Japanese hospitality and unparalleled volcanic spring waters. This venerable ryokan expertly blends timeless elegance with modern comfort, creating a serene haven for rejuvenation. Prepare for an immersive journey into Hokkaido's therapeutic onsen culture, refined gastronomy, and breathtaking natural beauty at this distinguished retreat.",
+      "link": "/onsen/noboribetsu_onsen_kashoutei_hanaya_en"
+    },
+    {
+      "id": "noboribetsu_onsen_hotel_mahoroba_ko",
+      "lang": "ko",
+      "title": "노보리베츠 온천 호텔 마호로바: 홋카이도 온천 순례의 정점과 완벽 가이드",
+      "lat": 42.4966,
+      "lng": 141.1455,
+      "categories": [
+        "온천",
+        "홋카이도",
+        "료칸",
+        "럭셔리 여행",
+        "미식",
+        "가족여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_hotel_mahoroba.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-06-04",
+      "summary": "홋카이도 노보리베츠 온천 마을의 중심에 자리한 호텔 마호로바는 웅장함과 아늑함이 조화를 이루는 특별한 온천 여정을 선사합니다. 이곳은 노보리베츠의 풍부한 자연이 선사하는 다양한 수질의 온천을 한자리에서 경험할 수 있는 몇 안 되는 곳 중 하나입니다. 최고급 가이세키 요리와 세심한 서비스, 그리고 평화로운 휴식을 통해 몸과 마음의 진정한 재충전을 경험해보세요.",
+      "link": "/onsen/noboribetsu_onsen_hotel_mahoroba_ko"
+    },
+    {
+      "id": "noboribetsu_onsen_hotel_mahoroba_en",
+      "lang": "en",
+      "title": "Noboribetsu Onsen Hotel Mahoroba: A Definitive Guide to Hokkaido's Multi-Spring Wonderland",
+      "lat": 42.4966,
+      "lng": 141.1455,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Hokkaido",
+        "Family Friendly",
+        "Traditional Japanese Inn"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_hotel_mahoroba.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-06-04",
+      "summary": "Noboribetsu Onsen Hotel Mahoroba stands as a titan among Japan's premier hot spring destinations, offering an unparalleled array of nine distinct spring water types under one roof. This comprehensive guide delves into its rich traditions, diverse bathing experiences, exquisite cuisine, and the seamless blend of comfort and authentic Japanese hospitality. Prepare for an immersive journey into a true onsen connoisseur's dream in the heart of Hokkaido.",
+      "link": "/onsen/noboribetsu_onsen_hotel_mahoroba_en"
+    },
+    {
+      "id": "noboribetsu_onsen_bourou_noguchi_en",
+      "lang": "en",
+      "title": "Noboribetsu Onsen Bourou NOGUCHI: An Elite Guide to Hokkaido's Volcanic Luxury",
+      "lat": 42.4988,
+      "lng": 141.1488,
+      "categories": [
+        "Luxury Ryokan",
+        "Onsen",
+        "Hokkaido",
+        "Gourmet Dining",
+        "Spa Retreat"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_bourou_noguchi.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-06-04",
+      "summary": "Nestled amidst the steamy, volcanic landscape of Noboribetsu, Bourou NOGUCHI offers an unparalleled blend of modern luxury and traditional Japanese onsen culture. This sophisticated ryokan is an adult-oriented sanctuary, renowned for its exquisitely designed private onsen rooms and exceptional Hokkaido-inspired gastronomy. Prepare for an immersive journey into relaxation, refinement, and the therapeutic embrace of one of Japan's most celebrated hot spring towns.",
+      "link": "/onsen/noboribetsu_onsen_bourou_noguchi_en"
+    },
     {
       "id": "noboribetsu_dai-ichi_takimotokan_ko",
       "lang": "ko",
@@ -888,7 +1079,7 @@
     {
       "id": "kurokawa_onsen_shinmeikan_en",
       "lang": "en",
-      "title": "Shinmeikan Ryokan: Kurokawa Onsen's Hidden Cave Bath Gem",
+      "title": "Shinmeikan Ryokan: Kurokawa Onsen's Famous Cave Bath Guide",
       "lat": 33.0811,
       "lng": 131.1425,
       "categories": [
@@ -1256,7 +1447,7 @@
     {
       "id": "kusatsu_onsen_ryokan_yoshinoya_en",
       "lang": "en",
-      "title": "Kusatsu Ryokan Yoshinoya (2026): Private Baths Near Yubatake | Book Guide",
+      "title": "Kusatsu Onsen Ryokan Yoshinoya: Private Baths & Booking Guide",
       "lat": 36.6241,
       "lng": 138.5962,
       "categories": [
@@ -2278,7 +2469,7 @@
     {
       "id": "kusatsu_onsen_hotel_village_en",
       "lang": "en",
-      "title": "Kusatsu Onsen Hotel Village: Your Serene Escape to Volcanic Bliss and Unforgettable Views in Gunma",
+      "title": "Kusatsu Onsen Hotel Village: The Ultimate Forest Hot Spring Resort Guide",
       "lat": 36.6211,
       "lng": 138.6011,
       "categories": [

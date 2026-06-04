@@ -14,9 +14,11 @@ OUTPUT_DIR = "app/content/guides/"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def generate_guide(row, lang):
-    base_id = row['id']
-    topic = row[f'topic_{lang}']
-    keywords = row['keywords']
+    base_id = (row.get('id') or '').strip()
+    if not base_id:
+        return "❌ 에러: id 없음"
+    topic = row.get(f'topic_{lang}') or ''
+    keywords = row.get('keywords') or ''
     filename = f"{base_id}_{lang}.md"
     filepath = os.path.join(OUTPUT_DIR, filename)
 
@@ -46,7 +48,7 @@ def generate_guide(row, lang):
 
     try:
         print(f"📡 API 호출 시작: {filename}")
-        response = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+        response = client.models.generate_content(model='gemini-2.5-flash', contents=prompt)
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(response.text.strip())
         return f"✅ 성공: {filename}"
@@ -61,11 +63,14 @@ def run_batch(limit=3):
         print(f"❌ CSV 파일을 찾을 수 없습니다: {CSV_PATH}")
         return
 
-    with open(CSV_PATH, 'r', encoding='utf-8') as f:
+    with open(CSV_PATH, 'r', encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         for row in reader:
+            gid = (row.get('id') or '').strip()
+            if not gid:
+                continue
             for lang in ['en', 'ko']:
-                filename = f"{row['id']}_{lang}.md"
+                filename = f"{gid}_{lang}.md"
                 filepath = os.path.join(OUTPUT_DIR, filename)
                 if not os.path.exists(filepath):
                     missing_tasks.append((row, lang))

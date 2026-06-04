@@ -74,8 +74,7 @@ def generate_onsen_md(safe_name, name, lat, lng, address, lang, features, agoda_
     """
 
     try:
-        # 모델명을 최신 버전으로 유지 (gemini-2.0-flash 권장)
-        response = client.models.generate_content(model='gemini-2.0-flash', contents=prompt)
+        response = client.models.generate_content(model='gemini-2.5-flash', contents=prompt)
         content = response.text.strip()
         
         # AI가 실수로 넣은 코드 블록 마크업 제거
@@ -99,19 +98,33 @@ def process_csv_auto(limit=10):
         return
 
     tasks = []
+    pairs_queued = 0
     with open(csv_path, mode='r', encoding='utf-8-sig') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            if len(tasks) >= limit * 2: break
-            name = row.get('Name','').strip()
-            if not name: continue
-            
+            if limit > 0 and pairs_queued >= limit:
+                break
+            name = row.get('Name', '').strip()
+            if not name:
+                continue
+
             safe_name = name.lower().replace(" ", "_").replace("'", "").replace(",", "")
-            
+            en_path = os.path.join(CONTENT_DIR, f"{safe_name}_en.md")
+            ko_path = os.path.join(CONTENT_DIR, f"{safe_name}_ko.md")
+            if os.path.exists(en_path) and os.path.exists(ko_path):
+                continue
+
+            pair_tasks = []
             for lang in TARGET_LANGS:
                 filename = f"{safe_name}_{lang}.md"
                 if not os.path.exists(os.path.join(CONTENT_DIR, filename)):
-                    tasks.append((safe_name, name, row['Lat'], row['Lng'], row['Address'], lang, row['Features'], row['Agoda']))
+                    pair_tasks.append(
+                        (safe_name, name, row['Lat'], row['Lng'], row['Address'], lang, row['Features'], row['Agoda'])
+                    )
+            if not pair_tasks:
+                continue
+            pairs_queued += 1
+            tasks.extend(pair_tasks)
 
     if tasks:
         print(f"⚡️ {len(tasks)}개 신규 작업 병렬 실행 시작...")
