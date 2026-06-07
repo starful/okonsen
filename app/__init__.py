@@ -310,6 +310,20 @@ def favicon_ico():
     return redirect('/static/images/favicons.ico', code=301)
 
 
+@app.route('/static/images/<path:filename>')
+def serve_images(filename):
+    """이미지는 GCS가 기준 — okadmin 업로드 즉시 반영."""
+    images_root = os.path.join(STATIC_DIR, 'images')
+    if any(x in filename for x in ['favicon', 'apple-touch']):
+        local_path = os.path.join(images_root, filename)
+        if os.path.isfile(local_path):
+            return send_from_directory(images_root, filename)
+    url = f"https://storage.googleapis.com/ok-project-assets/okonsen/{filename}"
+    if request.query_string:
+        url = f"{url}?{request.query_string.decode()}"
+    return redirect(url, code=302)
+
+
 @app.route('/about')
 @app.route('/about.html')
 def about_page():
