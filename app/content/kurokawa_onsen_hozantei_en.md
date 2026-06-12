@@ -18,10 +18,17 @@ image_prompt: A breathtaking aerial view of Kurokawa Onsen Hozantei, nestled dee
 lang: en
 lat: 33.0911
 lng: 131.1488
-summary: "Considering Hozantei in Kurokawa? Compare rotenburo views, kashikiri baths, room types, and what to book first."
+summary: Considering Hozantei in Kurokawa? Compare rotenburo views, kashikiri baths,
+  room types, and what to book first.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_hozantei.jpg
-title: "Kurokawa Onsen Hozantei (2026): Valley Views, Private Baths & Stay Tips"
+title: 'Kurokawa Onsen Hozantei: Secluded Riverside Baths & Stay Guide'
+description: Planning a stay at Kurokawa Onsen Hozantei? Discover its famous riverside
+  private baths, room options, and booking tips in our expert review.
+seo_title: 'Kurokawa Onsen Hozantei Review: Secluded Riverside Baths - OKOnsen'
+seo_description: Planning a stay at Kurokawa Onsen Hozantei? Discover its famous riverside
+  private baths, room options, and booking tips in our expert review.
 ---
+
 
 ## Kurokawa Onsen Hozantei: A Sanctuary of Serenity Amidst Kumamoto's Majestic Peaks
 

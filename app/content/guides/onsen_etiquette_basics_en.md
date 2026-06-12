@@ -1,9 +1,16 @@
 ---
 lang: en
-title: "Onsen Etiquette in Japan (2026): 15 Rules First-Timers Must Know"
-summary: "New to Japanese onsen? Learn the exact bathing rules, tattoo etiquette, towel dos and don'ts, and common mistakes to avoid before your first soak."
-date: "2026-04-16"
+title: 'Japanese Onsen Etiquette: Step-by-Step Guide for Beginners'
+summary: New to Japanese onsen? Learn the exact bathing rules, tattoo etiquette, towel
+  dos and don'ts, and common mistakes to avoid before your first soak.
+date: '2026-04-16'
+description: Master Japanese onsen etiquette with our easy, step-by-step beginner's
+  guide. Learn the basic rules, tattoo policies, and how to avoid common mistakes.
+seo_title: 'Onsen Etiquette in Japan: Easy Guide for First-Timers'
+seo_description: Confused about Japanese bath rules? Master onsen etiquette with this
+  easy guide. Learn about tattoos, towels, and how to avoid embarrassing mistakes.
 ---
+
 
 ## The Ultimate Guide to Onsen Etiquette: Mastering Japanese Bathing Rules
 

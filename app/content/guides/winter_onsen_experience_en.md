@@ -1,9 +1,18 @@
 ---
 lang: en
-title: "Snowy Bliss: Unveiling the Magic of Yukimi-Rotemburo (Snow-Viewing Onsens) in Northern Japan"
-summary: "Escape to a winter wonderland and immerse yourself in the ultimate relaxation experience: a Yukimi-Rotemburo. Discover the best snow-viewing onsens in Hokkaido and Tohoku and learn how to make the most of your winter onsen getaway in Northern Japan."
-date: "2026-04-15"
+title: 'Japan Winter Onsen Guide: The Magic of Snow-Viewing Baths (Yukimi-Rotenburo)'
+summary: 'Escape to a winter wonderland and immerse yourself in the ultimate relaxation
+  experience: a Yukimi-Rotemburo. Discover the best snow-viewing onsens in Hokkaido
+  and Tohoku and learn how to make the most of your winter onsen getaway in Northern
+  Japan.'
+date: '2026-04-15'
+description: Discover the magic of Japan's winter onsens. Our guide covers the best
+  snow-viewing outdoor baths (yukimi-rotenburo) in Hokkaido and Tohoku.
+seo_title: 'Winter Onsen Guide: Best Snow-Viewing Baths in Japan | OKOnsen'
+seo_description: Experience the magic of a winter onsen in Japan. Discover the best
+  snow-viewing outdoor baths (yukimi-rotenburo) in Hokkaido and Tohoku.
 ---
+
 
 # Snowy Bliss: Unveiling the Magic of Yukimi-Rotemburo (Snow-Viewing Onsens) in Northern Japan
 

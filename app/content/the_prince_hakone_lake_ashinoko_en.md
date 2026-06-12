@@ -14,10 +14,17 @@ image_prompt: A serene aerial view capturing The Prince Hakone Lake Ashinoko, a 
 lang: en
 lat: 35.2122
 lng: 139.0111
-summary: "See if this Hakone ryokan is right for your trip: Lake Ashi view highlights, private bath options, room tips, and what to book first."
+summary: 'See if this Hakone ryokan is right for your trip: Lake Ashi view highlights,
+  private bath options, room tips, and what to book first.'
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg
-title: "The Prince Hakone Lake Ashinoko Review (2026): Lake Ashi Views & Private Baths"
+title: 'The Prince Hakone Lake Ashinoko Review: Worth the Luxury Stay?'
+description: Our honest review of The Prince Hakone Lake Ashinoko. Discover if this
+  luxury lakeside onsen resort with Mt. Fuji views is worth your stay.
+seo_title: 'The Prince Hakone Lake Ashinoko Review: Worth the Stay? - OKOnsen'
+seo_description: Our honest review of The Prince Hakone Lake Ashinoko. Discover if
+  this luxury lakeside onsen resort with Mt. Fuji views is worth your stay.
 ---
+
 
 ## Introduction: Where Serenity Meets Grandeur
 

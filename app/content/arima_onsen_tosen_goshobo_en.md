@@ -1,15 +1,28 @@
 ---
 lang: en
-title: "Arima Onsen Tosen Goshobo: A Deep Dive into Kobe's Historic Hot Spring Haven"
+title: 'Arima Onsen Tosen Goshobo: Guide to Kobe''s Oldest Historic Ryokan'
 lat: 34.7966
 lng: 135.2477
-categories: ["Onsen Ryokan", "Luxury Travel", "Cultural Immersion"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg"
-address: "Kobe, Hyogo"
-date: "2026-05-12"
-agoda: ""
-summary: "Tosen Goshobo, nestled in the heart of Arima Onsen, Kobe, is more than just a ryokan; it's a journey through time. With a history spanning over 800 years, this venerable establishment offers a uniquely intimate and authentic onsen experience. Prepare to be enveloped in refined elegance, therapeutic waters, and the understated charm of traditional Japanese hospitality."
+categories:
+- Onsen Ryokan
+- Luxury Travel
+- Cultural Immersion
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg
+address: Kobe, Hyogo
+date: '2026-05-12'
+agoda: ''
+summary: Tosen Goshobo, nestled in the heart of Arima Onsen, Kobe, is more than just
+  a ryokan; it's a journey through time. With a history spanning over 800 years, this
+  venerable establishment offers a uniquely intimate and authentic onsen experience.
+  Prepare to be enveloped in refined elegance, therapeutic waters, and the understated
+  charm of traditional Japanese hospitality.
+description: Discover Tosen Goshobo, Arima Onsen's oldest ryokan. Experience 800 years
+  of history, famous healing golden springs, and timeless Japanese luxury in Kobe.
+seo_title: 'Tosen Goshobo Guide: Arima Onsen''s Oldest Ryokan - OKOnsen'
+seo_description: Discover Tosen Goshobo, Arima Onsen's oldest ryokan. Experience 800
+  years of history, healing golden springs, and timeless Japanese luxury.
 ---
+
 
 Arima Onsen Tosen Goshobo: Kobe's Timeless Embrace
 

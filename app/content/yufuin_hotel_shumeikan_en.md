@@ -24,9 +24,14 @@ summary: Discover Yufuin Hotel Shumeikan, an exquisite sanctuary nestled in the 
   an unforgettable journey into tranquility, exceptional onsen experiences, and gourmet
   kaiseki dining amidst one of Japan's most picturesque hot spring towns.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_hotel_shumeikan.jpg
-title: 'Yufuin Hotel Shumeikan: A Serene Escape with Breathtaking Views and Authentic
-  Local Charm in Oita'
+title: 'Yufuin Hotel Shumeikan: Onsen Ryokan with Mt. Yufu Views'
+description: Discover Yufuin Hotel Shumeikan. Enjoy breathtaking Mt. Yufu views, relaxing
+  hot spring (onsen) baths, and traditional hospitality in Oita, Japan.
+seo_title: 'Yufuin Hotel Shumeikan: Onsen & Mt. Yufu Views | OKOnsen'
+seo_description: Discover Yufuin Hotel Shumeikan. Enjoy breathtaking Mt. Yufu views,
+  relaxing hot spring (onsen) baths, and traditional hospitality in Oita, Japan.
 ---
+
 
 ## Introduction: Discovering the Soul of Yufuin at Shumeikan
 

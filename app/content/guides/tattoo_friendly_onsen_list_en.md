@@ -1,9 +1,16 @@
 ---
 lang: en
-title: "Tattoo-Friendly Onsen Japan (2026): Rules, Stickers & Ryokan List"
-summary: "Planning Japan with tattoos? See what is allowed, cover-sticker tips, and ryokans with private baths before you book."
-date: "2026-04-15"
+title: Tattoos Allowed! Best Tattoo-Friendly Onsen & Ryokan in Japan (2026)
+summary: Planning Japan with tattoos? See what is allowed, cover-sticker tips, and
+  ryokans with private baths before you book.
+date: '2026-04-15'
+description: Can you soak in Japan with tattoos? Discover 100% tattoo-friendly onsens,
+  ryokans with private baths, and essential cover-up sticker rules.
+seo_title: 'Tattoos Allowed: Best Tattoo-Friendly Onsen in Japan (2026) - OKOnsen'
+seo_description: Can you soak in Japan with tattoos? Discover 100% tattoo-friendly
+  onsens, ryokans with private baths, and essential cover-up sticker rules.
 ---
+
 
 ## Beyond the Ink: Your Ultimate Guide to Tattoo-Friendly Onsen in Japan
 

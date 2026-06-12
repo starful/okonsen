@@ -22,9 +22,14 @@ summary: Discover Kusatsu Onsen Tokinoniwa, an opulent sanctuary nestled amidst 
   expansive public rotenburo. This luxury ryokan promises an unforgettable escape
   where every detail is crafted for your utmost relaxation and rejuvenation.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_tokinoniwa.jpg
-title: 'Indulge in Pure Bliss: Kusatsu Onsen Tokinoniwa, Where Luxury Meets Serene
-  Views and Private Thermal Escapes'
+title: 'Kusatsu Onsen Tokinoniwa: Luxury Ryokan with Private Open-Air Baths'
+description: Discover Kusatsu Onsen Tokinoniwa, a luxury ryokan featuring private
+  open-air hot spring baths in every room and exquisite traditional dining.
+seo_title: 'Kusatsu Onsen Tokinoniwa: Private Baths in Every Room | OKOnsen'
+seo_description: Experience Kusatsu Onsen Tokinoniwa, a luxury ryokan with private
+  open-air baths in every room and 23 unique hot springs. Plan your perfect escape.
 ---
+
 
 ## Introduction: A Symphony of Serenity and Splendor
 

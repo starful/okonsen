@@ -25,9 +25,14 @@ summary: Perched majestically on a hillside overlooking Beppu Bay, the iconic Be
   knows no bounds and every moment is infused with profound tranquility and luxurious
   comfort.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_suginoi_hotel.jpg
-title: 'Ascend to Onsen Heaven: Beppu Suginoi Hotel, Where Panoramic Views Meet Pure
-  Luxury and Serenity'
+title: 'Beppu Suginoi Hotel Onsen: Panoramic Views & Pure Luxury'
+description: Discover Beppu Suginoi Hotel, Beppu's premier onsen resort. Explore the
+  famous Tanayu infinity bath, private family onsens, and luxury stays.
+seo_title: 'Suginoi Hotel Beppu Onsen: Complete Guide & Review - OKOnsen'
+seo_description: Discover Beppu Suginoi Hotel, Beppu's premier onsen resort. Explore
+  the famous Tanayu infinity bath, private family onsens, and luxury stays.
 ---
+
 
 ## A Majestic Ascent to Onsen Serenity: The Unforgettable Beppu Suginoi Hotel Experience
 

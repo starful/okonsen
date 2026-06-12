@@ -1,9 +1,16 @@
 ---
 lang: en
-title: "Kurokawa Onsen Guide (2026): Hidden Ryokans, Pass Tips, and Best Baths"
-summary: "Find the best Kurokawa ryokans and rotenburo in one guide, including onsen hopping pass tips, where to stay, and how to plan a quieter visit."
-date: "2026-04-15"
+title: 'Kurokawa Onsen Hidden Gems: Secret Ryokans & Best Baths'
+summary: Find the best Kurokawa ryokans and rotenburo in one guide, including onsen
+  hopping pass tips, where to stay, and how to plan a quieter visit.
+date: '2026-04-15'
+description: Escape the crowds in Kurokawa Onsen. Discover secret ryokans, hidden
+  outdoor baths (rotenburo), and insider tips for the Tegata hopping pass.
+seo_title: 'Kurokawa Onsen Hidden Gems: Secret Ryokans & Best Baths'
+seo_description: Escape the crowds in Kurokawa Onsen. Discover secret ryokans, hidden
+  outdoor baths (rotenburo), and insider tips for the Tegata hopping pass.
 ---
+
 
 ## Kurokawa Onsen: A Journey to Tranquility in Kyushu's Heart
 

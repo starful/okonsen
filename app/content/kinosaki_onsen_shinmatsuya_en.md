@@ -1,15 +1,29 @@
 ---
 lang: en
-title: "Shinmatsuya Ryokan: A Timeless Onsen Retreat in Kinosaki"
+title: 'Shinmatsuya Ryokan: A Cozy Kinosaki Onsen Stay'
 lat: 35.6288
 lng: 134.8166
-categories: ["Onsen", "Ryokan", "Kinosaki", "Hyogo", "Luxury Travel"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg"
-address: "376 Kinosakicho Yushima, Toyooka, Hyogo 669-6101, Japan"
-date: "2026-04-28"
-agoda: ""
-summary: "Shinmatsuya Ryokan, nestled in the heart of Kinosaki Onsen, offers an unforgettable journey into traditional Japanese hospitality. Experience rejuvenating onsen waters, exquisite cuisine, and serene surroundings in this meticulously crafted ryokan. Discover a sanctuary where time slows down and the essence of Japanese culture flourishes."
+categories:
+- Onsen
+- Ryokan
+- Kinosaki
+- Hyogo
+- Luxury Travel
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg
+address: 376 Kinosakicho Yushima, Toyooka, Hyogo 669-6101, Japan
+date: '2026-04-28'
+agoda: ''
+summary: Shinmatsuya Ryokan, nestled in the heart of Kinosaki Onsen, offers an unforgettable
+  journey into traditional Japanese hospitality. Experience rejuvenating onsen waters,
+  exquisite cuisine, and serene surroundings in this meticulously crafted ryokan.
+  Discover a sanctuary where time slows down and the essence of Japanese culture flourishes.
+description: Discover Shinmatsuya, a charming traditional ryokan in Kinosaki Onsen.
+  Explore its cozy rooms, relaxing baths, and authentic hospitality. Plan your stay!
+seo_title: 'Shinmatsuya Ryokan: Cozy Kinosaki Onsen Guide | OKOnsen'
+seo_description: Discover Shinmatsuya, a charming traditional ryokan in Kinosaki Onsen.
+  Explore its cozy rooms, relaxing baths, and authentic hospitality. Plan your stay!
 ---
+
 
 Shinmatsuya Ryokan exudes an aura of quiet elegance, instantly transporting you to a bygone era of refined Japanese hospitality. As you step across the threshold, the gentle murmur of the Otani River and the warm smiles of the staff welcome you to a world where **serenity and personalized service** reign supreme. More than just an onsen ryokan, Shinmatsuya is a meticulously curated experience, blending traditional aesthetics with modern comforts to create an unforgettable retreat. It's unique because of its dedication to preserving the authentic Kinosaki onsen experience while providing guests with a sophisticated and comfortable stay.
 
