@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_nishimuraya_honkan_en</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_morizuya_en</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_mikuniya_en</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/yamada_bessou_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/yamada_bessou_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/ryoutei_matsudaya_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/ryoutei_matsudaya_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kusatsu_onsen_yugokoro_tei_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kusatsu_onsen_yugokoro_tei_en</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kusatsu_onsen_pension_ko</loc>
+    <lastmod>2026-04-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/onsen/kusatsu_onsen_pension_en</loc>
     <lastmod>2026-04-12</lastmod>
     <priority>0.8</priority>
@@ -751,17 +801,47 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://okonsen.net/guide/gero_onsen_beauty_water_ko</loc>
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/gero_onsen_beauty_water_en</loc>
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/dogo_onsen_studio_ghibli_en</loc>
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/beppu_eight_hells_tour_en</loc>
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/noboribetsu_hell_valley_ko</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/noboribetsu_hell_valley_en</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/kinosaki_seven_bath_crawl_ko</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/guide/kinosaki_seven_bath_crawl_en</loc>
     <lastmod>2026-06-04</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guide/ginzan_onsen_nostalgia_en</loc>
-    <lastmod>2026-06-04</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/beppu_eight_hells_tour_en</loc>
     <lastmod>2026-06-04</lastmod>
     <priority>0.7</priority>
   </url>
