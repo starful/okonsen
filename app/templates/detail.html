@@ -224,9 +224,11 @@
                 {{ content | safe }}
             </div>
 
-            {% include 'partials/share_bar.html' %}
+        {% include 'partials/share_bar.html' %}
 
-            {% with reaction_slug=onsen_id, reaction_lang=post.lang|default('en') %}
+        {% include 'partials/cross_site_links.html' %}
+
+        {% with reaction_slug=onsen_id, reaction_lang=post.lang|default('en') %}
             {% include 'partials/reactions.html' %}
             {% endwith %}
 

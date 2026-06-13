@@ -347,6 +347,20 @@ def seo_url_normalization():
     return None
 
 
+try:
+    from .family_sites import cross_links_for, inject_family_context
+except ImportError:
+    from family_sites import cross_links_for, inject_family_context
+
+FAMILY_SITE_ID = "okonsen"
+
+
+@app.context_processor
+def inject_family_sites():
+    lang = request.args.get("lang", "en") if request else "en"
+    return inject_family_context(FAMILY_SITE_ID, lang)
+
+
 @app.route('/sitemap.xml')
 def sitemap_xml():
     """Search Console / crawlers expect https://okonsen.net/sitemap.xml (see robots.txt)."""
@@ -514,6 +528,8 @@ def guide_detail(guide_id):
                            title=title, summary=summary, content=content_html, lang=lang, 
                            image_url=image_url, base_id=base_id, faq_items=faq_items,
                            related_guides=related_guides, featured_onsens=featured_onsens,
+                           cross_site_links=cross_links_for(FAMILY_SITE_ID, lang),
+                           **inject_family_context(FAMILY_SITE_ID, lang),
                            **stats, **share_ctx)
 
 @app.route('/onsen/<onsen_id>')
@@ -551,6 +567,10 @@ def onsen_detail(onsen_id):
                            lang=lang, 
                            related_guides=related_guides,
                            featured_onsens=featured_onsens,
+                           cross_site_links=cross_links_for(
+                               FAMILY_SITE_ID, lang, address=post.get("address")
+                           ),
+                           **inject_family_context(FAMILY_SITE_ID, lang),
                            **_og_image_context(base_id),
                            **stats, **share_ctx)
 

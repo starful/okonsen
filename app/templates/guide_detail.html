@@ -212,6 +212,8 @@
 
         {% include 'partials/share_bar.html' %}
 
+        {% include 'partials/cross_site_links.html' %}
+
         {% with reaction_slug=base_id ~ '_' ~ lang, reaction_lang=lang %}
             {% include 'partials/reactions.html' %}
             {% endwith %}
