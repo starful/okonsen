@@ -24,6 +24,14 @@
     <link rel="icon" href="/static/images/favicons.ico">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="/static/css/style.css">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-P8FM8Z36D7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-P8FM8Z36D7');
+    </script>
     
     <!-- 가이드 상세페이지 전용 CSS (메인 헤더 사이즈와 완벽 동기화) -->
     <style>
@@ -200,9 +208,11 @@
             <!-- 본문 내용 -->
             <div class="guide-body-content">
                 {{ content | safe }}
-            </div>
+        </div>
 
-            {% with reaction_slug=base_id ~ '_' ~ lang, reaction_lang=lang %}
+        {% include 'partials/share_bar.html' %}
+
+        {% with reaction_slug=base_id ~ '_' ~ lang, reaction_lang=lang %}
             {% include 'partials/reactions.html' %}
             {% endwith %}
 

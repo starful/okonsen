@@ -28,6 +28,14 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="/static/css/style.css">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-P8FM8Z36D7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-P8FM8Z36D7');
+    </script>
     
     <!-- 온천 상세페이지 전용 매거진 스타일 CSS -->
     <style>
@@ -203,6 +211,8 @@
             <div class="onsen-body-content">
                 {{ content | safe }}
             </div>
+
+            {% include 'partials/share_bar.html' %}
 
             {% with reaction_slug=onsen_id, reaction_lang=post.lang|default('en') %}
             {% include 'partials/reactions.html' %}

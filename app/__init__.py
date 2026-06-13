@@ -40,6 +40,28 @@ except ImportError:
 
 app.register_blueprint(reactions_bp)
 
+SITE_URL = os.environ.get("SITE_URL", "https://okonsen.net").rstrip("/")
+
+
+def _linkedin_inspector_url(page_url: str) -> str:
+    from urllib.parse import quote
+    return f"https://www.linkedin.com/post-inspector/inspect/{quote(page_url, safe='')}"
+
+
+def _share_context(slug: str, title: str, lang: str, page_path: str) -> dict:
+    share_url = f"{SITE_URL}{page_path}"
+    if lang == "ko":
+        share_tweet = f"{title} — OKOnsen"
+    else:
+        share_tweet = f"{title} — Japan onsen guide on OKOnsen"
+    return {
+        "share_id": slug,
+        "share_url": share_url,
+        "share_tweet": share_tweet,
+        "share_lang": lang if lang in ("en", "ko") else "en",
+        "linkedin_inspector_url": _linkedin_inspector_url(share_url),
+    }
+
 # Load .env from project root for local development.
 load_dotenv(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.env'))
 
@@ -422,10 +444,13 @@ def guide_detail(guide_id):
     featured_onsens = get_featured_onsens(lang, limit=10)
     stats = get_footer_stats(lang)
 
+    share_ctx = _share_context(guide_id, title, lang, f"/guide/{guide_id}")
+
     return render_template('guide_detail.html', 
                            title=title, summary=summary, content=content_html, lang=lang, 
                            image_url=image_url, base_id=base_id, faq_items=faq_items,
-                           related_guides=related_guides, featured_onsens=featured_onsens, **stats)
+                           related_guides=related_guides, featured_onsens=featured_onsens,
+                           **stats, **share_ctx)
 
 @app.route('/onsen/<onsen_id>')
 def onsen_detail(onsen_id):
@@ -446,7 +471,13 @@ def onsen_detail(onsen_id):
     featured_onsens = [o for o in get_featured_onsens(lang, limit=10) if o.get('id') != onsen_id][:8]
     stats = get_footer_stats(lang)
     
-    # 💡 base_id와 현재 lang을 템플릿에 전달
+    share_ctx = _share_context(
+        onsen_id,
+        post.get("title", "OKOnsen"),
+        lang,
+        f"/onsen/{onsen_id}",
+    )
+
     return render_template('detail.html', 
                            post=post, 
                            content=content_html, 
@@ -455,7 +486,7 @@ def onsen_detail(onsen_id):
                            lang=lang, 
                            related_guides=related_guides,
                            featured_onsens=featured_onsens,
-                           **stats)
+                           **stats, **share_ctx)
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 8080))
