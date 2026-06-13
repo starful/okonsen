@@ -421,6 +421,14 @@ header {
 
 .share-btn-linkedin:hover { color: #0a66c2; border-color: #0a66c2; }
 
+.share-bar-hint {
+    flex: 1 1 100%;
+    margin: 0;
+    font-size: 0.78rem;
+    line-height: 1.45;
+    color: var(--text-gray);
+}
+
 @media (max-width: 768px) {
     .header-container { grid-template-columns: auto 1fr auto; padding: 10px 15px; }
     .header-left { display: block; }

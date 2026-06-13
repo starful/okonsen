@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template, abort, request, redirect, send_from_directory
+from flask import Flask, jsonify, render_template, abort, request, redirect, send_from_directory, Response
 from flask_compress import Compress
 import json
 import os
@@ -7,6 +7,8 @@ import markdown
 import re
 import hashlib
 import copy
+import io
+import urllib.request
 from typing import List, Dict
 from dotenv import load_dotenv
 
@@ -41,6 +43,35 @@ except ImportError:
 app.register_blueprint(reactions_bp)
 
 SITE_URL = os.environ.get("SITE_URL", "https://okonsen.net").rstrip("/")
+GCS_ASSET_PREFIX = "okonsen"
+
+
+def _gcs_image_url(filename: str) -> str:
+    return f"https://storage.googleapis.com/ok-project-assets/{GCS_ASSET_PREFIX}/{filename}"
+
+
+def _social_image_url(base_id: str) -> str:
+    safe = re.sub(r"[^a-z0-9_-]", "", base_id.lower())
+    return f"{SITE_URL}/social/{safe}.jpg"
+
+
+def _og_image_context(base_id: str) -> dict:
+    og_image_abs = _social_image_url(base_id)
+    return {
+        "og_image_abs": og_image_abs,
+        "og_image_width": 1200,
+        "og_image_height": 630,
+    }
+
+
+def _card_path(onsen_id: str) -> str:
+    return f"/card/{onsen_id}"
+
+
+def _jpeg_bytes(img) -> bytes:
+    buf = io.BytesIO()
+    img.save(buf, format="JPEG", quality=78, optimize=True, progressive=True)
+    return buf.getvalue()
 
 
 def _linkedin_inspector_url(page_url: str) -> str:
@@ -48,8 +79,9 @@ def _linkedin_inspector_url(page_url: str) -> str:
     return f"https://www.linkedin.com/post-inspector/inspect/{quote(page_url, safe='')}"
 
 
-def _share_context(slug: str, title: str, lang: str, page_path: str) -> dict:
+def _share_context(slug: str, title: str, lang: str, page_path: str, base_id: str = "") -> dict:
     share_url = f"{SITE_URL}{page_path}"
+    share_url_x = f"{SITE_URL}{_card_path(slug)}"
     if lang == "ko":
         share_tweet = f"{title} — OKOnsen"
     else:
@@ -57,8 +89,10 @@ def _share_context(slug: str, title: str, lang: str, page_path: str) -> dict:
     return {
         "share_id": slug,
         "share_url": share_url,
+        "share_url_x": share_url_x,
         "share_tweet": share_tweet,
         "share_lang": lang if lang in ("en", "ko") else "en",
+        "og_page_url": share_url,
         "linkedin_inspector_url": _linkedin_inspector_url(share_url),
     }
 
@@ -353,6 +387,36 @@ def serve_images(filename):
     return redirect(url, code=302)
 
 
+@app.route('/social/<slug>.jpg')
+def social_image(slug):
+    """Serve onsen thumbnail on-site for OG/Twitter (1200×630 JPEG, no redirect)."""
+    safe = re.sub(r"[^a-z0-9_-]", "", slug.lower())
+    if not safe:
+        abort(404)
+    gcs_url = _gcs_image_url(f"{safe}.jpg")
+    try:
+        with urllib.request.urlopen(gcs_url, timeout=15) as resp:
+            raw = resp.read()
+            if not raw:
+                abort(404)
+    except Exception:
+        abort(404)
+
+    try:
+        from PIL import Image, ImageOps
+
+        img = Image.open(io.BytesIO(raw)).convert("RGB")
+        data = _jpeg_bytes(ImageOps.fit(img, (1200, 630), Image.Resampling.LANCZOS))
+    except Exception:
+        data = raw
+
+    return Response(
+        data,
+        mimetype="image/jpeg",
+        headers={"Cache-Control": "public, max-age=86400"},
+    )
+
+
 @app.route('/about')
 @app.route('/about.html')
 def about_page():
@@ -476,6 +540,7 @@ def onsen_detail(onsen_id):
         post.get("title", "OKOnsen"),
         lang,
         f"/onsen/{onsen_id}",
+        base_id=base_id,
     )
 
     return render_template('detail.html', 
@@ -486,7 +551,36 @@ def onsen_detail(onsen_id):
                            lang=lang, 
                            related_guides=related_guides,
                            featured_onsens=featured_onsens,
+                           **_og_image_context(base_id),
                            **stats, **share_ctx)
+
+
+@app.route('/card/<onsen_id>')
+def onsen_social_card(onsen_id):
+    """Lightweight share landing page for X/OG crawlers."""
+    md_path = os.path.join(CONTENT_DIR, f"{onsen_id}.md")
+    if not os.path.exists(md_path):
+        abort(404)
+
+    with open(md_path, 'r', encoding='utf-8') as f:
+        post = frontmatter.loads(normalize_markdown_source(f.read()))
+
+    base_id = onsen_id.rsplit('_', 1)[0]
+    lang = post.get('lang', 'en')
+    title = post.get('title', 'OKOnsen')
+    summary = post.get('summary', '')
+    page_path = f"/onsen/{onsen_id}"
+
+    return render_template(
+        'social_card.html',
+        lang=lang,
+        title=title,
+        seo_title=f"{title} - OKOnsen",
+        seo_desc=summary,
+        page_url=f"{SITE_URL}{page_path}",
+        card_url=f"{SITE_URL}{_card_path(onsen_id)}",
+        **_og_image_context(base_id),
+    )
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 8080))
