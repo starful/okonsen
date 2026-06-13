@@ -33,6 +33,13 @@ CORE_ONSEN_IDS = [
 app = Flask(__name__)
 Compress(app)
 
+try:
+    from .reactions import reactions_bp
+except ImportError:
+    from reactions import reactions_bp
+
+app.register_blueprint(reactions_bp)
+
 # Load .env from project root for local development.
 load_dotenv(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.env'))
 

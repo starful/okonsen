@@ -22,6 +22,7 @@
     <link rel="alternate" hreflang="ko" href="https://okonsen.net/guide/{{ base_id }}_ko">
     <link rel="alternate" hreflang="x-default" href="https://okonsen.net/guide/{{ base_id }}_en">
     <link rel="icon" href="/static/images/favicons.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="/static/css/style.css">
     
     <!-- 가이드 상세페이지 전용 CSS (메인 헤더 사이즈와 완벽 동기화) -->
@@ -200,6 +201,10 @@
             <div class="guide-body-content">
                 {{ content | safe }}
             </div>
+
+            {% with reaction_slug=base_id ~ '_' ~ lang, reaction_lang=lang %}
+            {% include 'partials/reactions.html' %}
+            {% endwith %}
 
             {% if related_guides %}
             <section class="back-section" style="margin-top:48px;">

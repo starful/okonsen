@@ -26,6 +26,7 @@
     <meta property="twitter:description" content="{{ post.summary }}">
     <meta property="twitter:image" content="{{ post.thumbnail }}">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="/static/css/style.css">
     
     <!-- 온천 상세페이지 전용 매거진 스타일 CSS -->
@@ -202,6 +203,10 @@
             <div class="onsen-body-content">
                 {{ content | safe }}
             </div>
+
+            {% with reaction_slug=onsen_id, reaction_lang=post.lang|default('en') %}
+            {% include 'partials/reactions.html' %}
+            {% endwith %}
 
             {% if related_guides %}
             <section class="back-section" style="margin-top:40px;">
