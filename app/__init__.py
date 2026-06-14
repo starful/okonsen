@@ -12,6 +12,11 @@ import urllib.request
 from typing import List, Dict
 from dotenv import load_dotenv
 
+try:
+    from .content_new import enrich_item, enrich_items
+except ImportError:
+    from content_new import enrich_item, enrich_items
+
 CORE_GUIDE_BASES = [
     "tattoo_friendly_onsen_list",
     "kurokawa_hidden_gems",
@@ -192,7 +197,7 @@ def get_featured_onsens(lang, limit=12):
         filtered = [o for o in data_list if o.get('lang') == 'en']
     lang_ids = [oid for oid in CORE_ONSEN_IDS if oid.endswith(f"_{lang}")]
     ranked = prioritize_by_ids(filtered, lang_ids)
-    return ranked[:limit]
+    return enrich_items(ranked[:limit])
 
 
 def _resolve_lang_slug_redirect(prefix: str, slug: str, content_dir: str):
@@ -295,7 +300,7 @@ def get_all_guides(lang):
         
         item['image'] = GUIDE_IMAGES[img_idx]
         last_img_idx = img_idx
-        guides.append(item)
+        guides.append(enrich_item({**item, "published": item.get("date", "")}))
 
     return guides
 

@@ -78,13 +78,15 @@
                 
                 <div class="guide-large-grid">
                     {% for guide in guides %}
-                    <a href="/guide/{{ guide.id }}" class="guide-large-card">
-                        <div class="guide-card-img-wrapper">
+                    <a href="/guide/{{ guide.id }}" class="guide-large-card{% if guide.is_new %} is-new{% endif %}">
+                        <div class="guide-card-img-wrapper card-visual">
                             <img src="{{ guide.image }}" alt="{{ guide.title }}">
+                            {% if guide.is_new %}<span class="badge-new">New</span>{% endif %}
                         </div>
                         <div class="guide-card-body">
                             <h4>{{ guide.title }}</h4>
                             <p>{{ (guide.summary or "")[:120] }}...</p>
+                            {% if guide.published %}<span class="published-date">📅 {{ guide.published }}</span>{% endif %}
                         </div>
                     </a>
                     {% endfor %}

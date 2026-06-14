@@ -3,6 +3,26 @@ let allOnsens = [];
 let markers = [];
 const currentLang = new URLSearchParams(window.location.search).get('lang') || 'en';
 
+const NEW_CONTENT_DAYS = 14;
+
+function isContentNew(published) {
+    if (!published) return false;
+    const d = new Date(String(published).slice(0, 10) + 'T00:00:00');
+    if (Number.isNaN(d.getTime())) return false;
+    const cutoff = new Date();
+    cutoff.setDate(cutoff.getDate() - NEW_CONTENT_DAYS);
+    cutoff.setHours(0, 0, 0, 0);
+    return d >= cutoff;
+}
+
+function newBadgeHtml(isNew) {
+    return isNew ? '<span class="badge-new">New</span>' : '';
+}
+
+function formatPublished(published) {
+    return published ? String(published).slice(0, 10) : '';
+}
+
 const CATEGORY_MAP = {
     '가족탕': 'private', 'Private Bath': 'private',
     '타투 허용': 'tattoo', 'Tattoo OK': 'tattoo',
@@ -68,16 +88,20 @@ function renderList(theme) {
 
     // main.js 내의 renderList 함수 부분 수정
     filtered.forEach(onsen => {
+        const isNew = isContentNew(onsen.published);
         const card = document.createElement('div');
-        card.className = 'onsen-card';
+        card.className = 'onsen-card' + (isNew ? ' is-new' : '');
         card.innerHTML = `
-            <a href="${onsen.link}?lang=${currentLang}">
-                <img src="${onsen.thumbnail}" 
-                    class="card-thumb" 
-                    alt="${onsen.title}" 
-                    onerror="this.onerror=null; this.src='https://storage.googleapis.com/ok-project-assets/okonsen/default.png';">
+            <a href="${onsen.link}?lang=${currentLang}" class="onsen-card-link">
+                <div class="card-visual">
+                    <img src="${onsen.thumbnail}" 
+                        class="card-thumb" 
+                        alt="${onsen.title}" 
+                        onerror="this.onerror=null; this.src='https://storage.googleapis.com/ok-project-assets/okonsen/default.png';">
+                    ${newBadgeHtml(isNew)}
+                </div>
                 <div class="card-content">
-                    <div class="card-meta">📍 ${onsen.address}</div>
+                    <div class="card-meta">📍 ${onsen.address}${formatPublished(onsen.published) ? ` · <span class="published-date">${formatPublished(onsen.published)}</span>` : ''}</div>
                     <h3 class="card-title">${onsen.title}</h3>
                     <p class="card-summary">${onsen.summary.substring(0, 100)}...</p>
                     <div style="margin-top:10px;">
