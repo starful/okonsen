@@ -25,9 +25,14 @@ summary: Discover the soul of Beppu at Takegawara Onsen, a historic gem where an
   provides an unparalleled glimpse into Japan's rich onsen culture, promising rejuvenation
   and a truly memorable journey.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_onsen_takegawara.jpg
-title: 'Beppu Takegawara Onsen: Embrace Authentic Tradition & Tattoo-Friendly Bliss
-  in Japan''s Steaming Heart'
+title: 'Takegawara Onsen in Beppu: Iconic Sand Baths & Tattoo-Friendly Guide'
+description: Visit Beppu's historic Takegawara Onsen. Experience the famous hot sand
+  bath in a tattoo-friendly, traditional Japanese bathhouse.
+seo_title: 'Takegawara Onsen Beppu: Famous Sand Bath & Tattoo-Friendly Guide'
+seo_description: Visit Beppu's historic Takegawara Onsen. Experience the famous hot
+  sand bath in a tattoo-friendly, traditional Japanese bathhouse.
 ---
+
 
 # Beppu Takegawara Onsen: A Journey into the Heart of Japan's Steaming Legacy
 

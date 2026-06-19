@@ -21,9 +21,15 @@ summary: Discover Hakone Pax Yoshino, an exquisite ryokan blending traditional J
   and unforgettable escape. Experience world-class kaiseki dining and impeccable service
   that redefines luxury relaxation.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_pax_yoshino.jpg
-title: 'Hakone Pax Yoshino: Your Serene Escape to Private Onsens and Breathtaking
-  Mountain Vistas'
+title: 'Hakone Pax Yoshino: A Serene Ryokan with Private Onsen in Hakone'
+description: A complete guide to Hakone Pax Yoshino, a beautiful ryokan in Hakone
+  Yumoto offering private hot spring baths, mountain views, and exquisite kaiseki
+  dining.
+seo_title: 'Hakone Pax Yoshino Ryokan: Private Onsen & Stay Guide - OKOnsen'
+seo_description: Discover Hakone Pax Yoshino, a premier ryokan with private open-air
+  onsen baths, mountain views, and kaiseki dining in Hakone Yumoto.
 ---
+
 
 ## Introduction: An Oasis of Tranquility and Unrivaled Beauty
 

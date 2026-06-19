@@ -1,9 +1,18 @@
 ---
 lang: en
-title: "A Gourmet Journey: Unveiling Kaiseki Ryori at Japanese Ryokans - A Culinary Pilgrimage"
-summary: "Embark on a culinary exploration of Kaiseki Ryori, the epitome of Japanese fine dining. Discover the history, etiquette, and where to experience this multicourse masterpiece within the serene setting of a traditional ryokan, complete with seasonal ingredients and unparalleled 'omotenashi'."
-date: "2026-04-15"
+title: 'Ryokan Kaiseki Dining Guide: Traditional Japanese Fine Dining'
+summary: Embark on a culinary exploration of Kaiseki Ryori, the epitome of Japanese
+  fine dining. Discover the history, etiquette, and where to experience this multicourse
+  masterpiece within the serene setting of a traditional ryokan, complete with seasonal
+  ingredients and unparalleled 'omotenashi'.
+date: '2026-04-15'
+description: A complete guide to Kaiseki Ryori at traditional Japanese ryokans. Learn
+  about seasonal courses, dining etiquette, and what to expect.
+seo_title: 'Ryokan Kaiseki Dining Guide: Courses & Etiquette | OKOnsen'
+seo_description: Master Ryokan Kaiseki dining. Learn about traditional course structures,
+  dinner etiquette, and seasonal ingredients in this ultimate guide.
 ---
+
 
 ## A Gourmet Journey: Unveiling Kaiseki Ryori at Japanese Ryokans - A Culinary Pilgrimage
 

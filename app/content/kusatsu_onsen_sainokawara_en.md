@@ -24,9 +24,14 @@ summary: Discover the unparalleled raw beauty of Kusatsu Onsen Sainokawara, a ma
   a bath; it's an authentic journey into the heart of Japanese hot spring culture,
   offering profound relaxation and breathtaking views.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_sainokawara.jpg
-title: 'Kusatsu Onsen Sainokawara: Embrace Japan''s Wild Heart in a Tattoo-Friendly
-  Volcanic Wonderland'
+title: 'Sainokawara Rotenburo: Tattoo-Friendly Kusatsu Onsen Guide'
+description: Guide to Sainokawara Rotenburo, a giant, tattoo-friendly outdoor hot
+  spring in Kusatsu Onsen. Learn about access, fees, and rules.
+seo_title: 'Sainokawara Rotenburo: Tattoo-Friendly Kusatsu Onsen - OKOnsen'
+seo_description: Guide to Sainokawara Rotenburo, a giant, tattoo-friendly outdoor
+  hot spring in Kusatsu Onsen. Learn about access, fees, and rules.
 ---
+
 
 ## Introduction: Where Earth's Embrace Meets Human Serenity
 

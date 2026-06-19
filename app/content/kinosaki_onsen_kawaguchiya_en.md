@@ -1,15 +1,30 @@
 ---
 lang: en
-title: "Kinosaki Onsen Kawaguchiya: A Deep Dive into Hyogo's Tranquil Retreat"
+title: 'Kawaguchiya Honkan Ryokan: A Complete Kinosaki Onsen Guide'
 lat: 35.6211
 lng: 134.8105
-categories: ["Onsen Ryokan", "Kinosaki Onsen", "Hyogo Prefecture"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kawaguchiya.jpg"
-address: "386 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan"
-date: "2026-04-28"
-agoda: ""
-summary: "Kawaguchiya Ryokan in Kinosaki Onsen offers an authentic and immersive Japanese onsen experience. Renowned for its warm hospitality, delectable cuisine featuring local ingredients, and convenient access to Kinosaki's famed public bathhouses, it's the perfect base for exploring this charming town. Discover meticulously crafted rooms, soothing onsen waters, and a journey into traditional Japanese culture."
+categories:
+- Onsen Ryokan
+- Kinosaki Onsen
+- Hyogo Prefecture
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kawaguchiya.jpg
+address: 386 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
+date: '2026-04-28'
+agoda: ''
+summary: Kawaguchiya Ryokan in Kinosaki Onsen offers an authentic and immersive Japanese
+  onsen experience. Renowned for its warm hospitality, delectable cuisine featuring
+  local ingredients, and convenient access to Kinosaki's famed public bathhouses,
+  it's the perfect base for exploring this charming town. Discover meticulously crafted
+  rooms, soothing onsen waters, and a journey into traditional Japanese culture.
+description: Kawaguchiya Honkan is a historic ryokan in Kinosaki Onsen, renowned for
+  its traditional Japanese hospitality, soothing hot spring baths, and exquisite seasonal
+  crab dining. Explore our in-depth review and guide to planning your perfect Kinosaki
+  getaway.
+seo_title: 'Kawaguchiya Honkan Ryokan Review: Kinosaki Onsen - OKOnsen'
+seo_description: Plan your stay at Kawaguchiya Honkan in Kinosaki Onsen. Read our
+  review of this classic ryokan's hot springs, Kaiseki dining, and booking tips.
 ---
+
 
 Kinosaki Onsen Kawaguchiya isn’t just a ryokan; it's a gateway to a slower, more deliberate pace of life. Nestled in the heart of **Kinosaki Onsen**, this traditional Japanese inn offers a compelling blend of classic hospitality and modern comfort. Stepping inside feels like entering a different world, where the gentle murmur of the Otani River and the click-clack of *geta* sandals on the wooden boardwalk set the rhythm. Kawaguchiya distinguishes itself with its dedication to providing a truly authentic onsen experience, seamlessly integrating with the town's unique "bath-hopping" culture. It offers a refuge from the hustle, allowing guests to fully immerse themselves in the rejuvenating waters and timeless traditions of Kinosaki.
 
