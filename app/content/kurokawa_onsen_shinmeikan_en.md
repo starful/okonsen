@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 'Shinmeikan Ryokan: Guide to Kurokawa Onsen''s Famous Cave Bath'
+title: 'Kurokawa Onsen Shinmeikan: Guide to the Famous Cave Bath'
 lat: 33.0811
 lng: 131.1425
 categories:
@@ -18,12 +18,13 @@ summary: Shinmeikan Ryokan, nestled in the heart of Kurokawa Onsen, is renowned 
   Beyond the cave, its wabi-sabi aesthetic, coupled with exquisite kaiseki cuisine,
   provides an immersive Japanese ryokan experience. Discover the charm and tranquility
   that make Shinmeikan a cherished destination for onsen enthusiasts.
-description: Shinmeikan is a historic Kurokawa Onsen ryokan famous for its mystical,
-  hand-carved cave bath. Discover its natural hot springs, dining, and rustic charm.
-seo_title: 'Shinmeikan: Kurokawa Onsen''s Famous Cave Bath | OKOnsen'
-seo_description: Experience Shinmeikan, Kurokawa Onsen's legendary ryokan famous for
-  its hand-carved cave bath. Explore baths, meals, and booking tips.
+description: Explore Shinmeikan Ryokan in Kurokawa Onsen, famous for its hand-carved
+  cave bath. Find expert tips on baths, dining, and booking your stay.
+seo_title: 'Kurokawa Onsen Shinmeikan: Guide to the Famous Cave Bath - OKOnsen'
+seo_description: Explore Shinmeikan Ryokan in Kurokawa Onsen, famous for its hand-carved
+  cave bath. Find expert tips on baths, dining, and booking your stay.
 ---
+
 
 
 

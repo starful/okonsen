@@ -18,12 +18,14 @@ summary: Ranked ~9th for kusatsu onsen ryokan yoshinoya searches. See location, 
   baths, and booking tips near Yubatake.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg
 title: 'Kusatsu Onsen Ryokan Yoshinoya: Private Baths & Stay Guide'
-description: An in-depth guide to Kusatsu Onsen Ryokan Yoshinoya, featuring its private
-  kashikiri baths and prime location near the famous Yubatake.
-seo_title: 'Kusatsu Onsen Ryokan Yoshinoya: Private Baths | OKOnsen'
-seo_description: Planning a stay at Kusatsu Onsen Ryokan Yoshinoya? Discover its private
-  kashikiri baths and prime location just steps from Yubatake.
+description: Discover Ryokan Yoshinoya in Kusatsu Onsen. Learn about its relaxing
+  private kashikiri baths, cozy guest rooms, and perfect location just steps from
+  Yubatake.
+seo_title: 'Ryokan Yoshinoya Kusatsu Onsen: Private Baths & Guide'
+seo_description: Planning a stay at Ryokan Yoshinoya in Kusatsu Onsen? Explore its
+  relaxing private kashikiri baths, cozy rooms, and prime location steps from Yubatake.
 ---
+
 
 
 

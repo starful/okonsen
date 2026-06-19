@@ -1,16 +1,17 @@
 ---
 lang: en
-title: 'Hakone Onsen Day Trip: Best Public Baths & Ryokans'
+title: 'Hakone Onsen Day Trip: Best Day-Use Baths & Ryokans'
 summary: Escape the city bustle with a Hakone Onsen day trip! Discover the best public
   baths, affordable ryokans, and essential travel tips using the Hakone Free Pass
   for an unforgettable experience.
 date: '2024-02-29'
-description: Plan your perfect Hakone Onsen day trip from Tokyo. Discover the best
-  public baths, day-use ryokans, and essential travel tips. Read our guide!
-seo_title: 'Hakone Onsen Day Trip Guide: Best Baths & Ryokans - OKOnsen'
-seo_description: Plan your perfect Hakone Onsen day trip from Tokyo. Discover the
-  best public baths, day-use ryokans, and essential travel tips. Read our guide!
+description: An easy guide to planning the ultimate Hakone Onsen day trip. Find top-rated
+  day-use public baths and ryokans, plus travel tips.
+seo_title: 'Hakone Onsen Day Trip: Best Day-Use Baths & Ryokans | OKOnsen'
+seo_description: Plan the perfect Hakone Onsen day trip! Discover top-rated day-use
+  hot springs, ryokans, and public baths with our local guide.
 ---
+
 
 
 # Hakone Onsen Day Trip: Unwind in Volcanic Hot Springs Near Tokyo - Public Baths & Ryokans

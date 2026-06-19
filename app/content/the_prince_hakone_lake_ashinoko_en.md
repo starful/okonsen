@@ -17,13 +17,14 @@ lng: 139.0111
 summary: 'See if this Hakone ryokan is right for your trip: Lake Ashi view highlights,
   private bath options, room tips, and what to book first.'
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg
-title: 'The Prince Hakone Lake Ashinoko Review: Worth the Luxury Stay?'
-description: Our honest review of The Prince Hakone Lake Ashinoko. Discover if this
-  luxury lakeside onsen resort with Mt. Fuji views is worth your stay.
-seo_title: 'The Prince Hakone Lake Ashinoko Review: Worth the Stay? - OKOnsen'
-seo_description: Our honest review of The Prince Hakone Lake Ashinoko. Discover if
-  this luxury lakeside onsen resort with Mt. Fuji views is worth your stay.
+title: 'The Prince Hakone Lake Ashinoko Review: Is This Luxury Onsen Worth It?'
+description: Read our honest review of The Prince Hakone Lake Ashinoko. Discover the
+  stunning lakeview open-air onsen, room tips, and if it's worth the luxury price.
+seo_title: 'The Prince Hakone Lake Ashinoko Review: Is It Worth It? - OKOnsen'
+seo_description: Read our honest review of The Prince Hakone Lake Ashinoko. Discover
+  the stunning lakeview open-air onsen, room tips, and if it's worth the luxury price.
 ---
+
 
 
 ## Introduction: Where Serenity Meets Grandeur

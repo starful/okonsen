@@ -22,13 +22,14 @@ summary: Discover the tranquil oasis of Beppu Daiiti Hotel, where the mineral-ri
   in an environment that warmly welcomes all, including those with tattoos, making
   it a truly inclusive and unforgettable escape.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_daiiti_hotel.jpg
-title: 'Beppu Daiiti Hotel: Tattoo-Friendly Onsen & Stay Guide'
-description: Discover if Beppu Daiiti Hotel allows tattoos. Learn about their private
-  baths, amenities, and tattoo-friendly policies near Beppu Station.
-seo_title: 'Beppu Daiiti Hotel: Tattoo-Friendly Onsen Guide | OKOnsen'
-seo_description: Can you wear tattoos at Beppu Daiiti Hotel? Read our guide to their
-  tattoo-friendly baths, private onsens, and amenities near Beppu Station.
+title: 'Beppu Daiiti Hotel: Tattoo-Friendly Private Onsen & Stay Guide'
+description: An essential guide to Beppu Daiiti Hotel, highlighting its tattoo-friendly
+  private family bath, cozy rooms, and convenient location near Beppu Station.
+seo_title: 'Beppu Daiiti Hotel: Tattoo-Friendly Private Onsen & Stay'
+seo_description: Enjoy a tattoo-friendly stay at Beppu Daiiti Hotel. Relax in their
+  private family bath near Beppu Station. Read our full review and guide!
 ---
+
 
 
 # Beppu Daiiti Hotel: An Unforgettable Journey into Oita's Onsen Paradise

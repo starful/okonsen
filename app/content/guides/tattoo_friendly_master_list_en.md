@@ -1,15 +1,16 @@
 ---
 lang: en
-title: 'Tattoo-Friendly Onsen Japan (2026): Ultimate Master List & Rules'
+title: 'Tattoo-Friendly Onsen Japan (2026): 100+ Verified Spots & Rules'
 summary: Planning Japan with tattoos? See what is actually allowed, how to use cover
   stickers, and where private baths make your onsen trip stress-free.
 date: '2026-04-16'
-description: Can you enter Japanese hot springs with ink? Avoid rejection with our
-  ultimate 2026 list of tattoo-friendly onsen, maps, and cover-up rules.
-seo_title: 'Tattoo-Friendly Onsen Japan (2026): The Ultimate Master List'
-seo_description: Can you enter Japanese hot springs with ink? Avoid rejection with
-  our ultimate 2026 list of tattoo-friendly onsen, maps, and cover-up rules.
+description: Yes, you can soak with tattoos! Discover 100+ verified tattoo-friendly
+  onsen in Japan. Get maps, cover-up rules, and private bath options here.
+seo_title: 'Tattoo-Friendly Onsen Japan (2026): 100+ Verified Spots'
+seo_description: Yes, you can soak with tattoos! Discover 100+ verified tattoo-friendly
+  onsen in Japan. Get maps, cover-up rules, and private bath options here.
 ---
+
 
 
 ## Soaking Up Japan: A Tattoo-Friendly Onsen Adventure

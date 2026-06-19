@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 'Shinmatsuya Ryokan: A Cozy Kinosaki Onsen Stay'
+title: 'Shinmatsuya Ryokan: Cozy Stay in Kinosaki Onsen'
 lat: 35.6288
 lng: 134.8166
 categories:
@@ -17,12 +17,13 @@ summary: Shinmatsuya Ryokan, nestled in the heart of Kinosaki Onsen, offers an u
   journey into traditional Japanese hospitality. Experience rejuvenating onsen waters,
   exquisite cuisine, and serene surroundings in this meticulously crafted ryokan.
   Discover a sanctuary where time slows down and the essence of Japanese culture flourishes.
-description: Discover Shinmatsuya, a charming traditional ryokan in Kinosaki Onsen.
-  Explore its cozy rooms, relaxing baths, and authentic hospitality. Plan your stay!
-seo_title: 'Shinmatsuya Ryokan: Cozy Kinosaki Onsen Guide | OKOnsen'
-seo_description: Discover Shinmatsuya, a charming traditional ryokan in Kinosaki Onsen.
-  Explore its cozy rooms, relaxing baths, and authentic hospitality. Plan your stay!
+description: Experience warm Japanese hospitality at Shinmatsuya Ryokan, a cozy retreat
+  in Kinosaki Onsen perfect for relaxing in traditional baths and savoring local delicacies.
+seo_title: 'Shinmatsuya Ryokan: Authentic Kinosaki Onsen Stay | OKOnsen'
+seo_description: Discover Shinmatsuya Ryokan in Kinosaki Onsen. Enjoy cozy traditional
+  rooms, local seasonal cuisine, and easy access to historic public baths.
 ---
+
 
 
 Shinmatsuya Ryokan exudes an aura of quiet elegance, instantly transporting you to a bygone era of refined Japanese hospitality. As you step across the threshold, the gentle murmur of the Otani River and the warm smiles of the staff welcome you to a world where **serenity and personalized service** reign supreme. More than just an onsen ryokan, Shinmatsuya is a meticulously curated experience, blending traditional aesthetics with modern comforts to create an unforgettable retreat. It's unique because of its dedication to preserving the authentic Kinosaki onsen experience while providing guests with a sophisticated and comfortable stay.
