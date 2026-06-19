@@ -23,14 +23,14 @@ summary: Nestled in the heart of Kumamoto's serene Minamioguni, Kurokawa Onsen I
   authentic local charm, promising an unforgettable journey for the discerning traveler
   seeking deep relaxation and cultural immersion.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg
-title: 'Kurokawa Onsen Ikoi Ryokan: Tattoo-Friendly Hot Springs in Kumamoto'
-description: Experience Kurokawa Onsen Ikoi Ryokan, a historic, tattoo-friendly ryokan
-  in Kumamoto offering iconic hot springs, private baths, and traditional Japanese
-  hospitality.
+title: 'Kurokawa Onsen Ikoi Ryokan: Tattoo-Friendly Hot Springs Guide'
+description: Discover tattoo-friendly hot springs at Kurokawa Onsen Ikoi Ryokan in
+  Kumamoto. Experience historic baths and authentic Japanese ryokan hospitality.
 seo_title: 'Kurokawa Onsen Ikoi Ryokan: Tattoo-Friendly Guide | OKOnsen'
-seo_description: Discover Kurokawa Onsen Ikoi Ryokan in Kumamoto. A tattoo-friendly
-  ryokan featuring historic hot spring baths, private onsen, and rustic charm.
+seo_description: Discover tattoo-friendly hot springs at Kurokawa Onsen Ikoi Ryokan
+  in Kumamoto. Experience historic baths and authentic Japanese ryokan hospitality.
 ---
+
 
 
 ## Unveiling the Serenity of Kurokawa Onsen Ikoi Ryokan: An Authentic Kumamoto Escape

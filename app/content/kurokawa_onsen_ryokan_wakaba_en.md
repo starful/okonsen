@@ -22,13 +22,14 @@ summary: Escape to Kurokawa Onsen Ryokan Wakaba, a hidden gem nestled in Minamio
   and culinary excellence amidst the breathtaking natural beauty of Aso-Kuju National
   Park.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_wakaba.jpg
-title: 'Kurokawa Onsen Ryokan Wakaba: A Sanctuary of Private Baths and Local Charm'
-description: Experience the ultimate relaxation at Ryokan Wakaba in Kurokawa Onsen,
-  featuring therapeutic private family baths and authentic local hospitality.
-seo_title: 'Kurokawa Onsen Ryokan Wakaba: Private Baths & Guide - OKOnsen'
-seo_description: Discover Kurokawa Onsen Ryokan Wakaba. Enjoy therapeutic private
-  baths, authentic local dining, and serene nature in Kumamoto. Read our expert review.
+title: 'Ryokan Wakaba in Kurokawa Onsen: A Guide to Private Baths & Comfort'
+description: Discover Kurokawa Onsen Ryokan Wakaba, a peaceful hot spring inn in Kumamoto
+  famous for its skin-healing private baths, lush nature, and authentic kaiseki dining.
+seo_title: 'Ryokan Wakaba: Kurokawa Onsen Guide with Private Baths | OKOnsen'
+seo_description: Experience Kurokawa Onsen Ryokan Wakaba. Enjoy therapeutic private
+  family hot springs, exquisite local dining, and traditional Japanese hospitality.
 ---
+
 
 
 ## Introduction: Discovering Kurokawa's Hidden Gem

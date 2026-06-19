@@ -20,12 +20,13 @@ summary: Escape to Beppu Showaen, an exquisite luxury ryokan in Japan's onsen he
   and a deep connection to Beppu's rich hot spring heritage in this tranquil haven.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_showaen.jpg
 title: 'Beppu Showaen: Luxury Ryokan with Private Onsen'
-description: Discover Beppu Showaen, a luxury traditional ryokan in Beppu featuring
-  private hot spring baths, exquisite kaiseki dining, and serene nature.
+description: Experience ultimate luxury at Beppu Showaen. Enjoy private onsen hot
+  springs, traditional ryokan hospitality, and exquisite dining in Beppu, Japan.
 seo_title: 'Beppu Showaen: Luxury Ryokan with Private Onsen | OKOnsen'
-seo_description: Experience ultimate luxury at Beppu Showaen, a traditional ryokan
-  offering private hot spring baths, exquisite kaiseki dining, and serene nature.
+seo_description: Experience ultimate luxury at Beppu Showaen. Enjoy private onsen
+  hot springs, traditional ryokan hospitality, and exquisite dining in Beppu, Japan.
 ---
+
 
 
 ## Introduction: A Glimpse into Serene Opulence

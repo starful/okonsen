@@ -16,12 +16,13 @@ summary: Escape to Arima Onsen Kinzan, a haven of tranquility nestled in the mou
   Kinzan offers an unforgettable Japanese ryokan experience. Discover the timeless
   beauty of Arima, and immerse yourself in traditional hospitality and breathtaking
   natural surroundings.
-description: Discover Arima Onsen Kinzan, an award-winning luxury ryokan in Kobe.
-  Experience therapeutic hot springs, exceptional Kaiseki dining, and peak hospitality.
-seo_title: Arima Onsen Kinzan | Luxury Ryokan in Kobe - OKOnsen
-seo_description: Experience luxury at Arima Onsen Kinzan. Enjoy natural hot springs,
-  exquisite Kaiseki dining, and traditional Japanese ryokan hospitality in Kobe.
+description: Discover Arima Onsen Kinzan, a premier luxury ryokan in Kobe famous for
+  its therapeutic hot springs and exquisite Kaiseki dining experience.
+seo_title: 'Arima Onsen Kinzan: Luxury Ryokan in Kobe | OKOnsen'
+seo_description: Experience Arima Onsen Kinzan, a premier luxury ryokan in Kobe. Enjoy
+  therapeutic hot springs, exquisite Kaiseki, and world-class Japanese hospitality.
 ---
+
 
 
 Arima Onsen Kinzan: A Journey into Serenity
