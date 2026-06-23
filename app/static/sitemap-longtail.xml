@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://okonsen.net/onsen/arima_onsen_arima_grand_hotel_en</loc>
+    <lastmod>2026-05-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_tokiwa_ko</loc>
+    <lastmod>2026-04-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_shinmatsuya_ko</loc>
+    <lastmod>2026-04-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_shinmatsuya_en</loc>
+    <lastmod>2026-04-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_sento_en</loc>
+    <lastmod>2026-04-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_koyado_en_ko</loc>
+    <lastmod>2026-04-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_kawaguchiya_ko</loc>
+    <lastmod>2026-04-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_kawaguchiya_en</loc>
+    <lastmod>2026-04-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/arima_onsen_taketoritei_maruyama_en</loc>
+    <lastmod>2026-04-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/arima_onsen_arima_grand_hotel_ko</loc>
+    <lastmod>2026-04-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kinosaki_onsen_sento_ko</loc>
+    <lastmod>2026-04-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/kurokawa_onsen_yama_no_yado_ko</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/onsen/kurokawa_onsen_yama_no_yado_en</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
@@ -861,6 +921,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://okonsen.net/guide/shirahama_ocean_view_ko</loc>
+    <lastmod>2026-06-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/shirahama_ocean_view_en</loc>
+    <lastmod>2026-06-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/nyuto_onsen_seclusion_en</loc>
+    <lastmod>2026-06-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/guide/ibusuki_sand_steam_ko</loc>
     <lastmod>2026-06-19</lastmod>
     <priority>0.7</priority>
@@ -872,11 +947,6 @@
   </url>
   <url>
     <loc>https://okonsen.net/guide/dogo_onsen_studio_ghibli_ko</loc>
-    <lastmod>2026-06-19</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/beppu_eight_hells_tour_en</loc>
     <lastmod>2026-06-19</lastmod>
     <priority>0.7</priority>
   </url>

@@ -1,6 +1,234 @@
 {
-  "last_updated": "2026.06.19 10:26",
+  "last_updated": "2026.06.23 11:12",
   "onsens": [
+    {
+      "id": "jozankei_onsen_suizantei_ko",
+      "lang": "ko",
+      "title": "정산케이 온천 스이잔테이: 삿포로의 비경 속, 최상의 럭셔리 료칸 가이드",
+      "lat": 42.9666,
+      "lng": 141.1666,
+      "categories": [
+        "럭셔리 료칸",
+        "온천 여행",
+        "가이세키 다이닝",
+        "홋카이도 숙소"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_suizantei.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-23",
+      "summary": "삿포로의 '정원'이라 불리는 정산케이 온천 지역에 자리한 스이잔테이는 자연의 품격과 최상의 환대를 동시에 선사하는 럭셔리 료칸입니다. 풍성한 미식과 고품격 온천, 그리고 와비사비 미학이 깃든 객실에서 북해도 여행의 진정한 휴식을 경험해 보세요. 스이잔테이에서의 시간은 단순한 숙박을 넘어, 영혼을 치유하는 예술적인 여정이 될 것입니다.",
+      "link": "/onsen/jozankei_onsen_suizantei_ko"
+    },
+    {
+      "id": "jozankei_onsen_suizantei_en",
+      "lang": "en",
+      "title": "A Riverside Sanctuary: Unveiling the Exquisite Charm of Jozankei Onsen Suizantei",
+      "lat": 42.9666,
+      "lng": 141.1666,
+      "categories": [
+        "Luxury Ryokan",
+        "Onsen Retreat",
+        "Hokkaido",
+        "Gourmet Kaiseki",
+        "Nature Escape"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_suizantei.jpg",
+      "address": "Jozankei Onsen Higashi 3-Chome 192, Minami-ku, Sapporo, Hokkaido 061-2303, Japan",
+      "published": "2026-06-23",
+      "summary": "Nestled along the serene Toyohira River, Jozankei Onsen Suizantei offers an unparalleled fusion of traditional Japanese luxury and breathtaking natural beauty. This exclusive ryokan in Sapporo, Hokkaido, redefines the onsen experience with its meticulously designed private baths, exquisite multi-course kaiseki dining, and an atmosphere of profound tranquility. It is a sanctuary where refined aesthetics meet deep relaxation, inviting discerning travelers to immerse themselves in Hokkaido's pristine embrace.",
+      "link": "/onsen/jozankei_onsen_suizantei_en"
+    },
+    {
+      "id": "jozankei_onsen_shogetsu_grand_hotel_ko",
+      "lang": "ko",
+      "title": "죠잔케이 온천 쇼게츠 그랜드 호텔: 삿포로의 숨겨진 보석, 완벽 가이드",
+      "lat": 42.9677,
+      "lng": 141.1677,
+      "categories": [
+        "온천",
+        "료칸",
+        "럭셔리 여행",
+        "홋카이도"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg",
+      "address": "일본 〒061-2303 Hokkaido, Sapporo, Minami Ward, Jozankeionsenhigashi, 3 Chome−211",
+      "published": "2026-06-23",
+      "summary": "홋카이도 삿포로의 비경, 죠잔케이 온천 협곡 깊숙이 자리한 쇼게츠 그랜드 호텔은 자연과 어우러진 최고의 휴식을 선사합니다. 탁월한 온천수 질, 정교한 가이세키 요리, 그리고 전통과 현대가 조화를 이룬 공간에서 진정한 일본 료칸의 정수를 경험해보세요. 계절마다 변모하는 압도적인 자연 경관 속에서 일상의 번잡함을 잊고 온전한 평화를 만끽할 수 있습니다.",
+      "link": "/onsen/jozankei_onsen_shogetsu_grand_hotel_ko"
+    },
+    {
+      "id": "jozankei_onsen_shogetsu_grand_hotel_en",
+      "lang": "en",
+      "title": "Jozankei's Emerald Gem: An Elite Guide to Shogetsu Grand Hotel Onsen",
+      "lat": 42.9677,
+      "lng": 141.1677,
+      "categories": [
+        "Luxury Onsen",
+        "Ryokan Experience",
+        "Hokkaido Travel",
+        "Jozankei Hot Springs",
+        "Gourmet Kaiseki"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-23",
+      "summary": "Nestled amidst the serene mountains of Jozankei, Shogetsu Grand Hotel offers an unparalleled escape, blending timeless Japanese tradition with discreet luxury. Experience the profound healing of its renowned sodium chloride springs, celebrated for their therapeutic warmth and mineral richness. Indulge in exquisite multi-course Kaiseki dining, crafted from Hokkaido's finest seasonal ingredients, all while surrounded by breathtaking natural beauty and refined hospitality.",
+      "link": "/onsen/jozankei_onsen_shogetsu_grand_hotel_en"
+    },
+    {
+      "id": "jozankei_onsen_nukumorino_yado_furukawa_ko",
+      "lang": "ko",
+      "title": "죠잔케이 온천 누쿠모리노 야도 후루카와: 홋카이도의 심장 속 온화한 휴식처 완벽 가이드",
+      "lat": 42.9633,
+      "lng": 141.1633,
+      "categories": [
+        "온천",
+        "료칸",
+        "홋카이도",
+        "죠잔케이",
+        "고급 숙박",
+        "미식"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_nukumorino_yado_furukawa.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-23",
+      "summary": "홋카이도 삿포로에서 단 한 시간 거리에 위치한 죠잔케이 온천은 자연 속 깊이 자리한 평화로운 온천 마을입니다. 그중 '누쿠모리노 야도 후루카와'는 이름 그대로 '따스함이 머무는 숙소'라는 의미처럼, 방문객에게 잊을 수 없는 아늑함과 최상의 편안함을 선사합니다. 이곳은 단순한 숙박을 넘어, 홋카이도의 사계절 변화를 오감으로 느끼며 전통과 현대가 조화롭게 어우러진 진정한 일본 료칸 문화를 경험할 수 있는 곳입니다.",
+      "link": "/onsen/jozankei_onsen_nukumorino_yado_furukawa_ko"
+    },
+    {
+      "id": "jozankei_onsen_nukumorino_yado_furukawa_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Nukumorino Yado Furukawa: A Hokkaido Sanctuary of Warmth and Wellness",
+      "lat": 42.9633,
+      "lng": 141.1633,
+      "categories": [
+        "Onsen Ryokan",
+        "Hokkaido Travel",
+        "Luxury Stays",
+        "Japanese Cuisine",
+        "Nature Retreat"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_nukumorino_yado_furukawa.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-23",
+      "summary": "Nestled amidst the serene beauty of Jozankei, Nukumorino Yado Furukawa offers an unparalleled escape where traditional Japanese hospitality meets the soothing embrace of nature's hot springs. This exquisite ryokan, whose name itself means 'Inn of Warmth,' masterfully blends rustic elegance with refined comforts, promising a truly restorative experience. It stands as a beacon for those seeking profound tranquility, exceptional regional gastronomy, and the therapeutic power of Hokkaido's pristine onsen waters.",
+      "link": "/onsen/jozankei_onsen_nukumorino_yado_furukawa_en"
+    },
+    {
+      "id": "jozankei_onsen_kuramure_ko",
+      "lang": "ko",
+      "title": "조잔케이 온천 쿠라무레: 삿포로 자연 속 프라이빗 럭셔리 휴식 가이드",
+      "lat": 42.9688,
+      "lng": 141.1688,
+      "categories": [
+        "럭셔리 료칸",
+        "온천",
+        "카이세키",
+        "조잔케이",
+        "프라이빗 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kuramure.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-23",
+      "summary": "조잔케이 온천 쿠라무레는 삿포로 교외의 울창한 자연 속에 자리한 **프라이빗 럭셔리 료칸**입니다. 모든 객실에 전용 노천탕을 갖추고 있어 **깊은 휴식과 온전한 고요함**을 선사하며, **미식의 향연**과 **세심한 서비스**로 오직 당신만을 위한 특별한 경험을 약속합니다. 북해도의 자연과 일본 전통 미학이 완벽하게 조화된 이곳에서 진정한 힐링을 만나보세요.",
+      "link": "/onsen/jozankei_onsen_kuramure_ko"
+    },
+    {
+      "id": "jozankei_onsen_kuramure_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Kuramure: A Secluded Hokkaido Sanctuary for the Discerning Traveler",
+      "lat": 42.9688,
+      "lng": 141.1688,
+      "categories": [
+        "Luxury Onsen",
+        "Ryokan",
+        "Hokkaido Travel",
+        "Private Onsen Retreat",
+        "Gourmet Dining"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kuramure.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-23",
+      "summary": "Nestled amidst the serene natural beauty of Jozankei, Kuramure offers an unparalleled escape into a world of understated luxury and profound tranquility. This exclusive ryokan redefines the onsen experience with its philosophy of privacy and refined aesthetics, where every guest room boasts its own private open-air bath. Indulge in exquisite kaiseki dining, embrace the calming rhythm of nature, and rediscover the art of Japanese hospitality in a truly magnificent setting.",
+      "link": "/onsen/jozankei_onsen_kuramure_en"
+    },
+    {
+      "id": "jozankei_onsen_jozankei_hotel_ko",
+      "lang": "ko",
+      "title": "조잔케이 온천 조잔케이 호텔: 홋카이도 자연 속 힐링의 정수, 완벽 가이드",
+      "lat": 42.9651,
+      "lng": 141.1651,
+      "categories": [
+        "온천 료칸",
+        "홋카이도",
+        "럭셔리",
+        "자연 경관",
+        "가족 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_jozankei_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-23",
+      "summary": "삿포로에서 단 한 시간 거리, 숨 막히는 자연 경관 속에 자리한 조잔케이 온천 조잔케이 호텔은 전통과 현대가 조화된 편안함을 선사합니다. 미네랄 풍부한 온천수에 몸을 담그고, 제철 홋카이도 식재료로 만든 가이세키 요리를 맛보며 진정한 휴식을 경험하세요. 사계절 내내 다채로운 풍경을 자랑하는 이곳에서 잊을 수 없는 추억을 만들 수 있습니다.",
+      "link": "/onsen/jozankei_onsen_jozankei_hotel_ko"
+    },
+    {
+      "id": "jozankei_onsen_jozankei_hotel_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Jozankei Hotel: A Sanctuary of Serenity in Hokkaido's Heart",
+      "lat": 42.9651,
+      "lng": 141.1651,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Hokkaido",
+        "Jozankei",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_jozankei_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-23",
+      "summary": "Nestled in Hokkaido's verdant valleys, Jozankei Onsen Jozankei Hotel offers an exquisite escape into Japan's profound onsen culture, harmonizing traditional hospitality with modern comfort. Guests are invited to immerse themselves in mineral-rich thermal waters, savor multi-course culinary masterpieces, and awaken to breathtaking natural vistas. This comprehensive guide unveils every facet of a stay at this cherished sanctuary, ensuring an unforgettable journey into tranquility.",
+      "link": "/onsen/jozankei_onsen_jozankei_hotel_en"
+    },
+    {
+      "id": "jozankei_onsen_hana_momiji_ko",
+      "lang": "ko",
+      "title": "조잔케이 온천 하나 모미지: 홋카이도 사계절의 아름다움을 담은 완벽한 료칸 체험 가이드",
+      "lat": 42.9641,
+      "lng": 141.1641,
+      "categories": [
+        "온천",
+        "료칸",
+        "홋카이도",
+        "조잔케이",
+        "미식",
+        "자연"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_hana_momiji.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-23",
+      "summary": "삿포로 교외에 위치한 조잔케이 온천 하나 모미지는 풍부한 자연 경관과 최고급 온천 경험을 선사하는 료칸입니다. 도요히라강을 따라 펼쳐진 사계절의 절경 속에서 미네랄이 풍부한 온천수에 몸을 담그고, 홋카이도산 제철 식재료로 만든 가이세키 요리를 맛보며 진정한 휴식을 만끽할 수 있습니다. 전통적인 일본의 미학과 현대적인 편안함이 조화를 이루는 이곳에서 잊지 못할 추억을 만들어보세요.",
+      "link": "/onsen/jozankei_onsen_hana_momiji_ko"
+    },
+    {
+      "id": "jozankei_onsen_hana_momiji_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Hana Momiji: A Sanctuary of Seasonal Splendor in Hokkaido",
+      "lat": 42.9641,
+      "lng": 141.1641,
+      "categories": [
+        "Onsen Ryokan",
+        "Hokkaido Travel",
+        "Luxury Accommodation",
+        "Japanese Cuisine",
+        "Nature Retreat"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_hana_momiji.jpg",
+      "address": "Jozankei Onsen Higashi 2-chome, Minami-ku, Sapporo, Hokkaido 061-2302",
+      "published": "2026-06-23",
+      "summary": "Nestled amidst the breathtaking natural beauty of Hokkaido's Jozankei valley, Hana Momiji offers a sublime escape where traditional Japanese hospitality meets contemporary comfort. This exquisite onsen ryokan, named for the radiant autumn leaves that grace its surroundings, invites guests to immerse themselves in healing thermal waters and refined culinary artistry. Experience a tranquil haven, providing a perfect blend of serene relaxation and vibrant seasonal exploration.",
+      "link": "/onsen/jozankei_onsen_hana_momiji_en"
+    },
     {
       "id": "noboribetsu_onsen_kokorono_resort_ko",
       "lang": "ko",
@@ -1139,7 +1367,7 @@
     {
       "id": "arima_onsen_tosen_goshobo_en",
       "lang": "en",
-      "title": "Arima Onsen Tosen Goshobo: Guide to Kobe's Oldest Historic Ryokan",
+      "title": "Staying at Arima Onsen Tosen Goshobo: Kobe's Oldest Luxury Ryokan",
       "lat": 34.7966,
       "lng": 135.2477,
       "categories": [
@@ -1223,7 +1451,7 @@
     {
       "id": "arima_onsen_kinzan_en",
       "lang": "en",
-      "title": "Arima Onsen Kinzan: Kobe's Luxurious Hot Spring Retreat",
+      "title": "Arima Onsen Kinzan: Luxury Ryokan & Kaiseki in Kobe",
       "lat": 34.7988,
       "lng": 135.2488,
       "categories": [
@@ -1322,7 +1550,7 @@
     {
       "id": "kinosaki_onsen_shinmatsuya_en",
       "lang": "en",
-      "title": "Shinmatsuya Ryokan: A Cozy Kinosaki Onsen Stay",
+      "title": "Shinmatsuya Ryokan: Cozy Stay in Kinosaki Onsen",
       "lat": 35.6288,
       "lng": 134.8166,
       "categories": [
@@ -1393,7 +1621,7 @@
     {
       "id": "kinosaki_onsen_kawaguchiya_en",
       "lang": "en",
-      "title": "Kinosaki Onsen Kawaguchiya: A Deep Dive into Hyogo's Tranquil Retreat",
+      "title": "Kawaguchiya Honkan Ryokan Guide: Staying in Kinosaki Onsen",
       "lat": 35.6211,
       "lng": 134.8105,
       "categories": [
@@ -1497,7 +1725,7 @@
     {
       "id": "kurokawa_onsen_shinmeikan_en",
       "lang": "en",
-      "title": "Shinmeikan Ryokan: Guide to Kurokawa Onsen's Famous Cave Bath",
+      "title": "Kurokawa Onsen Shinmeikan: Guide to the Famous Cave Bath",
       "lat": 33.0811,
       "lng": 131.1425,
       "categories": [
@@ -1516,7 +1744,7 @@
     {
       "id": "kurokawa_onsen_oku_no_yu_ko",
       "lang": "ko",
-      "title": "구로카와 온천 오쿠노유 료칸 완벽 가이드: 동굴탕부터 예약 팁까지",
+      "title": "구로카와 온천 오쿠노유 료칸: 동굴탕부터 온수풀까지 완벽 가이드",
       "lat": 33.0799,
       "lng": 131.1455,
       "categories": [
@@ -1553,7 +1781,7 @@
     {
       "id": "kurokawa_onsen_fujiya_ko",
       "lang": "ko",
-      "title": "구로카와 온천 후지야: 숨겨진 온천 낙원을 탐험하다 (완벽 가이드)",
+      "title": "구로카와 온천 후지야 료칸 가이드: 객실, 가이세키, 온천 예약 정보",
       "lat": 33.0819,
       "lng": 131.1409,
       "categories": [
@@ -1643,7 +1871,7 @@
     {
       "id": "kinosaki_onsen_tajimaya_en",
       "lang": "en",
-      "title": "Kinosaki Onsen Tajimaya: Ultimate Ryokan Guide",
+      "title": "Kinosaki Onsen Tajimaya: Ultimate Ryokan Review",
       "lat": 35.6277,
       "lng": 134.8155,
       "categories": [
@@ -2029,7 +2257,7 @@
     {
       "id": "kurokawa_onsen_ryokan_wakaba_en",
       "lang": "en",
-      "title": "Unveiling the Serene Heart of Kurokawa: Ryokan Wakaba, Where Private Bliss Meets Authentic Local Charm",
+      "title": "Ryokan Wakaba in Kurokawa Onsen: A Guide to Private Baths & Comfort",
       "lat": 33.0822,
       "lng": 131.1422,
       "categories": [
@@ -2210,7 +2438,7 @@
     {
       "id": "kurokawa_onsen_ikoi_ryokan_ko",
       "lang": "ko",
-      "title": "구로카와 온천 이코이 료칸: 숨겨진 비경 속, 문신 환영의 진정한 로컬 온천 경험",
+      "title": "구로카와 온천 이코이 료칸 완벽 가이드: 온천 후기 및 예약 팁",
       "lat": 33.0811,
       "lng": 131.1411,
       "categories": [
@@ -2227,7 +2455,7 @@
     {
       "id": "kurokawa_onsen_ikoi_ryokan_en",
       "lang": "en",
-      "title": "Kurokawa Onsen Ikoi Ryokan: A Secluded Kumamoto Gem Where Breathtaking Views, Authentic Charm, and Tattoo-Friendly Waters Embrace You",
+      "title": "Kurokawa Onsen Ikoi Ryokan: Tattoo-Friendly Hot Springs Guide",
       "lat": 33.0811,
       "lng": 131.1411,
       "categories": [
@@ -2261,7 +2489,7 @@
     {
       "id": "kurokawa_onsen_hozantei_en",
       "lang": "en",
-      "title": "Kurokawa Onsen Hozantei: Secluded Riverside Baths & Stay Guide",
+      "title": "Kurokawa Onsen Hozantei: The Ultimate Riverside Ryokan Guide",
       "lat": 33.0911,
       "lng": 131.1488,
       "categories": [
@@ -2526,7 +2754,7 @@
     {
       "id": "beppu_showaen_en",
       "lang": "en",
-      "title": "Beppu Showaen: Your Private Sanctuary of Luxury and Serenity in Japan's Onsen Capital",
+      "title": "Beppu Showaen: Luxury Ryokan with Private Onsen",
       "lat": 33.2844,
       "lng": 131.4788,
       "categories": [
@@ -2575,7 +2803,7 @@
     {
       "id": "beppu_onsen_takegawara_ko",
       "lang": "ko",
-      "title": "벳푸 타케가와라 온천: 시간의 흔적과 치유의 물결, 타투 프렌들리 로컬 온천의 진수 경험하기",
+      "title": "벳푸 다케가와라 온천 가이드: 모래찜질 가격, 예약, 타투 정보",
       "lat": 33.2788,
       "lng": 131.5044,
       "categories": [
@@ -2591,7 +2819,7 @@
     {
       "id": "beppu_onsen_takegawara_en",
       "lang": "en",
-      "title": "Beppu Takegawara Onsen: Embrace Authentic Tradition & Tattoo-Friendly Bliss in Japan's Steaming Heart",
+      "title": "Takegawara Onsen: Complete Guide to Beppu's Sand Bath & Tattoo Policy",
       "lat": 33.2788,
       "lng": 131.5044,
       "categories": [
@@ -2656,7 +2884,7 @@
     {
       "id": "beppu_daiiti_hotel_en",
       "lang": "en",
-      "title": "Beppu Daiiti Hotel: Tattoo-Friendly Onsen & Stay Guide",
+      "title": "Beppu Daiiti Hotel: Tattoo-Friendly Private Onsen & Stay Guide",
       "lat": 33.2815,
       "lng": 131.5005,
       "categories": [
@@ -2789,7 +3017,7 @@
     {
       "id": "kusatsu_onsen_tokinoniwa_en",
       "lang": "en",
-      "title": "Kusatsu Onsen Tokinoniwa: Luxury Ryokan with Private Open-Air Baths",
+      "title": "Kusatsu Onsen Tokinoniwa: Luxury Ryokan with Private Baths in All Rooms",
       "lat": 36.6199,
       "lng": 138.6055,
       "categories": [
@@ -2887,7 +3115,7 @@
     {
       "id": "kusatsu_onsen_hotel_village_en",
       "lang": "en",
-      "title": "Kusatsu Onsen Hotel Village: Complete Resort & Onsen Guide",
+      "title": "Kusatsu Onsen Hotel Village: Complete Forest Resort & Onsen Guide",
       "lat": 36.6211,
       "lng": 138.6011,
       "categories": [
@@ -3065,7 +3293,7 @@
     {
       "id": "yufuin_yasuha_ko",
       "lang": "ko",
-      "title": "유후인 야스하: 대자연 속 프라이빗 온천, 가족과 함께 떠나는 오이타 힐링 여행",
+      "title": "유후인 야스하: 신비로운 푸른빛 청탕과 프라이빗 온천을 갖춘 유후인 료칸",
       "lat": 33.2651,
       "lng": 131.3455,
       "categories": [
@@ -3213,7 +3441,7 @@
     {
       "id": "yufuin_hotel_shumeikan_en",
       "lang": "en",
-      "title": "Yufuin Hotel Shumeikan: Onsen Ryokan with Mt. Yufu Views",
+      "title": "Yufuin Hotel Shumeikan: Traditional Onsen with Mt. Yufu Views",
       "lat": 33.2622,
       "lng": 131.3551,
       "categories": [
@@ -3263,7 +3491,7 @@
     {
       "id": "yufuin_bettei_itsuki_ko",
       "lang": "ko",
-      "title": "유후인 벳테이 이츠키: 당신의 마음을 사로잡을 럭셔리 료칸에서의 완벽한 휴식과 프라이빗 온천의 향연",
+      "title": "유후인 벳테이 이츠키: 프라이빗 독채와 개인 노천탕을 갖춘 프리미엄 료칸",
       "lat": 33.2677,
       "lng": 131.3588,
       "categories": [
@@ -3443,7 +3671,7 @@
     {
       "id": "kusatsu_onsen_sainokawara_en",
       "lang": "en",
-      "title": "Kusatsu Onsen Sainokawara: Embrace Japan's Wild Heart in a Tattoo-Friendly Volcanic Wonderland",
+      "title": "Sainokawara Rotenburo Guide: Tattoo-Friendly Kusatsu Onsen",
       "lat": 36.6231,
       "lng": 138.5966,
       "categories": [
@@ -3494,7 +3722,7 @@
     {
       "id": "yufuin_onsen_hinoharu_ryokan_ko",
       "lang": "ko",
-      "title": "유후인 히노하루 료칸: 가족탕의 포근함과 현지 문화가 숨 쉬는 오이타의 비밀스러운 휴식처",
+      "title": "유후인 히노하루 료칸: 유노츠보 거리 1분, 무료 전세탕과 가이세키의 완벽한 휴식",
       "lat": 33.2644,
       "lng": 131.3615,
       "categories": [
@@ -3660,7 +3888,7 @@
     {
       "id": "yufuin_baien_ko",
       "lang": "ko",
-      "title": "유후인 바이엔: 압도적인 절경과 프라이빗 가족탕으로 완성되는 최상의 힐링, 럭셔리 료칸 여행",
+      "title": "유후인 바이엔 료칸: 유후다케 전망 노천탕과 프라이빗 가족탕",
       "lat": 33.2652,
       "lng": 131.3653,
       "categories": [
@@ -3744,7 +3972,7 @@
     {
       "id": "the_prince_hakone_lake_ashinoko_en",
       "lang": "en",
-      "title": "The Prince Hakone Lake Ashinoko Review: Worth the Luxury Stay?",
+      "title": "The Prince Hakone Lake Ashinoko Review: Is This Luxury Onsen Worth It?",
       "lat": 35.2122,
       "lng": 139.0111,
       "categories": [
@@ -3895,7 +4123,7 @@
     {
       "id": "kamenoi_bessou_ko",
       "lang": "ko",
-      "title": "유후인 카메노이 벳소: 긴린코 호수 옆 최고의 명품 온천 료칸",
+      "title": "유후인 카메노이 벳소: 3대 명품 료칸 객실, 온천, 가이세키 예약 가이드",
       "lat": 33.2675,
       "lng": 131.3688,
       "categories": [
@@ -3976,7 +4204,7 @@
     {
       "id": "hotel_indigo_hakone_gora_en",
       "lang": "en",
-      "title": "Unveiling Hotel Indigo Hakone Gora: A Sanctuary of Luxury, Serenity, and Spectacular Views in Japan's Onsen Heart",
+      "title": "Hotel Indigo Hakone Gora: Luxury Onsen & Private Baths",
       "lat": 35.2511,
       "lng": 139.0452,
       "categories": [
@@ -4127,7 +4355,7 @@
     {
       "id": "hakone_pax_yoshino_ko",
       "lang": "ko",
-      "title": "하코네 팍스 요시노: 프라이빗 가족탕과 계곡 전망의 유모토 온천 료칸",
+      "title": "하코네 팍스 요시노: 객실 노천탕과 프라이빗 가족탕이 있는 유모토 온천 료칸",
       "lat": 35.2299,
       "lng": 139.0965,
       "categories": [
@@ -4143,7 +4371,7 @@
     {
       "id": "hakone_pax_yoshino_en",
       "lang": "en",
-      "title": "Hakone Pax Yoshino: Your Serene Escape to Private Onsens and Breathtaking Mountain Vistas",
+      "title": "Hakone Pax Yoshino: Premium Ryokan with Private Onsen",
       "lat": 35.2299,
       "lng": 139.0965,
       "categories": [
