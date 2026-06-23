@@ -23,6 +23,23 @@ function formatPublished(published) {
     return published ? String(published).slice(0, 10) : '';
 }
 
+function sortByPublishedDesc(items) {
+    return items.slice().sort((a, b) => {
+        const da = String(a.published || '').slice(0, 10);
+        const db = String(b.published || '').slice(0, 10);
+        if (da !== db) return db.localeCompare(da);
+        return String(a.id || '').localeCompare(String(b.id || ''));
+    });
+}
+
+function filterOnsens(theme) {
+    const filtered = allOnsens.filter(onsen => {
+        if (theme === 'all') return true;
+        return onsen.categories.some(cat => CATEGORY_MAP[cat] === theme);
+    });
+    return sortByPublishedDesc(filtered);
+}
+
 const CATEGORY_MAP = {
     '가족탕': 'private', 'Private Bath': 'private',
     '타투 허용': 'tattoo', 'Tattoo OK': 'tattoo',
@@ -41,7 +58,7 @@ async function initPage() {
         // 풋터 업데이트 (데이터가 잘 왔는지 확인용)
         console.log("데이터 업데이트 날짜:", data.last_updated);
         
-        allOnsens = data.onsens;
+        allOnsens = sortByPublishedDesc(data.onsens || []);
         updateFilterStats();
         renderList('all');
         initMap();
@@ -81,12 +98,8 @@ function renderList(theme) {
     if (!listContainer) return;
     listContainer.innerHTML = '';
 
-    const filtered = allOnsens.filter(onsen => {
-        if (theme === 'all') return true;
-        return onsen.categories.some(cat => CATEGORY_MAP[cat] === theme);
-    });
+    const filtered = filterOnsens(theme);
 
-    // main.js 내의 renderList 함수 부분 수정
     filtered.forEach(onsen => {
         const isNew = isContentNew(onsen.published);
         const card = document.createElement('div');
@@ -121,10 +134,7 @@ function renderMarkers(theme) {
     markers.forEach(m => m.map = null);
     markers = [];
 
-    const filtered = allOnsens.filter(onsen => {
-        if (theme === 'all') return true;
-        return onsen.categories.some(cat => CATEGORY_MAP[cat] === theme);
-    });
+    const filtered = filterOnsens(theme);
 
     filtered.forEach(onsen => {
         const markerTag = document.createElement('div');
