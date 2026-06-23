@@ -15,6 +15,7 @@ BASE_DIR = os.path.dirname(SCRIPT_DIR)
 sys.path.insert(0, SCRIPT_DIR)
 
 from seo_priority import CORE_GUIDE_BASES, CORE_ONSEN_IDS, guide_id, prioritize_by_ids
+from md_dates import ensure_post_date, save_post
 
 CONTENT_DIR = os.path.join(BASE_DIR, 'app', 'content')
 GUIDE_DIR = os.path.join(CONTENT_DIR, 'guides')
@@ -48,8 +49,9 @@ def strip_markdown(text):
 
 def collect_guides():
     guides = []
+    backfilled = 0
     if not os.path.exists(GUIDE_DIR):
-        return guides
+        return guides, backfilled
 
     for filename in os.listdir(GUIDE_DIR):
         if not filename.endswith('.md'):
@@ -59,18 +61,20 @@ def collect_guides():
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 post = frontmatter.loads(normalize_markdown_source(f.read()))
-                date_val = post.get('date')
-                published_date = str(date_val) if date_val else datetime.now().strftime('%Y-%m-%d')
-                guides.append({
-                    "id": filename.replace('.md', ''),
-                    "link": f"/guide/{filename.replace('.md', '')}",
-                    "published": published_date,
-                })
+            published_date, changed = ensure_post_date(post, filepath)
+            if changed:
+                save_post(filepath, post)
+                backfilled += 1
+            guides.append({
+                "id": filename.replace('.md', ''),
+                "link": f"/guide/{filename.replace('.md', '')}",
+                "published": published_date,
+            })
         except Exception as e:
             print(f"❌ 가이드 파일 처리 오류 ({filename}): {e}")
 
     guides.sort(key=lambda x: (x['published'], x['id']), reverse=True)
-    return guides
+    return guides, backfilled
 
 def generate_sitemap(onsens, guides, include_static=True):
     """SEO를 위한 사이트맵 XML 생성"""
@@ -162,6 +166,7 @@ def main():
     print(f"🔨 데이터 빌드 시작 (최신순 정렬 및 GCS 경로 적용)")
     
     onsens = []
+    backfilled = 0
     
     if not os.path.exists(CONTENT_DIR):
         print(f"❌ 컨텐츠 디렉토리를 찾을 수 없습니다: {CONTENT_DIR}")
@@ -180,10 +185,10 @@ def main():
                 if post.get('draft') == True: continue
                 if not post.get('lat') or not post.get('lng'): continue
                 
-                # 날짜 처리 (정렬의 핵심)
-                date_val = post.get('date')
-                # YYYY-MM-DD 형식이 아니거나 없는 경우 오늘 날짜로 대체
-                published_date = str(date_val) if date_val else datetime.now().strftime('%Y-%m-%d')
+                published_date, changed = ensure_post_date(post, filepath)
+                if changed:
+                    save_post(filepath, post)
+                    backfilled += 1
                 
                 # 요약문 처리
                 summary = post.get('summary')
@@ -233,7 +238,8 @@ def main():
         json.dump(final_data, f, ensure_ascii=False, indent=2)
     
     # 4. 사이트맵 생성
-    guides = collect_guides()
+    guides, guide_backfilled = collect_guides()
+    backfilled += guide_backfilled
     core_onsens, longtail_onsens, core_guides, longtail_guides = split_sitemap_sets(onsens, guides)
     core_sitemap_content = generate_sitemap(core_onsens, core_guides, include_static=True)
     longtail_sitemap_content = generate_sitemap(longtail_onsens, longtail_guides, include_static=False)
@@ -247,6 +253,8 @@ def main():
         f.write(sitemap_index_content)
 
     print(f"\n🎉 빌드 완료!")
+    if backfilled:
+        print(f"   - date 백필: {backfilled}개 MD")
     print(f"   - 처리된 항목: {len(onsens)}개")
     print(f"   - 처리된 가이드: {len(guides)}개")
     print(f"   - 코어 사이트맵: 온천 {len(core_onsens)}개 / 가이드 {len(core_guides)}개")

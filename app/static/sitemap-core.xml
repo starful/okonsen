@@ -551,31 +551,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/guide/yufuin_scenic_walk_ko</loc>
-    <lastmod>2026-06-23</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/yufuin_scenic_walk_en</loc>
-    <lastmod>2026-06-23</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/ryokan_kaiseki_experience_en</loc>
-    <lastmod>2026-06-23</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/kurokawa_village_walk_ko</loc>
-    <lastmod>2026-06-23</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/kurokawa_village_walk_en</loc>
-    <lastmod>2026-06-23</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/guide/jozankei_sapporo_access_ko</loc>
     <lastmod>2026-06-23</lastmod>
     <priority>0.7</priority>
@@ -586,8 +561,33 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/guide/beppu_eight_hells_tour_en</loc>
-    <lastmod>2026-06-23</lastmod>
+    <loc>https://okonsen.net/guide/shirahama_ocean_view_ko</loc>
+    <lastmod>2026-06-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/shirahama_ocean_view_en</loc>
+    <lastmod>2026-06-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/nyuto_onsen_seclusion_en</loc>
+    <lastmod>2026-06-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/ibusuki_sand_steam_ko</loc>
+    <lastmod>2026-06-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/ibusuki_sand_steam_en</loc>
+    <lastmod>2026-06-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/dogo_onsen_studio_ghibli_ko</loc>
+    <lastmod>2026-06-19</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>

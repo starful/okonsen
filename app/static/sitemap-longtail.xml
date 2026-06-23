@@ -921,36 +921,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/guide/shirahama_ocean_view_ko</loc>
-    <lastmod>2026-06-19</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/shirahama_ocean_view_en</loc>
-    <lastmod>2026-06-19</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/nyuto_onsen_seclusion_en</loc>
-    <lastmod>2026-06-19</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/ibusuki_sand_steam_ko</loc>
-    <lastmod>2026-06-19</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/ibusuki_sand_steam_en</loc>
-    <lastmod>2026-06-19</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/dogo_onsen_studio_ghibli_ko</loc>
-    <lastmod>2026-06-19</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/guide/kusatsu_yubatake_center_ko</loc>
     <lastmod>2026-06-12</lastmod>
     <priority>0.7</priority>
@@ -1013,6 +983,36 @@
   <url>
     <loc>https://okonsen.net/guide/arima_onsen_golden_water_en</loc>
     <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/yufuin_scenic_walk_ko</loc>
+    <lastmod>2026-05-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/yufuin_scenic_walk_en</loc>
+    <lastmod>2026-05-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/kurokawa_village_walk_ko</loc>
+    <lastmod>2026-05-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/ryokan_kaiseki_experience_en</loc>
+    <lastmod>2026-05-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/kurokawa_village_walk_en</loc>
+    <lastmod>2026-05-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/beppu_eight_hells_tour_en</loc>
+    <lastmod>2026-05-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
