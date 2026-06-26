@@ -1,6 +1,235 @@
 {
-  "last_updated": "2026.06.23 20:39",
+  "last_updated": "2026.06.26 16:23",
   "onsens": [
+    {
+      "id": "jozankei_onsen_koyotei_ko",
+      "lang": "ko",
+      "title": "고요테이 죠잔케이 온천: 삿포로 근교의 평온, 완벽한 휴식을 위한 심층 가이드",
+      "lat": 42.9631,
+      "lng": 141.1631,
+      "categories": [
+        "온천 료칸",
+        "홋카이도 여행",
+        "삿포로",
+        "고요테이",
+        "일본 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg",
+      "address": "北海道札幌市南区定山渓温泉東3丁目231",
+      "published": "2026-06-26",
+      "summary": "고요테이 죠잔케이 온천은 삿포로에서 단 한 시간 거리에 위치한, 대자연 속 평온을 선사하는 럭셔리 료칸입니다. 이곳은 미네랄 풍부한 온천수와 오모테나시 서비스, 그리고 제철 재료로 만든 가이세키 요리를 통해 오감을 만족시키는 특별한 경험을 제공합니다. 숲과 계곡이 어우러진 절경 속에서 몸과 마음의 진정한 휴식을 찾아보세요.",
+      "link": "/onsen/jozankei_onsen_koyotei_ko"
+    },
+    {
+      "id": "jozankei_onsen_koyotei_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Koyotei: A Deep Dive into Hokkaido's Serene Riverside Retreat",
+      "lat": 42.9631,
+      "lng": 141.1631,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Hokkaido",
+        "Luxury Travel",
+        "Cultural Experience"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-26",
+      "summary": "Nestled amidst the verdant embrace of Jozankei, Jozankei Onsen Koyotei offers a sophisticated escape where traditional Japanese hospitality meets the invigorating power of natural hot springs. This exquisite ryokan provides an unparalleled experience, blending meticulously crafted cuisine, serene accommodations, and breathtaking views of the Toyohira River. It is a sanctuary for those seeking profound relaxation and an authentic taste of Hokkaido's natural splendor.",
+      "link": "/onsen/jozankei_onsen_koyotei_en"
+    },
+    {
+      "id": "jozankei_onsen_kasho_gyoen_ko",
+      "lang": "ko",
+      "title": "정산계 온천 카쇼 교엔: 홋카이도 자연 속 미식과 휴식의 정점",
+      "lat": 42.9611,
+      "lng": 141.1611,
+      "categories": [
+        "온천",
+        "료칸",
+        "홋카이도",
+        "정산계",
+        "미식"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-26",
+      "summary": "홋카이도의 심장부, 정산계 온천에 자리한 카쇼 교엔은 자연과 전통, 현대적인 편안함이 조화를 이루는 특별한 료칸입니다. 이곳은 미려한 자연 경관 속에서 심신을 치유하는 온천욕, 홋카이도 현지 식재료로 빚어낸 미식의 향연, 그리고 진정한 일본식 환대를 경험할 수 있는 곳입니다. 카쇼 교엔에서의 시간은 단순한 숙박을 넘어, 영혼을 풍요롭게 하는 깊은 사색과 휴식의 여정이 될 것입니다.",
+      "link": "/onsen/jozankei_onsen_kasho_gyoen_ko"
+    },
+    {
+      "id": "jozankei_onsen_kasho_gyoen_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Kasho Gyoen: A Riverside Sanctuary of Serenity in Hokkaido",
+      "lat": 42.9611,
+      "lng": 141.1611,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Hokkaido Getaway",
+        "Traditional Japanese Inn",
+        "Spa Retreat",
+        "Gourmet Dining"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-26",
+      "summary": "Nestled along the pristine Toyohira River, Jozankei Onsen Kasho Gyoen offers an unparalleled escape into the heart of Hokkaido's natural beauty. This exquisite ryokan masterfully blends traditional Japanese elegance with modern comfort, promising a deeply rejuvenating experience. From its mineral-rich riverside hot springs to its artful, seasonal Kaiseki cuisine, every detail is crafted for profound tranquility and sensory delight.",
+      "link": "/onsen/jozankei_onsen_kasho_gyoen_en"
+    },
+    {
+      "id": "jozankei_onsen_hoshino_resorts_kai_poroto_ko",
+      "lang": "ko",
+      "title": "홋카이도 시라오이, 호시노 리조트 카이 포로토: 아이누 문화와 몰 온천의 깊은 조화",
+      "lat": 42.5699,
+      "lng": 141.3468,
+      "categories": [
+        "온천 료칸",
+        "홋카이도 여행",
+        "아이누 문화",
+        "고급 숙박",
+        "시라오이 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_hoshino_resorts_kai_poroto.jpg",
+      "address": "홋카이도 시라오이군 시라오이초 와카쿠사 1-2-3",
+      "published": "2026-06-26",
+      "summary": "홋카이도의 숨겨진 보석, 호시노 리조트 카이 포로토는 신비로운 포로토 호수 옆에 자리 잡고 있으며, 아이누 문화의 정수와 극진한 일본식 환대를 결합한 특별한 온천 료칸입니다. 독특한 돔형 온천에서 몰 온천수에 몸을 담그고, 전통과 현대가 어우러진 건축미 속에서 미식 경험을 만끽하며, 잊을 수 없는 평온과 감동을 선사합니다.",
+      "link": "/onsen/jozankei_onsen_hoshino_resorts_kai_poroto_ko"
+    },
+    {
+      "id": "jozankei_onsen_hoshino_resorts_kai_poroto_en",
+      "lang": "en",
+      "title": "Hoshino Resorts KAI Poroto: A Deep Dive into Ainu-Inspired Serenity on Lake Poroto",
+      "lat": 42.5211,
+      "lng": 141.3311,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Hokkaido",
+        "Ainu Culture",
+        "Lake Poroto"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_hoshino_resorts_kai_poroto.jpg",
+      "address": "Shiraoi, Hokkaido",
+      "published": "2026-06-26",
+      "summary": "Nestled on the tranquil shores of Lake Poroto in Shiraoi, Hokkaido, Hoshino Resorts KAI Poroto offers an unparalleled onsen experience deeply interwoven with the indigenous Ainu culture. This guide unveils its unique architecture, mineral-rich baths, exquisite kaiseki, and profound connection to the land, promising a restorative journey unlike any other. Discover a sanctuary where modern luxury meets ancient tradition, inviting deep relaxation and cultural immersion.",
+      "link": "/onsen/jozankei_onsen_hoshino_resorts_kai_poroto_en"
+    },
+    {
+      "id": "jozankei_onsen_hatago_sakura_ko",
+      "lang": "ko",
+      "title": "조잔케이 온천 하타고 사쿠라: 홋카이도의 숨겨진 보석, 진정한 일본 료칸 경험",
+      "lat": 42.9658,
+      "lng": 141.1658,
+      "categories": [
+        "일본 료칸",
+        "홋카이도 온천",
+        "조잔케이",
+        "고급 숙박",
+        "미식 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_hatago_sakura.jpg",
+      "address": "삿포로, 홋카이도",
+      "published": "2026-06-26",
+      "summary": "홋카이도 삿포로 인근 조잔케이 온천 마을에 자리한 '하타고 사쿠라'는 번잡함에서 벗어나 고요한 휴식을 선사하는 특별한 료칸입니다. 이곳은 미니멀리즘의 미학이 깃든 공간, 뛰어난 수질의 온천, 그리고 제철 식재료로 빚어낸 예술적인 가이세키 요리로 오감을 만족시키는 진정한 일본 료칸의 정수를 경험하게 합니다. 사색과 재충전의 시간을 찾는 이들에게 잊지 못할 추억을 선사할 것입니다.",
+      "link": "/onsen/jozankei_onsen_hatago_sakura_ko"
+    },
+    {
+      "id": "jozankei_onsen_hatago_sakura_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Hatago Sakura: Hokkaido's Serene Escape into Refined Ryokan Luxury",
+      "lat": 42.9658,
+      "lng": 141.1658,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Hokkaido",
+        "Luxury Travel",
+        "Wellness",
+        "Gastronomy"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_hatago_sakura.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-26",
+      "summary": "Nestled in the picturesque Jozankei Onsen village, Hatago Sakura offers a transcendent escape just a stone's throw from Sapporo. This exquisite ryokan masterfully blends traditional Japanese hospitality with contemporary comforts, creating an atmosphere of understated elegance and profound tranquility. Immerse yourself in mineral-rich hot springs, savor Hokkaido's seasonal bounty, and rediscover serenity amidst nature's embrace.",
+      "link": "/onsen/jozankei_onsen_hatago_sakura_en"
+    },
+    {
+      "id": "jozankei_onsen_grand_blissen_hotel_ko",
+      "lang": "ko",
+      "title": "조잔케이 온천 그랜드 블리센 호텔: 삿포로의 자연 속 럭셔리 온천 체험 완벽 가이드",
+      "lat": 42.9622,
+      "lng": 141.1622,
+      "categories": [
+        "일본 온천",
+        "홋카이도 여행",
+        "럭셔리 료칸",
+        "조잔케이 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-26",
+      "summary": "삿포로 외곽의 청정한 자연 속에 자리한 조잔케이 온천 그랜드 블리센 호텔은 현대적인 세련됨과 전통적인 온천의 미학을 완벽하게 조화시킨 곳입니다. 나트륨 염화물천의 치유력과 정성 가득한 가이세키 요리, 그리고 빼어난 자연 경관을 선사하며 단순한 숙박을 넘어선 깊은 힐링 경험을 약속합니다. 이 가이드를 통해 블리센 호텔의 모든 매력을 상세히 탐험하고 잊지 못할 여정을 계획해 보세요.",
+      "link": "/onsen/jozankei_onsen_grand_blissen_hotel_ko"
+    },
+    {
+      "id": "jozankei_onsen_grand_blissen_hotel_en",
+      "lang": "en",
+      "title": "Jozankei Grand Blissen Hotel: A Deep Dive into Hokkaido's Premier Onsen Sanctuary",
+      "lat": 42.9622,
+      "lng": 141.1622,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Hotel",
+        "Hokkaido Travel",
+        "Jozankei Onsen",
+        "Spa & Wellness"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-26",
+      "summary": "Nestled amidst the breathtaking natural grandeur of Shikotsu-Toya National Park, Jozankei Onsen Grand Blissen Hotel stands as a beacon of refined relaxation and opulent Japanese hospitality. This guide explores every facet of its unique blend of traditional charm and modern luxury, from its healing thermal waters to its exquisite regional cuisine. Discover why this Hokkaido gem offers an unparalleled escape, promising rejuvenation for both body and soul.",
+      "link": "/onsen/jozankei_onsen_grand_blissen_hotel_en"
+    },
+    {
+      "id": "jozankei_onsen_chalet_ivy_jozankei_ko",
+      "lang": "ko",
+      "title": "죠잔케이 샬레 아이비: 홋카이도 숲 속 숨겨진 온천 미학, 궁극의 프라이빗 럭셔리 가이드",
+      "lat": 42.9681,
+      "lng": 141.1681,
+      "categories": [
+        "럭셔리 온천",
+        "프라이빗 온천",
+        "료칸",
+        "홋카이도 여행",
+        "미식 경험"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg",
+      "address": "일본 〒061-2302 Hokkaido, Sapporo, Minami Ward, Jozankeionsenhigashi, 3 Chome−253−1",
+      "published": "2026-06-26",
+      "summary": "홋카이도의 심장, 죠잔케이 온천에 자리한 샬레 아이비는 숲의 품에 안긴 듯한 은밀한 럭셔리를 선사합니다. 모든 객실에 딸린 노천 온천에서 자연과 하나 되는 경험을 선사하며, 최고급 가이세키 요리는 미식의 정점을 찍습니다. 절제된 아름다움과 최고의 서비스가 조화를 이루는 이곳은 진정한 휴식을 갈망하는 이들을 위한 완벽한 안식처입니다.",
+      "link": "/onsen/jozankei_onsen_chalet_ivy_jozankei_ko"
+    },
+    {
+      "id": "jozankei_onsen_chalet_ivy_jozankei_en",
+      "lang": "en",
+      "title": "Chalet Ivy Jozankei: A Hokkaido Sanctuary of Luxury, Serenity, and Private Onsen Bliss",
+      "lat": 42.9681,
+      "lng": 141.1681,
+      "categories": [
+        "Luxury Ryokan",
+        "Private Onsen",
+        "Hokkaido Getaway",
+        "Gourmet Kaiseki",
+        "Jozankei Spa"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-06-26",
+      "summary": "Nestled amidst the breathtaking wilderness of Jozankei, Chalet Ivy offers an unparalleled blend of traditional Japanese hospitality and modern alpine luxury. Each exquisitely designed suite boasts its own private open-air onsen, promising an intimate communion with nature. Indulge in sublime Hokkaido gastronomy and experience the ultimate retreat just a short distance from vibrant Sapporo.",
+      "link": "/onsen/jozankei_onsen_chalet_ivy_jozankei_en"
+    },
     {
       "id": "jozankei_onsen_suizantei_ko",
       "lang": "ko",
