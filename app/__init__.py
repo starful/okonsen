@@ -55,6 +55,19 @@ def _gcs_image_url(filename: str) -> str:
     return f"https://storage.googleapis.com/ok-project-assets/{GCS_ASSET_PREFIX}/{filename}"
 
 
+def _thumbnail_cache_v(published_or_date: str | None) -> str:
+    v = str(published_or_date or "").strip()[:10]
+    return v if len(v) >= 8 else ""
+
+
+def _thumbnail_with_v(url: str, cache_v: str | None = None) -> str:
+    if not url:
+        return url
+    v = _thumbnail_cache_v(cache_v)
+    base = url.split("?", 1)[0]
+    return f"{base}?v={v}" if v else base
+
+
 def _social_image_url(base_id: str) -> str:
     safe = re.sub(r"[^a-z0-9_-]", "", base_id.lower())
     return f"{SITE_URL}/social/{safe}.jpg"
@@ -122,15 +135,39 @@ DATA_FILE = os.path.join(STATIC_DIR, 'json', 'onsen_data.json')
 CONTENT_DIR = os.path.join(BASE_DIR, 'content')
 GUIDE_DIR = os.path.join(CONTENT_DIR, 'guides')
 
-# 서버 시작 시 JSON 데이터 로드
+# 서버 시작 시 JSON 데이터 로드 (파일 mtime 변경 시 api에서 자동 재로드)
 CACHED_DATA = {"onsens": [], "last_updated": "2026.03.19"}
-if os.path.exists(DATA_FILE):
+_CACHE_MTIME: float = 0.0
+
+
+def _ensure_onsen_cache() -> None:
+    global CACHED_DATA, _CACHE_MTIME
+    if not os.path.exists(DATA_FILE):
+        return
     try:
-        with open(DATA_FILE, 'r', encoding='utf-8') as f:
+        mtime = os.path.getmtime(DATA_FILE)
+    except OSError:
+        return
+    if mtime <= _CACHE_MTIME:
+        return
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
             CACHED_DATA = json.load(f)
-            print(f"✅ 온천 데이터 로드 완료: {len(CACHED_DATA.get('onsens', []))}개")
+        _CACHE_MTIME = mtime
+        print(f"✅ 온천 데이터 로드 완료: {len(CACHED_DATA.get('onsens', []))}개")
     except Exception as e:
         print(f"❌ 데이터 로드 오류: {e}")
+
+
+_ensure_onsen_cache()
+
+
+def _public_onsen(row: dict) -> dict:
+    out = copy.deepcopy(row)
+    out["thumbnail"] = _thumbnail_with_v(
+        out.get("thumbnail", ""), out.get("published")
+    )
+    return out
 
 # ==========================================
 # 2. 이미지 매핑 및 파싱 로직
@@ -191,6 +228,7 @@ def prioritize_by_ids(items, priority_ids, id_key="id"):
 
 def get_featured_onsens(lang, limit=12):
     """서버사이드 내부 링크용 온천 목록(크롤러가 바로 따라갈 수 있는 링크)"""
+    _ensure_onsen_cache()
     data_list = CACHED_DATA.get('onsens', [])
     filtered = [o for o in data_list if o.get('lang') == lang]
     if not filtered:
@@ -451,13 +489,14 @@ def privacy_page():
 @app.route('/api/onsens')
 def api_onsens():
     requested_lang = request.args.get('lang', 'en')
+    _ensure_onsen_cache()
     data_list = CACHED_DATA.get('onsens', [])
     filtered = [o for o in data_list if o.get('lang') == requested_lang]
     if not filtered: filtered = [o for o in data_list if o.get('lang') == 'en']
 
     spoofed_list = []
     for onsen in filtered:
-        spoofed = copy.deepcopy(onsen)
+        spoofed = _public_onsen(onsen)
         spoofed['lang'] = 'en' # JS Spoofing
         new_cats = [CATEGORY_MAPPING.get(c.strip(), c.strip()) for c in spoofed.get('categories', [])]
         spoofed['categories'] = list(set(new_cats))
@@ -549,6 +588,9 @@ def onsen_detail(onsen_id):
 
     # 💡 [추가] 언어 코드(_en, _ko)를 제거한 base_id 추출
     base_id = onsen_id.rsplit('_', 1)[0]
+    cache_v = _thumbnail_cache_v(post.get("date") or post.get("published"))
+    thumb = post.get("thumbnail") or _gcs_image_url(f"{base_id}.jpg")
+    post["thumbnail"] = _thumbnail_with_v(thumb, cache_v)
     lang = post.get('lang', 'en')
 
     content_html = markdown.markdown(post.content, extensions=['tables'])

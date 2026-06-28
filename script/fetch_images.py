@@ -99,11 +99,14 @@ def download_photo(photo_name, save_path):
 # 🚀 메인 실행
 # ==========================================
 def fetch_all_images():
-    if not API_KEY:
-        print("❌ .env 파일에 GOOGLE_PLACES_API_KEY가 없습니다.")
-        return
+    from ensure_item_images import ensure_item_images
 
     os.makedirs(IMAGES_DIR, exist_ok=True)
+
+    if not API_KEY:
+        print("⚠️ .env에 GOOGLE_PLACES_API_KEY 없음 — Places 수집 생략, placeholder만 실행")
+        ensure_item_images()
+        return
 
     # 보호할 파일 목록
     protected = {'logo.png', 'logo.svg', 'favicons.ico', 'default.png', 'og_image.png', 'onsen_marker.png'}
@@ -192,11 +195,13 @@ def fetch_all_images():
         time.sleep(0.3)
 
     print("\n" + "─" * 50)
-    print(f"🎉 이미지 수집 완료!")
+    print(f"🎉 Places 수집 완료!")
     print(f"   ✅ 성공: {success}개")
     print(f"   ⏭️  스킵: {skipped}개 (이미 존재)")
     print(f"   ❌ 실패: {failed}개")
     print("─" * 50)
+
+    ensure_item_images(slugs=md_safe_names)
 
 
 if __name__ == "__main__":
