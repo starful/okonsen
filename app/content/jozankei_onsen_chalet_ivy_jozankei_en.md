@@ -1,15 +1,26 @@
 ---
 lang: en
-title: "Chalet Ivy Jozankei: A Hokkaido Sanctuary of Luxury, Serenity, and Private Onsen Bliss"
+title: 'Chalet Ivy Jozankei: A Hokkaido Sanctuary of Luxury, Serenity, and Private
+  Onsen Bliss'
 lat: 42.9681
 lng: 141.1681
-categories: ["Luxury Ryokan", "Private Onsen", "Hokkaido Getaway", "Gourmet Kaiseki", "Jozankei Spa"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-06-26"
-agoda: ""
-summary: "Nestled amidst the breathtaking wilderness of Jozankei, Chalet Ivy offers an unparalleled blend of traditional Japanese hospitality and modern alpine luxury. Each exquisitely designed suite boasts its own private open-air onsen, promising an intimate communion with nature. Indulge in sublime Hokkaido gastronomy and experience the ultimate retreat just a short distance from vibrant Sapporo."
+categories:
+- Luxury Ryokan
+- Private Onsen
+- Hokkaido Getaway
+- Gourmet Kaiseki
+- Jozankei Spa
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg
+address: Sapporo, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: Nestled amidst the breathtaking wilderness of Jozankei, Chalet Ivy offers
+  an unparalleled blend of traditional Japanese hospitality and modern alpine luxury.
+  Each exquisitely designed suite boasts its own private open-air onsen, promising
+  an intimate communion with nature. Indulge in sublime Hokkaido gastronomy and experience
+  the ultimate retreat just a short distance from vibrant Sapporo.
 ---
+
 As an elite travel journalist with a penchant for the sublime artistry of Japanese onsen culture, I've journeyed through countless hot spring havens. Yet, few destinations capture the essence of refined luxury and profound tranquility quite like **Jozankei Onsen Chalet Ivy Jozankei**. Tucked away in the verdant embrace of Hokkaido's Shikotsu-Toya National Park, a mere hour's drive from the bustling heart of Sapporo, Chalet Ivy doesn't just offer an onsen stay; it provides an **immersive escape**, a meticulously curated experience where every detail whispers of elegance and serenity.
 
 From the moment you arrive, the air shifts. The scent of pine and crisp mountain air replaces urban clamor. The architecture, a harmonious marriage of **Japanese sensibilities** and **alpine lodge sophistication**, immediately impresses. It's a sanctuary designed for discernment, a place where the grandeur of nature outside is perfectly mirrored by the exquisite comfort within. What truly sets Chalet Ivy apart is its unwavering commitment to **privacy and personalized indulgence**, manifest in the fact that **every single room boasts its own private rotenburo (open-air bath)**. This isn't merely accommodation; it's a private world of mineral-rich bliss, a hushed retreat from the everyday, making it a unique gem in Hokkaido's crown.

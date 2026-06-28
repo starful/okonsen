@@ -1,15 +1,26 @@
 ---
 lang: en
-title: "Kinosaki Onsen Tokiwa: A Timeless Retreat in Japan's Onsen Paradise"
+title: 'Kinosaki Onsen Tokiwa: A Timeless Retreat in Japan''s Onsen Paradise'
 lat: 35.6225
 lng: 134.8128
-categories: ["Onsen", "Ryokan", "Kinosaki", "Hyogo", "Luxury Travel", "Japan Travel"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg"
-address: "376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan"
-date: "2026-05-12"
-agoda: "https://www.agoda.com/tokiwa-inn/hotel/toyooka-jp.html?cid=1844104"
-summary: "Kinosaki Onsen Tokiwa offers an enchanting escape into traditional Japanese hospitality. Nestled in the heart of Kinosaki, this ryokan provides unparalleled access to the town's seven iconic public onsen. Experience the ultimate relaxation with exquisite cuisine, elegant rooms, and a serene atmosphere steeped in history and natural beauty."
+categories:
+- Onsen
+- Ryokan
+- Kinosaki
+- Hyogo
+- Luxury Travel
+- Japan Travel
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg
+address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
+date: '2026-06-27'
+agoda: https://www.agoda.com/tokiwa-inn/hotel/toyooka-jp.html?cid=1844104
+summary: Kinosaki Onsen Tokiwa offers an enchanting escape into traditional Japanese
+  hospitality. Nestled in the heart of Kinosaki, this ryokan provides unparalleled
+  access to the town's seven iconic public onsen. Experience the ultimate relaxation
+  with exquisite cuisine, elegant rooms, and a serene atmosphere steeped in history
+  and natural beauty.
 ---
+
 
 Kinosaki Onsen Tokiwa is not merely a place to stay; it's a portal into a bygone era, a sanctuary of tranquility where the gentle murmur of the Maruyama River harmonizes with the rustling leaves of ancient willow trees. Stepping into Tokiwa is like entering a meticulously crafted watercolor painting, where every detail, from the polished wooden floors to the delicate floral arrangements, whispers of **wabi-sabi** and refined elegance. It's the kind of place where you immediately feel a sense of calm wash over you, a feeling that you've finally arrived at a place where time slows down and worries fade away. Tokiwa's unique charm lies in its seamless blend of historical authenticity and modern comfort, offering guests an immersive experience in the heart of one of Japan's most celebrated onsen towns. This ryokan provides the quintessential **Kinosaki Onsen experience**, with its prime location offering effortless access to the town's seven famous public baths, each with its own distinct character and therapeutic properties.
 

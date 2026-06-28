@@ -1,15 +1,20 @@
 ---
 lang: ko
-title: "기노사키 온센 코야도 엔: 숨겨진 료칸 보석 탐험"
+title: '기노사키 온센 코야도 엔: 숨겨진 료칸 보석 탐험'
 lat: 35.6241
 lng: 134.8141
-categories: ["온천", "료칸"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/ok-project-assets/okonsen/kinosaki_onsen_koyado_en.jpg"
-address: "Toyooka, Hyogo"
-date: "2026-04-28"
-agoda: ""
-summary: "기노사키 온천 중심부에 자리 잡은 코야도 엔은 전통과 현대적인 편안함이 완벽하게 조화를 이루는 숨겨진 보석 같은 료칸입니다.  시간이 멈춘 듯한 분위기 속에서 진정한 일본의 환대를 경험하고, 미식의 향연과 함께 심신의 휴식을 취해보세요. 이 상세 가이드에서 코야도 엔의 매력에 흠뻑 빠져보세요."
+categories:
+- 온천
+- 료칸
+thumbnail: https://storage.googleapis.com/ok-project-assets/ok-project-assets/okonsen/kinosaki_onsen_koyado_en.jpg
+address: Toyooka, Hyogo
+date: '2026-06-27'
+agoda: ''
+summary: 기노사키 온천 중심부에 자리 잡은 코야도 엔은 전통과 현대적인 편안함이 완벽하게 조화를 이루는 숨겨진 보석 같은 료칸입니다.  시간이
+  멈춘 듯한 분위기 속에서 진정한 일본의 환대를 경험하고, 미식의 향연과 함께 심신의 휴식을 취해보세요. 이 상세 가이드에서 코야도 엔의 매력에
+  흠뻑 빠져보세요.
 ---
+
 
 기노사키 온센 코야도 엔은 단순한 숙박 시설이 아닌, **잊을 수 없는 경험**을 선사하는 특별한 공간입니다.  고요한 분위기, 세심한 서비스, 그리고 주변 자연과의 조화는 방문객에게 깊은 인상을 남깁니다. 기노사키 온천의 활기찬 거리에서 조금 벗어나 자리 잡은 코야도 엔은 **진정한 휴식과 평화**를 갈망하는 여행자에게 이상적인 선택입니다. 첫 발을 내딛는 순간, 시간 여행을 떠나는 듯한 느낌을 받으며, 일본 전통 문화의 아름다움에 흠뻑 빠져들게 될 것입니다.
 

@@ -1,15 +1,21 @@
 ---
 lang: ko
-title: "기노사키 온천 가와구치야: 전통과 현대가 어우러진 럭셔리 온천 체험"
+title: '기노사키 온천 가와구치야: 전통과 현대가 어우러진 럭셔리 온천 체험'
 lat: 35.6211
 lng: 134.8105
-categories: ["온천", "료칸", "일본여행"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kawaguchiya.jpg"
-address: "Toyooka, Hyogo"
-date: "2026-04-28"
-agoda: ""
-summary: "기노사키 온천의 중심에 위치한 가와구치야는 100년 이상의 역사를 자랑하는 료칸입니다. 전통적인 일본식 건축과 현대적인 편의 시설이 조화롭게 어우러져 특별한 휴식을 선사합니다. 고급 가이세키 요리와 다양한 온천탕을 즐기며 잊지 못할 추억을 만들어 보세요."
+categories:
+- 온천
+- 료칸
+- 일본여행
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kawaguchiya.jpg
+address: Toyooka, Hyogo
+date: '2026-06-27'
+agoda: ''
+summary: 기노사키 온천의 중심에 위치한 가와구치야는 100년 이상의 역사를 자랑하는 료칸입니다. 전통적인 일본식 건축과 현대적인 편의 시설이
+  조화롭게 어우러져 특별한 휴식을 선사합니다. 고급 가이세키 요리와 다양한 온천탕을 즐기며 잊지 못할 추억을 만들어 보세요.
 ---
+
+
 
 기노사키 온천 가와구치야는 단순한 숙박 시설이 아닌, 시간을 거슬러 올라간 듯한 특별한 경험을 선사하는 곳입니다. 좁은 골목길을 따라 유카타를 입은 사람들이 게다 소리를 내며 걸어가는 풍경, 따뜻한 온천수에 몸을 담그며 느끼는 평온함, 그리고 정갈한 가이세키 요리가 어우러져 잊을 수 없는 추억을 만들어 줍니다. 료칸 문을 여는 순간, 과거와 현재가 공존하는 듯한 독특한 분위기에 매료될 것입니다.
 

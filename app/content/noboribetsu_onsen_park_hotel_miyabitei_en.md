@@ -1,15 +1,29 @@
 ---
 lang: en
-title: "Noboribetsu Onsen Park Hotel Miyabitei: A Sanctuary of Sulfur and Serenity in Hokkaido"
+title: 'Noboribetsu Onsen Park Hotel Miyabitei: A Sanctuary of Sulfur and Serenity
+  in Hokkaido'
 lat: 42.4951
 lng: 141.1451
-categories: ["Onsen", "Ryokan", "Hokkaido", "Luxury Travel", "Wellness", "Geothermal Springs"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_park_hotel_miyabitei.jpg"
-address: "Noboribetsu, Hokkaido"
-date: "2026-06-04"
-agoda: ""
-summary: "Nestled amidst the ethereal, volcanic landscape of Noboribetsu, Hokkaido, Noboribetsu Onsen Park Hotel Miyabitei offers an exquisite blend of traditional Japanese hospitality and modern comfort. It provides direct access to Noboribetsu's famed therapeutic thermal waters, allowing guests to immerse themselves in rich sulfur and chloride springs. Experience a true escape where the harmony of nature, refined gastronomy, and unparalleled relaxation converge to rejuvenate body and soul."
+categories:
+- Onsen
+- Ryokan
+- Hokkaido
+- Luxury Travel
+- Wellness
+- Geothermal Springs
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_park_hotel_miyabitei.jpg
+address: Noboribetsu, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: Nestled amidst the ethereal, volcanic landscape of Noboribetsu, Hokkaido,
+  Noboribetsu Onsen Park Hotel Miyabitei offers an exquisite blend of traditional
+  Japanese hospitality and modern comfort. It provides direct access to Noboribetsu's
+  famed therapeutic thermal waters, allowing guests to immerse themselves in rich
+  sulfur and chloride springs. Experience a true escape where the harmony of nature,
+  refined gastronomy, and unparalleled relaxation converge to rejuvenate body and
+  soul.
 ---
+
 Noboribetsu, a name synonymous with **Japan's most potent and diverse hot springs**, beckons travelers seeking profound relaxation and a unique connection to the Earth's raw power. Within this geothermal wonderland, Noboribetsu Onsen Park Hotel Miyabitei stands as a distinguished sanctuary, offering an experience that transcends mere accommodation. From the moment you arrive, the subtle, unmistakable scent of sulfur in the crisp Hokkaido air signals your entry into a realm of healing.
 
 The initial impression of Miyabitei is one of **understated elegance and serene welcome**. The lobby, with its refined blend of traditional Japanese aesthetics and contemporary comfort, immediately envelops you in a sense of calm. Polished wood, soft lighting, and discreet floral arrangements create an atmosphere that is both inviting and reflective of the pristine natural environment outside. What truly sets Miyabitei apart is its unwavering commitment to **_omotenashi_**, the selfless spirit of Japanese hospitality, coupled with its direct access to some of Noboribetsu's most celebrated onsen waters. It's not just a hotel; it’s a portal to the ancient art of therapeutic bathing, meticulously crafted to harmonize with the dramatic beauty of the "Hell Valley" that lies just beyond its doors.

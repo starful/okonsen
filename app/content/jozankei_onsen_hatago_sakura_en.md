@@ -1,15 +1,28 @@
 ---
 lang: en
-title: "Jozankei Onsen Hatago Sakura: Hokkaido's Serene Escape into Refined Ryokan Luxury"
+title: 'Jozankei Onsen Hatago Sakura: Hokkaido''s Serene Escape into Refined Ryokan
+  Luxury'
 lat: 42.9658
 lng: 141.1658
-categories: ["Onsen", "Ryokan", "Hokkaido", "Luxury Travel", "Wellness", "Gastronomy"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_hatago_sakura.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-06-26"
-agoda: ""
-summary: "Nestled in the picturesque Jozankei Onsen village, Hatago Sakura offers a transcendent escape just a stone's throw from Sapporo. This exquisite ryokan masterfully blends traditional Japanese hospitality with contemporary comforts, creating an atmosphere of understated elegance and profound tranquility. Immerse yourself in mineral-rich hot springs, savor Hokkaido's seasonal bounty, and rediscover serenity amidst nature's embrace."
+categories:
+- Onsen
+- Ryokan
+- Hokkaido
+- Luxury Travel
+- Wellness
+- Gastronomy
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_hatago_sakura.jpg
+address: Sapporo, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: Nestled in the picturesque Jozankei Onsen village, Hatago Sakura offers a
+  transcendent escape just a stone's throw from Sapporo. This exquisite ryokan masterfully
+  blends traditional Japanese hospitality with contemporary comforts, creating an
+  atmosphere of understated elegance and profound tranquility. Immerse yourself in
+  mineral-rich hot springs, savor Hokkaido's seasonal bounty, and rediscover serenity
+  amidst nature's embrace.
 ---
+
 ## Introduction: A Sanctuary Beyond the City's Embrace
 
 Stepping into Jozankei Onsen Hatago Sakura is akin to entering a hushed, artfully curated world where the ceaseless rhythm of urban life dissolves into the gentle murmur of the Toyohira River. Just an hour's journey from the vibrant heart of Sapporo, this exquisite ryokan in Hokkaido's Jozankei Onsen village offers an immediate sense of **calm and sophistication**. From the moment you cross its threshold, a profound stillness settles upon you, a palpable invitation to unwind.

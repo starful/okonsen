@@ -1,15 +1,21 @@
 ---
 lang: ko
-title: "아리마 온천 타케토리테이 마루야마: 럭셔리 온천 료칸 완벽 가이드"
+title: '아리마 온천 타케토리테이 마루야마: 럭셔리 온천 료칸 완벽 가이드'
 lat: 34.7922
 lng: 135.2488
-categories: ["온천", "료칸", "럭셔리 여행"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_taketoritei_maruyama.jpg"
-address: "효고현 고베시 기타구 아리마초 1364-1"
-date: "2026-05-12"
-agoda: ""
-summary: "타케토리테이 마루야마는 고베 아리마 온천에 위치한 최고급 료칸으로, 전통적인 아름다움과 현대적인 편안함을 결합했습니다. 금천과 은천 두 가지 온천수를 즐길 수 있으며, 정통 가이세키 요리와 섬세한 서비스는 잊지 못할 경험을 선사합니다. 고요한 분위기 속에서 진정한 휴식을 원하는 여행객에게 완벽한 선택입니다."
+categories:
+- 온천
+- 료칸
+- 럭셔리 여행
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_taketoritei_maruyama.jpg
+address: 효고현 고베시 기타구 아리마초 1364-1
+date: '2026-06-27'
+agoda: ''
+summary: 타케토리테이 마루야마는 고베 아리마 온천에 위치한 최고급 료칸으로, 전통적인 아름다움과 현대적인 편안함을 결합했습니다. 금천과 은천
+  두 가지 온천수를 즐길 수 있으며, 정통 가이세키 요리와 섬세한 서비스는 잊지 못할 경험을 선사합니다. 고요한 분위기 속에서 진정한 휴식을 원하는
+  여행객에게 완벽한 선택입니다.
 ---
+
 
 아리마 온천 타케토리테이 마루야마: 럭셔리 온천 료칸 완벽 가이드
 

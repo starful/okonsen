@@ -1,15 +1,23 @@
 ---
 lang: en
-title: "Sensui: A Tranquil Escape in Kinosaki Onsen's Heart"
+title: 'Sensui: A Tranquil Escape in Kinosaki Onsen''s Heart'
 lat: 35.6261
 lng: 134.8115
-categories: ["Onsen Ryokan", "Kinosaki Onsen", "Luxury Travel"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sensui.jpg"
-address: "376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan"
-date: "2026-05-12"
-agoda: ""
-summary: "Sensui Ryokan offers an intimate and refined onsen experience in the charming canal town of Kinosaki. Known for its impeccable service, exquisite cuisine, and serene atmosphere, Sensui provides a tranquil retreat for discerning travelers seeking authentic Japanese hospitality. Its prime location makes exploring Kinosaki's seven public bathhouses effortless."
+categories:
+- Onsen Ryokan
+- Kinosaki Onsen
+- Luxury Travel
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sensui.jpg
+address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
+date: '2026-06-27'
+agoda: ''
+summary: Sensui Ryokan offers an intimate and refined onsen experience in the charming
+  canal town of Kinosaki. Known for its impeccable service, exquisite cuisine, and
+  serene atmosphere, Sensui provides a tranquil retreat for discerning travelers seeking
+  authentic Japanese hospitality. Its prime location makes exploring Kinosaki's seven
+  public bathhouses effortless.
 ---
+
 
 Sensui Ryokan: A Journey into Refined Tranquility in Kinosaki Onsen
 

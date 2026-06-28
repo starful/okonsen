@@ -1,15 +1,19 @@
 ---
 lang: ko
-title: "기노사키 온천 도키와: 시간을 초월한 료칸 경험"
+title: '기노사키 온천 도키와: 시간을 초월한 료칸 경험'
 lat: 35.6225
 lng: 134.8128
-categories: ["료칸", "온천"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg"
-address: "효고현 도요오카시 기노사키초 유시마 467"
-date: "2026-04-28"
-agoda: ""
-summary: "기노사키 온천 중심부에 자리잡은 도키와 료칸은 전통과 현대적인 편안함이 조화롭게 어우러진 곳입니다. 7개의 온천 순례를 즐기고, 정갈한 가이세키 요리를 맛보며, 유카타를 입고 거리를 거닐어 보세요. 시간을 초월한 특별한 경험을 선사합니다."
+categories:
+- 료칸
+- 온천
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg
+address: 효고현 도요오카시 기노사키초 유시마 467
+date: '2026-06-27'
+agoda: ''
+summary: 기노사키 온천 중심부에 자리잡은 도키와 료칸은 전통과 현대적인 편안함이 조화롭게 어우러진 곳입니다. 7개의 온천 순례를 즐기고, 정갈한
+  가이세키 요리를 맛보며, 유카타를 입고 거리를 거닐어 보세요. 시간을 초월한 특별한 경험을 선사합니다.
 ---
+
 
 기노사키 온천 도키와: 시간을 초월한 료칸 경험
 

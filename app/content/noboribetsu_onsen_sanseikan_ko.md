@@ -1,15 +1,23 @@
 ---
 lang: ko
-title: "북해도의 심장, 노보리베츠 온천 산세이칸: 지옥계곡의 숨결이 깃든 치유의 여정"
+title: '북해도의 심장, 노보리베츠 온천 산세이칸: 지옥계곡의 숨결이 깃든 치유의 여정'
 lat: 42.4999
 lng: 141.1499
-categories: ["온천 료칸", "홋카이도 여행", "노보리베츠", "전통 숙박", "미식"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_sanseikan.jpg"
-address: "Noboribetsu, Hokkaido"
-date: "2026-06-12"
-agoda: ""
-summary: "홋카이도 노보리베츠의 유서 깊은 온천 마을에 자리한 산세이칸은 지옥계곡의 풍부한 온천수를 자랑하며, 전통과 현대가 조화된 미학으로 진정한 휴식을 선사합니다. 다양한 수질의 온천탕, 제철 식재료로 빚어낸 가이세키 요리, 그리고 와비사비 정신이 깃든 객실은 몸과 마음을 정화하는 특별한 경험을 약속합니다. 북해도의 대자연 속에서 치유와 재충전의 시간을 보내고 싶은 이들을 위한 최상의 선택입니다."
+categories:
+- 온천 료칸
+- 홋카이도 여행
+- 노보리베츠
+- 전통 숙박
+- 미식
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_sanseikan.jpg
+address: Noboribetsu, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: 홋카이도 노보리베츠의 유서 깊은 온천 마을에 자리한 산세이칸은 지옥계곡의 풍부한 온천수를 자랑하며, 전통과 현대가 조화된 미학으로
+  진정한 휴식을 선사합니다. 다양한 수질의 온천탕, 제철 식재료로 빚어낸 가이세키 요리, 그리고 와비사비 정신이 깃든 객실은 몸과 마음을 정화하는
+  특별한 경험을 약속합니다. 북해도의 대자연 속에서 치유와 재충전의 시간을 보내고 싶은 이들을 위한 최상의 선택입니다.
 ---
+
 
 ## 서론: 지옥계곡의 숨결, 천상의 휴식처
 

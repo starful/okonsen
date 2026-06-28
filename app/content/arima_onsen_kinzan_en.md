@@ -9,7 +9,7 @@ categories:
 - Luxury Travel
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_kinzan.jpg
 address: Kobe, Hyogo
-date: '2026-05-12'
+date: '2026-06-27'
 agoda: ''
 summary: Escape to Arima Onsen Kinzan, a haven of tranquility nestled in the mountains
   of Kobe. Renowned for its therapeutic hot spring waters and exquisite Kaiseki cuisine,
@@ -22,6 +22,7 @@ seo_title: 'Arima Onsen Kinzan: Luxury Ryokan in Kobe | OKOnsen'
 seo_description: Experience Arima Onsen Kinzan, a premier luxury ryokan in Kobe. Enjoy
   therapeutic hot springs, exquisite Kaiseki, and world-class Japanese hospitality.
 ---
+
 
 
 

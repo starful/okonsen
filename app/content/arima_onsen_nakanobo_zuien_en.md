@@ -1,15 +1,23 @@
 ---
 lang: en
-title: "Arima Onsen Nakanobo Zuien: A Deep Dive into Kobe's Luxurious Hot Spring Retreat"
+title: 'Arima Onsen Nakanobo Zuien: A Deep Dive into Kobe''s Luxurious Hot Spring
+  Retreat'
 lat: 34.7977
 lng: 135.2466
-categories: ["Onsen Ryokan", "Luxury Travel", "Japanese Culture"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_nakanobo_zuien.jpg"
-address: "Kobe, Hyogo"
-date: "2026-05-12"
-agoda: ""
-summary: "Nakanobo Zuien offers a refined onsen experience in the historic Arima Onsen. This luxury ryokan is celebrated for its kinsen (gold water) and ginsen (silver water) baths, exquisite kaiseki cuisine, and impeccable service. A stay here is a journey into traditional Japanese hospitality with modern comforts."
+categories:
+- Onsen Ryokan
+- Luxury Travel
+- Japanese Culture
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_nakanobo_zuien.jpg
+address: Kobe, Hyogo
+date: '2026-06-27'
+agoda: ''
+summary: Nakanobo Zuien offers a refined onsen experience in the historic Arima Onsen.
+  This luxury ryokan is celebrated for its kinsen (gold water) and ginsen (silver
+  water) baths, exquisite kaiseki cuisine, and impeccable service. A stay here is
+  a journey into traditional Japanese hospitality with modern comforts.
 ---
+
 
 Nakanobo Zuien is not just an onsen ryokan; it's an immersion into the heart of Japanese hospitality and the therapeutic wonders of Arima Onsen. Stepping inside, you are immediately enveloped by an atmosphere of quiet elegance, where the delicate scent of tatami mats mingles with the subtle aroma of incense. The meticulous attention to detail, from the meticulously arranged flower displays to the warm smiles of the staff, speaks volumes about the dedication to providing an unforgettable experience. What sets Zuien apart is its seamless blend of traditional charm and modern luxury, creating a sanctuary of relaxation and rejuvenation. It's a place where time seems to slow down, allowing you to fully appreciate the simple pleasures of life – a steaming hot spring bath, a meticulously crafted meal, and the serene beauty of the surrounding mountains.
 

@@ -1,15 +1,23 @@
 ---
 lang: ko
-title: "노보리베츠 온천 료테이 하나유라: 북해도 프라이빗 온천의 정수를 만나다"
+title: '노보리베츠 온천 료테이 하나유라: 북해도 프라이빗 온천의 정수를 만나다'
 lat: 42.4981
 lng: 141.1471
-categories: ["온천 료칸", "럭셔리 여행", "홋카이도", "프라이빗 온천", "카이세키 요리"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_ryotei_hanayura.jpg"
-address: "Noboribetsu, Hokkaido"
-date: "2026-06-12"
-agoda: ""
-summary: "북해도 노보리베츠의 심장부에 위치한 '료테이 하나유라'는 모든 객실에 전용 노천탕을 갖춘 프라이빗 온천 료칸으로, 진정한 휴식과 미식 경험을 선사합니다. 유황천의 치유력과 정성스러운 카이세키 요리, 와비사비 미학이 깃든 공간 속에서 일상에서 벗어난 특별한 시간을 만끽할 수 있습니다. 자연의 아름다움과 일본 전통의 환대가 어우러진 하나유라에서 잊을 수 없는 힐링 여정을 시작해보세요."
+categories:
+- 온천 료칸
+- 럭셔리 여행
+- 홋카이도
+- 프라이빗 온천
+- 카이세키 요리
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_ryotei_hanayura.jpg
+address: Noboribetsu, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: 북해도 노보리베츠의 심장부에 위치한 '료테이 하나유라'는 모든 객실에 전용 노천탕을 갖춘 프라이빗 온천 료칸으로, 진정한 휴식과 미식
+  경험을 선사합니다. 유황천의 치유력과 정성스러운 카이세키 요리, 와비사비 미학이 깃든 공간 속에서 일상에서 벗어난 특별한 시간을 만끽할 수 있습니다.
+  자연의 아름다움과 일본 전통의 환대가 어우러진 하나유라에서 잊을 수 없는 힐링 여정을 시작해보세요.
 ---
+
 
 ## 서문: 고요함 속 피어나는 오모테나시의 꽃
 

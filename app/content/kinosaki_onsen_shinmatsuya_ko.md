@@ -1,15 +1,20 @@
 ---
 lang: ko
-title: "기노사키 온천 신마츠야 완벽 가이드: 최고의 료칸 체험"
+title: '기노사키 온천 신마츠야 완벽 가이드: 최고의 료칸 체험'
 lat: 35.6288
 lng: 134.8166
-categories: ["료칸", "온천"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg"
-address: "Toyooka, Hyogo"
-date: "2026-04-28"
-agoda: ""
-summary: "기노사키 온천의 심장부에 자리 잡은 신마츠야는 전통과 현대적인 편안함이 완벽하게 조화를 이루는 료칸입니다. 7개의 공중 온천 순례와 함께 잊을 수 없는 가이세키 요리, 그리고 고요한 다다미방에서의 휴식은 최고의 온천 경험을 선사합니다. 이 가이드에서 신마츠야의 모든 것을 파헤쳐 보세요."
+categories:
+- 료칸
+- 온천
+thumbnail: https://storage.googleapis.com/ok-project-assets/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg
+address: Toyooka, Hyogo
+date: '2026-06-27'
+agoda: ''
+summary: 기노사키 온천의 심장부에 자리 잡은 신마츠야는 전통과 현대적인 편안함이 완벽하게 조화를 이루는 료칸입니다. 7개의 공중 온천 순례와
+  함께 잊을 수 없는 가이세키 요리, 그리고 고요한 다다미방에서의 휴식은 최고의 온천 경험을 선사합니다. 이 가이드에서 신마츠야의 모든 것을 파헤쳐
+  보세요.
 ---
+
 
 기노사키 온천 신마츠야에 오신 것을 환영합니다!
 

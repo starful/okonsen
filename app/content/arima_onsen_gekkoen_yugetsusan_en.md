@@ -1,15 +1,24 @@
 ---
 lang: en
-title: "Arima Onsen Gekkoen Yugetsusan: A Deep Dive into Kobe's Luxurious Hot Spring Retreat"
+title: 'Arima Onsen Gekkoen Yugetsusan: A Deep Dive into Kobe''s Luxurious Hot Spring
+  Retreat'
 lat: 34.7911
 lng: 135.2511
-categories: ["Onsen Ryokan", "Luxury Travel", "Japanese Culture"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_gekkoen_yugetsusan.jpg"
-address: "Kobe, Hyogo"
-date: "2026-05-12"
-agoda: ""
-summary: "Gekkoen Yugetsusan, nestled in the historic Arima Onsen, offers an unparalleled onsen experience. Immerse yourself in the healing waters of its renowned Kinsen and Ginsen springs, indulge in exquisite Kaiseki cuisine, and discover the refined elegance of a traditional Japanese ryokan. This sanctuary promises a rejuvenating escape steeped in tradition and natural beauty."
+categories:
+- Onsen Ryokan
+- Luxury Travel
+- Japanese Culture
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_gekkoen_yugetsusan.jpg
+address: Kobe, Hyogo
+date: '2026-06-27'
+agoda: ''
+summary: Gekkoen Yugetsusan, nestled in the historic Arima Onsen, offers an unparalleled
+  onsen experience. Immerse yourself in the healing waters of its renowned Kinsen
+  and Ginsen springs, indulge in exquisite Kaiseki cuisine, and discover the refined
+  elegance of a traditional Japanese ryokan. This sanctuary promises a rejuvenating
+  escape steeped in tradition and natural beauty.
 ---
+
 
 Arima Onsen Gekkoen Yugetsusan: A Journey to Tranquility and Refinement
 

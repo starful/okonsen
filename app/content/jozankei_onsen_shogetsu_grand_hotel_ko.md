@@ -1,15 +1,22 @@
 ---
 lang: ko
-title: "죠잔케이 온천 쇼게츠 그랜드 호텔: 삿포로의 숨겨진 보석, 완벽 가이드"
+title: '죠잔케이 온천 쇼게츠 그랜드 호텔: 삿포로의 숨겨진 보석, 완벽 가이드'
 lat: 42.9677
 lng: 141.1677
-categories: ["온천", "료칸", "럭셔리 여행", "홋카이도"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg"
-address: "일본 〒061-2303 Hokkaido, Sapporo, Minami Ward, Jozankeionsenhigashi, 3 Chome−211"
-date: "2026-06-23"
-agoda: ""
-summary: "홋카이도 삿포로의 비경, 죠잔케이 온천 협곡 깊숙이 자리한 쇼게츠 그랜드 호텔은 자연과 어우러진 최고의 휴식을 선사합니다. 탁월한 온천수 질, 정교한 가이세키 요리, 그리고 전통과 현대가 조화를 이룬 공간에서 진정한 일본 료칸의 정수를 경험해보세요. 계절마다 변모하는 압도적인 자연 경관 속에서 일상의 번잡함을 잊고 온전한 평화를 만끽할 수 있습니다."
+categories:
+- 온천
+- 료칸
+- 럭셔리 여행
+- 홋카이도
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg
+address: 일본 〒061-2303 Hokkaido, Sapporo, Minami Ward, Jozankeionsenhigashi, 3 Chome−211
+date: '2026-06-27'
+agoda: ''
+summary: 홋카이도 삿포로의 비경, 죠잔케이 온천 협곡 깊숙이 자리한 쇼게츠 그랜드 호텔은 자연과 어우러진 최고의 휴식을 선사합니다. 탁월한
+  온천수 질, 정교한 가이세키 요리, 그리고 전통과 현대가 조화를 이룬 공간에서 진정한 일본 료칸의 정수를 경험해보세요. 계절마다 변모하는 압도적인
+  자연 경관 속에서 일상의 번잡함을 잊고 온전한 평화를 만끽할 수 있습니다.
 ---
+
 
 ## 서론: 자연 속의 휴식처, 쇼게츠 그랜드 호텔
 

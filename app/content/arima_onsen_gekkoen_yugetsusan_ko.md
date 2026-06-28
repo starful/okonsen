@@ -1,15 +1,19 @@
 ---
 lang: ko
-title: "아리마 온천 겟코엔 유게츠산 완벽 가이드: 역사, 온천, 미식 그리고 숨겨진 팁"
+title: '아리마 온천 겟코엔 유게츠산 완벽 가이드: 역사, 온천, 미식 그리고 숨겨진 팁'
 lat: 34.7911
 lng: 135.2511
-categories: ["온천 료칸", "고베 여행"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_gekkoen_yugetsusan.jpg"
-address: "Kobe, Hyogo"
-date: "2026-05-12"
-agoda: ""
-summary: "겟코엔 유게츠산은 고베 아리마 온천의 아름다운 자연 속에 자리 잡은 료칸입니다. 킨센(金泉)과 긴센(銀泉) 두 가지 온천을 즐길 수 있으며, 정통 가이세키 요리와 편안한 객실을 제공합니다. 특별한 일본 온천 경험을 찾고 있다면 유게츠산은 최고의 선택이 될 것입니다."
+categories:
+- 온천 료칸
+- 고베 여행
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_gekkoen_yugetsusan.jpg
+address: Kobe, Hyogo
+date: '2026-06-27'
+agoda: ''
+summary: 겟코엔 유게츠산은 고베 아리마 온천의 아름다운 자연 속에 자리 잡은 료칸입니다. 킨센(金泉)과 긴센(銀泉) 두 가지 온천을 즐길 수
+  있으며, 정통 가이세키 요리와 편안한 객실을 제공합니다. 특별한 일본 온천 경험을 찾고 있다면 유게츠산은 최고의 선택이 될 것입니다.
 ---
+
 
 아리마 온천 겟코엔 유게츠산 (Arima Onsen Gekkoen Yugetsusan) 완벽 가이드
 

@@ -1,15 +1,24 @@
 ---
 lang: ko
-title: "노보리베츠 온천 이와오: 지옥곡의 품격, 홋카이도 최상의 휴식처"
+title: '노보리베츠 온천 이와오: 지옥곡의 품격, 홋카이도 최상의 휴식처'
 lat: 42.4922
 lng: 141.1422
-categories: ["일본 온천", "홋카이도 여행", "노보리베츠", "료칸", "럭셔리 숙박", "전통과 현대의 조화"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_iwao.jpg"
-address: "Noboribetsu, Hokkaido"
-date: "2026-06-19"
-agoda: ""
-summary: "홋카이도의 심장부, 지옥곡의 뜨거운 숨결이 닿는 노보리베츠에 자리한 '노보리베츠 온천 이와오'는 자연의 경이로움과 일본 전통 환대의 정수를 선사합니다. 이와오는 홋카이도 특유의 풍요로운 식재료로 빚어낸 가이세키 요리와 다채로운 수질의 온천으로 방문객에게 잊을 수 없는 경험을 약속합니다. 고요함 속에서 진정한 휴식을 찾고, 몸과 마음을 치유하는 특별한 여정을 떠나보세요."
+categories:
+- 일본 온천
+- 홋카이도 여행
+- 노보리베츠
+- 료칸
+- 럭셔리 숙박
+- 전통과 현대의 조화
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_iwao.jpg
+address: Noboribetsu, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: 홋카이도의 심장부, 지옥곡의 뜨거운 숨결이 닿는 노보리베츠에 자리한 '노보리베츠 온천 이와오'는 자연의 경이로움과 일본 전통 환대의
+  정수를 선사합니다. 이와오는 홋카이도 특유의 풍요로운 식재료로 빚어낸 가이세키 요리와 다채로운 수질의 온천으로 방문객에게 잊을 수 없는 경험을
+  약속합니다. 고요함 속에서 진정한 휴식을 찾고, 몸과 마음을 치유하는 특별한 여정을 떠나보세요.
 ---
+
 
 ## 서문: 지옥곡이 선사하는 극상의 평온, 노보리베츠 온천 이와오
 

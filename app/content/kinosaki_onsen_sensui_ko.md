@@ -1,15 +1,20 @@
 ---
 lang: ko
-title: "키노사키 온천 센스이: 숨겨진 낙원의 깊은 곳을 탐험하다"
+title: '키노사키 온천 센스이: 숨겨진 낙원의 깊은 곳을 탐험하다'
 lat: 35.6261
 lng: 134.8115
-categories: ["온천 료칸", "일본 여행"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sensui.jpg"
-address: "효고현 도요오카시 키노사키초 유시마"
-date: "2026-05-12"
-agoda: ""
-summary: "키노사키 온천 마을의 중심부에서 조금 떨어진 센스이는 고요함과 전통이 완벽하게 조화를 이루는 곳입니다. 섬세한 가이세키 요리, 마음을 달래는 온천수, 그리고 유서 깊은 건축물을 통해 진정한 일본의 아름다움을 경험하세요. 번잡함에서 벗어나 자연과 문화에 흠뻑 빠져 잊을 수 없는 휴식을 선사합니다."
+categories:
+- 온천 료칸
+- 일본 여행
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sensui.jpg
+address: 효고현 도요오카시 키노사키초 유시마
+date: '2026-06-27'
+agoda: ''
+summary: 키노사키 온천 마을의 중심부에서 조금 떨어진 센스이는 고요함과 전통이 완벽하게 조화를 이루는 곳입니다. 섬세한 가이세키 요리, 마음을
+  달래는 온천수, 그리고 유서 깊은 건축물을 통해 진정한 일본의 아름다움을 경험하세요. 번잡함에서 벗어나 자연과 문화에 흠뻑 빠져 잊을 수 없는
+  휴식을 선사합니다.
 ---
+
 
 키노사키 온천 센스이 (城崎温泉 泉水): 숨겨진 오아시스에서 평온을 찾다
 

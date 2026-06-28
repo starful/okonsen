@@ -1,15 +1,29 @@
 ---
 lang: en
-title: "Hanayura Noboribetsu: A Deep Dive into Hokkaido's Ultimate Private Onsen Ryotei Experience"
+title: 'Hanayura Noboribetsu: A Deep Dive into Hokkaido''s Ultimate Private Onsen
+  Ryotei Experience'
 lat: 42.4981
 lng: 141.1471
-categories: ["Luxury Onsen", "Ryotei", "Hokkaido Travel", "Private Onsen", "Gourmet Kaiseki", "Adults-Only Resort"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_ryotei_hanayura.jpg"
-address: "Noboribetsu, Hokkaido"
-date: "2026-06-12"
-agoda: "https://www.agoda.com/noboribetsu-onsen-ryotei-hanayura/hotel/noboribetsu-jp.html"
-summary: "Nestled amidst the primeval forests of Noboribetsu, Hokkaido, Noboribetsu Onsen Ryotei Hanayura offers an unparalleled sanctuary of sophisticated tranquility. This esteemed ryotei redefines the luxury onsen experience with its exclusive focus on privacy, featuring private open-air baths in every suite. Immerse yourself in exquisite multi-course kaiseki dining, crafted from Hokkaido's finest seasonal produce, and discover an oasis where traditional Japanese hospitality meets contemporary comfort."
+categories:
+- Luxury Onsen
+- Ryotei
+- Hokkaido Travel
+- Private Onsen
+- Gourmet Kaiseki
+- Adults-Only Resort
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_ryotei_hanayura.jpg
+address: Noboribetsu, Hokkaido
+date: '2026-06-27'
+agoda: https://www.agoda.com/noboribetsu-onsen-ryotei-hanayura/hotel/noboribetsu-jp.html
+summary: Nestled amidst the primeval forests of Noboribetsu, Hokkaido, Noboribetsu
+  Onsen Ryotei Hanayura offers an unparalleled sanctuary of sophisticated tranquility.
+  This esteemed ryotei redefines the luxury onsen experience with its exclusive focus
+  on privacy, featuring private open-air baths in every suite. Immerse yourself in
+  exquisite multi-course kaiseki dining, crafted from Hokkaido's finest seasonal produce,
+  and discover an oasis where traditional Japanese hospitality meets contemporary
+  comfort.
 ---
+
 
 Noboribetsu, a name synonymous with some of Japan’s most potent and revered hot springs, lies nestled in the heart of Hokkaido’s dramatic volcanic landscapes. It is a realm where the earth breathes, sending forth plumes of steam and mineral-rich waters that have captivated travelers for centuries. Amidst this raw, untamed beauty, an establishment of profound elegance and serene exclusivity beckons: **Noboribetsu Onsen Ryotei Hanayura**. This is not merely an onsen ryokan; it is a **ryotei**, a designation that elevates it to a realm of refined hospitality, exquisite gastronomy, and an unwavering commitment to a deeply personal guest experience.
 

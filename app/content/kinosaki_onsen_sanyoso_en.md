@@ -1,15 +1,22 @@
 ---
 lang: en
-title: "Kinosaki Onsen Sanyoso: A Deep Dive into Hyogo's Hidden Gem"
+title: 'Kinosaki Onsen Sanyoso: A Deep Dive into Hyogo''s Hidden Gem'
 lat: 35.6258
 lng: 134.8177
-categories: ["Onsen Ryokan", "Luxury Travel"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sanyoso.jpg"
-address: "357 Kinosakicho Yushima, Toyooka, Hyogo 669-6101, Japan"
-date: "2026-05-12"
-agoda: "https://www.agoda.com/s/index.aspx?cid=1844104&pcs=1&screen=Homes&hid=719396"
-summary: "Sanyoso Ryokan, nestled in the heart of Kinosaki Onsen, offers an unparalleled experience of tranquility and traditional Japanese hospitality. Renowned for its exquisite cuisine, breathtaking views, and meticulously curated onsen, Sanyoso is more than just a stay – it's an immersion into the art of Japanese relaxation. Discover the essence of wabi-sabi amidst the calming embrace of Hyogo's natural beauty."
+categories:
+- Onsen Ryokan
+- Luxury Travel
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_sanyoso.jpg
+address: 357 Kinosakicho Yushima, Toyooka, Hyogo 669-6101, Japan
+date: '2026-06-27'
+agoda: https://www.agoda.com/s/index.aspx?cid=1844104&pcs=1&screen=Homes&hid=719396
+summary: Sanyoso Ryokan, nestled in the heart of Kinosaki Onsen, offers an unparalleled
+  experience of tranquility and traditional Japanese hospitality. Renowned for its
+  exquisite cuisine, breathtaking views, and meticulously curated onsen, Sanyoso is
+  more than just a stay – it's an immersion into the art of Japanese relaxation. Discover
+  the essence of wabi-sabi amidst the calming embrace of Hyogo's natural beauty.
 ---
+
 
 Kinosaki Onsen Sanyoso is not merely a ryokan; it's an exquisite sanctuary where time seems to slow down. The first impression is one of understated elegance. From the moment you step through the **noren curtain**, a sense of serenity washes over you, a testament to the meticulous attention to detail that defines this establishment. It's unique because of its intimate scale, allowing for personalized service and a genuine connection to the rich traditions of Kinosaki Onsen. Forget bustling tourist traps; Sanyoso offers a refuge from the everyday, a place to rediscover the simple pleasures of life: the warmth of an onsen, the artistry of Japanese cuisine, and the beauty of the surrounding landscape.
 

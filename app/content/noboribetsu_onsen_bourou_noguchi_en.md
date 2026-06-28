@@ -1,15 +1,26 @@
 ---
 lang: en
-title: "Noboribetsu Onsen Bourou NOGUCHI: An Elite Guide to Hokkaido's Volcanic Luxury"
+title: 'Noboribetsu Onsen Bourou NOGUCHI: An Elite Guide to Hokkaido''s Volcanic Luxury'
 lat: 42.4988
 lng: 141.1488
-categories: ["Luxury Ryokan", "Onsen", "Hokkaido", "Gourmet Dining", "Spa Retreat"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_bourou_noguchi.jpg"
-address: "Noboribetsu, Hokkaido"
-date: "2026-06-04"
-agoda: ""
-summary: "Nestled amidst the steamy, volcanic landscape of Noboribetsu, Bourou NOGUCHI offers an unparalleled blend of modern luxury and traditional Japanese onsen culture. This sophisticated ryokan is an adult-oriented sanctuary, renowned for its exquisitely designed private onsen rooms and exceptional Hokkaido-inspired gastronomy. Prepare for an immersive journey into relaxation, refinement, and the therapeutic embrace of one of Japan's most celebrated hot spring towns."
+categories:
+- Luxury Ryokan
+- Onsen
+- Hokkaido
+- Gourmet Dining
+- Spa Retreat
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_bourou_noguchi.jpg
+address: Noboribetsu, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: Nestled amidst the steamy, volcanic landscape of Noboribetsu, Bourou NOGUCHI
+  offers an unparalleled blend of modern luxury and traditional Japanese onsen culture.
+  This sophisticated ryokan is an adult-oriented sanctuary, renowned for its exquisitely
+  designed private onsen rooms and exceptional Hokkaido-inspired gastronomy. Prepare
+  for an immersive journey into relaxation, refinement, and the therapeutic embrace
+  of one of Japan's most celebrated hot spring towns.
 ---
+
 As an elite travel journalist, my quest for the sublime in Japanese onsen experiences has led me to countless havens, but few resonate with the distinct elegance and profound sense of place quite like **Noboribetsu Onsen Bourou NOGUCHI**. Perched in Hokkaido's famed volcanic caldera, this ryokan isn't merely a place to stay; it's a meticulously crafted symphony of design, nature, and unparalleled hospitality, designed for the discerning traveler seeking more than just relaxation.
 
 ## Introduction: An Ode to Modern Serenity

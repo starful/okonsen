@@ -5,7 +5,7 @@ categories:
 - Private Bath
 - Great View
 - Luxury
-date: '2026-04-12'
+date: '2026-06-27'
 image_prompt: A breathtaking panoramic shot of a luxurious, traditional Japanese onsen
   ryokan, Kurokawa Onsen Yumerindo, nestled amidst the lush, vibrant autumn foliage
   of Minamioguni, Kumamoto. Focus on an outdoor private bath (kashikiri rotemburo)
@@ -29,6 +29,7 @@ thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_ons
 title: 'Kurokawa Onsen Yumerindo: Your Gateway to Kumamoto''s Ultimate Private Bath
   Luxury with Breathtaking Views'
 ---
+
 
 ## Unveiling Kurokawa Onsen Yumerindo: A Sanctuary for the Senses
 

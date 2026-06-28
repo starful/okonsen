@@ -1,15 +1,26 @@
 ---
 lang: en
-title: "Noboribetsu Onsen Kashoutei Hanaya: A Sanctuary of Volcanic Serenity in Hokkaido"
+title: 'Noboribetsu Onsen Kashoutei Hanaya: A Sanctuary of Volcanic Serenity in Hokkaido'
 lat: 42.4911
 lng: 141.1411
-categories: ["Onsen Ryokan", "Luxury Travel", "Hokkaido", "Japanese Culture", "Wellness"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_kashoutei_hanaya.jpg"
-address: "Noboribetsu, Hokkaido"
-date: "2026-06-04"
-agoda: ""
-summary: "Nestled amidst the sulfurous drama of Noboribetsu's 'Hell Valley,' Kashoutei Hanaya offers a profound escape into traditional Japanese hospitality and unparalleled volcanic spring waters. This venerable ryokan expertly blends timeless elegance with modern comfort, creating a serene haven for rejuvenation. Prepare for an immersive journey into Hokkaido's therapeutic onsen culture, refined gastronomy, and breathtaking natural beauty at this distinguished retreat."
+categories:
+- Onsen Ryokan
+- Luxury Travel
+- Hokkaido
+- Japanese Culture
+- Wellness
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_kashoutei_hanaya.jpg
+address: Noboribetsu, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: Nestled amidst the sulfurous drama of Noboribetsu's 'Hell Valley,' Kashoutei
+  Hanaya offers a profound escape into traditional Japanese hospitality and unparalleled
+  volcanic spring waters. This venerable ryokan expertly blends timeless elegance
+  with modern comfort, creating a serene haven for rejuvenation. Prepare for an immersive
+  journey into Hokkaido's therapeutic onsen culture, refined gastronomy, and breathtaking
+  natural beauty at this distinguished retreat.
 ---
+
 
 Noboribetsu Onsen is not merely a destination; it is a primal call to the earth's raw, invigorating power, a place where the very ground breathes steam and sulfur. Within this dramatic landscape, a sanctuary of refined elegance awaits: **Noboribetsu Onsen Kashoutei Hanaya**. As a specialist in the intricate world of Japanese onsen, I can confidently assert that Hanaya offers an experience that transcends mere accommodation, delving deep into the soul of **omotenashi** and the profound healing potential of nature.
 

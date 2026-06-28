@@ -1,15 +1,26 @@
 ---
 lang: en
-title: "Jozankei's Emerald Gem: An Elite Guide to Shogetsu Grand Hotel Onsen"
+title: 'Jozankei''s Emerald Gem: An Elite Guide to Shogetsu Grand Hotel Onsen'
 lat: 42.9677
 lng: 141.1677
-categories: ["Luxury Onsen", "Ryokan Experience", "Hokkaido Travel", "Jozankei Hot Springs", "Gourmet Kaiseki"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-06-23"
-agoda: ""
-summary: "Nestled amidst the serene mountains of Jozankei, Shogetsu Grand Hotel offers an unparalleled escape, blending timeless Japanese tradition with discreet luxury. Experience the profound healing of its renowned sodium chloride springs, celebrated for their therapeutic warmth and mineral richness. Indulge in exquisite multi-course Kaiseki dining, crafted from Hokkaido's finest seasonal ingredients, all while surrounded by breathtaking natural beauty and refined hospitality."
+categories:
+- Luxury Onsen
+- Ryokan Experience
+- Hokkaido Travel
+- Jozankei Hot Springs
+- Gourmet Kaiseki
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg
+address: Sapporo, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: Nestled amidst the serene mountains of Jozankei, Shogetsu Grand Hotel offers
+  an unparalleled escape, blending timeless Japanese tradition with discreet luxury.
+  Experience the profound healing of its renowned sodium chloride springs, celebrated
+  for their therapeutic warmth and mineral richness. Indulge in exquisite multi-course
+  Kaiseki dining, crafted from Hokkaido's finest seasonal ingredients, all while surrounded
+  by breathtaking natural beauty and refined hospitality.
 ---
+
 
 The world of Japanese onsen is a realm of profound sensory delight, a delicate dance between nature's raw power and human refinement. As an elite travel journalist specializing in these sacred waters, few destinations resonate with such tranquil elegance as Jozankei Onsen, a verdant sanctuary just a stone's throw from the bustling heart of Sapporo, Hokkaido. Within this idyllic valley, carved by the Toyohira River, stands a beacon of sophisticated serenity: Jozankei Onsen Shogetsu Grand Hotel.
 

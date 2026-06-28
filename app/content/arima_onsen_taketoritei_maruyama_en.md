@@ -1,15 +1,23 @@
 ---
 lang: en
-title: "Arima Onsen Taketoritei Maruyama: A Luxurious Escape into Japanese Tradition"
+title: 'Arima Onsen Taketoritei Maruyama: A Luxurious Escape into Japanese Tradition'
 lat: 34.7922
 lng: 135.2488
-categories: ["Onsen Ryokan", "Luxury Travel", "Japanese Culture"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_taketoritei_maruyama.jpg"
-address: "808 Arima-cho, Kita-ku, Kobe, Hyogo 651-1401, Japan"
-date: "2026-04-28"
-agoda: ""
-summary: "Taketoritei Maruyama, nestled in the heart of Arima Onsen, offers an unparalleled experience of Japanese hospitality and refined elegance. This exquisite ryokan boasts stunning architecture, private onsen baths in every room, and a commitment to culinary excellence. Prepare for a journey of rejuvenation and cultural immersion in one of Japan's oldest and most celebrated hot spring towns."
+categories:
+- Onsen Ryokan
+- Luxury Travel
+- Japanese Culture
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_taketoritei_maruyama.jpg
+address: 808 Arima-cho, Kita-ku, Kobe, Hyogo 651-1401, Japan
+date: '2026-06-27'
+agoda: ''
+summary: Taketoritei Maruyama, nestled in the heart of Arima Onsen, offers an unparalleled
+  experience of Japanese hospitality and refined elegance. This exquisite ryokan boasts
+  stunning architecture, private onsen baths in every room, and a commitment to culinary
+  excellence. Prepare for a journey of rejuvenation and cultural immersion in one
+  of Japan's oldest and most celebrated hot spring towns.
 ---
+
 
 Taketoritei Maruyama: An Immersive Journey into the Soul of Arima Onsen
 

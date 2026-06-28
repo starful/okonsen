@@ -1,15 +1,22 @@
 ---
 lang: ko
-title: "노보리베츠 온천 오야도 키요미즈야: 지옥계곡 품은 미학적 온천 료칸 심층 가이드"
+title: '노보리베츠 온천 오야도 키요미즈야: 지옥계곡 품은 미학적 온천 료칸 심층 가이드'
 lat: 42.4933
 lng: 141.1433
-categories: ["일본 료칸", "홋카이도 온천", "가이세키 요리", "전통 숙소"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_oyado_kiyomizuya.jpg"
-address: "Noboribetsu, Hokkaido"
-date: "2026-06-04"
-agoda: ""
-summary: "홋카이도 노보리베츠의 심장부에 자리한 오야도 키요미즈야는 단순한 숙박 시설을 넘어, 일본 전통의 미학과 치유의 온천수를 오롯이 경험할 수 있는 특별한 공간입니다. 유황 온천의 신비로운 효능과 제철 식재료로 빚어낸 가이세키 요리, 그리고 와비사비 정신이 깃든 객실에서 진정한 힐링을 선사합니다. 이곳은 자연과 조화를 이루며 시간의 흐름을 잊게 하는 고요한 안식처로, 북쪽 대지의 정수를 만끽할 수 있는 최고의 선택이 될 것입니다."
+categories:
+- 일본 료칸
+- 홋카이도 온천
+- 가이세키 요리
+- 전통 숙소
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_oyado_kiyomizuya.jpg
+address: Noboribetsu, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: 홋카이도 노보리베츠의 심장부에 자리한 오야도 키요미즈야는 단순한 숙박 시설을 넘어, 일본 전통의 미학과 치유의 온천수를 오롯이 경험할
+  수 있는 특별한 공간입니다. 유황 온천의 신비로운 효능과 제철 식재료로 빚어낸 가이세키 요리, 그리고 와비사비 정신이 깃든 객실에서 진정한 힐링을
+  선사합니다. 이곳은 자연과 조화를 이루며 시간의 흐름을 잊게 하는 고요한 안식처로, 북쪽 대지의 정수를 만끽할 수 있는 최고의 선택이 될 것입니다.
 ---
+
 
 ## 서론: 지옥계곡이 품은 고요한 안식처, 오야도 키요미즈야
 

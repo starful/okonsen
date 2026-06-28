@@ -1,15 +1,23 @@
 ---
 lang: en
-title: "Arima Grand Hotel: A Luxurious Onsen Retreat in Historic Arima Onsen"
+title: 'Arima Grand Hotel: A Luxurious Onsen Retreat in Historic Arima Onsen'
 lat: 34.7955
 lng: 135.2455
-categories: ["Onsen Ryokan", "Luxury Travel", "Hyogo Prefecture"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg"
-address: "Kobe, Hyogo"
-date: "2026-05-12"
-agoda: ""
-summary: "Nestled in the heart of Arima Onsen, one of Japan's oldest hot spring towns, the Arima Grand Hotel offers an unparalleled experience of traditional Japanese hospitality combined with modern luxury. Famous for its **Kinsen (gold water)** and **Ginsen (silver water)**, this hotel provides a rejuvenating escape. From exquisite Kaiseki dinners to breathtaking views, Arima Grand Hotel is a destination in itself."
+categories:
+- Onsen Ryokan
+- Luxury Travel
+- Hyogo Prefecture
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg
+address: Kobe, Hyogo
+date: '2026-06-27'
+agoda: ''
+summary: Nestled in the heart of Arima Onsen, one of Japan's oldest hot spring towns,
+  the Arima Grand Hotel offers an unparalleled experience of traditional Japanese
+  hospitality combined with modern luxury. Famous for its **Kinsen (gold water)**
+  and **Ginsen (silver water)**, this hotel provides a rejuvenating escape. From exquisite
+  Kaiseki dinners to breathtaking views, Arima Grand Hotel is a destination in itself.
 ---
+
 
 Arima Grand Hotel isn't just a place to stay; it's an immersion into the soul of Arima Onsen, a town steeped in history and renowned for its therapeutic waters. From the moment you step into the lobby, you're enveloped in an atmosphere of understated elegance and quiet tranquility. The hotel seamlessly blends traditional Japanese aesthetics with contemporary comfort, creating an experience that is both deeply relaxing and incredibly enriching. What sets Arima Grand Hotel apart is its commitment to providing a holistic onsen experience, from the meticulously prepared meals to the thoughtfully designed spaces and, of course, the exceptional quality of its natural hot spring waters. It's a place where you can truly disconnect from the everyday and reconnect with yourself and the beauty of Japan.
 

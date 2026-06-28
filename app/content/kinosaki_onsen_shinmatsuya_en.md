@@ -11,7 +11,7 @@ categories:
 - Luxury Travel
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg
 address: 376 Kinosakicho Yushima, Toyooka, Hyogo 669-6101, Japan
-date: '2026-04-28'
+date: '2026-06-27'
 agoda: ''
 summary: Shinmatsuya Ryokan, nestled in the heart of Kinosaki Onsen, offers an unforgettable
   journey into traditional Japanese hospitality. Experience rejuvenating onsen waters,
@@ -23,6 +23,7 @@ seo_title: 'Shinmatsuya Ryokan: Authentic Kinosaki Onsen Stay | OKOnsen'
 seo_description: Discover Shinmatsuya Ryokan in Kinosaki Onsen. Enjoy cozy traditional
   rooms, local seasonal cuisine, and easy access to historic public baths.
 ---
+
 
 
 

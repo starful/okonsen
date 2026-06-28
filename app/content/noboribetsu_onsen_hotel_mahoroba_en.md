@@ -1,15 +1,27 @@
 ---
 lang: en
-title: "Noboribetsu Onsen Hotel Mahoroba: A Definitive Guide to Hokkaido's Multi-Spring Wonderland"
+title: 'Noboribetsu Onsen Hotel Mahoroba: A Definitive Guide to Hokkaido''s Multi-Spring
+  Wonderland'
 lat: 42.4966
 lng: 141.1455
-categories: ["Onsen Ryokan", "Luxury Travel", "Hokkaido", "Family Friendly", "Traditional Japanese Inn"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_hotel_mahoroba.jpg"
-address: "Noboribetsu, Hokkaido"
-date: "2026-06-04"
-agoda: "https://www.agoda.com/noboribetsu-onsen-hotel-mahoroba/hotel/noboribetsu-jp.html"
-summary: "Noboribetsu Onsen Hotel Mahoroba stands as a titan among Japan's premier hot spring destinations, offering an unparalleled array of nine distinct spring water types under one roof. This comprehensive guide delves into its rich traditions, diverse bathing experiences, exquisite cuisine, and the seamless blend of comfort and authentic Japanese hospitality. Prepare for an immersive journey into a true onsen connoisseur's dream in the heart of Hokkaido."
+categories:
+- Onsen Ryokan
+- Luxury Travel
+- Hokkaido
+- Family Friendly
+- Traditional Japanese Inn
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_hotel_mahoroba.jpg
+address: Noboribetsu, Hokkaido
+date: '2026-06-27'
+agoda: https://www.agoda.com/noboribetsu-onsen-hotel-mahoroba/hotel/noboribetsu-jp.html
+summary: Noboribetsu Onsen Hotel Mahoroba stands as a titan among Japan's premier
+  hot spring destinations, offering an unparalleled array of nine distinct spring
+  water types under one roof. This comprehensive guide delves into its rich traditions,
+  diverse bathing experiences, exquisite cuisine, and the seamless blend of comfort
+  and authentic Japanese hospitality. Prepare for an immersive journey into a true
+  onsen connoisseur's dream in the heart of Hokkaido.
 ---
+
 Noboribetsu Onsen, a name that resonates with the very soul of Japanese geothermal wonder, is home to a myriad of healing waters. But even within this pantheon of mineral-rich springs, **Noboribetsu Onsen Hotel Mahoroba** carves out a singularly distinguished niche. Stepping into its grand, yet undeniably welcoming, lobby, one is immediately enveloped by an atmosphere that marries the scale of a luxury resort with the intrinsic warmth of a traditional ryokan. The subtle, yet unmistakable, scent of sulfur, a primal whisper from the earth itself, hints at the profound rejuvenation that awaits. Mahoroba, meaning a **"wonderful place"** in ancient Japanese, lives up to its name, promising not just a stay, but an **unforgettable journey into the heart of Hokkaido's onsen culture**. Its unique selling proposition, a **staggering collection of nine distinct spring types** accessible within its expansive facilities, elevates it beyond a mere hotel to a true pilgrimage site for hot spring aficionados and those seeking deep therapeutic benefits. This is a sanctuary where the ancient art of onsen bathing is celebrated with unwavering devotion, offering an experience that is both deeply traditional and supremely comfortable.
 
 ## History & Tradition

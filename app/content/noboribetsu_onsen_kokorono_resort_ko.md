@@ -1,15 +1,23 @@
 ---
 lang: ko
-title: "홋카이도 노보리베츠 온천 코코로노 리조트: 영혼을 위한 심층 치유 가이드"
+title: '홋카이도 노보리베츠 온천 코코로노 리조트: 영혼을 위한 심층 치유 가이드'
 lat: 42.4511
 lng: 141.1811
-categories: ["온천", "료칸", "홋카이도", "럭셔리 여행", "미식"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_kokorono_resort.jpg"
-address: "北海道登別市登別温泉町29-7 (29-7 Noboribetsuonsencho, Noboribetsu, Hokkaido)"
-date: "2026-06-19"
-agoda: "https://www.agoda.com/ko-kr/noboribetsu-onsen-kokorono-resort-hanayu/hotel/noboribetsu-jp.html"
-summary: "노보리베츠 온천 코코로노 리조트는 홋카이도 천연 온천의 심장부에서 '마음(코코로)'의 평화를 선사하는 명문 료칸입니다. 다채로운 수질의 치유 온천, 제철 식재료로 빚어낸 가이세키 만찬, 그리고 와비사비 미학이 깃든 공간은 단순한 휴식을 넘어선 영혼의 여정을 약속합니다. 이곳에서 번잡한 일상을 벗어나 진정한 재충전의 시간을 경험해 보세요."
+categories:
+- 온천
+- 료칸
+- 홋카이도
+- 럭셔리 여행
+- 미식
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_kokorono_resort.jpg
+address: 北海道登別市登別温泉町29-7 (29-7 Noboribetsuonsencho, Noboribetsu, Hokkaido)
+date: '2026-06-27'
+agoda: https://www.agoda.com/ko-kr/noboribetsu-onsen-kokorono-resort-hanayu/hotel/noboribetsu-jp.html
+summary: 노보리베츠 온천 코코로노 리조트는 홋카이도 천연 온천의 심장부에서 '마음(코코로)'의 평화를 선사하는 명문 료칸입니다. 다채로운 수질의
+  치유 온천, 제철 식재료로 빚어낸 가이세키 만찬, 그리고 와비사비 미학이 깃든 공간은 단순한 휴식을 넘어선 영혼의 여정을 약속합니다. 이곳에서
+  번잡한 일상을 벗어나 진정한 재충전의 시간을 경험해 보세요.
 ---
+
 ## 서론: 마음을 어루만지는 홋카이도의 숨결
 
 홋카이도 노보리베츠, 웅장한 자연이 숨 쉬는 이곳에 고요하지만 깊은 울림을 선사하는 특별한 안식처, 바로 '노보리베츠 온천 코코로노 리조트(登別温泉 心のリゾート)'가 자리하고 있습니다. 문을 들어서는 순간, 바깥세상의 소란스러움은 마법처럼 사라지고, **정갈한 일본 전통 미학과 현대적인 편안함이 조화를 이룬 독특한 분위기**가 방문객을 맞이합니다. 리조트의 이름에 담긴 '코코로(心)', 즉 '마음'이라는 의미처럼, 이곳은 단순한 숙박 시설을 넘어 몸과 마음의 진정한 휴식과 치유를 제공하는 데 깊은 철학을 두고 있습니다. 자연이 빚어낸 온천수와 제철 식재료, 그리고 세심한 '오모테나시(おもてなし)' 정신이 어우러져 오직 이곳에서만 경험할 수 있는 **유일무이한 온천 여정**을 선사합니다. 저는 이 글을 통해 코코로노 리조트의 모든 면모를 심도 깊게 탐험하며, 여러분이 홋카이도 여행에서 진정한 '마음의 평화'를 찾을 수 있도록 안내하고자 합니다.

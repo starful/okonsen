@@ -9,7 +9,7 @@ categories:
 - Hyogo Prefecture
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kawaguchiya.jpg
 address: 386 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
-date: '2026-04-28'
+date: '2026-06-27'
 agoda: ''
 summary: Kawaguchiya Ryokan in Kinosaki Onsen offers an authentic and immersive Japanese
   onsen experience. Renowned for its warm hospitality, delectable cuisine featuring
@@ -22,6 +22,8 @@ seo_title: 'Kawaguchiya Honkan Ryokan: Kinosaki Onsen Guide | OKOnsen'
 seo_description: Plan your stay at Kawaguchiya Honkan Ryokan in Kinosaki Onsen. Learn
   about private baths, traditional rooms, dining, and public bath access.
 ---
+
+
 
 
 

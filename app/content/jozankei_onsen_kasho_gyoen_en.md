@@ -1,15 +1,27 @@
 ---
 lang: en
-title: "Jozankei Onsen Kasho Gyoen: A Riverside Sanctuary of Serenity in Hokkaido"
+title: 'Jozankei Onsen Kasho Gyoen: A Riverside Sanctuary of Serenity in Hokkaido'
 lat: 42.9611
 lng: 141.1611
-categories: ["Onsen Ryokan", "Luxury Travel", "Hokkaido Getaway", "Traditional Japanese Inn", "Spa Retreat", "Gourmet Dining"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-06-26"
-agoda: ""
-summary: "Nestled along the pristine Toyohira River, Jozankei Onsen Kasho Gyoen offers an unparalleled escape into the heart of Hokkaido's natural beauty. This exquisite ryokan masterfully blends traditional Japanese elegance with modern comfort, promising a deeply rejuvenating experience. From its mineral-rich riverside hot springs to its artful, seasonal Kaiseki cuisine, every detail is crafted for profound tranquility and sensory delight."
+categories:
+- Onsen Ryokan
+- Luxury Travel
+- Hokkaido Getaway
+- Traditional Japanese Inn
+- Spa Retreat
+- Gourmet Dining
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg
+address: Sapporo, Hokkaido
+date: '2026-06-27'
+agoda: ''
+summary: Nestled along the pristine Toyohira River, Jozankei Onsen Kasho Gyoen offers
+  an unparalleled escape into the heart of Hokkaido's natural beauty. This exquisite
+  ryokan masterfully blends traditional Japanese elegance with modern comfort, promising
+  a deeply rejuvenating experience. From its mineral-rich riverside hot springs to
+  its artful, seasonal Kaiseki cuisine, every detail is crafted for profound tranquility
+  and sensory delight.
 ---
+
 
 ## Introduction: A Symphony of Serenity by the Toyohira
 

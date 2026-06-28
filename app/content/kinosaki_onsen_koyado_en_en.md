@@ -1,15 +1,22 @@
 ---
 lang: en
-title: "Kinosaki Onsen Koyado En: A Luxurious Ryokan Retreat in Hyogo"
+title: 'Kinosaki Onsen Koyado En: A Luxurious Ryokan Retreat in Hyogo'
 lat: 35.6241
 lng: 134.8141
-categories: ["Onsen Ryokan", "Luxury Travel", "Japanese Culture"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_koyado_en.jpg"
-address: "Toyooka, Hyogo"
-date: "2026-05-12"
-agoda: ""
-summary: "Koyado En, nestled in the heart of Kinosaki Onsen, offers a uniquely refined experience. This intimate ryokan blends traditional Japanese aesthetics with modern comforts, creating a haven of tranquility and culinary excellence. Discover the art of relaxation and personalized service in this exquisite Hyogo gem."
+categories:
+- Onsen Ryokan
+- Luxury Travel
+- Japanese Culture
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_koyado_en.jpg
+address: Toyooka, Hyogo
+date: '2026-06-27'
+agoda: ''
+summary: Koyado En, nestled in the heart of Kinosaki Onsen, offers a uniquely refined
+  experience. This intimate ryokan blends traditional Japanese aesthetics with modern
+  comforts, creating a haven of tranquility and culinary excellence. Discover the
+  art of relaxation and personalized service in this exquisite Hyogo gem.
 ---
+
 
 Kinosaki Onsen Koyado En is not just a ryokan; it’s an immersion into a world of understated elegance and genuine Japanese hospitality. From the moment you step inside, a sense of calm washes over you, a feeling amplified by the attentive staff and the exquisitely designed surroundings. Koyado En distinguishes itself through its commitment to personalized service, its focus on showcasing the region's culinary prowess, and its dedication to creating an intimate and deeply relaxing experience for each guest. It's a sanctuary for those seeking respite from the ordinary, a place where the art of *omotenashi* (Japanese hospitality) truly shines.
 

@@ -1,15 +1,26 @@
 ---
 lang: en
-title: "Jozankei Onsen Hana Momiji: A Sanctuary of Seasonal Splendor in Hokkaido"
+title: 'Jozankei Onsen Hana Momiji: A Sanctuary of Seasonal Splendor in Hokkaido'
 lat: 42.9641
 lng: 141.1641
-categories: ["Onsen Ryokan", "Hokkaido Travel", "Luxury Accommodation", "Japanese Cuisine", "Nature Retreat"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_hana_momiji.jpg"
-address: "Jozankei Onsen Higashi 2-chome, Minami-ku, Sapporo, Hokkaido 061-2302"
-date: "2026-06-23"
-agoda: ""
-summary: "Nestled amidst the breathtaking natural beauty of Hokkaido's Jozankei valley, Hana Momiji offers a sublime escape where traditional Japanese hospitality meets contemporary comfort. This exquisite onsen ryokan, named for the radiant autumn leaves that grace its surroundings, invites guests to immerse themselves in healing thermal waters and refined culinary artistry. Experience a tranquil haven, providing a perfect blend of serene relaxation and vibrant seasonal exploration."
+categories:
+- Onsen Ryokan
+- Hokkaido Travel
+- Luxury Accommodation
+- Japanese Cuisine
+- Nature Retreat
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_hana_momiji.jpg
+address: Jozankei Onsen Higashi 2-chome, Minami-ku, Sapporo, Hokkaido 061-2302
+date: '2026-06-27'
+agoda: ''
+summary: Nestled amidst the breathtaking natural beauty of Hokkaido's Jozankei valley,
+  Hana Momiji offers a sublime escape where traditional Japanese hospitality meets
+  contemporary comfort. This exquisite onsen ryokan, named for the radiant autumn
+  leaves that grace its surroundings, invites guests to immerse themselves in healing
+  thermal waters and refined culinary artistry. Experience a tranquil haven, providing
+  a perfect blend of serene relaxation and vibrant seasonal exploration.
 ---
+
 As an elite travel journalist, my journey across Japan's most revered hot springs has led me to countless sanctuaries, each whispering its unique tale of healing and tradition. Yet, there are some establishments that don't just speak; they sing an aria of unparalleled luxury and profound connection to nature. Jozankei Onsen Hana Momiji, gracefully poised on the banks of the Toyohira River in Sapporo, Hokkaido, is one such symphony.
 
 ## Introduction: A Symphony of Seasons and Serenity

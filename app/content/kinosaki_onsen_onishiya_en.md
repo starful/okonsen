@@ -1,15 +1,23 @@
 ---
 lang: en
-title: "Onishiya: A Deep Dive into Kinosaki Onsen's Refined Elegance"
+title: 'Onishiya: A Deep Dive into Kinosaki Onsen''s Refined Elegance'
 lat: 35.6299
 lng: 134.8188
-categories: ["Onsen Ryokan", "Kinosaki Onsen", "Luxury Travel"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_onishiya.jpg"
-address: "Yushima 467, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan"
-date: "2026-05-12"
-agoda: ""
-summary: "Onishiya in Kinosaki Onsen is a testament to understated luxury, blending traditional Japanese aesthetics with modern comforts. This meticulously designed ryokan offers an unparalleled onsen experience with its exquisite baths and delectable cuisine. From its serene atmosphere to its impeccable service, Onishiya promises an unforgettable retreat into the heart of Japanese hospitality."
+categories:
+- Onsen Ryokan
+- Kinosaki Onsen
+- Luxury Travel
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_onishiya.jpg
+address: Yushima 467, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
+date: '2026-06-27'
+agoda: ''
+summary: Onishiya in Kinosaki Onsen is a testament to understated luxury, blending
+  traditional Japanese aesthetics with modern comforts. This meticulously designed
+  ryokan offers an unparalleled onsen experience with its exquisite baths and delectable
+  cuisine. From its serene atmosphere to its impeccable service, Onishiya promises
+  an unforgettable retreat into the heart of Japanese hospitality.
 ---
+
 
 Kinosaki Onsen, a picturesque town renowned for its canal-lined streets and seven public bathhouses, holds many hidden gems, but few shine as brightly as **Onishiya**. Stepping into Onishiya is akin to entering a different world – a realm of refined elegance where tranquility reigns supreme. It's not just a place to stay; it's an immersion into the art of Japanese hospitality, where every detail, from the meticulously arranged flowers to the gentle hum of the bamboo groves, is carefully curated to evoke a sense of peace and rejuvenation. The initial impression is one of understated luxury; a place where **wabi-sabi** aesthetics meet contemporary comforts. What sets Onishiya apart is its commitment to providing a truly personalized experience, catering to the individual needs of each guest while maintaining a deep respect for tradition.
 

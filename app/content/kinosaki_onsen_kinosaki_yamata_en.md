@@ -1,15 +1,23 @@
 ---
 lang: en
-title: "Kinosaki Yamata: A Deep Dive into Hyogo's Exquisite Onsen Ryokan"
+title: 'Kinosaki Yamata: A Deep Dive into Hyogo''s Exquisite Onsen Ryokan'
 lat: 35.6235
 lng: 134.8151
-categories: ["Onsen Ryokan", "Kinosaki Onsen", "Hyogo Prefecture"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kinosaki_yamata.jpg"
-address: "Toyooka, Hyogo"
-date: "2026-05-12"
-agoda: ""
-summary: "Kinosaki Yamata is more than just an onsen ryokan; it's an immersive experience in traditional Japanese hospitality. Nestled in the heart of Kinosaki Onsen, it offers a perfect blend of refined elegance and rustic charm. From the meticulously curated Kaiseki dinners to the soothing waters of its private onsen, Yamata promises an unforgettable escape."
+categories:
+- Onsen Ryokan
+- Kinosaki Onsen
+- Hyogo Prefecture
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_kinosaki_yamata.jpg
+address: Toyooka, Hyogo
+date: '2026-06-27'
+agoda: ''
+summary: Kinosaki Yamata is more than just an onsen ryokan; it's an immersive experience
+  in traditional Japanese hospitality. Nestled in the heart of Kinosaki Onsen, it
+  offers a perfect blend of refined elegance and rustic charm. From the meticulously
+  curated Kaiseki dinners to the soothing waters of its private onsen, Yamata promises
+  an unforgettable escape.
 ---
+
 
 Kinosaki Yamata casts its spell from the moment you arrive. This is not just a place to stay; it's a portal into the heart of Japanese **onsen culture**. Imagine stepping off the train in the quaint town of Kinosaki, the scent of sulfur subtly hanging in the air, and being greeted by the warm, inviting atmosphere of Yamata. It exudes a refined, quiet elegance, far from the madding crowds, offering a truly personalized experience. What truly sets Yamata apart is its commitment to providing a tranquil and intimate retreat, away from the hustle and bustle of larger, more touristy onsen towns. The attentive service, the meticulously designed rooms, and the exceptional cuisine all contribute to a feeling of profound relaxation and rejuvenation.
 
