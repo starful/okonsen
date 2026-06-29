@@ -7,6 +7,8 @@ from google import genai
 from dotenv import load_dotenv
 import concurrent.futures
 
+from topic_queue_csv import resolve as resolve_queue_csv
+
 # ==========================================
 # ⚙️ 설정 (GCS 경로 및 환경 설정)
 # ==========================================
@@ -92,7 +94,7 @@ def generate_onsen_md(safe_name, name, lat, lng, address, lang, features, agoda_
         return False
 
 def process_csv_auto(limit=10):
-    csv_path = os.path.join(SCRIPT_DIR, 'csv', 'onsens.csv')
+    csv_path = resolve_queue_csv("items", os.path.join(SCRIPT_DIR, "csv", "onsens.csv"))
     if not os.path.exists(csv_path):
         print(f"❌ CSV 파일을 찾을 수 없습니다: {csv_path}")
         return

@@ -6,10 +6,18 @@ from datetime import datetime
 from google import genai
 from dotenv import load_dotenv
 
+from topic_queue_csv import resolve as resolve_queue_csv
+
 load_dotenv()
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
-CSV_PATH = "script/csv/guides.csv"
+DEFAULT_GUIDE_CSV = "script/csv/guides.csv"
+
+
+def _guides_csv_path() -> str:
+    return resolve_queue_csv("guides", DEFAULT_GUIDE_CSV)
+
+
 OUTPUT_DIR = "app/content/guides/"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -59,11 +67,12 @@ def run_batch(limit=3):
     missing_tasks = []
     
     # 1. 먼저 생성이 필요한(파일이 없는) 작업 목록을 전부 수집합니다.
-    if not os.path.exists(CSV_PATH):
-        print(f"❌ CSV 파일을 찾을 수 없습니다: {CSV_PATH}")
+    csv_path = _guides_csv_path()
+    if not os.path.exists(csv_path):
+        print(f"❌ CSV 파일을 찾을 수 없습니다: {csv_path}")
         return
 
-    with open(CSV_PATH, 'r', encoding='utf-8-sig') as f:
+    with open(csv_path, 'r', encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         for row in reader:
             gid = (row.get('id') or '').strip()
