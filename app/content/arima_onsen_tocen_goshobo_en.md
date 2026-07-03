@@ -1,6 +1,15 @@
 ---
 date: '2026-06-27'
+title: 'Tocen Goshobo: A Historic Ryokan Experience in Arima Onsen'
+description: Step into history at Tocen Goshobo, Arima Onsen's oldest prestigious
+  ryokan. Experience therapeutic golden hot springs, traditional architecture, and
+  exceptional Kobe beef dining.
+seo_title: 'Arima Onsen Tocen Goshobo: Luxury Historic Ryokan | OKOnsen'
+seo_description: Discover Tocen Goshobo, a historic luxury ryokan in Arima Onsen.
+  Enjoy famous golden hot springs, traditional charm, and exquisite dining. Book your
+  stay!
 ---
+
 yaml
 ---
 lang: en

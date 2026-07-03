@@ -22,9 +22,14 @@ summary: Discover Yufuin Uraku, an exquisite luxury ryokan nestled in the heart 
   Yufu. Experience traditional Japanese hospitality elevated to an art form, where
   every detail promises an unforgettable escape into serene elegance.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_uraku.jpg
-title: 'Yufuin Uraku: Your Exquisite Escape to Unrivaled Luxury, Secluded Private
-  Onsen, and Breathtaking Mt. Yufu Views in Oita''s Artistic Heart'
+title: 'Yufuin Uraku: Luxury Ryokan with Private Onsen'
+description: Discover Yufuin Uraku, a luxury ryokan in Oita. Experience private hot
+  spring (onsen) baths, traditional dining, and scenic views of Mt. Yufu.
+seo_title: 'Yufuin Uraku Ryokan: Private Onsen & Luxury Stay - OKOnsen'
+seo_description: Discover Yufuin Uraku, a luxury ryokan in Oita. Experience private
+  hot spring (onsen) baths, traditional dining, and scenic views of Mt. Yufu.
 ---
+
 
 ## Introduction: Yufuin Uraku – A Sanctuary of Serene Indulgence
 
