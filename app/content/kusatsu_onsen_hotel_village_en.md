@@ -26,13 +26,14 @@ summary: Nestled amidst the breathtaking landscapes of Gunma, Kusatsu Onsen Hote
   where relaxation meets sublime natural beauty, promising an experience that rejuvenates
   body, mind, and soul.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_village.jpg
-title: 'Kusatsu Onsen Hotel Village: Complete Forest Resort & Onsen Guide'
-description: Discover Kusatsu Onsen Hotel Village, a premier forest resort. Enjoy
-  healing hot springs, Therme Therme indoor pools, and family-friendly activities.
-seo_title: Kusatsu Onsen Hotel Village Resort Guide - OKOnsen
-seo_description: Discover Kusatsu Onsen Hotel Village, a premier forest resort. Enjoy
-  healing hot springs, Therme Therme indoor pools, and family-friendly activities.
+title: 'Kusatsu Onsen Hotel Village: Ultimate Forest Resort & Onsen Guide'
+description: Plan your stay at Kusatsu Onsen Hotel Village. Discover its famous hot
+  springs, indoor pools, forest activities, and resort amenities in our guide.
+seo_title: 'Kusatsu Onsen Hotel Village: Forest Resort & Hot Springs Guide'
+seo_description: Plan your stay at Kusatsu Onsen Hotel Village. Discover its famous
+  hot springs, indoor pools, forest activities, and resort amenities in our guide.
 ---
+
 
 
 
