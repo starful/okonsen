@@ -8,6 +8,15 @@ from dotenv import load_dotenv
 
 from topic_queue_csv import resolve as resolve_queue_csv
 
+
+def _emit_pipeline_result(**kwargs):
+    try:
+        from generation_result import emit_generation_result
+
+        emit_generation_result(**kwargs)
+    except ImportError:
+        pass
+
 load_dotenv()
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
@@ -89,16 +98,27 @@ def run_batch(limit=3):
 
     if not tasks_to_run:
         print("💡 모든 가이드가 이미 생성되어 있습니다. 새로 생성할 항목이 없습니다.")
+        _emit_pipeline_result(step="guides", topics=0, generated=0)
         return
 
     print(f"🚀 총 {len(missing_tasks)}개의 대기 작업 중 상위 {len(tasks_to_run)}개 생성을 시작합니다...")
 
-    # 3. 멀티스레딩 실행
     workers = max(1, min(limit, 5))
+    ok = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
         futures = [executor.submit(generate_guide, t[0], t[1]) for t in tasks_to_run]
         for future in concurrent.futures.as_completed(futures):
-            print(future.result())
+            result = future.result()
+            print(result)
+            if result and result.startswith("✅"):
+                ok += 1
+    topics = len({t[0].get("id") for t in tasks_to_run})
+    _emit_pipeline_result(
+        step="guides",
+        topics=topics,
+        generated=ok,
+        failed=len(tasks_to_run) - ok,
+    )
 
 if __name__ == "__main__":
     env_limit = os.environ.get("GUIDE_LIMIT")

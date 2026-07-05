@@ -9,6 +9,15 @@ import concurrent.futures
 
 from topic_queue_csv import resolve as resolve_queue_csv
 
+
+def _emit_pipeline_result(**kwargs):
+    try:
+        from generation_result import emit_generation_result
+
+        emit_generation_result(**kwargs)
+    except ImportError:
+        pass
+
 # ==========================================
 # ⚙️ 설정 (GCS 경로 및 환경 설정)
 # ==========================================
@@ -130,11 +139,12 @@ def process_csv_auto(limit=10):
 
     if tasks:
         print(f"⚡️ {len(tasks)}개 신규 작업 병렬 실행 시작...")
-        # API 할당량에 따라 max_workers 조절 (유료 키의 경우 5~10 적당)
         with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
             list(executor.map(lambda p: generate_onsen_md(*p), tasks))
+        _emit_pipeline_result(step="items", topics=pairs_queued, generated=len(tasks))
     else:
         print("💡 새로 생성할 컨텐츠가 없습니다.")
+        _emit_pipeline_result(step="items", topics=0, generated=0)
 
 if __name__ == "__main__":
     # 기본 10개 주제, 인자/환경변수로 오버라이드 가능
