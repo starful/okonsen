@@ -1,6 +1,211 @@
 {
-  "last_updated": "2026.07.04 16:14",
+  "last_updated": "2026.07.08 19:08",
   "onsens": [
+    {
+      "id": "takamatsu_ritsurin_garden_cafe_ko",
+      "lang": "ko",
+      "title": "다카마쓰 리쓰린 공원 카페: 명원의 고요 속에서 맛보는 지복의 시간",
+      "lat": 34.3299,
+      "lng": 134.0445,
+      "categories": [
+        "일본정원",
+        "카페",
+        "미식",
+        "전통",
+        "휴식"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/takamatsu_ritsurin_garden_cafe.jpg",
+      "address": "Kagawa, Takamatsu",
+      "published": "2026-07-08",
+      "summary": "다카마쓰 리쓰린 공원 카페는 일본 특별 명승지로 지정된 리쓰린 공원 안에 자리한, 자연의 아름다움과 미식의 즐거움이 완벽하게 조화를 이루는 특별한 공간입니다. 고요한 정원의 풍경 속에서 한 잔의 차와 섬세한 디저트를 맛보는 경험은 단순한 식사를 넘어, 온천이 선사하는 휴식처럼 깊은 평온과 재충전을 선사합니다. 이곳은 바쁜 일상에서 벗어나, 일본 정원의 정수를 오감으로 느끼며 진정한 힐링을 찾는 이들에게 더할 나위 없는 안식처가 되어줄 것입니다.",
+      "link": "/onsen/takamatsu_ritsurin_garden_cafe_ko"
+    },
+    {
+      "id": "takamatsu_ritsurin_garden_cafe_en",
+      "lang": "en",
+      "title": "Takamatsu Ritsurin Garden Cafe: A Serene Culinary Retreat Amidst Nature's Masterpiece",
+      "lat": 34.3299,
+      "lng": 134.0445,
+      "categories": [
+        "Cafe",
+        "Garden",
+        "Japanese Cuisine",
+        "Takamatsu",
+        "Cultural Experience"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/takamatsu_ritsurin_garden_cafe.jpg",
+      "address": "Kagawa, Takamatsu",
+      "published": "2026-07-08",
+      "summary": "Nestled within the breathtaking beauty of Ritsurin Garden, the Takamatsu Ritsurin Garden Cafe offers a tranquil oasis for discerning travelers. This isn't merely a place for refreshments; it's an immersive experience where exquisite local flavors meet unparalleled natural splendor. Guests can savor the moment, overlooking serene ponds and meticulously sculpted landscapes, creating a profound sense of peace often sought in Japan's finest onsen retreats.",
+      "link": "/onsen/takamatsu_ritsurin_garden_cafe_en"
+    },
+    {
+      "id": "otaru_canal_coffee_ko",
+      "lang": "ko",
+      "title": "오타루 운하 커피: 홋카이도 온천 여행의 완벽한 쉼표, 깊이 있는 가이드",
+      "lat": 43.1967,
+      "lng": 141.0014,
+      "categories": [
+        "카페",
+        "역사적장소",
+        "홋카이도여행",
+        "오타루"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/otaru_canal_coffee.jpg",
+      "address": "일본 홋카이도 오타루시 이나호 2초메 19-3",
+      "published": "2026-07-08",
+      "summary": "오타루 운하를 마주한 '오타루 운하 커피'는 홋카이도 여행의 필수 코스입니다. 유서 깊은 건물에서 향긋한 커피와 함께 여유를 만끽하며, 주변 온천 여행의 다채로운 경험과 조화를 이룹니다. 이 가이드는 단순한 커피숍을 넘어 오타루의 역사, 미식, 그리고 숨겨진 온천의 매력까지 종합적으로 안내합니다.",
+      "link": "/onsen/otaru_canal_coffee_ko"
+    },
+    {
+      "id": "otaru_canal_coffee_en",
+      "lang": "en",
+      "title": "Otaru Canal Coffee: A Secret Onsen Haven Amidst Historic Waters",
+      "lat": 43.1967,
+      "lng": 141.0014,
+      "categories": [
+        "Luxury Onsen",
+        "Ryokan",
+        "Hokkaido",
+        "Otaru",
+        "Canal View"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/otaru_canal_coffee.jpg",
+      "address": "Hokkaido, Otaru",
+      "published": "2026-07-08",
+      "summary": "Nestled discreetly by Otaru's iconic canal, Otaru Canal Coffee unveils itself not just as a charming café, but as a clandestine, ultra-exclusive onsen ryokan. Experience unparalleled tranquility where historic elegance meets soothing thermal waters and exquisite Hokkaido gastronomy. This hidden gem offers a sensory journey unlike any other, a true sanctuary for the discerning traveler.",
+      "link": "/onsen/otaru_canal_coffee_en"
+    },
+    {
+      "id": "niigata_bandai_brew_ko",
+      "lang": "ko",
+      "title": "니가타 반다이 브루 심층 가이드: 도시 온천의 재해석과 미식의 향연",
+      "lat": 37.9161,
+      "lng": 139.0364,
+      "categories": [
+        "일본 온천",
+        "니가타",
+        "도시 료칸",
+        "미식 여행",
+        "공예와 문화"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/niigata_bandai_brew.jpg",
+      "address": "Niigata, Japan",
+      "published": "2026-07-08",
+      "summary": "니가타 반다이 브루는 번화한 도시 니가타 중심에서 평온한 휴식을 선사하는 독특한 온천 료칸입니다. 이곳은 전통적인 온천의 치유력과 니가타의 풍부한 양조 문화, 그리고 세련된 현대 미학을 완벽하게 조화시킨 특별한 공간입니다. 도시의 활기와 온천의 고요함, 미식의 즐거움이 어우러져 오감을 만족시키는 특별한 경험을 약속합니다.",
+      "link": "/onsen/niigata_bandai_brew_ko"
+    },
+    {
+      "id": "niigata_bandai_brew_en",
+      "lang": "en",
+      "title": "Niigata Bandai Brew: A Connoisseur's Guide to Elevated Onsen & Craft Sake Culture",
+      "lat": 37.9161,
+      "lng": 139.0364,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Japanese Cuisine",
+        "Sake Brewery"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/niigata_bandai_brew.jpg",
+      "address": "Niigata",
+      "published": "2026-07-08",
+      "summary": "Niigata Bandai Brew offers a refined onsen experience, seamlessly blending traditional Japanese hospitality with a modern appreciation for local craft beverages. Immerse yourself in mineral-rich waters, savor exquisite Niigata gastronomy paired with regional sake, and discover a tranquil retreat just moments from the vibrant city center. This comprehensive guide unveils every intricate detail of an unforgettable stay at this unique Niigata gem.",
+      "link": "/onsen/niigata_bandai_brew_en"
+    },
+    {
+      "id": "miyazaki_phoenix_cafe_ko",
+      "lang": "ko",
+      "title": "미야자키 봉황 카페: 전설이 숨 쉬는 온천 휴식처의 깊은 탐험",
+      "lat": 31.9077,
+      "lng": 131.4202,
+      "categories": [
+        "온천 료칸",
+        "럭셔리 휴양지",
+        "미야자키",
+        "일본 문화"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/miyazaki_phoenix_cafe.jpg",
+      "address": "미야자키",
+      "published": "2026-07-08",
+      "summary": "미야자키 봉황 카페는 단순한 카페가 아닌, 고대 봉황 전설이 깃든 치유의 온천과 미식, 그리고 와비사비 미학이 어우러진 유일무이한 럭셔리 휴식처입니다. 태평양의 장엄한 풍경 속에서 자연이 선사하는 최고의 선물을 만끽하며 몸과 마음을 정화하고, 일본 전통의 정수를 경험하세요. 이곳은 영혼의 안식을 찾아 떠나는 당신에게 완벽한 여정을 선사할 것입니다.",
+      "link": "/onsen/miyazaki_phoenix_cafe_ko"
+    },
+    {
+      "id": "miyazaki_phoenix_cafe_en",
+      "lang": "en",
+      "title": "Shosenkyu Onsen at Phoenix Seagaia Resort: A Connoisseur's Guide to Miyazaki's Coastal Hot Spring Oasis",
+      "lat": 31.9769,
+      "lng": 131.4552,
+      "categories": [
+        "Luxury Onsen Resort",
+        "Miyazaki Prefecture",
+        "Coastal Retreat",
+        "Traditional & Modern Wellness",
+        "Shosenkyu Onsen"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/miyazaki_phoenix_cafe.jpg",
+      "address": "Hamaore-yoshiga Hama, Yamasaki-cho, Miyazaki-shi, Miyazaki, Japan",
+      "published": "2026-07-08",
+      "summary": "Nestled along Miyazaki's breathtaking coastline, Shosenkyu Onsen at Phoenix Seagaia Resort offers an unparalleled fusion of ancient hot spring tradition and modern resort luxury. This guide unveils the deep healing properties of its 'water for beautiful skin,' alongside exquisite dining, refined accommodations, and the serene beauty that defines Japan's often-overlooked southern gem. Prepare for an immersive journey into a world where wellness meets coastal grandeur, guided by an onsen specialist's keen eye for detail.",
+      "link": "/onsen/miyazaki_phoenix_cafe_en"
+    },
+    {
+      "id": "matsumoto_castle_cafe_en",
+      "lang": "en",
+      "title": "Matsumoto Castle Cafe: A Serene Interlude Amidst Nagano's Historical Grandeur",
+      "lat": 36.238,
+      "lng": 137.969,
+      "categories": [
+        "Cafe",
+        "Matsumoto",
+        "Nagano",
+        "Castle View",
+        "Cultural Experience"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/matsumoto_castle_cafe.jpg",
+      "address": "Nagano, Matsumoto, Marunouchi, 4-1",
+      "published": "2026-07-08",
+      "summary": "Nestled in the shadow of Japan's iconic 'Black Crow' castle, Matsumoto Castle Cafe offers an unparalleled vantage point and a tranquil escape. It's a place where history, art, and exquisite local flavors converge, providing a serene interlude in your Nagano explorations. More than just a cafe, it’s a contemplative space designed to soothe the soul and elevate the senses, much like a rejuvenating onsen experience.",
+      "link": "/onsen/matsumoto_castle_cafe_en"
+    },
+    {
+      "id": "kumamoto_castle_town_cafe_ko",
+      "lang": "ko",
+      "title": "구마모토 성하 마을 카페: 미식과 온천이 어우러진 현대적 료칸의 정수",
+      "lat": 32.8062,
+      "lng": 130.7059,
+      "categories": [
+        "온천 료칸",
+        "구마모토",
+        "미식",
+        "전통과 현대",
+        "성하 마을"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kumamoto_castle_town_cafe.jpg",
+      "address": "구마모토현 구마모토시",
+      "published": "2026-07-08",
+      "summary": "구마모토 성하 마을 카페는 단순한 카페를 넘어, 전통 료칸의 정취와 현대적인 감각이 완벽하게 조화된 독특한 숙박 경험을 선사합니다. 이곳에서는 구마모토의 풍부한 역사 속에서 솟아나는 자연 온천수에 몸을 담그고, 지역 식재료로 정성껏 준비된 최상급 가이세키 요리를 맛볼 수 있습니다. 성곽 도시의 고즈넉함과 세련된 카페 문화가 어우러진 이 특별한 공간에서 잊지 못할 추억을 만들어보세요.",
+      "link": "/onsen/kumamoto_castle_town_cafe_ko"
+    },
+    {
+      "id": "kumamoto_castle_town_cafe_en",
+      "lang": "en",
+      "title": "Kumamoto Castle Town Saryo Onsen: A Refined Sanctuary by Japan's Historic Fortress",
+      "lat": 32.8062,
+      "lng": 130.7059,
+      "categories": [
+        "Onsen Ryokan",
+        "Traditional Japanese Accommodation",
+        "Kumamoto Prefecture",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kumamoto_castle_town_cafe.jpg",
+      "address": "Kumamoto, Kumamoto Prefecture",
+      "published": "2026-07-08",
+      "summary": "Nestled within the historic shadow of Kumamoto Castle, Kumamoto Castle Town Saryo Onsen (often affectionately referred to as the 'Castle Town Cafe' for its exquisite lounge experience) offers an unparalleled fusion of ancient charm and modern serenity. This exclusive ryokan promises a deeply immersive escape, where the therapeutic embrace of its onsen waters meets the refined artistry of Kumamoto's culinary traditions. Discover a sanctuary designed for contemplation, rejuvenation, and an intimate connection with Japan's rich cultural tapestry.",
+      "link": "/onsen/kumamoto_castle_town_cafe_en"
+    },
     {
       "id": "nara_parkside_kissaten_ko",
       "lang": "ko",

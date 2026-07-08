@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_kuramure_ko</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_kuramure_en</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_kasho_gyoen_ko</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_kasho_gyoen_en</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_jozankei_view_hotel_ko</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_jozankei_view_hotel_en</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_jozankei_hotel_ko</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_jozankei_hotel_en</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_hatago_sakura_ko</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_hatago_sakura_en</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_hana_momiji_ko</loc>
+    <lastmod>2026-06-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/onsen/jozankei_onsen_hana_momiji_en</loc>
     <lastmod>2026-06-27</lastmod>
     <priority>0.8</priority>
@@ -979,6 +1034,36 @@
     <loc>https://okonsen.net/onsen/kinosaki_onsen_nishimuraya_honkan_ko</loc>
     <lastmod>2024-04-16</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/guide_expand_002_ko</loc>
+    <lastmod>2026-07-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/guide_expand_002_en</loc>
+    <lastmod>2026-07-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/guide_expand_001_ko</loc>
+    <lastmod>2026-07-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/guide_expand_001_en</loc>
+    <lastmod>2026-07-04</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/guide_seed_003_ko</loc>
+    <lastmod>2026-06-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/guide_seed_003_en</loc>
+    <lastmod>2026-06-30</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guide/guide_seed_002_ko</loc>
