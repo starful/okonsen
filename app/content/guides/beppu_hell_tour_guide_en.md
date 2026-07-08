@@ -1,16 +1,17 @@
 ---
 lang: en
-title: 'Beppu Hell Tour Guide: How to Visit the Jigoku & Sand Baths'
+title: 'Beppu Hell Tour Guide: How to Visit Jigoku Meguri & Sand Baths'
 summary: Discover the otherworldly beauty of Beppu Onsen's Eight Hells, bubbling volcanic
   wonders, and unwind with a traditional sand bath experience. Your ultimate guide
   to exploring this Kyushu travel gem.
 date: '2024-01-26'
-description: Discover the ultimate Beppu Hell Tour (Jigoku Meguri) guide. Learn about
-  the famous hot spring hells, ticket info, and how to experience the beach sand baths.
-seo_title: 'Beppu Hell Tour Guide: 7 Jigoku & Sand Baths - OKOnsen'
-seo_description: Plan your Beppu Hell Tour (Jigoku Meguri). Discover the 7 hot spring
-  hells, ticket prices, and where to experience the famous Beppu sand baths.
+description: Plan your Beppu Hell Tour (Jigoku Meguri) with our ultimate guide. Discover
+  the 7 hells, transport tips, ticket prices, and the famous sand baths.
+seo_title: 'Beppu Hell Tour Guide: Jigoku Meguri & Sand Baths | OKOnsen'
+seo_description: Plan your Beppu Hell Tour (Jigoku Meguri) with our ultimate guide.
+  Discover the 7 hells, transport tips, ticket prices, and the famous sand baths.
 ---
+
 
 
 # Beppu Onsen: Journey Through the Eight Hells and Relaxing Sand Baths of Kyushu

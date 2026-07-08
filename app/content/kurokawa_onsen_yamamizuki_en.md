@@ -24,13 +24,14 @@ summary: Nestled deep within the enchanting Kurokawa Onsen village, Yamamizuki o
   Japanese hospitality and serene beauty. Prepare for an unforgettable journey into
   tranquility, enveloped by the pristine wilderness of Kumamoto's Aso region.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yamamizuki.jpg
-title: 'Kurokawa Onsen Yamamizuki: A Complete Guide to the Riverfront Ryokan'
-description: Experience Kurokawa Onsen Yamamizuki, a premier riverfront ryokan in
-  Kumamoto. Explore famous open-air baths, private hot springs, and dining.
-seo_title: 'Kurokawa Onsen Yamamizuki: Best Riverfront Ryokan Guide | OKOnsen'
-seo_description: Experience Kurokawa Onsen Yamamizuki, a premier riverfront ryokan
-  in Kumamoto. Explore famous open-air baths, private hot springs, and dining.
+title: 'Kurokawa Onsen Yamamizuki: Complete Ryokan Guide & Review'
+description: Discover Kurokawa Onsen Yamamizuki, a stunning riverside ryokan in Kumamoto.
+  Read our review of its famous open-air baths, rooms, and access.
+seo_title: 'Kurokawa Onsen Yamamizuki: Ryokan Guide & Review | OKOnsen'
+seo_description: Discover Kurokawa Onsen Yamamizuki, a stunning riverside ryokan in
+  Kumamoto. Read our review of its famous open-air baths, rooms, and access.
 ---
+
 
 
 # Kurokawa Onsen Yamamizuki: An Ode to Serenity and Sublime Nature in Kumamoto

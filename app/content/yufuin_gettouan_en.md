@@ -26,13 +26,14 @@ summary: Nestled amidst the tranquil beauty of Yufuin, Oita, Yufuin Gettouan off
   springs, savor gourmet kaiseki cuisine, and witness the majestic seasonal transformations
   of Mount Yufu from their secluded havens.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_gettouan.jpg
-title: 'Yufuin Gettouan: A Luxury Ryokan Escape with Private Onsen'
-description: Discover Yufuin Gettouan, a luxury Japanese ryokan in Oita. Enjoy private
-  open-air hot springs, seasonal Kaiseki dining, and serene nature.
-seo_title: 'Yufuin Gettouan: Luxury Ryokan with Private Onsen | OKOnsen'
-seo_description: Discover Yufuin Gettouan, a luxury Japanese ryokan in Oita. Enjoy
-  private open-air hot springs, seasonal Kaiseki dining, and serene nature.
+title: 'Yufuin Gettouan: Luxury Ryokan with Private Onsen'
+description: Experience Yufuin Gettouan, a luxury ryokan in Oita. Enjoy private open-air
+  hot springs (onsen), exquisite kaiseki dining, and serene nature views.
+seo_title: 'Yufuin Gettouan Ryokan: Private Onsen & Luxury | OKOnsen'
+seo_description: Experience Yufuin Gettouan, a luxury ryokan in Oita. Enjoy private
+  open-air hot springs (onsen), exquisite kaiseki dining, and serene nature views.
 ---
+
 
 
 ## Discovering the Untouched Splendor of Yufuin Gettouan: An Oasis of Refined Luxury
