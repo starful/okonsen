@@ -1,15 +1,16 @@
 ---
 lang: en
-title: 'How to Use a Japanese Onsen: Rules & Etiquette for Beginners'
+title: 'Japanese Onsen Etiquette: Step-by-Step Guide for Beginners'
 summary: New to Japanese onsen? Learn the exact bathing rules, tattoo etiquette, towel
   dos and don'ts, and common mistakes to avoid before your first soak.
 date: '2026-04-16'
-description: Master Japanese onsen etiquette before your first visit. Learn the essential
-  bathing rules, tattoo policies, and how to avoid common mistakes.
-seo_title: 'Japanese Onsen Etiquette: Step-by-Step Guide | OKOnsen'
-seo_description: First time at a Japanese hot spring? Avoid embarrassing mistakes
-  with this easy guide to onsen rules, tattoo policies, and etiquette.
+description: First time at a Japanese hot spring? Master onsen etiquette, tattoo rules,
+  and bathing steps to avoid embarrassment and soak like a local.
+seo_title: 'How to Use a Japanese Onsen: Etiquette & Rules - OKOnsen'
+seo_description: First time at a Japanese hot spring? Master onsen etiquette, tattoo
+  rules, and bathing steps to avoid embarrassment and soak like a local.
 ---
+
 
 
 

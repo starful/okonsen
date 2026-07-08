@@ -25,12 +25,13 @@ summary: Discover Yufuin Hotel Shumeikan, an exquisite sanctuary nestled in the 
   kaiseki dining amidst one of Japan's most picturesque hot spring towns.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_hotel_shumeikan.jpg
 title: 'Yufuin Hotel Shumeikan: Traditional Ryokan & Onsen Guide'
-description: Planning a trip to Yufuin? Read our guide to Yufuin Hotel Shumeikan,
-  featuring traditional hot springs, stunning Mt. Yufu views, and authentic dining.
-seo_title: 'Yufuin Hotel Shumeikan: Ryokan Guide & Mt. Yufu Views'
-seo_description: Planning a trip to Yufuin? Read our guide to Yufuin Hotel Shumeikan,
-  featuring traditional hot springs, stunning Mt. Yufu views, and authentic dining.
+description: Experience Yufuin Hotel Shumeikan. Enjoy spectacular Mt. Yufu views,
+  rejuvenating hot spring baths, and traditional Japanese hospitality.
+seo_title: 'Yufuin Hotel Shumeikan Ryokan Guide: Mt. Yufu Views - OKOnsen'
+seo_description: 'Discover Yufuin Hotel Shumeikan: a premier hot spring ryokan featuring
+  breathtaking Mt. Yufu views, open-air baths, and authentic dining.'
 ---
+
 
 
 

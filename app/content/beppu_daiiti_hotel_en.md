@@ -23,12 +23,13 @@ summary: Discover the tranquil oasis of Beppu Daiiti Hotel, where the mineral-ri
   it a truly inclusive and unforgettable escape.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/beppu_daiiti_hotel.jpg
 title: 'Beppu Daiiti Hotel: Tattoo-Friendly Private Onsen Guide'
-description: A complete guide to Beppu Daiiti Hotel, featuring tattoo-friendly private
-  family onsen baths and cozy accommodation just a 1-minute walk from Beppu Station.
+description: A complete guide to the private, tattoo-friendly hot spring baths at
+  Beppu Daiiti Hotel, located just steps from Beppu Station.
 seo_title: 'Beppu Daiiti Hotel: Tattoo-Friendly Private Onsen | OKOnsen'
-seo_description: Looking for a tattoo-friendly private onsen near Beppu Station? Explore
-  Beppu Daiiti Hotel's relaxing private baths, rates, and cozy rooms.
+seo_description: Looking for a tattoo-friendly onsen near Beppu Station? Explore Beppu
+  Daiiti Hotel's private family baths. Perfect for a relaxing, worry-free soak!
 ---
+
 
 
 
