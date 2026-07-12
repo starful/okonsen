@@ -75,3 +75,9 @@ def about_page():
 @static_bp.route("/privacy.html")
 def privacy_page():
     return render_template("privacy.html")
+
+
+@static_bp.route("/contact")
+@static_bp.route("/contact.html")
+def contact_page():
+    return render_template("contact.html")
