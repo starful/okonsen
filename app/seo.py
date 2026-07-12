@@ -52,6 +52,44 @@ def resolve_lang_slug_redirect(prefix: str, slug: str, content_dir: str):
     return None
 
 
+# Removed thin/duplicate pages → surviving sibling or canonical topic (GSC 2026-07-12).
+CONTENT_GONE_REDIRECTS = {
+    "/guide/private_bath_kashikiri_ko": "/guide/private_bath_kashikiri_en",
+    "/guide/kurokawa_hidden_gems_ko": "/guide/kurokawa_hidden_gems_en",
+    "/guide/ryokan_kaiseki_experience_en": "/guide/ryokan_kaiseki_experience_ko",
+    "/guide/beppu_eight_hells_tour_en": "/guide/beppu_hell_tour_guide_en",
+    "/guide/beppu_eight_hells_tour_ko": "/guide/beppu_hell_tour_guide_ko",
+    "/onsen/beppu_showaen_ko": "/onsen/beppu_showaen_en",
+    "/onsen/kinosaki_onsen_mikuniya_ko": "/onsen/kinosaki_onsen_mikuniya_en",
+    "/onsen/kurokawa_onsen_gosho_gekkoju_ko": "/onsen/kurokawa_onsen_gosho_gekkoju_en",
+    "/onsen/kurokawa_onsen_nanjoen_ko": "/onsen/kurokawa_onsen_nanjoen_en",
+    "/onsen/kusatsu_onsen_hotel_village_ko": "/onsen/kusatsu_onsen_hotel_village_en",
+    "/onsen/kusatsu_onsen_ryokan_yoshinoya_ko": "/onsen/kusatsu_onsen_ryokan_yoshinoya_en",
+    "/onsen/kusatsu_onsen_tokinoniwa_ko": "/onsen/kusatsu_onsen_tokinoniwa_en",
+    "/onsen/yufuin_baien_en": "/onsen/yufuin_baien_ko",
+    "/onsen/yufuin_sansou_waremokou_en": "/onsen/yufuin_sansou_waremokou_ko",
+    "/onsen/amane_resort_seikai_ko": "/onsen/amane_resort_seikai_en",
+    "/onsen/beppu_daiiti_hotel_ko": "/onsen/beppu_daiiti_hotel_en",
+    "/onsen/yubatake_souan_ko": "/onsen/yubatake_souan_en",
+    "/onsen/yufuin_hotel_shumeikan_ko": "/onsen/yufuin_hotel_shumeikan_en",
+    "/onsen/kinosaki_onsen_tajimaya_ko": "/onsen/kinosaki_onsen_tajimaya_en",
+    "/onsen/kurokawa_onsen_shinmeikan_ko": "/onsen/kurokawa_onsen_shinmeikan_en",
+    "/onsen/hotel_indigo_hakone_gora_ko": "/onsen/hotel_indigo_hakone_gora_en",
+    "/onsen/the_prince_hakone_lake_ashinoko_ko": "/onsen/the_prince_hakone_lake_ashinoko_en",
+    "/onsen/kusatsu_onsen_daitokan_en": "/onsen/kusatsu_onsen_daitokan_ko",
+    "/onsen/kusatsu_onsen_hotel_sakurai_en": "/onsen/kusatsu_onsen_hotel_sakurai_ko",
+    "/onsen/kurokawa_onsen_fujiya_ko": "/onsen/kurokawa_onsen_fujiya_en",
+    "/onsen/kusatsu_onsen_konoha_en": "/onsen/kusatsu_onsen_konoha_ko",
+    "/onsen/hakone_suimeisou_en": "/onsen/hakone_suimeisou_ko",
+    "/onsen/kinosaki_onsen_tsubakino_ryokan_ko": "/onsen/kinosaki_onsen_tsubakino_ryokan_en",
+    "/onsen/kurokawa_onsen_hozantei_ko": "/onsen/kurokawa_onsen_hozantei_en",
+    # Legacy slug typos / doubles (no local content)
+    "/onsen/arima_onsen_tocen_goshobo_en": "/onsen/arima_onsen_tosen_goshobo_en",
+    "/onsen/arima_onsen_tocen_goshobo_ko": "/onsen/arima_onsen_tosen_goshobo_ko",
+    "/onsen/kinosaki_onsen_koyado_en_en": "/onsen/kinosaki_onsen_shinmatsuya_en",
+}
+
+
 def register_seo_middleware(app: Flask) -> None:
     @app.before_request
     def seo_url_normalization():
@@ -77,6 +115,10 @@ def register_seo_middleware(app: Flask) -> None:
             return redirect("/guides", code=301)
         if p in ("/about.html", "/privacy.html"):
             return redirect(p.replace(".html", ""), code=301)
+
+        gone_target = CONTENT_GONE_REDIRECTS.get(p)
+        if gone_target:
+            return redirect(gone_target, code=301)
 
         if p.startswith("/guide/") and len(p) > len("/guide/"):
             slug = p.rsplit("/", 1)[-1]

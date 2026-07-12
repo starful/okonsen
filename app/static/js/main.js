@@ -105,7 +105,7 @@ function renderList(theme) {
         const card = document.createElement('div');
         card.className = 'onsen-card' + (isNew ? ' is-new' : '');
         card.innerHTML = `
-            <a href="${onsen.link}?lang=${currentLang}" class="onsen-card-link">
+            <a href="${onsen.link}" class="onsen-card-link">
                 <div class="card-visual">
                     <img src="${onsen.thumbnail}" 
                         class="card-thumb" 
@@ -150,7 +150,7 @@ function renderMarkers(theme) {
         });
 
         marker.addListener('click', () => {
-            window.location.href = `${onsen.link}?lang=${currentLang}`;
+            window.location.href = onsen.link;
         });
 
         markers.push(marker);

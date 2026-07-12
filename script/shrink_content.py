@@ -30,7 +30,6 @@ KEEP_GUIDES = frozenset(
         "tattoo_friendly_master_list",
         "private_bath_kashikiri",
         "beppu_hell_tour_guide",
-        "beppu_eight_hells_tour",
         "hakone_area_deep_dive",
         "hakone_day_trip_guide",
         "kurokawa_hidden_gems",

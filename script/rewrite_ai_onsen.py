@@ -285,6 +285,11 @@ def main() -> int:
     parser.add_argument("--workers", type=int, default=8)
     parser.add_argument("--onsen-only", action="store_true")
     parser.add_argument("--guides-only", action="store_true")
+    parser.add_argument(
+        "--files",
+        nargs="+",
+        help="Only rewrite these stems or paths (e.g. kusatsu_onsen_hotel_village_en)",
+    )
     args = parser.parse_args()
 
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -292,12 +297,23 @@ def main() -> int:
         print("❌ GEMINI_API_KEY missing")
         return 1
 
+    only: set[str] | None = None
+    if args.files:
+        only = set()
+        for f in args.files:
+            stem = Path(f).stem
+            only.add(stem)
+
     tasks: list[tuple[str, Path]] = []
     if not args.guides_only:
         for p in sorted(CONTENT.glob("*.md")):
+            if only is not None and p.stem not in only:
+                continue
             tasks.append(("onsen", p))
     if not args.onsen_only:
         for p in sorted(GUIDES.glob("*.md")):
+            if only is not None and p.stem not in only:
+                continue
             tasks.append(("guide", p))
 
     print(f"🚀 Rewrite queue: {len(tasks)} files (workers={args.workers})", flush=True)
@@ -327,6 +343,8 @@ def main() -> int:
             elif result not in ("skip", "would"):
                 counts[result] = counts.get(result, 0) + 1
                 print(f"✅ [{i}/{len(tasks)}] {name} ({result})", flush=True)
+            else:
+                print(f"⏭️  [{i}/{len(tasks)}] {name} ({result})", flush=True)
 
     print("Summary:", counts, flush=True)
     if errors:

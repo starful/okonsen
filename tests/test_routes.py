@@ -51,6 +51,22 @@ def test_home_lang_en_redirect(client):
     assert r.headers["Location"].endswith("/")
 
 
+def test_onsen_lang_query_stripped(client):
+    r = client.get(
+        "/onsen/kusatsu_onsen_ryokan_yoshinoya_en?lang=en", follow_redirects=False
+    )
+    assert r.status_code == 301
+    assert r.headers["Location"].endswith(
+        "/onsen/kusatsu_onsen_ryokan_yoshinoya_en"
+    )
+
+
+def test_gone_content_redirect(client):
+    r = client.get("/guide/beppu_eight_hells_tour_en", follow_redirects=False)
+    assert r.status_code == 301
+    assert r.headers["Location"].endswith("/guide/beppu_hell_tour_guide_en")
+
+
 def test_api_onsens(client):
     r = client.get("/api/onsens?lang=en")
     assert r.status_code == 200

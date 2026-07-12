@@ -35,10 +35,8 @@ CORE_GUIDE_BASES = [
 
 CORE_ONSEN_IDS = [
     "kusatsu_onsen_ryokan_yoshinoya_en",
-    "kusatsu_onsen_ryokan_yoshinoya_ko",
     "kurokawa_onsen_hozantei_en",
     "the_prince_hakone_lake_ashinoko_en",
-    "the_prince_hakone_lake_ashinoko_ko",
     "yufuin_onsen_yufuin-so_en",
     "yufuin_onsen_yufuin-so_ko",
 ]
