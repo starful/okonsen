@@ -7,6 +7,12 @@ from google import genai
 from dotenv import load_dotenv
 
 from topic_queue_csv import resolve as resolve_queue_csv
+from content_guards import (
+    duplicate_guide_reason,
+    sibling_exists,
+    strip_code_fences,
+    validate_generated_markdown,
+)
 
 
 def _emit_pipeline_result(**kwargs):
@@ -21,30 +27,43 @@ load_dotenv()
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
 DEFAULT_GUIDE_CSV = "script/csv/guides.csv"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(SCRIPT_DIR)
+OUTPUT_DIR = os.path.join(BASE_DIR, "app", "content", "guides")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
 def _guides_csv_path() -> str:
     return resolve_queue_csv("guides", DEFAULT_GUIDE_CSV)
 
 
-OUTPUT_DIR = "app/content/guides/"
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
 def generate_guide(row, lang):
     base_id = (row.get('id') or '').strip()
     if not base_id:
         return "❌ 에러: id 없음"
+
+    dup = duplicate_guide_reason(base_id, OUTPUT_DIR)
+    if dup:
+        return f"⏭️ 스킵(중복주제): {base_id}_{lang} — {dup}"
+
     topic = row.get(f'topic_{lang}') or ''
     keywords = row.get('keywords') or ''
     filename = f"{base_id}_{lang}.md"
     filepath = os.path.join(OUTPUT_DIR, filename)
+    filling_sibling = sibling_exists(OUTPUT_DIR, base_id, lang)
+    length_hint = (
+        "at least 6,500 characters — filling a missing locale; match sibling depth"
+        if filling_sibling
+        else "at least 5,000 characters"
+    )
 
     # 본문 생성 프롬프트
     prompt = f"""
     Write an exhaustive, professional SEO travel guide about '{topic}' in Japan.
     Target Language: {lang}
     Keywords to include: {keywords}
-    Length: At least 4,000 characters.
+    Length: {length_hint}.
+    Write ONLY in {"Korean" if lang == "ko" else "English"}; do not mix languages.
 
     Structure:
     1. Deep introduction.
@@ -52,6 +71,8 @@ def generate_guide(row, lang):
     3. Practical 'How-to' or 'Where-to' tips.
     4. Expert recommendations.
     5. Conclusion.
+
+    Use '##' for main sections (at least 4 sections). Never use H1 ('#').
 
     Output format:
     ---
@@ -66,8 +87,17 @@ def generate_guide(row, lang):
     try:
         print(f"📡 API 호출 시작: {filename}")
         response = client.models.generate_content(model='gemini-2.5-flash', contents=prompt)
+        content = strip_code_fences(response.text or "")
+        ok, errors = validate_generated_markdown(
+            content,
+            kind="guide",
+            lang=lang,
+            sibling_exists=filling_sibling,
+        )
+        if not ok:
+            return f"⛔ 품질미달·저장안함: {filename} — {', '.join(errors)}"
         with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(response.text.strip())
+            f.write(content)
         return f"✅ 성공: {filename}"
     except Exception as e:
         return f"❌ 에러: {filename} - {str(e)}"
@@ -86,6 +116,10 @@ def run_batch(limit=3):
         for row in reader:
             gid = (row.get('id') or '').strip()
             if not gid:
+                continue
+            dup = duplicate_guide_reason(gid, OUTPUT_DIR)
+            if dup:
+                print(f"⏭️ 큐에서 제외(중복주제): {gid} — {dup}")
                 continue
             for lang in ['en', 'ko']:
                 filename = f"{gid}_{lang}.md"

@@ -1,6 +1,5 @@
 import os
 import csv
-import time
 import sys
 from datetime import datetime
 from google import genai
@@ -8,6 +7,11 @@ from dotenv import load_dotenv
 import concurrent.futures
 
 from topic_queue_csv import resolve as resolve_queue_csv
+from content_guards import (
+    sibling_exists,
+    strip_code_fences,
+    validate_generated_markdown,
+)
 
 
 def _emit_pipeline_result(**kwargs):
@@ -43,13 +47,21 @@ def generate_onsen_md(safe_name, name, lat, lng, address, lang, features, agoda_
     current_date = datetime.now().strftime('%Y-%m-%d')
     allowed_categories = ", ".join(CATEGORIES.get(lang, CATEGORIES["en"]))
     thumbnail_url = f"{GCS_IMAGE_BASE}/{safe_name}.jpg"
+    filling_sibling = sibling_exists(CONTENT_DIR, safe_name, lang)
+    length_hint = (
+        "9,000+ characters — this fills a missing locale beside an existing page; "
+        "match or exceed the sibling's depth."
+        if filling_sibling
+        else "7,000 to 8,000 characters"
+    )
 
     # 💡 [프롬프트 수정] 제목 태그 제한 및 본문 스타일 지침 추가
     prompt = f"""
     You are an elite travel journalist specializing in Japanese Onsens.
     Write an EXTREMELY comprehensive, deeply detailed guide for '{name}' located at {address}.
     Target Language: {lang}
-    Aim for a very long response, around 7,000 to 8,000 characters.
+    Aim for a very long response, around {length_hint}.
+    Write ONLY in {"Korean" if lang == "ko" else "English"}; do not mix languages.
 
     [Formatting Rules - CRITICAL]
     1. NEVER use the '#' (H1) tag inside the body content.
@@ -86,10 +98,17 @@ def generate_onsen_md(safe_name, name, lat, lng, address, lang, features, agoda_
 
     try:
         response = client.models.generate_content(model='gemini-2.5-flash', contents=prompt)
-        content = response.text.strip()
-        
-        # AI가 실수로 넣은 코드 블록 마크업 제거
-        content = content.replace("```markdown", "").replace("```", "").strip()
+        content = strip_code_fences(response.text or "")
+
+        ok, errors = validate_generated_markdown(
+            content,
+            kind="onsen",
+            lang=lang,
+            sibling_exists=filling_sibling,
+        )
+        if not ok:
+            print(f"⛔ [품질미달·저장안함] {safe_name}_{lang}.md — {', '.join(errors)}")
+            return False
 
         filepath = os.path.join(CONTENT_DIR, f"{safe_name}_{lang}.md")
         os.makedirs(CONTENT_DIR, exist_ok=True)
@@ -139,9 +158,16 @@ def process_csv_auto(limit=10):
 
     if tasks:
         print(f"⚡️ {len(tasks)}개 신규 작업 병렬 실행 시작...")
+        results = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-            list(executor.map(lambda p: generate_onsen_md(*p), tasks))
-        _emit_pipeline_result(step="items", topics=pairs_queued, generated=len(tasks))
+            results = list(executor.map(lambda p: generate_onsen_md(*p), tasks))
+        ok = sum(1 for r in results if r)
+        _emit_pipeline_result(
+            step="items",
+            topics=pairs_queued,
+            generated=ok,
+            failed=len(tasks) - ok,
+        )
     else:
         print("💡 새로 생성할 컨텐츠가 없습니다.")
         _emit_pipeline_result(step="items", topics=0, generated=0)
