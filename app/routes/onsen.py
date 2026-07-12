@@ -10,6 +10,7 @@ from flask import Blueprint, abort, jsonify, render_template, request
 
 try:
     from ..config import CATEGORY_MAPPING, CONTENT_DIR, FAMILY_SITE_ID, SITE_URL
+    from ..rakuten_affiliate import rakuten_context
     from ..content_loader import get_all_guides, normalize_markdown_source
     from ..data_cache import (
         CACHED_DATA,
@@ -23,6 +24,7 @@ try:
     from ..seo import share_context
 except ImportError:
     from config import CATEGORY_MAPPING, CONTENT_DIR, FAMILY_SITE_ID, SITE_URL
+    from rakuten_affiliate import rakuten_context
     from content_loader import get_all_guides, normalize_markdown_source
     from data_cache import (
         CACHED_DATA,
@@ -107,6 +109,7 @@ def onsen_detail(onsen_id):
         **og_image_context(base_id),
         **stats,
         **share_ctx,
+        **rakuten_context(onsen_id, lang=lang),
     )
 
 

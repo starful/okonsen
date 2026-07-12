@@ -11,6 +11,7 @@ from flask import Blueprint, abort, render_template, request
 
 try:
     from ..config import FAMILY_SITE_ID, GUIDE_DIR
+    from ..rakuten_affiliate import rakuten_context
     from ..content_loader import (
         extract_faq_items,
         get_all_guides,
@@ -22,6 +23,7 @@ try:
     from ..seo import share_context
 except ImportError:
     from config import FAMILY_SITE_ID, GUIDE_DIR
+    from rakuten_affiliate import rakuten_context
     from content_loader import (
         extract_faq_items,
         get_all_guides,
@@ -85,4 +87,5 @@ def guide_detail(guide_id):
         **inject_family_context(FAMILY_SITE_ID, lang),
         **stats,
         **share_ctx,
+        **rakuten_context(guide_id, lang=lang),
     )

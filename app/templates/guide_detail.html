@@ -115,6 +115,71 @@
         }
         .guide-body-content th { background: #f9f9f9; font-weight: 700; }
 
+        /* 5b. Booking CTAs (Klook + Rakuten) */
+        .booking-section {
+            text-align: center;
+            margin: 28px 0 36px;
+            padding: 28px 32px 24px;
+            background: linear-gradient(180deg, #f8fbff 0%, #eef6fc 100%);
+            border-radius: 20px;
+            border: 2px solid #3498db;
+            box-shadow: 0 8px 24px rgba(52, 152, 219, 0.12);
+        }
+        .booking-title {
+            margin: 0 0 10px;
+            font-size: 1.1rem;
+            font-weight: 800;
+            color: #1a365d;
+            line-height: 1.45;
+        }
+        .booking-desc {
+            margin: 0 0 20px;
+            font-size: 0.9rem;
+            line-height: 1.55;
+            color: #4a5568;
+            max-width: 36rem;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .booking-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 14px;
+            justify-content: center;
+        }
+        .btn-klook {
+            display: inline-block;
+            background-color: #3498db;
+            color: white !important;
+            padding: 16px 36px;
+            font-size: 1.1rem;
+            font-weight: 900;
+            border-radius: 60px;
+            text-decoration: none;
+            box-shadow: 0 12px 24px rgba(52, 152, 219, 0.28);
+            transition: all 0.3s;
+        }
+        .btn-klook:hover { transform: translateY(-4px); background-color: #2980b9; }
+        .btn-rakuten {
+            display: inline-block;
+            background-color: #bf0000;
+            color: white !important;
+            padding: 16px 36px;
+            font-size: 1.1rem;
+            font-weight: 900;
+            border-radius: 60px;
+            text-decoration: none;
+            box-shadow: 0 12px 24px rgba(191, 0, 0, 0.25);
+            transition: all 0.3s;
+        }
+        .btn-rakuten:hover { transform: translateY(-4px); background-color: #a00000; }
+        .booking-note {
+            margin-top: 16px;
+            font-size: 0.8rem;
+            color: #777;
+            line-height: 1.5;
+        }
+
         /* 6. 하단 백 버튼 */
         .back-section {
             text-align: center;
@@ -159,6 +224,8 @@
             .guide-body-content {
                 font-size: 1.05rem;
             }
+            .booking-section { padding: 28px 18px; }
+            .btn-klook, .btn-rakuten { width: 100%; box-sizing: border-box; }
         }
     </style>
 
@@ -204,6 +271,8 @@
 
             <!-- 제목 -->
             <h1 class="detail-title">{{ title }}</h1>
+
+            {% include 'partials/booking_box.html' %}
 
             <!-- 본문 내용 -->
             <div class="guide-body-content">

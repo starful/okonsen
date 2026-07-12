@@ -1,0 +1,26 @@
+{# Klook + Rakuten Travel — placed high on page; opens external sites in new tab #}
+<div class="booking-section booking-section--prominent" role="complementary" aria-label="{{ '예약 안내' if lang == 'ko' else 'Booking links' }}">
+    <p class="booking-title">{{ booking_title }}</p>
+    <p class="booking-desc">{{ booking_desc }}</p>
+    <div class="booking-actions">
+        <a href="{{ 'https://klook.tpo.mx/h3gc7R4V' if lang == 'ko' else 'https://klook.tpo.mx/KrsQol51' }}"
+           target="_blank"
+           rel="nofollow sponsored noopener noreferrer"
+           class="btn-klook"
+           title="{{ 'Klook에서 열기 (새 탭)' if lang == 'ko' else 'Opens Klook in a new tab' }}">
+            {{ klook_button_label }}
+        </a>
+        {% if rakuten_search_url %}
+        <a href="{{ rakuten_search_url }}"
+           target="_blank"
+           rel="nofollow sponsored noopener noreferrer"
+           class="btn-rakuten"
+           title="{{ ('라쿠텐 트래블에서 ' ~ region_label ~ ' 검색 (새 탭)') if lang == 'ko' else ('Search ' ~ region_label ~ ' on Rakuten Travel (new tab)') }}">
+            {{ rakuten_button_label }}
+        </a>
+        {% endif %}
+    </div>
+    <p class="booking-note">
+        {{ '제휴 링크 · 새 탭에서 열림' if lang == 'ko' else 'Affiliate links · opens in new tab' }}
+    </p>
+</div>
