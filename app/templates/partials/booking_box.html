@@ -7,7 +7,9 @@
            target="_blank"
            rel="nofollow sponsored noopener noreferrer"
            class="btn-klook"
-           title="{{ 'Klook에서 열기 (새 탭)' if lang == 'ko' else 'Opens Klook in a new tab' }}">
+           title="{{ 'Klook에서 열기 (새 탭)' if lang == 'ko' else 'Opens Klook in a new tab' }}"
+           data-track="affiliate_klook"
+           data-track-label="klook">
             {{ klook_button_label }}
         </a>
         {% if rakuten_search_url %}
@@ -15,7 +17,9 @@
            target="_blank"
            rel="nofollow sponsored noopener noreferrer"
            class="btn-rakuten"
-           title="{{ ('라쿠텐 트래블에서 ' ~ region_label ~ ' 검색 (새 탭)') if lang == 'ko' else ('Search ' ~ region_label ~ ' on Rakuten Travel (new tab)') }}">
+           title="{{ ('라쿠텐 트래블에서 ' ~ region_label ~ ' 검색 (새 탭)') if lang == 'ko' else ('Search ' ~ region_label ~ ' on Rakuten Travel (new tab)') }}"
+           data-track="affiliate_rakuten"
+           data-track-label="{{ region_label }}">
             {{ rakuten_button_label }}
         </a>
         {% endif %}

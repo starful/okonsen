@@ -125,6 +125,20 @@ function renderList(theme) {
         `;
         listContainer.appendChild(card);
     });
+
+    if (!listContainer.dataset.gaBound) {
+        listContainer.dataset.gaBound = '1';
+        listContainer.addEventListener('click', (e) => {
+            const a = e.target.closest('a');
+            if (!a || !a.getAttribute('href')) return;
+            if (typeof gtag === 'function') {
+                gtag('event', 'onsen_card_click', {
+                    event_category: 'map_home',
+                    event_label: (a.getAttribute('href') || '').split('#')[0],
+                });
+            }
+        });
+    }
 }
 
 function renderMarkers(theme) {
@@ -150,6 +164,12 @@ function renderMarkers(theme) {
         });
 
         marker.addListener('click', () => {
+            if (typeof gtag === 'function') {
+                gtag('event', 'map_marker_click', {
+                    event_category: 'map_home',
+                    event_label: onsen.link || onsen.id || '',
+                });
+            }
             window.location.href = onsen.link;
         });
 
@@ -164,6 +184,12 @@ function setupFilters() {
             buttons.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             const theme = btn.dataset.theme;
+            if (typeof gtag === 'function') {
+                gtag('event', 'theme_filter_click', {
+                    event_category: 'map_home',
+                    event_label: theme || 'all',
+                });
+            }
             renderList(theme);
             renderMarkers(theme);
         });
