@@ -12,6 +12,7 @@ from content_guards import (
     strip_code_fences,
     validate_generated_markdown,
 )
+from content_quality import is_off_onsen_theme
 
 
 def _emit_pipeline_result(**kwargs):
@@ -140,6 +141,11 @@ def process_csv_auto(limit=10):
                 continue
 
             safe_name = name.lower().replace(" ", "_").replace("'", "").replace(",", "")
+            features = (row.get("Features") or "").strip()
+            address = (row.get("Address") or "").strip()
+            if is_off_onsen_theme(safe_name, name, features=features, address=address):
+                print(f"⏭️  Skip off-theme CSV row: {name} ({safe_name})")
+                continue
             en_path = os.path.join(CONTENT_DIR, f"{safe_name}_en.md")
             ko_path = os.path.join(CONTENT_DIR, f"{safe_name}_ko.md")
             if os.path.exists(en_path) and os.path.exists(ko_path):
