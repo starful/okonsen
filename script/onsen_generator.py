@@ -70,7 +70,8 @@ def generate_onsen_md(safe_name, name, lat, lng, address, lang, features, agoda_
     4. DO NOT wrap an entire paragraph in bold (****). Only bold specific keywords or short phrases.
     5. DO NOT use heading tags for normal sentences.
 
-    Structure:
+    Structure (cover these themes with UNIQUE ## titles for THIS ryokan —
+    do not copy identical section labels across every property):
     - Introduction (vibe, first impression, and why it's unique)
     - History & Tradition (of the ryokan or the town)
     - Deep Dive into the Baths (Water quality, minerals, and the exact view)

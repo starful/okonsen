@@ -73,6 +73,9 @@ def generate_guide(row, lang):
     5. Conclusion.
 
     Use '##' for main sections (at least 4 sections). Never use H1 ('#').
+    Invent UNIQUE ## titles for THIS topic — do not reuse interchangeable
+    templates like "Who This Guide Is For", "Final Checklist", or identical
+    section lists copied across articles.
 
     Output format:
     ---
