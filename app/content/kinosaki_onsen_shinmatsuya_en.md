@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "Shinmatsuya Ryokan: Kinosaki Onsen's Enduring Heartbeat of Serenity"
+title: 'Shinmatsuya Ryokan: A Traditional Kinosaki Onsen Experience'
 lat: 35.6288
 lng: 134.8166
 categories:
@@ -9,21 +9,22 @@ categories:
 - Kinosaki
 - Hyogo
 - Luxury Travel
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg
 address: 376 Kinosakicho Yushima, Toyooka, Hyogo 669-6101, Japan
 date: '2026-06-27'
 agoda: ''
-summary: "Shinmatsuya Ryokan offers a quintessential Kinosaki Onsen experience, blending\
-  \ traditional Japanese hospitality with the town's unique public bath culture. Guests\
-  \ are invited to immerse themselves in mineral-rich waters, savor exquisite seasonal\
-  \ kaiseki, and explore the charming willow-lined streets in a classic yukata, embodying\
-  \ the timeless spirit of this revered hot spring town."
-description: Experience warm Japanese hospitality at Shinmatsuya Ryokan, a cozy retreat
-  in Kinosaki Onsen perfect for relaxing in traditional baths and savoring local delicacies.
-seo_title: "Shinmatsuya Ryokan: Authentic Kinosaki Onsen Stay | OKOnsen"
-seo_description: Discover Shinmatsuya Ryokan in Kinosaki Onsen. Enjoy cozy traditional
-  rooms, local seasonal cuisine, and easy access to historic public baths.
+summary: Shinmatsuya Ryokan offers a quintessential Kinosaki Onsen experience, blending
+  traditional Japanese hospitality with the town's unique public bath culture. Guests
+  are invited to immerse themselves in mineral-rich waters, savor exquisite seasonal
+  kaiseki, and explore the charming willow-lined streets in a classic yukata, embodying
+  the timeless spirit of this revered hot spring town.
+description: Experience traditional Japanese hospitality at Shinmatsuya Ryokan in
+  Kinosaki Onsen. Enjoy soothing hot springs and seasonal kaiseki dining.
+seo_title: 'Shinmatsuya Ryokan: Traditional Stay in Kinosaki Onsen | OKOnsen'
+seo_description: Experience traditional Japanese hospitality at Shinmatsuya Ryokan
+  in Kinosaki Onsen. Enjoy soothing hot springs and seasonal kaiseki dining.
 ---
+
 
 ## Introduction
 

@@ -6,31 +6,32 @@ categories:
 - 절경
 - 고급 료칸
 date: '2026-04-03'
-image_prompt: "A serene and luxurious traditional Japanese ryokan in Yufuin, Oita,\
-  \ nestled amidst lush green mountains. Focus on an outdoor 'kazokuburo' (private\
-  \ family bath) made of natural stone and cypress wood, steaming gently, with a couple\
-  \ enjoying the bath in a tranquil setting. The view from the bath should showcase\
-  \ the iconic majestic Yufu-dake mountain under a clear blue sky, with vibrant autumn\
-  \ foliage and fresh spring greenery subtly in the background. Emphasize warm, inviting\
-  \ lighting from traditional lanterns, elegant Japanese architecture with sliding\
-  \ shoji screens in the background, a peaceful atmosphere, and a strong sense of\
-  \ exclusive privacy. Intricate details of polished wood, textured stones, and subtle\
-  \ water reflections should be visible. Realistic, cinematic lighting, soft focus\
-  \ on the background, high resolution, professional photography style."
+image_prompt: A serene and luxurious traditional Japanese ryokan in Yufuin, Oita,
+  nestled amidst lush green mountains. Focus on an outdoor 'kazokuburo' (private family
+  bath) made of natural stone and cypress wood, steaming gently, with a couple enjoying
+  the bath in a tranquil setting. The view from the bath should showcase the iconic
+  majestic Yufu-dake mountain under a clear blue sky, with vibrant autumn foliage
+  and fresh spring greenery subtly in the background. Emphasize warm, inviting lighting
+  from traditional lanterns, elegant Japanese architecture with sliding shoji screens
+  in the background, a peaceful atmosphere, and a strong sense of exclusive privacy.
+  Intricate details of polished wood, textured stones, and subtle water reflections
+  should be visible. Realistic, cinematic lighting, soft focus on the background,
+  high resolution, professional photography style.
 lang: ko
 lat: 33.2699
 lng: 131.3677
 summary: 유후인 료칸 세이코엔은 긴린코 호수 근처에 자리한 숨겨진 보석으로, 프라이빗한 가족탕과 압도적인 자연 절경을 동시에 즐길 수 있는
   특별한 료칸입니다. 이곳은 고즈넉한 정원과 전통적인 객실, 그리고 제철 재료로 정성껏 차려지는 가이세키 요리로 오감을 만족시키는 진정한 휴식을
   선사합니다. 번잡함에서 벗어나 오직 당신과 소중한 사람들을 위한 평온하고 잊을 수 없는 추억을 만들고 싶다면, 세이코엔이 정답입니다.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_ryokan_seikoen.jpg"
-title: "유후인 세이코엔 료칸: 프라이빗 가족탕과 가이세키로 떠나는 완벽한 온천 여행"
-description: "유후인 인기 온천 료칸 '세이코엔'의 프라이빗 가족탕, 정갈한 가이세키 석식, 객실 타입 및 예약 팁을 소개합니다. 지금\
-  \ 확인하고 완벽한 힐링을 계획해 보세요."
-seo_title: "유후인 세이코엔 료칸: 프라이빗 가족탕, 가이세키, 객실 예약 총정리 - OKOnsen"
-seo_description: "유후인 인기 온천 료칸 '세이코엔'의 프라이빗 가족탕, 정갈한 가이세키 석식, 객실 타입 및 실시간 예약 팁을 확인하세요.\
-  \ 긴린코 호수 인근에서 누리는 완벽한 힐링!"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_ryokan_seikoen.jpg
+title: '유후인 세이코엔 료칸 추천: 프라이빗 가족탕과 가이세키 완벽 가이드'
+description: 유후인 세이코엔 료칸의 프라이빗 가족탕 온천과 가이세키 요리, 객실 정보를 확인해 보세요. 고즈넉한 힐링을 선사하는 유후인
+  추천 료칸 완벽 가이드.
+seo_title: '유후인 세이코엔 료칸 추천: 프라이빗 가족탕과 가이세키 완벽 가이드 - OKOnsen'
+seo_description: 유후인 세이코엔 료칸의 프라이빗 가족탕 온천과 가이세키 요리, 객실 정보를 확인해 보세요. 고즈넉한 힐링을 선사하는
+  유후인 추천 료칸 완벽 가이드.
 ---
+
 
 lang: ko
 title: "유후인 세이코엔 료칸: 사적인 평화, 절경 속 미식의 향연"

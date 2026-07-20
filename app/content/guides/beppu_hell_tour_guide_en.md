@@ -1,16 +1,17 @@
 ---
 lang: en
-title: "Beppu Hell Tour Guide: How to Visit Jigoku Meguri & Sand Baths"
-summary: "Discover the otherworldly beauty of Beppu Onsen's Eight Hells, bubbling\
-  \ volcanic wonders, and unwind with a traditional sand bath experience. Your ultimate\
-  \ guide to exploring this Kyushu travel gem."
+title: 'Beppu Hell Tour: Jigoku Meguri & Sand Baths Travel Guide'
+summary: Discover the otherworldly beauty of Beppu Onsen's Eight Hells, bubbling volcanic
+  wonders, and unwind with a traditional sand bath experience. Your ultimate guide
+  to exploring this Kyushu travel gem.
 date: '2024-01-26'
 description: Plan your Beppu Hell Tour (Jigoku Meguri) with our ultimate guide. Discover
-  the 7 hells, transport tips, ticket prices, and the famous sand baths.
-seo_title: "Beppu Hell Tour Guide: Jigoku Meguri & Sand Baths | OKOnsen"
+  the 7 hells, traditional sand baths, access tips, and ticket prices.
+seo_title: 'Beppu Hell Tour Guide: Jigoku Meguri & Sand Baths | OKOnsen'
 seo_description: Plan your Beppu Hell Tour (Jigoku Meguri) with our ultimate guide.
-  Discover the 7 hells, transport tips, ticket prices, and the famous sand baths.
+  Discover the 7 hells, traditional sand baths, access tips, and ticket prices.
 ---
+
 
 Beppu, located on the island of Kyushu in Oita Prefecture, is one of Japan's most famous onsen (hot spring) towns, boasting the largest volume of hot spring water in the world and the second largest number of hot springs. While Beppu offers countless opportunities for traditional bathing, it also presents a unique and captivating experience known as the Jigoku Meguri, or "Hell Tour." This tour isn't about bathing in hot springs, but rather witnessing their raw, untamed power and stunning natural beauty. Complementing this fiery spectacle are Beppu's unique sand baths, offering a different kind of geothermal immersion. This guide will walk you through everything you need to know to experience both.
 

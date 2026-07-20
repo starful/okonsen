@@ -1,24 +1,25 @@
 ---
 lang: ko
-title: "아리마 온천 도센 고쇼보: 800년 역사의 명품 료칸 완벽 가이드"
+title: '아리마 온천 도센 고쇼보: 800년 역사와 전통의 명품 료칸 가이드'
 lat: 34.7966
 lng: 135.2477
 categories:
 - 온천 료칸
 - 아리마 온천
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg
 address: 고베, 효고현
 date: '2026-06-27'
 agoda: ''
 summary: 아리마 온천의 중심부에 위치한 도센 고쇼보는 800년이 넘는 역사를 자랑하는 전통 료칸입니다. 금천과 은천 두 종류의 온천수를 즐길
   수 있으며, 계절별 식재료를 사용한 정통 가이세키 요리는 잊지 못할 미식 경험을 선사합니다. 고베와 효고현 주변 관광 명소와의 접근성도 뛰어나
   일본 전통 문화와 아름다운 자연을 만끽할 수 있습니다.
-description: "아리마 온천에서 가장 오래된 명문 료칸 '도센 고쇼보'의 명물 금천 온천, 가이세키 요리, 객실 선택 팁과 예약 방법까지\
-  \ 완벽하게 정리해 드립니다."
-seo_title: "아리마 온천 도센 고쇼보 료칸 추천 및 온천·가이세키 안내 | OKOnsen"
-seo_description: "아리마 온천에서 가장 오래된 명문 료칸 '도센 고쇼보'의 명물 금천 온천, 가이세키 요리, 객실 선택 팁과 예약 방법까지\
-  \ 완벽하게 정리해 드립니다."
+description: 아리마 온천에서 가장 오래된 명품 료칸 '도센 고쇼보(Tosen Goshobo)'. 800년 전통의 클래식한 객실, 시그니처
+  금천 온천, 정갈한 가이세키 요리 정보를 소개합니다.
+seo_title: '아리마 온천 도센 고쇼보 료칸 완벽 가이드: 예약 및 온천 팁 | OKOnsen'
+seo_description: 아리마 온천 최고의 역사(800년)를 자랑하는 '도센 고쇼보' 료칸 가이드. 명품 금천 온천, 고품격 가이세키, 객실
+  정보 및 예약 팁까지 한눈에 확인하세요.
 ---
+
 
 ## 소개
 

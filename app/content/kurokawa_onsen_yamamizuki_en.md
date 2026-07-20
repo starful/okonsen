@@ -17,19 +17,20 @@ image_prompt: A luxurious Japanese ryokan called Kurokawa Onsen Yamamizuki, nest
 lang: en
 lat: 33.0844
 lng: 131.1455
-summary: "Nestled discreetly along the Tanoharu River in Kumamoto's Kurokawa Onsen\
-  \ village, Yamamizuki offers an exquisite escape defined by its pristine riverside\
-  \ baths, panoramic natural views, and a commitment to traditional ryokan hospitality.\
-  \ This review explores its unique blend of rustic charm and refined comfort, perfect\
-  \ for those seeking tranquility amidst Kyushu's verdant landscapes."
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yamamizuki.jpg"
-title: "Kurokawa Onsen Yamamizuki: A Secluded Kumamoto Retreat of Natural Elegance"
-description: Discover Kurokawa Onsen Yamamizuki, a stunning riverside ryokan in Kumamoto.
-  Read our review of its famous open-air baths, rooms, and access.
-seo_title: "Kurokawa Onsen Yamamizuki: Ryokan Guide & Review | OKOnsen"
-seo_description: Discover Kurokawa Onsen Yamamizuki, a stunning riverside ryokan in
-  Kumamoto. Read our review of its famous open-air baths, rooms, and access.
+summary: Nestled discreetly along the Tanoharu River in Kumamoto's Kurokawa Onsen
+  village, Yamamizuki offers an exquisite escape defined by its pristine riverside
+  baths, panoramic natural views, and a commitment to traditional ryokan hospitality.
+  This review explores its unique blend of rustic charm and refined comfort, perfect
+  for those seeking tranquility amidst Kyushu's verdant landscapes.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yamamizuki.jpg
+title: 'Kurokawa Onsen Yamamizuki: A Complete Ryokan & Onsen Review'
+description: Read our review of Kurokawa Onsen Yamamizuki. Discover this famous Kumamoto
+  ryokan known for its stunning riverside outdoor hot spring baths.
+seo_title: Kurokawa Onsen Yamamizuki Ryokan Review & Guide - OKOnsen
+seo_description: Read our review of Kurokawa Onsen Yamamizuki. Discover this famous
+  Kumamoto ryokan known for its stunning riverside outdoor hot spring baths.
 ---
+
 
 ## Introduction
 

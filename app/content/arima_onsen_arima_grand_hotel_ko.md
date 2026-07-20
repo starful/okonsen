@@ -1,6 +1,6 @@
 ---
 lang: ko
-title: "아리마 그랜드 호텔 완벽 가이드: 온천, 객실, 예약 팁 총정리"
+title: '아리마 그랜드 호텔 완벽 정복: 온천, 객실, 예약 팁 총정리'
 lat: 34.7955
 lng: 135.2455
 categories:
@@ -8,18 +8,19 @@ categories:
 - 료칸
 - 고베
 - 아리마 온천
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg
 address: 고베, 효고현
 date: '2026-06-27'
 agoda: ''
 summary: 아리마 온천의 중심에 자리 잡은 아리마 그랜드 호텔은 럭셔리함과 전통이 완벽하게 조화를 이루는 곳입니다. 금천과 은천, 두 가지 독특한
   온천수를 경험하고, 최고급 가이세키 요리와 숨 막히는 산 전망을 만끽하세요. 고베 여행의 잊지 못할 추억을 선사할 최고의 온천 료칸입니다.
-description: "아리마 그랜드 호텔의 명품 금탕·은탕 온천, 객실, 가이세키 정보부터 예약 팁까지! 최고의 전망을 자랑하는 노천탕 정보를\
-  \ OKOnsen에서 확인하고 완벽한 여행을 준비하세요."
-seo_title: "아리마 그랜드 호텔 완벽 가이드: 금탕·은탕 온천과 예약 팁 | OKOnsen"
-seo_description: "아리마 그랜드 호텔의 명품 금탕·은탕 온천, 객실, 가이세키 정보부터 예약 팁까지! 최고의 전망을 자랑하는 노천탕\
-  \ 정보를 OKOnsen에서 확인하고 완벽한 여행을 준비하세요."
+description: 아리마 온천을 대표하는 '아리마 그랜드 호텔'의 온천, 객실, 요금 및 예약 팁을 총정리해 드립니다. 금탕과 은탕을 동시에
+  즐기며 완벽한 힐링을 계획해 보세요.
+seo_title: '아리마 그랜드 호텔 예약 가이드: 금탕·은탕 온천 및 실시간 요금 | OKOnsen'
+seo_description: 아리마 온천 대표 료칸 '아리마 그랜드 호텔'의 금탕·은탕 온천, 추천 객실, 최저가 예약 팁을 확인하세요. 완벽한
+  고베 온천 여행의 시작!
 ---
+
 
 ## 소개
 

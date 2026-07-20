@@ -14,18 +14,17 @@ image_prompt: A serene aerial view capturing The Prince Hakone Lake Ashinoko, a 
 lang: en
 lat: 35.2122
 lng: 139.0111
-summary: "See if this Hakone ryokan is right for your trip: Lake Ashi view highlights,\
-  \ private bath options, room tips, and what to book first."
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg"
-title: "The Prince Hakone Lake Ashinoko Review: Is This Luxury Onsen Worth It?"
-description: "Read our honest review of The Prince Hakone Lake Ashinoko. Discover\
-  \ the stunning lakeview open-air onsen, room tips, and if it's worth the luxury\
-  \ price."
-seo_title: "The Prince Hakone Lake Ashinoko Review: Is It Worth It? - OKOnsen"
-seo_description: "Read our honest review of The Prince Hakone Lake Ashinoko. Discover\
-  \ the stunning lakeview open-air onsen, room tips, and if it's worth the luxury\
-  \ price."
+summary: 'See if this Hakone ryokan is right for your trip: Lake Ashi view highlights,
+  private bath options, room tips, and what to book first.'
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg
+title: 'The Prince Hakone Lake Ashinoko Review: Is This Lakeside Luxury Worth It?'
+description: Is The Prince Hakone Lake Ashinoko worth your stay? Read our honest review
+  of this luxury lakeside hot spring resort, including views, baths, and tips.
+seo_title: 'The Prince Hakone Lake Ashinoko Review: Best Lakeside Onsen? - OKOnsen'
+seo_description: Is The Prince Hakone Lake Ashinoko worth your stay? Read our honest
+  review of this luxury lakeside hot spring resort, including views, baths, and tips.
 ---
+
 
 ## Introduction
 

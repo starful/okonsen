@@ -23,14 +23,15 @@ summary: Nestled in the picturesque valley of Kurokawa Onsen, Ikoi Ryokan exempl
   welcoming, standing out for its inclusive approach, making it an excellent choice
   for guests with tattoos seeking an authentic hot spring retreat in a stunning natural
   setting.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg"
-title: "Kurokawa Onsen Ikoi Ryokan: A Haven of Timeless Tradition and Welcoming Warmth"
-description: Discover tattoo-friendly hot springs at Kurokawa Onsen Ikoi Ryokan in
-  Kumamoto. Experience historic baths and authentic Japanese ryokan hospitality.
-seo_title: "Kurokawa Onsen Ikoi Ryokan: Tattoo-Friendly Guide | OKOnsen"
-seo_description: Discover tattoo-friendly hot springs at Kurokawa Onsen Ikoi Ryokan
-  in Kumamoto. Experience historic baths and authentic Japanese ryokan hospitality.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg
+title: 'Kurokawa Onsen Ikoi Ryokan: Tattoo-Friendly & 11 Historic Baths'
+description: Experience Kurokawa Onsen at Ikoi Ryokan. Enjoy 11 historic, tattoo-friendly
+  hot springs, exquisite kaiseki dining, and classic ryokan charm.
+seo_title: 'Kurokawa Onsen Ikoi Ryokan: Tattoo-Friendly Inn | OKOnsen'
+seo_description: Experience Kurokawa Onsen at Ikoi Ryokan. Enjoy 11 historic, tattoo-friendly
+  hot springs, exquisite kaiseki dining, and classic ryokan charm.
 ---
+
 
 ## Introduction
 

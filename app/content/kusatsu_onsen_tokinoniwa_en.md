@@ -15,21 +15,22 @@ image_prompt: A serene outdoor private onsen bath at Kusatsu Onsen Tokinoniwa, s
 lang: en
 lat: 36.6199
 lng: 138.6055
-summary: "Discover Kusatsu Onsen Tokinoniwa, a beacon of refined luxury in one of\
-  \ Japan's most celebrated hot spring towns. With every room featuring its own private\
-  \ open-air bath and offering exquisite kaiseki dining amidst stunning natural vistas,\
-  \ Tokinoniwa provides an unparalleled escape for discerning travelers seeking tranquility\
-  \ and exclusivity. This review delves into its unique architecture, the famed Kusatsu\
-  \ waters, culinary artistry, and the serene ambiance that defines this exceptional\
-  \ ryokan."
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_tokinoniwa.jpg"
-title: "Kusatsu Onsen Tokinoniwa: A Sanctuary of Serenity and Private Onsen Luxury"
-description: A detailed guide to Kusatsu Onsen Tokinoniwa, a premium ryokan offering
-  private open-air hot spring baths in every room and 23 unique onsite baths.
-seo_title: "Kusatsu Onsen Tokinoniwa: Private Baths in All Rooms | OKOnsen"
-seo_description: Experience Kusatsu Onsen Tokinoniwa, a luxury ryokan where every
-  room features a private open-air bath. Discover 23 unique hot spring baths.
+summary: Discover Kusatsu Onsen Tokinoniwa, a beacon of refined luxury in one of Japan's
+  most celebrated hot spring towns. With every room featuring its own private open-air
+  bath and offering exquisite kaiseki dining amidst stunning natural vistas, Tokinoniwa
+  provides an unparalleled escape for discerning travelers seeking tranquility and
+  exclusivity. This review delves into its unique architecture, the famed Kusatsu
+  waters, culinary artistry, and the serene ambiance that defines this exceptional
+  ryokan.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_tokinoniwa.jpg
+title: 'Kusatsu Onsen Tokinoniwa Review: Luxury Ryokan with Private Room Baths'
+description: Is Kusatsu Onsen Tokinoniwa worth it? Read our honest review of this
+  luxury ryokan with private open-air baths in every room & kaiseki dining.
+seo_title: 'Kusatsu Onsen Tokinoniwa Review: Private Bath in Every Room'
+seo_description: Is Kusatsu Onsen Tokinoniwa worth it? Read our honest review of this
+  luxury ryokan with private open-air baths in every room & kaiseki dining.
 ---
+
 
 ## Introduction
 

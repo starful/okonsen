@@ -5,27 +5,26 @@ categories:
 - Local
 - Private Bath
 date: '2026-04-12'
-image_prompt: "A serene, traditional Japanese ryokan named Yoshinoya in Kusatsu Onsen\
-  \ during autumn, viewed from a slight elevation showing intricate wooden architecture,\
-  \ glowing soft interior lights, and steam gently rising from a secluded private\
-  \ outdoor onsen bath surrounded by vibrant red and orange maple trees. A delicate\
-  \ stone lantern adds a warm glow, creating an inviting and peaceful atmosphere.\
-  \ The sky is a clear twilight blue, and there's a subtle mist in the distance over\
-  \ rolling mountains."
+image_prompt: A serene, traditional Japanese ryokan named Yoshinoya in Kusatsu Onsen
+  during autumn, viewed from a slight elevation showing intricate wooden architecture,
+  glowing soft interior lights, and steam gently rising from a secluded private outdoor
+  onsen bath surrounded by vibrant red and orange maple trees. A delicate stone lantern
+  adds a warm glow, creating an inviting and peaceful atmosphere. The sky is a clear
+  twilight blue, and there's a subtle mist in the distance over rolling mountains.
 lang: en
 lat: 36.6241
 lng: 138.5962
 summary: Ranked ~9th for kusatsu onsen ryokan yoshinoya searches. See location, kashikiri
   baths, and booking tips near Yubatake.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg"
-title: "Kusatsu Onsen Ryokan Yoshinoya: Private Baths & Stay Guide"
-description: Discover Ryokan Yoshinoya in Kusatsu Onsen. Learn about its relaxing
-  private kashikiri baths, cozy guest rooms, and perfect location just steps from
-  Yubatake.
-seo_title: "Ryokan Yoshinoya Kusatsu Onsen: Private Baths & Guide"
-seo_description: Planning a stay at Ryokan Yoshinoya in Kusatsu Onsen? Explore its
-  relaxing private kashikiri baths, cozy rooms, and prime location steps from Yubatake.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_ryokan_yoshinoya.jpg
+title: 'Kusatsu Onsen Ryokan Yoshinoya: Private Baths & Stay Guide'
+description: A complete guide to Kusatsu Onsen Ryokan Yoshinoya, featuring private
+  kashikiri baths, cozy rooms, and its prime location just steps from the Yubatake.
+seo_title: 'Ryokan Yoshinoya (Kusatsu Onsen): Private Baths & Booking Guide'
+seo_description: Planning a stay at Ryokan Yoshinoya in Kusatsu Onsen? Explore private
+  kashikiri baths, cozy rooms, and tips for booking near Yubatake.
 ---
+
 
 ## Introduction
 

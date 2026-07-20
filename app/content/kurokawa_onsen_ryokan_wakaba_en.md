@@ -20,14 +20,16 @@ summary: Ryokan Wakaba in Kurokawa Onsen offers a serene escape centered around 
   the picturesque Aso caldera, this ryokan provides a comforting blend of traditional
   charm and modern relaxation, ideal for those seeking tranquility and authentic Kumamoto
   culinary delights amidst the natural beauty of Kyushu.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_wakaba.jpg"
-title: "Ryokan Wakaba: A Sanctuary of Private Onsen and Aso Comfort in Kurokawa"
-description: Discover Kurokawa Onsen Ryokan Wakaba, a peaceful hot spring inn in Kumamoto
-  famous for its skin-healing private baths, lush nature, and authentic kaiseki dining.
-seo_title: "Ryokan Wakaba: Kurokawa Onsen Guide with Private Baths | OKOnsen"
-seo_description: Experience Kurokawa Onsen Ryokan Wakaba. Enjoy therapeutic private
-  family hot springs, exquisite local dining, and traditional Japanese hospitality.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_wakaba.jpg
+title: 'Ryokan Wakaba: A Guide to Kurokawa Onsen''s Private Baths'
+description: Experience the ultimate relaxation at Ryokan Wakaba in Kurokawa Onsen,
+  featuring historic private hot springs, traditional tatami rooms, and exceptional
+  local dining.
+seo_title: 'Ryokan Wakaba: Kurokawa Onsen Guide & Private Baths - OKOnsen'
+seo_description: Discover Ryokan Wakaba in Kurokawa Onsen. Enjoy private hot springs
+  (onsen), traditional rooms, and authentic dining in Kyushu, Japan.
 ---
+
 
 ## Introduction
 

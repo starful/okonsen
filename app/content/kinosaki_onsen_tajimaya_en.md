@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "Kinosaki Onsen Tajimaya: Ultimate Ryokan Review"
+title: 'Kinosaki Onsen Tajimaya Ryokan Review: Luxury & Private Baths'
 lat: 35.6277
 lng: 134.8155
 categories:
@@ -9,22 +9,23 @@ categories:
 - Kinosaki
 - Luxury Travel
 - Cultural Immersion
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tajimaya.jpg"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tajimaya.jpg
 address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-04-16'
-agoda: "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1910391&hl=en&hid=104127"
+agoda: https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1910391&hl=en&hid=104127
 summary: Tajimaya Ryokan, nestled in the heart of Kinosaki Onsen, offers an unparalleled
   journey into Japanese tradition. This meticulously maintained ryokan seamlessly
   blends historical charm with modern comforts, providing guests with an immersive
   onsen experience. From its exquisite kaiseki cuisine to its serene rotenburo overlooking
   the Otani River, Tajimaya embodies the essence of Japanese hospitality.
-description: Discover Kinosaki Onsen Tajimaya, an award-winning boutique ryokan famous
-  for its three unique private hot spring baths, exquisite Tajima beef dining, and
-  artistic traditional design.
-seo_title: "Kinosaki Onsen Tajimaya: Private Baths & Guide | OKOnsen"
-seo_description: Plan your stay at Kinosaki Onsen Tajimaya. Discover its stunning
-  private baths, exquisite kaiseki dining, and artistic rooms in our expert review.
+description: An in-depth review of Tajimaya, a premier luxury ryokan in Kinosaki Onsen
+  famous for its stunning private hot springs, award-winning design, and local Tajima
+  beef cuisine.
+seo_title: Kinosaki Onsen Tajimaya Ryokan Review & Guide | OKOnsen
+seo_description: Read our Kinosaki Onsen Tajimaya review. Explore this luxury ryokan's
+  free private baths, Tajima beef kaiseki, and traditional Japanese charm.
 ---
+
 
 ## Introduction
 

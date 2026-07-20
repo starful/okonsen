@@ -1,27 +1,28 @@
 ---
 lang: en
-title: "Arima Onsen Tosen Goshobo: A Deep Dive into Kobe's Ancient Luxury Ryokan"
+title: 'Arima Onsen Tosen Goshobo: Inside Kobe''s Oldest Luxury Ryokan'
 lat: 34.7966
 lng: 135.2477
 categories:
 - Onsen Ryokan
 - Luxury Travel
 - Cultural Immersion
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg
 address: Kobe, Hyogo
 date: '2026-06-27'
 agoda: ''
-summary: "Immerse yourself in centuries of tradition and unparalleled luxury at Arima\
-  \ Onsen Tosen Goshobo, Kobe's oldest and most prestigious ryokan. This article offers\
-  \ an in-depth exploration of its historic Kinsen baths, exquisite kaiseki dining,\
-  \ refined Japanese architecture, and the serene ambiance that defines this iconic\
-  \ retreat in the heart of Arima Onsen."
-description: "Experience Kobe's oldest ryokan. Discover Arima Onsen Tosen Goshobo's\
-  \ famous golden hot springs, 800-year history, and exquisite Kaiseki dining."
-seo_title: "Arima Onsen Tosen Goshobo: Inside Kobe's Oldest Ryokan"
-seo_description: "Experience Kobe's oldest ryokan. Discover Arima Onsen Tosen Goshobo's\
-  \ famous golden hot springs, 800-year history, and exquisite Kaiseki dining."
+summary: Immerse yourself in centuries of tradition and unparalleled luxury at Arima
+  Onsen Tosen Goshobo, Kobe's oldest and most prestigious ryokan. This article offers
+  an in-depth exploration of its historic Kinsen baths, exquisite kaiseki dining,
+  refined Japanese architecture, and the serene ambiance that defines this iconic
+  retreat in the heart of Arima Onsen.
+description: Discover Arima Onsen's oldest ryokan, Tosen Goshobo. Experience famous
+  golden Kinsen baths, exquisite kaiseki dining, and historic luxury in Kobe.
+seo_title: 'Arima Onsen Tosen Goshobo: Kobe''s Oldest Luxury Ryokan - OKOnsen'
+seo_description: Discover Arima Onsen's oldest ryokan, Tosen Goshobo. Experience famous
+  golden Kinsen baths, exquisite kaiseki dining, and historic luxury in Kobe.
 ---
+
 
 ## Introduction
 
