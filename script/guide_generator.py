@@ -3,7 +3,6 @@ import csv
 import sys
 import concurrent.futures
 from datetime import datetime
-from google import genai
 from dotenv import load_dotenv
 
 from topic_queue_csv import resolve as resolve_queue_csv
@@ -24,7 +23,16 @@ def _emit_pipeline_result(**kwargs):
         pass
 
 load_dotenv()
-client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+
+def _claude_md(prompt: str) -> str:
+    """MD text via Claude CLI subscription (not Claude API)."""
+    import sys
+    from pathlib import Path
+    _shared = Path(__file__).resolve().parents[2] / "shared"
+    if str(_shared) not in sys.path:
+        sys.path.insert(0, str(_shared))
+    from site_llm import generate_md_text
+    return generate_md_text(prompt)
 
 DEFAULT_GUIDE_CSV = "script/csv/guides.csv"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -89,8 +97,8 @@ def generate_guide(row, lang):
 
     try:
         print(f"📡 API 호출 시작: {filename}")
-        response = client.models.generate_content(model='gemini-2.5-flash', contents=prompt)
-        content = strip_code_fences(response.text or "")
+        response_text = _claude_md(prompt)
+        content = strip_code_fences(response_text or "")
         ok, errors = validate_generated_markdown(
             content,
             kind="guide",

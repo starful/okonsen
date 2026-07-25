@@ -8,9 +8,8 @@ summary: "Embark on a culinary exploration of Kaiseki Ryori, the epitome of Japa
 date: '2026-04-15'
 description: Discover the art of traditional Japanese ryokan kaiseki dinner. Learn
   about course menus, dining etiquette, and tips for a perfect culinary experience.
-seo_title: "Ryokan Kaiseki Dinner Guide: Etiquette & Courses | OKOnsen"
-seo_description: Discover the art of traditional Japanese ryokan kaiseki dinner. Learn
-  about course menus, dining etiquette, and tips for a perfect culinary experience.
+seo_title: "Ryokan Kaiseki Dining Guide: What to Expect, Course Breakdown & Etiquette"
+seo_description: "Everything about ryokan kaiseki: course-by-course breakdown, dining etiquette, what to wear & first-timer tips for traditional Japanese fine dining."
 ---
 
 ## The Art of Ryokan Kaiseki Dinner: An Exhaustive Guide

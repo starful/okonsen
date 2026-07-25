@@ -2,7 +2,6 @@ import os
 import csv
 import sys
 from datetime import datetime
-from google import genai
 from dotenv import load_dotenv
 import concurrent.futures
 
@@ -27,7 +26,18 @@ def _emit_pipeline_result(**kwargs):
 # ⚙️ 설정 (GCS 경로 및 환경 설정)
 # ==========================================
 load_dotenv()
-API_KEY = os.environ.get("GEMINI_API_KEY")
+
+def _claude_md(prompt: str) -> str:
+    """MD text via Claude CLI subscription (not Claude API)."""
+    import sys
+    from pathlib import Path
+    _shared = Path(__file__).resolve().parents[2] / "shared"
+    if str(_shared) not in sys.path:
+        sys.path.insert(0, str(_shared))
+    from site_llm import generate_md_text
+    return generate_md_text(prompt)
+
+# GEMINI_API_KEY no longer required for MD (Claude CLI)
 GCS_IMAGE_BASE = "https://storage.googleapis.com/ok-project-assets/okonsen"
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -41,9 +51,8 @@ CATEGORIES = {
 }
 
 def generate_onsen_md(safe_name, name, lat, lng, address, lang, features, agoda_link):
-    """Gemini 2.0을 사용한 고퀄리티 컨텐츠 생성 (8000자 지향 및 폰트 크기 최적화)"""
-    if not API_KEY: return False
-    client = genai.Client(api_key=API_KEY)
+    """Claude 2.0을 사용한 고퀄리티 컨텐츠 생성 (8000자 지향 및 폰트 크기 최적화)"""
+    pass  # Claude CLI; API_KEY unused
     
     current_date = datetime.now().strftime('%Y-%m-%d')
     allowed_categories = ", ".join(CATEGORIES.get(lang, CATEGORIES["en"]))
@@ -99,8 +108,8 @@ def generate_onsen_md(safe_name, name, lat, lng, address, lang, features, agoda_
     """
 
     try:
-        response = client.models.generate_content(model='gemini-2.5-flash', contents=prompt)
-        content = strip_code_fences(response.text or "")
+        response_text = _claude_md(prompt)
+        content = strip_code_fences(response_text or "")
 
         ok, errors = validate_generated_markdown(
             content,

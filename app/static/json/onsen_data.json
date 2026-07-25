@@ -1,6 +1,120 @@
 {
-  "last_updated": "2026-07-20",
+  "last_updated": "2026.07.25 17:04",
   "onsens": [
+    {
+      "id": "takaragawa_onsen_ousenkaku_ko",
+      "lang": "ko",
+      "title": "다카라가와 온천 오센카쿠: 일본 최대 강변 혼탕 노천탕 완벽 가이드",
+      "lat": 36.8454,
+      "lng": 139.0485,
+      "categories": [
+        "혼탕",
+        "절경",
+        "강변 온천",
+        "역사 료칸",
+        "군마"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/takaragawa_onsen_ousenkaku.jpg",
+      "address": "Minakami, Gunma",
+      "published": "2026-07-25",
+      "summary": "군마현 미나카미의 협곡 깊숙이 자리한 다카라가와 온천 오센카쿠는 일본에서 가장 크고 웅장한 혼탕 노천탕으로 유명합니다. 다카라가와 강변을 따라 펼쳐진 네 개의 노천탕과 사계절 절경, 도쿄에서 약 2시간 만에 닿을 수 있는 접근성이 자랑입니다.",
+      "link": "/onsen/takaragawa_onsen_ousenkaku_ko"
+    },
+    {
+      "id": "takaragawa_onsen_ousenkaku_en",
+      "lang": "en",
+      "title": "Takaragawa Onsen Ousenkaku: Japan's Most Epic Outdoor Riverside Baths",
+      "lat": 36.8454,
+      "lng": 139.0485,
+      "categories": [
+        "Mixed Bathing",
+        "Great View",
+        "Riverside Bath",
+        "Historic Ryokan",
+        "Gunma"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/takaragawa_onsen_ousenkaku.jpg",
+      "address": "Minakami, Gunma",
+      "published": "2026-07-25",
+      "summary": "Takaragawa Onsen Ousenkaku in Gunma's Minakami gorge is home to some of Japan's largest and most celebrated outdoor mixed-gender baths. This guide covers its four riverside rotenburo, seasonal appeal, day-trip options, and how to reach this mountain retreat from Tokyo in just over two hours.",
+      "link": "/onsen/takaragawa_onsen_ousenkaku_en"
+    },
+    {
+      "id": "nyuto_onsen_tsurunoyu_ko",
+      "lang": "ko",
+      "title": "뉴토 온천 쓰루노유: 일본 최고의 역사 료칸 완벽 가이드",
+      "lat": 39.7997,
+      "lng": 140.7811,
+      "categories": [
+        "가족탕",
+        "절경",
+        "역사 료칸",
+        "혼탕",
+        "도호쿠"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_tsurunoyu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-07-25",
+      "summary": "아키타 산속 깊이 숨겨진 뉴토 온천 쓰루노유는 에도시대 초가지붕 료칸이 그대로 살아있는 일본 최고의 역사 온천입니다. 우윳빛 유황 노천탕과 전통 혼탕 문화로 명성을 떨치며, 설경 속 온천욕이라는 일본 여행의 정수를 경험할 수 있는 곳입니다.",
+      "link": "/onsen/nyuto_onsen_tsurunoyu_ko"
+    },
+    {
+      "id": "nyuto_onsen_tsurunoyu_en",
+      "lang": "en",
+      "title": "Nyuto Onsen Tsurunoyu: Japan's Most Iconic Historic Ryokan Review",
+      "lat": 39.7997,
+      "lng": 140.7811,
+      "categories": [
+        "Private Bath",
+        "Great View",
+        "Historic Ryokan",
+        "Mixed Bathing",
+        "Tohoku"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_tsurunoyu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-07-25",
+      "summary": "Hidden deep in the Akita mountains, Tsurunoyu is Japan's most iconic Tohoku ryokan — a thatched Edo-period lodge with milky-white sulfurous baths and legendary mixed-gender outdoor pools. This guide covers everything from the spring water types and konyoku etiquette to access tips for navigating the remote mountain road.",
+      "link": "/onsen/nyuto_onsen_tsurunoyu_en"
+    },
+    {
+      "id": "hakone_gora_kadan_ko",
+      "lang": "ko",
+      "title": "하코네 고라 가단: 황실 정원 위의 일본 최고 럭셔리 료칸 완벽 가이드",
+      "lat": 35.2492,
+      "lng": 139.0465,
+      "categories": [
+        "고급 료칸",
+        "가족탕",
+        "절경",
+        "릴레&샤토",
+        "하코네"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_gora_kadan.jpg",
+      "address": "Hakone, Kanagawa",
+      "published": "2026-07-25",
+      "summary": "하코네 고라 가단은 쇼와 황족의 여름 별장 터에 조성된 릴레&샤토 회원 료칸으로, 전객실 전용 노천탕과 세계적으로 인정받은 가이세키 요리, 4계절 아름다운 다단식 정원이 일본 최고의 럭셔리 료칸 경험을 완성합니다.",
+      "link": "/onsen/hakone_gora_kadan_ko"
+    },
+    {
+      "id": "hakone_gora_kadan_en",
+      "lang": "en",
+      "title": "Hakone Gora Kadan: A Complete Review of Japan's Imperial Ryokan",
+      "lat": 35.2492,
+      "lng": 139.0465,
+      "categories": [
+        "Luxury Ryokan",
+        "Private Bath",
+        "Great View",
+        "Relais & Chateaux",
+        "Hakone"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_gora_kadan.jpg",
+      "address": "Hakone, Kanagawa",
+      "published": "2026-07-25",
+      "summary": "Hakone Gora Kadan is a Relais & Châteaux member ryokan built on the terraced gardens of a former Imperial summer villa in Gora, Hakone. This guide covers its private outdoor baths, celebrated kaiseki cuisine, elegant garden setting, and what makes it one of Japan's finest luxury ryokan experiences.",
+      "link": "/onsen/hakone_gora_kadan_en"
+    },
     {
       "id": "jozankei_onsen_mori_no_uta_ko",
       "lang": "ko",
@@ -354,7 +468,7 @@
     {
       "id": "kinosaki_onsen_shinmatsuya_en",
       "lang": "en",
-      "title": "Shinmatsuya Ryokan: A Traditional Kinosaki Onsen Experience",
+      "title": "Shinmatsuya Ryokan: Kinosaki Onsen Inn with Kaiseki & Hot Springs",
       "lat": 35.6288,
       "lng": 134.8166,
       "categories": [
@@ -406,7 +520,7 @@
     {
       "id": "arima_onsen_arima_grand_hotel_ko",
       "lang": "ko",
-      "title": "아리마 그랜드 호텔 완벽 정복: 온천, 객실, 예약 팁 총정리",
+      "title": "아리마 그랜드 호텔: 금천·은천 온천 료칸 완벽 가이드",
       "lat": 34.7955,
       "lng": 135.2455,
       "categories": [
@@ -569,7 +683,7 @@
     {
       "id": "kusatsu_onsen_ryokan_yoshinoya_en",
       "lang": "en",
-      "title": "Kusatsu Onsen Ryokan Yoshinoya: Private Baths & Stay Guide",
+      "title": "Kusatsu Onsen Ryokan Yoshinoya: Exclusive Private Baths & Stay Guide",
       "lat": 36.6241,
       "lng": 138.5962,
       "categories": [
@@ -883,7 +997,7 @@
     {
       "id": "kusatsu_onsen_tokinoniwa_en",
       "lang": "en",
-      "title": "Kusatsu Onsen Tokinoniwa Review: Luxury Ryokan with Private Room Baths",
+      "title": "Tokinoniwa Kusatsu Review: Private Open-Air Bath in Every Room | OKOnsen",
       "lat": 36.6199,
       "lng": 138.6055,
       "categories": [
@@ -1098,7 +1212,7 @@
     {
       "id": "the_prince_hakone_lake_ashinoko_en",
       "lang": "en",
-      "title": "The Prince Hakone Lake Ashinoko Review: Is This Lakeside Luxury Worth It?",
+      "title": "The Prince Hakone Lake Ashinoko: Private Onsen, Lake Ashi Views & Honest Review",
       "lat": 35.2122,
       "lng": 139.0111,
       "categories": [
@@ -1148,7 +1262,7 @@
     {
       "id": "hotel_indigo_hakone_gora_en",
       "lang": "en",
-      "title": "Hotel Indigo Hakone Gora: Luxury Onsen & Private Baths",
+      "title": "Hotel Indigo Hakone Gora | Private Onsen Baths & Luxury Stay",
       "lat": 35.2511,
       "lng": 139.0452,
       "categories": [

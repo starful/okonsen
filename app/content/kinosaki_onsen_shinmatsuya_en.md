@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 'Shinmatsuya Ryokan: A Traditional Kinosaki Onsen Experience'
+title: 'Shinmatsuya Ryokan: Kinosaki Onsen Inn with Kaiseki & Hot Springs'
 lat: 35.6288
 lng: 134.8166
 categories:
@@ -18,12 +18,17 @@ summary: Shinmatsuya Ryokan offers a quintessential Kinosaki Onsen experience, b
   are invited to immerse themselves in mineral-rich waters, savor exquisite seasonal
   kaiseki, and explore the charming willow-lined streets in a classic yukata, embodying
   the timeless spirit of this revered hot spring town.
-description: Experience traditional Japanese hospitality at Shinmatsuya Ryokan in
-  Kinosaki Onsen. Enjoy soothing hot springs and seasonal kaiseki dining.
-seo_title: 'Shinmatsuya Ryokan: Traditional Stay in Kinosaki Onsen | OKOnsen'
-seo_description: Experience traditional Japanese hospitality at Shinmatsuya Ryokan
-  in Kinosaki Onsen. Enjoy soothing hot springs and seasonal kaiseki dining.
+description: Shinmatsuya Ryokan offers a quintessential Kinosaki Onsen experience,
+  blending traditional Japanese hospitality with the town's unique public bath culture.
+  Guests are invited to immerse themselves in mineral-rich waters, savor exquisite
+  seasonal kaiseki, and explore the charming willow-lined streets in a classic yukata,
+  embodying the timeless spirit of this revered hot spring town.
+seo_title: Shinmatsuya Ryokan – Kinosaki Onsen Traditional Inn & Kaiseki
+seo_description: Stay at Shinmatsuya Ryokan in Kinosaki Onsen — enjoy mineral-rich
+  hot springs, seasonal kaiseki, and yukata strolls through charming willow-lined
+  streets.
 ---
+
 
 
 ## Introduction

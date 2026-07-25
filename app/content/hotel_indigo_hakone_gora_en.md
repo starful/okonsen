@@ -23,14 +23,15 @@ summary: Immerse yourself in the unparalleled luxury and breathtaking natural be
   Japanese hospitality with contemporary elegance and offers spectacular views. Discover
   serene private baths, innovative gastronomy, and a tranquil escape designed for
   ultimate rejuvenation and cultural immersion.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/hotel_indigo_hakone_gora.jpg"
-title: "Hotel Indigo Hakone Gora: Luxury Onsen & Private Baths"
-description: "Discover Hotel Indigo Hakone Gora. Experience luxury hot springs, private\
-  \ open-air onsen rooms, and contemporary dining in Hakone's scenic Gora area."
-seo_title: "Hotel Indigo Hakone Gora: Private Onsen & Luxury Guide - OKOnsen"
-seo_description: Explore Hotel Indigo Hakone Gora’s luxury onsen, private open-air
-  baths, and modern rooms. Your ultimate guide to a relaxing Hakone hot spring getaway.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hotel_indigo_hakone_gora.jpg
+title: Hotel Indigo Hakone Gora | Private Onsen Baths & Luxury Stay
+description: Experience luxury onsen at Hotel Indigo Hakone Gora. Private hot spring
+  baths, mountain views & modern ryokan elegance in Hakone, Japan.
+seo_title: 'Hotel Indigo Hakone Gora Review: Private Onsen, Mountain Views & Modern Ryokan'
+seo_description: Hotel Indigo Hakone Gora blends IHG luxury with Japanese onsen tradition.
+  Private hot spring baths, mountain views & what to expect at check-in.
 ---
+
 
 ## Introduction
 

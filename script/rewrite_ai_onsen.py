@@ -33,6 +33,17 @@ BILINGUAL_HEADER = re.compile(r"^## .+ / [\uac00-\ud7a3]", re.M)
 _thread_local = threading.local()
 
 
+def _claude_md(prompt: str) -> str:
+    """MD text via Claude CLI subscription (not Claude API)."""
+    import sys
+    from pathlib import Path
+    _shared = Path(__file__).resolve().parents[2] / "shared"
+    if str(_shared) not in sys.path:
+        sys.path.insert(0, str(_shared))
+    from site_llm import generate_md_text
+    return generate_md_text(prompt)
+
+
 def base_slug(stem: str) -> str:
     if stem.endswith("_en") or stem.endswith("_ko"):
         return stem.rsplit("_", 1)[0]
@@ -50,18 +61,9 @@ def clean_response(text: str) -> str:
     return text.replace("```markdown", "").replace("```", "").strip()
 
 
-def get_client(api_key: str):
-    if getattr(_thread_local, "client", None) is None:
-        from google import genai
-
-        _thread_local.client = genai.Client(api_key=api_key)
-    return _thread_local.client
-
-
 def call_gemini(api_key: str, prompt: str) -> str:
-    client = get_client(api_key)
-    response = client.models.generate_content(model="gemini-2.5-flash", contents=prompt)
-    return clean_response(response.text)
+    # api_key ignored — Claude CLI subscription
+    return clean_response(_claude_md(prompt))
 
 
 def parse_ai_output(raw: str, fallback_meta: dict) -> tuple[dict, str]:
@@ -292,10 +294,7 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key and not args.dry_run:
-        print("❌ GEMINI_API_KEY missing")
-        return 1
+    api_key = ""  # Claude CLI
 
     only: set[str] | None = None
     if args.files:

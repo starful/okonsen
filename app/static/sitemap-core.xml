@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://okonsen.net/</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://okonsen.net/?lang=ko</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides?lang=ko</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -43,6 +43,36 @@
   <url>
     <loc>https://okonsen.net/onsen/yufuin_onsen_yufuin-so_ko</loc>
     <lastmod>2026-04-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/takaragawa_onsen_ousenkaku_ko</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/takaragawa_onsen_ousenkaku_en</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/nyuto_onsen_tsurunoyu_ko</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/nyuto_onsen_tsurunoyu_en</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hakone_gora_kadan_ko</loc>
+    <lastmod>2026-07-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hakone_gora_kadan_en</loc>
+    <lastmod>2026-07-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>

@@ -23,13 +23,14 @@ summary: Discover Kusatsu Onsen Tokinoniwa, a beacon of refined luxury in one of
   waters, culinary artistry, and the serene ambiance that defines this exceptional
   ryokan.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_tokinoniwa.jpg
-title: 'Kusatsu Onsen Tokinoniwa Review: Luxury Ryokan with Private Room Baths'
-description: Is Kusatsu Onsen Tokinoniwa worth it? Read our honest review of this
-  luxury ryokan with private open-air baths in every room & kaiseki dining.
-seo_title: 'Kusatsu Onsen Tokinoniwa Review: Private Bath in Every Room'
-seo_description: Is Kusatsu Onsen Tokinoniwa worth it? Read our honest review of this
-  luxury ryokan with private open-air baths in every room & kaiseki dining.
+title: 'Tokinoniwa Kusatsu Review: Private Open-Air Bath in Every Room | OKOnsen'
+description: Every room at Tokinoniwa has its own private open-air onsen. Kusatsu's
+  famed waters, kaiseki dining & mountain views — worth the splurge?
+seo_title: 'Kusatsu Onsen Tokinoniwa Review: Private Rotenburo in Every Room — Worth It?'
+seo_description: Every room at Tokinoniwa comes with a private open-air onsen. Kusatsu's
+  famous mineral water, kaiseki & mountain views — honest verdict inside.
 ---
+
 
 
 ## Introduction
