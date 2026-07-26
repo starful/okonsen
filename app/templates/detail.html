@@ -259,6 +259,13 @@
 
             <!-- 제목 -->
             <h1 class="detail-title">{{ post.title }}</h1>
+            <button type="button"
+                class="compare-toggle-btn detail-compare-btn"
+                data-compare-id="{{ base_id }}"
+                data-label-default="{{ '+ 비교' if lang == 'ko' else '+ Compare' }}"
+                data-label-selected="{{ '✓ 비교 중' if lang == 'ko' else '✓ Comparing' }}">
+                {{ '+ 비교' if lang == 'ko' else '+ Compare' }}
+            </button>
 
             <!-- 대표 이미지 (GCS 주소) -->
             <img src="{{ post.thumbnail }}" 

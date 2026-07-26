@@ -1,7 +1,13 @@
 let map;
 let allOnsens = [];
 let markers = [];
+let currentTheme = 'all';
 const currentLang = new URLSearchParams(window.location.search).get('lang') || 'en';
+
+function baseIdOf(item) {
+    const id = item && item.id ? String(item.id) : '';
+    return id.replace(/_(en|ko)$/, '');
+}
 
 const NEW_CONTENT_DAYS = 14;
 
@@ -38,6 +44,11 @@ function filterOnsens(theme) {
         return onsen.categories.some(cat => CATEGORY_MAP[cat] === theme);
     });
     return sortByPublishedDesc(filtered);
+}
+
+function activeTheme() {
+    const active = document.querySelector('.theme-button.active');
+    return (active && active.dataset.theme) || currentTheme || 'all';
 }
 
 const CATEGORY_MAP = {
@@ -100,10 +111,14 @@ function renderList(theme) {
 
     const filtered = filterOnsens(theme);
 
+    const cmpAdd = currentLang === 'ko' ? '+ 비교' : '+ Compare';
+    const cmpOn = currentLang === 'ko' ? '✓ 비교 중' : '✓ Comparing';
     filtered.forEach(onsen => {
         const isNew = isContentNew(onsen.published);
+        const bid = baseIdOf(onsen);
         const card = document.createElement('div');
         card.className = 'onsen-card' + (isNew ? ' is-new' : '');
+        card.dataset.compareCard = bid;
         card.innerHTML = `
             <a href="${onsen.link}" class="onsen-card-link">
                 <div class="card-visual">
@@ -116,15 +131,18 @@ function renderList(theme) {
                 <div class="card-content">
                     <div class="card-meta">📍 ${onsen.address}${formatPublished(onsen.published) ? ` · <span class="published-date">${formatPublished(onsen.published)}</span>` : ''}</div>
                     <h3 class="card-title">${onsen.title}</h3>
-                    <p class="card-summary">${onsen.summary.substring(0, 100)}...</p>
+                    <p class="card-summary">${(onsen.summary || '').substring(0, 100)}...</p>
                     <div style="margin-top:10px;">
                         ${onsen.categories.map(c => `<span class="count-badge">${c}</span>`).join(' ')}
                     </div>
                 </div>
             </a>
+            <button type="button" class="compare-toggle-btn" data-compare-id="${bid}"
+                data-label-default="${cmpAdd}" data-label-selected="${cmpOn}">${cmpAdd}</button>
         `;
         listContainer.appendChild(card);
     });
+    if (window.OKCompare) window.OKCompare.syncCompareUI();
 
     if (!listContainer.dataset.gaBound) {
         listContainer.dataset.gaBound = '1';
@@ -184,6 +202,7 @@ function setupFilters() {
             buttons.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             const theme = btn.dataset.theme;
+            currentTheme = theme;
             if (typeof gtag === 'function') {
                 gtag('event', 'theme_filter_click', {
                     event_category: 'map_home',

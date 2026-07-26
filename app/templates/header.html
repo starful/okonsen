@@ -29,15 +29,19 @@
                         <a href="/?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
                     {% endif %}
                 {% else %}
-                    {% if request.path == '/guides' %}
-                        <a href="/guides" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
-                        <a href="/guides?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
+                    {% if request.path == '/guides' or request.path == '/compare' %}
+                        <a href="{{ request.path }}" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
+                        <a href="{{ request.path }}?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
                     {% else %}
                         <a href="/" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
                         <a href="/?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
                     {% endif %}
                 {% endif %}
             </div>
+            <a href="/compare?lang={{ lang or 'en' }}" class="header-compare-btn" data-compare-open style="margin-left:8px;">
+                {{ '비교' if lang == 'ko' else 'Compare' }}
+                <span class="header-compare-badge" data-compare-count>0</span>
+            </a>
         </div>
     </div>
 
