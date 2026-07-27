@@ -7,13 +7,13 @@ categories:
 - 역사 료칸
 - 혼탕
 - 도호쿠
-date: '2026-07-25'
+date: '2026-07-27'
 image_prompt: A stunning wide-angle shot of Nyuto Onsen Tsurunoyu in winter, featuring
   a large milky-white outdoor rotenburo steaming gently in a snow-covered mountain
-  forest. The historic thatched-roof main building glows with warm lantern light
-  against deep blue twilight. Snow piles on the eaves and surrounding pine trees.
-  Guests are barely visible, blurred in the steam. The mood is deeply atmospheric,
-  ancient, and serene. Ultra-realistic, cinematic, award-winning photography.
+  forest. The historic thatched-roof main building glows with warm lantern light against
+  deep blue twilight. Snow piles on the eaves and surrounding pine trees. Guests are
+  barely visible, blurred in the steam. The mood is deeply atmospheric, ancient, and
+  serene. Ultra-realistic, cinematic, award-winning photography.
 lang: ko
 lat: 39.7997
 lng: 140.7811
@@ -22,6 +22,7 @@ summary: 아키타 산속 깊이 숨겨진 뉴토 온천 쓰루노유는 에도�
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_tsurunoyu.jpg
 title: '뉴토 온천 쓰루노유: 일본 최고의 역사 료칸 완벽 가이드'
 ---
+
 
 ## 소개
 

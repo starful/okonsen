@@ -7,13 +7,13 @@ categories:
 - Historic Ryokan
 - Mixed Bathing
 - Tohoku
-date: '2026-07-25'
+date: '2026-07-27'
 image_prompt: A stunning wide-angle shot of Nyuto Onsen Tsurunoyu in winter, featuring
   a large milky-white outdoor rotenburo steaming gently in a snow-covered mountain
-  forest. The historic thatched-roof main building glows with warm lantern light
-  against deep blue twilight. Snow piles on the eaves and surrounding pine trees.
-  Guests are barely visible, blurred in the steam. The mood is deeply atmospheric,
-  ancient, and serene. Ultra-realistic, cinematic, award-winning photography.
+  forest. The historic thatched-roof main building glows with warm lantern light against
+  deep blue twilight. Snow piles on the eaves and surrounding pine trees. Guests are
+  barely visible, blurred in the steam. The mood is deeply atmospheric, ancient, and
+  serene. Ultra-realistic, cinematic, award-winning photography.
 lang: en
 lat: 39.7997
 lng: 140.7811
@@ -24,13 +24,14 @@ summary: Hidden deep in the Akita mountains, Tsurunoyu is Japan's most iconic To
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_tsurunoyu.jpg
 title: 'Nyuto Onsen Tsurunoyu: Japan''s Most Iconic Historic Ryokan Review'
 description: Read our complete guide to Nyuto Onsen Tsurunoyu. Discover its legendary
-  milky-white outdoor baths, Edo-period architecture, konyoku etiquette, and how
-  to reach this remote Akita mountain retreat.
+  milky-white outdoor baths, Edo-period architecture, konyoku etiquette, and how to
+  reach this remote Akita mountain retreat.
 seo_title: Nyuto Onsen Tsurunoyu Review & Guide — Akita's Legendary Ryokan
 seo_description: Read our complete guide to Nyuto Onsen Tsurunoyu. Discover its legendary
-  milky-white outdoor baths, Edo-period architecture, konyoku etiquette, and how
-  to reach this remote Akita mountain retreat.
+  milky-white outdoor baths, Edo-period architecture, konyoku etiquette, and how to
+  reach this remote Akita mountain retreat.
 ---
+
 
 
 ## Introduction

@@ -7,14 +7,14 @@ categories:
 - 절경
 - 릴레&샤토
 - 하코네
-date: '2026-07-25'
-image_prompt: A stunning aerial photograph of Hakone Gora Kadan ryokan, a luxury
-  traditional Japanese estate set on terraced gardens in a verdant mountain valley.
-  The stone-walled garden terraces cascade down toward Mount Hakone, with a clear
-  view of Mount Fuji in the far distance. Traditional Japanese architecture with
-  wooden pavilions and tiled roofs is framed by maple and cherry trees. A private
-  outdoor rotenburo steams gently on a stone terrace. Soft golden afternoon light.
-  Ultra-realistic, cinematic, award-winning photography.
+date: '2026-07-27'
+image_prompt: A stunning aerial photograph of Hakone Gora Kadan ryokan, a luxury traditional
+  Japanese estate set on terraced gardens in a verdant mountain valley. The stone-walled
+  garden terraces cascade down toward Mount Hakone, with a clear view of Mount Fuji
+  in the far distance. Traditional Japanese architecture with wooden pavilions and
+  tiled roofs is framed by maple and cherry trees. A private outdoor rotenburo steams
+  gently on a stone terrace. Soft golden afternoon light. Ultra-realistic, cinematic,
+  award-winning photography.
 lang: ko
 lat: 35.2492
 lng: 139.0465
@@ -23,6 +23,7 @@ summary: 하코네 고라 가단은 쇼와 황족의 여름 별장 터에 조성
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_gora_kadan.jpg
 title: '하코네 고라 가단: 황실 정원 위의 일본 최고 럭셔리 료칸 완벽 가이드'
 ---
+
 
 ## 소개
 

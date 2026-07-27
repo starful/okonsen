@@ -13,7 +13,7 @@ categories:
 - Cultural Immersion
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_notoya_ryokan.jpg
 address: Obanazawa, Yamagata
-date: '2026-07-20'
+date: '2026-07-27'
 agoda: ''
 summary: Nestled within the gas-lit fairytale of Ginzan Onsen, Notoya Ryokan offers
   an unparalleled journey back to the romantic Taisho era. Its exquisite architecture,
@@ -22,6 +22,7 @@ summary: Nestled within the gas-lit fairytale of Ginzan Onsen, Notoya Ryokan off
   in the comforting embrace of historic luxury, especially enchanting under a blanket
   of snow.
 ---
+
 
 ## Stepping into a Taisho Romance at Notoya Ryokan
 

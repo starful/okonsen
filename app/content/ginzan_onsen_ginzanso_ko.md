@@ -11,12 +11,13 @@ categories:
 - 전통 숙박
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_ginzanso.jpg
 address: Obanazawa, Yamagata
-date: '2026-07-20'
+date: '2026-07-27'
 agoda: ''
 summary: 시간이 멈춘 듯한 대정 로망의 거리, 긴잔 온천의 중심에 자리한 긴잔소는 단순한 숙박을 넘어선 깊은 경험을 선사합니다. 눈 덮인 풍경과
   가스등 불빛 아래 더욱 빛나는 이곳은 야마가타의 풍부한 미식과 치유의 온천수가 어우러진 진정한 휴식처입니다. 전통의 미학이 깃든 객실, 오감을
   만족시키는 가이세키 요리, 그리고 자연 속에서 펼쳐지는 온천의 향연은 잊지 못할 추억을 선사할 것입니다.
 ---
+
 
 
 ## 환상의 시공간을 걷다: 긴잔 온천 긴잔소의 첫인상

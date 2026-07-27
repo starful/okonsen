@@ -13,7 +13,7 @@ categories:
 - Traditional Japanese Inn
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kosekiya_bekkan.jpg
 address: Obanazawa, Yamagata
-date: '2026-07-20'
+date: '2026-07-27'
 agoda: ''
 summary: Nestled within the enchanting, gaslight-lit streets of Ginzan Onsen, Kosekiya
   Bekkan offers a profound immersion into a bygone era of Japanese hospitality. This
@@ -23,6 +23,7 @@ summary: Nestled within the enchanting, gaslight-lit streets of Ginzan Onsen, Ko
   beauty of a historical onsen town, where every detail evokes the romance of the
   Taisho period.
 ---
+
 
 As an elite travel journalist with a profound appreciation for Japan's most captivating onsen experiences, I've journeyed to countless thermal retreats, each promising a unique immersion. Yet, few places hold the immediate, almost visceral transportive power of Ginzan Onsen, and fewer still encapsulate its essence quite like Kosekiya Bekkan. This isn't merely a place to stay; it is an **active participation in a living dream**, a step into a meticulously preserved tableau that feels simultaneously deeply historical and utterly present.
 

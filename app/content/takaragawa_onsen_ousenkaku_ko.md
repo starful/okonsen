@@ -7,7 +7,7 @@ categories:
 - 강변 온천
 - 역사 료칸
 - 군마
-date: '2026-07-25'
+date: '2026-07-27'
 image_prompt: A dramatic wide-angle photograph of Takaragawa Onsen Ousenkaku's massive
   outdoor rotenburo in autumn. The vast natural stone-edged pool is filled with steaming
   milky-green water, surrounded by vivid red and gold autumn foliage. The Takaragawa
@@ -22,6 +22,7 @@ summary: 군마현 미나카미의 협곡 깊숙이 자리한 다카라가와 �
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/takaragawa_onsen_ousenkaku.jpg
 title: '다카라가와 온천 오센카쿠: 일본 최대 강변 혼탕 노천탕 완벽 가이드'
 ---
+
 
 ## 소개
 

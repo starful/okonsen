@@ -7,7 +7,7 @@ categories:
 - Riverside Bath
 - Historic Ryokan
 - Gunma
-date: '2026-07-25'
+date: '2026-07-27'
 image_prompt: A dramatic wide-angle photograph of Takaragawa Onsen Ousenkaku's massive
   outdoor rotenburo in autumn. The vast natural stone-edged pool is filled with steaming
   milky-green water, surrounded by vivid red and gold autumn foliage. The Takaragawa
@@ -17,10 +17,10 @@ image_prompt: A dramatic wide-angle photograph of Takaragawa Onsen Ousenkaku's m
 lang: en
 lat: 36.8454
 lng: 139.0485
-summary: Takaragawa Onsen Ousenkaku in Gunma's Minakami gorge is home to some of
-  Japan's largest and most celebrated outdoor mixed-gender baths. This guide covers
-  its four riverside rotenburo, seasonal appeal, day-trip options, and how to reach
-  this mountain retreat from Tokyo in just over two hours.
+summary: Takaragawa Onsen Ousenkaku in Gunma's Minakami gorge is home to some of Japan's
+  largest and most celebrated outdoor mixed-gender baths. This guide covers its four
+  riverside rotenburo, seasonal appeal, day-trip options, and how to reach this mountain
+  retreat from Tokyo in just over two hours.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/takaragawa_onsen_ousenkaku.jpg
 title: 'Takaragawa Onsen Ousenkaku: Japan''s Most Epic Outdoor Riverside Baths'
 description: Discover Takaragawa Onsen Ousenkaku in Gunma. A guide to Japan's most
@@ -31,6 +31,7 @@ seo_description: Discover Takaragawa Onsen Ousenkaku in Gunma. A guide to Japan'
   most spectacular outdoor mixed-gender baths, four riverside rotenburo, ryokan dining,
   and access from Tokyo.
 ---
+
 
 
 ## Introduction

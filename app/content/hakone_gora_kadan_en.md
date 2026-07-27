@@ -7,14 +7,14 @@ categories:
 - Great View
 - Relais & Chateaux
 - Hakone
-date: '2026-07-25'
-image_prompt: A stunning aerial photograph of Hakone Gora Kadan ryokan, a luxury
-  traditional Japanese estate set on terraced gardens in a verdant mountain valley.
-  The stone-walled garden terraces cascade down toward Mount Hakone, with a clear
-  view of Mount Fuji in the far distance. Traditional Japanese architecture with
-  wooden pavilions and tiled roofs is framed by maple and cherry trees. A private
-  outdoor rotenburo steams gently on a stone terrace. Soft golden afternoon light.
-  Ultra-realistic, cinematic, award-winning photography.
+date: '2026-07-27'
+image_prompt: A stunning aerial photograph of Hakone Gora Kadan ryokan, a luxury traditional
+  Japanese estate set on terraced gardens in a verdant mountain valley. The stone-walled
+  garden terraces cascade down toward Mount Hakone, with a clear view of Mount Fuji
+  in the far distance. Traditional Japanese architecture with wooden pavilions and
+  tiled roofs is framed by maple and cherry trees. A private outdoor rotenburo steams
+  gently on a stone terrace. Soft golden afternoon light. Ultra-realistic, cinematic,
+  award-winning photography.
 lang: en
 lat: 35.2492
 lng: 139.0465
@@ -25,13 +25,14 @@ summary: Hakone Gora Kadan is a Relais & Châteaux member ryokan built on the te
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/hakone_gora_kadan.jpg
 title: 'Hakone Gora Kadan: A Complete Review of Japan''s Imperial Ryokan'
 description: Read our complete review of Hakone Gora Kadan. Discover its Imperial
-  history, Relais & Châteaux membership, private outdoor baths, and exceptional
-  kaiseki dining in the heart of Hakone's Gora district.
+  history, Relais & Châteaux membership, private outdoor baths, and exceptional kaiseki
+  dining in the heart of Hakone's Gora district.
 seo_title: Hakone Gora Kadan Review — Imperial Garden Luxury Ryokan
 seo_description: Read our complete review of Hakone Gora Kadan. Discover its Imperial
-  history, Relais & Châteaux membership, private outdoor baths, and exceptional
-  kaiseki dining in the heart of Hakone's Gora district.
+  history, Relais & Châteaux membership, private outdoor baths, and exceptional kaiseki
+  dining in the heart of Hakone's Gora district.
 ---
+
 
 
 ## Introduction

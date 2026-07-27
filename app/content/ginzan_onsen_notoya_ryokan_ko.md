@@ -11,12 +11,13 @@ categories:
 - 역사적 건축물
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_notoya_ryokan.jpg
 address: Obanazawa, Yamagata
-date: '2026-07-20'
+date: '2026-07-27'
 agoda: ''
 summary: 야마가타현 깊은 산골에 자리한 긴잔 온천은 다이쇼 시대의 낭만이 고스란히 살아 숨 쉬는, 마치 시간 여행을 온 듯한 신비로운 마을입니다.
   그 중심에 우뚝 선 노토야 료칸은 이 마을의 상징이자, 수 세기에 걸쳐 손님들을 따뜻하게 맞아온 역사 깊은 숙소입니다. 이곳은 단순한 료칸을 넘어,
   일본 전통 건축의 아름다움과 최상급 온천수, 그리고 야마가타의 풍미를 담은 가이세키 요리를 통해 오감을 만족시키는 특별한 경험을 선사합니다.
 ---
+
 
 
 ## 다이쇼 로망의 심장: 긴잔 온천 노토야 료칸과의 첫 만남
