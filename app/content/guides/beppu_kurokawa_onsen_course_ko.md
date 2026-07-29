@@ -22,8 +22,8 @@ seo_description: 벳푸 데이 목욕과 구로카와 료칸 숙박을 묶은 �
 
 추천 앵커:
 
-*   [벳푸 다이이치 호텔](/onsen/beppu_daiiti_hotel_ko)
-*   [벳푸 쇼와엔](/onsen/beppu_showaen_ko)
+*   [벳푸 다이이치 호텔](/onsen/beppu_daiiti_hotel_en)
+*   [벳푸 쇼와엔](/onsen/beppu_showaen_en)
 
 동선은 [벳푸 지옥순례 가이드](/guide/beppu_hell_tour_guide_ko)를 참고. 점심은 가볍게 — 오후 증기와 저녁 목욕이 더 잘 받습니다.
 
@@ -33,13 +33,13 @@ seo_description: 벳푸 데이 목욕과 구로카와 료칸 숙박을 묶은 �
 
 추천 숙소:
 
-*   [구로카와 온천 후지야](/onsen/kurokawa_onsen_fujiya_ko)
-*   [구로카와 온천 신메이칸](/onsen/kurokawa_onsen_shinmeikan_ko)
-*   [구로카와 온천 난조엔](/onsen/kurokawa_onsen_nanjoen_ko)
-*   [구로카와 온천 호잔테이](/onsen/kurokawa_onsen_hozantei_ko)
-*   [구로카와 온천 고쇼 겟코주](/onsen/kurokawa_onsen_gosho_gekkoju_ko)
+*   [구로카와 온천 후지야](/onsen/kurokawa_onsen_fujiya_en)
+*   [구로카와 온천 신메이칸](/onsen/kurokawa_onsen_shinmeikan_en)
+*   [구로카와 온천 난조엔](/onsen/kurokawa_onsen_nanjoen_en)
+*   [구로카와 온천 호잔테이](/onsen/kurokawa_onsen_hozantei_en)
+*   [구로카와 온천 고쇼 겟코주](/onsen/kurokawa_onsen_gosho_gekkoju_en)
 
-숨은 포인트는 [구로카와 히든 젬](/guide/kurokawa_hidden_gems_ko)을 참고하세요.
+숨은 포인트는 [구로카와 히든 젬](/guide/kurokawa_hidden_gems_en)을 참고하세요.
 
 ## 이동·매너
 

@@ -22,9 +22,9 @@ seo_description: 기노사키 공용탕 순례와 구사쓰의 강한 온천수�
 
 OKOnsen 픽:
 
-*   [기노사키 온천 미쿠니야](/onsen/kinosaki_onsen_mikuniya_ko)
-*   [기노사키 온천 다지마야](/onsen/kinosaki_onsen_tajimaya_ko)
-*   [기노사키 온천 쓰바키노 료칸](/onsen/kinosaki_onsen_tsubakino_ryokan_ko)
+*   [기노사키 온천 미쿠니야](/onsen/kinosaki_onsen_mikuniya_en)
+*   [기노사키 온천 다지마야](/onsen/kinosaki_onsen_tajimaya_en)
+*   [기노사키 온천 쓰바키노 료칸](/onsen/kinosaki_onsen_tsubakino_ryokan_en)
 
 ## 구사쓰 — 강한 물, 고원의 고요
 
@@ -32,9 +32,9 @@ OKOnsen 픽:
 
 OKOnsen 픽:
 
-*   [구사쓰 온천 토키노니와](/onsen/kusatsu_onsen_tokinoniwa_ko)
-*   [구사쓰 온천 료칸 요시노야](/onsen/kusatsu_onsen_ryokan_yoshinoya_ko)
-*   [구사쓰 온천 호텔 빌리지](/onsen/kusatsu_onsen_hotel_village_ko)
+*   [구사쓰 온천 토키노니와](/onsen/kusatsu_onsen_tokinoniwa_en)
+*   [구사쓰 온천 료칸 요시노야](/onsen/kusatsu_onsen_ryokan_yoshinoya_en)
+*   [구사쓰 온천 호텔 빌리지](/onsen/kusatsu_onsen_hotel_village_en)
 
 ## 실전 팁
 

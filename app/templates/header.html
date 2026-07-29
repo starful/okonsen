@@ -19,11 +19,11 @@
             <div class="lang-selector">
                 {% if base_id %}
                     {% if request.path.startswith('/onsen/') %}
-                        <a href="/onsen/{{ base_id }}_en" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
-                        <a href="/onsen/{{ base_id }}_ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
+                        {% if has_en is defined and has_en %}<a href="/onsen/{{ base_id }}_en" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>{% endif %}
+                        {% if has_ko is defined and has_ko %}<a href="/onsen/{{ base_id }}_ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>{% endif %}
                     {% elif request.path.startswith('/guide/') %}
-                        <a href="/guide/{{ base_id }}_en" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
-                        <a href="/guide/{{ base_id }}_ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>
+                        {% if has_en is defined and has_en %}<a href="/guide/{{ base_id }}_en" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>{% endif %}
+                        {% if has_ko is defined and has_ko %}<a href="/guide/{{ base_id }}_ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>{% endif %}
                     {% else %}
                         <a href="/" class="lang-btn {{ 'active' if lang == 'en' }}" data-lang="en">EN</a>
                         <a href="/?lang=ko" class="lang-btn {{ 'active' if lang == 'ko' }}" data-lang="ko">KO</a>

@@ -17,6 +17,10 @@ sys.path.insert(0, SCRIPT_DIR)
 from seo_priority import CORE_GUIDE_BASES, CORE_ONSEN_IDS, guide_id, prioritize_by_ids
 from md_dates import ensure_post_date, save_post
 
+# app/seo.py — exclude redirect sources from sitemap / JSON map
+sys.path.insert(0, os.path.join(BASE_DIR, 'app'))
+from seo import SEO_REDIRECTS  # noqa: E402
+
 CONTENT_DIR = os.path.join(BASE_DIR, 'app', 'content')
 GUIDE_DIR = os.path.join(CONTENT_DIR, 'guides')
 STATIC_DIR = os.path.join(BASE_DIR, 'app', 'static')
@@ -65,9 +69,12 @@ def collect_guides():
             if changed:
                 save_post(filepath, post)
                 backfilled += 1
+            guide_link = f"/guide/{filename.replace('.md', '')}"
+            if guide_link in SEO_REDIRECTS:
+                continue
             guides.append({
                 "id": filename.replace('.md', ''),
-                "link": f"/guide/{filename.replace('.md', '')}",
+                "link": guide_link,
                 "published": published_date,
             })
         except Exception as e:
@@ -184,6 +191,10 @@ def main():
                 # 필수 메타데이터 체크
                 if post.get('draft') == True: continue
                 if not post.get('lat') or not post.get('lng'): continue
+
+                onsen_link = f"/onsen/{filename.replace('.md', '')}"
+                if onsen_link in SEO_REDIRECTS:
+                    continue
                 
                 published_date, changed = ensure_post_date(post, filepath)
                 if changed:

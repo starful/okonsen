@@ -18,9 +18,10 @@
     <title>{{ title }} - OKOnsen Guide</title>
     <meta name="description" content="{{ summary }}">
     <link rel="canonical" href="https://okonsen.net/guide/{{ base_id }}_{{ lang }}">
-    <link rel="alternate" hreflang="en" href="https://okonsen.net/guide/{{ base_id }}_en">
-    <link rel="alternate" hreflang="ko" href="https://okonsen.net/guide/{{ base_id }}_ko">
-    <link rel="alternate" hreflang="x-default" href="https://okonsen.net/guide/{{ base_id }}_en">
+    {% if has_en %}<link rel="alternate" hreflang="en" href="https://okonsen.net/guide/{{ base_id }}_en">{% endif %}
+    {% if has_ko %}<link rel="alternate" hreflang="ko" href="https://okonsen.net/guide/{{ base_id }}_ko">{% endif %}
+    {% if has_en %}<link rel="alternate" hreflang="x-default" href="https://okonsen.net/guide/{{ base_id }}_en">
+    {% elif has_ko %}<link rel="alternate" hreflang="x-default" href="https://okonsen.net/guide/{{ base_id }}_ko">{% endif %}
     <link rel="icon" href="/static/images/favicons.ico">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="/static/css/style.css">

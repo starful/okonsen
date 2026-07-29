@@ -89,6 +89,78 @@ CONTENT_GONE_REDIRECTS = {
     "/onsen/kinosaki_onsen_koyado_en_en": "/onsen/kinosaki_onsen_shinmatsuya_en",
 }
 
+# GSC 2026-07-30 Coverage Drilldown — Not found (404). Prefer area hub / sibling.
+GSC_404_REDIRECTS = {
+    "/onsen/": "/",
+    "/card/winter_onsen_experience_ko": "/guides",
+    "/guide/arima_onsen_golden_water_en": "/onsen/arima_onsen_tosen_goshobo_en",
+    "/guide/dogo_onsen_studio_ghibli_en": "/guides",
+    "/guide/dogo_onsen_studio_ghibli_ko": "/guides",
+    "/guide/guide_expand_001_en": "/guides",
+    "/guide/guide_expand_002_en": "/guides",
+    "/guide/guide_seed_003_en": "/guides",
+    "/guide/kinosaki_seven_bath_crawl_en": "/onsen/kinosaki_onsen_mikuniya_en",
+    "/guide/winter_yukimi_rotemburo_ko": "/guides",
+    "/guide/yufuin_scenic_walk_en": "/onsen/yufuin_onsen_yufuin-so_en",
+    "/onsen/beppu_onsen_takegawara_en": "/guide/beppu_hell_tour_guide_en",
+    "/onsen/beppu_onsen_takegawara_ko": "/guide/beppu_hell_tour_guide_ko",
+    "/onsen/bettei_haruki_ko": "/",
+    "/onsen/fujiya_hotel_en": "/",
+    "/onsen/gallo_resort_beppu_en": "/guide/beppu_hell_tour_guide_en",
+    "/onsen/hakodate_morning_market_cafe_en": "/",
+    "/onsen/hakone_ginyu_ko": "/guide/hakone_day_trip_guide_ko",
+    "/onsen/hakone_kamon_ko": "/guide/hakone_day_trip_guide_ko",
+    "/onsen/hiroshima_peace_park_cafe_en": "/",
+    "/onsen/hoshino_resorts_kai_hakone_en": "/guide/hakone_day_trip_guide_en",
+    "/onsen/hoshino_resorts_kai_yufuin_en": "/onsen/yufuin_onsen_yufuin-so_en",
+    "/onsen/kamakura_komachi_drip_en": "/",
+    "/onsen/kamenoi_bessou_ko": "/",
+    "/onsen/kinosaki_onsen_kinosaki_yamata_ko": "/onsen/kinosaki_onsen_mikuniya_en",
+    "/onsen/kinosaki_onsen_nishimuraya_ricca_en": "/onsen/kinosaki_onsen_mikuniya_en",
+    "/onsen/kurokawa_onsen_kurokawaso_ko": "/onsen/kurokawa_onsen_oku_no_yu_ko",
+    "/onsen/kusatsu_onsen_boun_ko": "/onsen/kusatsu_onsen_ryokan_yoshinoya_en",
+    "/onsen/kusatsu_onsen_eidaya_en": "/onsen/kusatsu_onsen_ryokan_yoshinoya_en",
+    "/onsen/kusatsu_onsen_eidaya_ko": "/onsen/kusatsu_onsen_ryokan_yoshinoya_en",
+    "/onsen/kusatsu_onsen_naraya_en": "/onsen/kusatsu_onsen_ryokan_yoshinoya_en",
+    "/onsen/kusatsu_onsen_yugokoro_tei_ko": "/onsen/kusatsu_onsen_ryokan_yoshinoya_en",
+    "/onsen/nara_parkside_kissaten_en": "/",
+    "/onsen/noboribetsu_onsen_hotel_yumoto_ko": "/",
+    "/onsen/noboribetsu_onsen_kokorono_resort_en": "/",
+    "/onsen/noboribetsu_onsen_oyado_kiyomizuya_ko": "/",
+    "/onsen/ryokan_yuri_en": "/",
+    "/onsen/ryoutei_matsudaya_ko": "/",
+    "/onsen/sendai_ichibancho_latte_en": "/",
+    "/onsen/yamada_bessou_en": "/",
+    "/onsen/yamada_bessou_ko": "/",
+    "/onsen/yoshiike_ryokan_ko": "/",
+    "/onsen/yufuin_uraku_ko": "/onsen/yufuin_onsen_yufuin-so_ko",
+    "/onsen/yufuin_yasuha_ko": "/onsen/yufuin_onsen_yufuin-so_ko",
+}
+
+# Union used by middleware + sitemap exclusion.
+SEO_REDIRECTS = {**CONTENT_GONE_REDIRECTS, **GSC_404_REDIRECTS}
+
+
+def is_indexable_path(path: str) -> bool:
+    """True when path is not a permanent SEO redirect source."""
+    return path not in SEO_REDIRECTS
+
+
+def sibling_is_indexable(prefix: str, base_id: str, lang: str) -> bool:
+    """Whether /{prefix}/{base_id}_{lang} should be advertised (hreflang / lang switcher)."""
+    path = f"/{prefix}/{base_id}_{lang}"
+    if not is_indexable_path(path):
+        return False
+    content_dir = GUIDE_DIR if prefix == "guide" else CONTENT_DIR
+    return os.path.exists(os.path.join(content_dir, f"{base_id}_{lang}.md"))
+
+
+def hreflang_flags(prefix: str, base_id: str) -> dict:
+    return {
+        "has_en": sibling_is_indexable(prefix, base_id, "en"),
+        "has_ko": sibling_is_indexable(prefix, base_id, "ko"),
+    }
+
 
 def register_seo_middleware(app: Flask) -> None:
     @app.before_request
@@ -96,6 +168,11 @@ def register_seo_middleware(app: Flask) -> None:
         if request.method not in ("GET", "HEAD"):
             return None
         p = request.path
+
+        # Junk API path that GSC reported as 404 (before /api/ skip).
+        if p.rstrip("/") == "/api/reactions":
+            return redirect("/", code=301)
+
         if p.startswith("/static/") or p.startswith("/api/"):
             return None
         if p in (
@@ -107,6 +184,7 @@ def register_seo_middleware(app: Flask) -> None:
             return None
         if request.headers.get("X-Forwarded-Proto", "").lower() == "http":
             return redirect(request.url.replace("http://", "https://", 1), code=301)
+
         args = request.args
         keys = set(args.keys())
         if p == "/" and keys == {"lang"} and args.get("lang") == "en":
@@ -116,9 +194,19 @@ def register_seo_middleware(app: Flask) -> None:
         if p in ("/about.html", "/privacy.html"):
             return redirect(p.replace(".html", ""), code=301)
 
-        gone_target = CONTENT_GONE_REDIRECTS.get(p)
-        if gone_target:
-            return redirect(gone_target, code=301)
+        # Prefer explicit SEO maps before slash-normalization (/onsen/ etc.).
+        for candidate in dict.fromkeys((p, p.rstrip("/") if p != "/" else p)):
+            gone_target = SEO_REDIRECTS.get(candidate)
+            if gone_target:
+                return redirect(gone_target, code=301)
+
+        # Trailing slash → slashless (except site root).
+        if len(p) > 1 and p.endswith("/"):
+            qs = request.query_string.decode("utf-8") if request.query_string else ""
+            target = p.rstrip("/")
+            if qs:
+                target = f"{target}?{qs}"
+            return redirect(target, code=301)
 
         if p.startswith("/guide/") and len(p) > len("/guide/"):
             slug = p.rsplit("/", 1)[-1]

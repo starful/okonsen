@@ -21,7 +21,7 @@ try:
     )
     from ..family_sites import cross_links_for, inject_family_context
     from ..images import card_path, gcs_image_url, og_image_context, thumbnail_cache_v, thumbnail_with_v
-    from ..seo import share_context
+    from ..seo import hreflang_flags, share_context
 except ImportError:
     from config import CATEGORY_MAPPING, CONTENT_DIR, FAMILY_SITE_ID, SITE_URL
     from rakuten_affiliate import rakuten_context
@@ -35,7 +35,7 @@ except ImportError:
     )
     from family_sites import cross_links_for, inject_family_context
     from images import card_path, gcs_image_url, og_image_context, thumbnail_cache_v, thumbnail_with_v
-    from seo import share_context
+    from seo import hreflang_flags, share_context
 
 onsen_bp = Blueprint("onsen", __name__)
 
@@ -109,6 +109,7 @@ def onsen_detail(onsen_id):
         **og_image_context(base_id),
         **stats,
         **share_ctx,
+        **hreflang_flags("onsen", base_id),
         **rakuten_context(onsen_id, lang=lang),
     )
 
