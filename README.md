@@ -1,8 +1,14 @@
 # OKOnsen
 
-Flask-based web service for discovering onsen/ryokan with multilingual content, map filtering, and generated markdown-driven data.
+| | |
+|--|--|
+| **Live** | [https://okonsen.net](https://okonsen.net) |
+| **GitHub** | [starful/okonsen](https://github.com/starful/okonsen) |
+| **Hub ID** | `okonsen` |
+| **GA4** | Property `529097565` · GSC `sc-domain:okonsen.net` |
+| **GCS** | `ok-project-assets/okonsen/` · Places: `lodging`, `spa`, `tourist_attraction` |
 
-Live: [https://okonsen.net](https://okonsen.net)
+Flask-based web service for discovering onsen/ryokan with multilingual content, map filtering, and generated markdown-driven data.
 
 ## Highlights
 
@@ -152,3 +158,9 @@ okonsen/
 - Flask routes are split into blueprints under `app/routes/`; behavior and URLs are unchanged from the monolithic layout.
 - Legacy/unused JS modules were removed from `app/static/js` to avoid mixed domain logic.
 - Keep generated content and static assets versioned carefully when using `--with-git`.
+
+## OK Admin (Work Hub)
+
+- **Pipeline:** `onsen_generator` + guides → images → optimize → build (items before guides in registry)
+- **Git / Deploy:** Ship prep → Review & merge · Deploy from `main` via Hub or `./deploy.sh`
+- [okadmin/README.md](../okadmin/README.md)

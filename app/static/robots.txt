@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /card/
+Disallow: /compare
 
 Sitemap: https://okonsen.net/sitemap.xml

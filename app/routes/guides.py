@@ -20,7 +20,7 @@ try:
     )
     from ..data_cache import get_featured_onsens, get_footer_stats
     from ..family_sites import cross_links_for, inject_family_context
-    from ..seo import share_context
+    from ..seo import hreflang_flags, share_context
 except ImportError:
     from config import FAMILY_SITE_ID, GUIDE_DIR
     from rakuten_affiliate import rakuten_context
@@ -32,7 +32,7 @@ except ImportError:
     )
     from data_cache import get_featured_onsens, get_footer_stats
     from family_sites import cross_links_for, inject_family_context
-    from seo import share_context
+    from seo import hreflang_flags, share_context
 
 guides_bp = Blueprint("guides", __name__)
 
@@ -86,5 +86,6 @@ def guide_detail(guide_id):
         **inject_family_context(FAMILY_SITE_ID, lang),
         **stats,
         **share_ctx,
+        **hreflang_flags("guide", base_id),
         **rakuten_context(guide_id, lang=lang),
     )

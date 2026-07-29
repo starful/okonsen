@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://okonsen.net/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://okonsen.net/?lang=ko</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides?lang=ko</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -47,92 +47,92 @@
   </url>
   <url>
     <loc>https://okonsen.net/onsen/takaragawa_onsen_ousenkaku_ko</loc>
-    <lastmod>2026-07-25</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/takaragawa_onsen_ousenkaku_en</loc>
-    <lastmod>2026-07-25</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/nyuto_onsen_tsurunoyu_ko</loc>
-    <lastmod>2026-07-25</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/nyuto_onsen_tsurunoyu_en</loc>
-    <lastmod>2026-07-25</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/hakone_gora_kadan_ko</loc>
-    <lastmod>2026-07-25</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/hakone_gora_kadan_en</loc>
-    <lastmod>2026-07-25</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/jozankei_onsen_mori_no_uta_ko</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/jozankei_onsen_mori_no_uta_en</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hakone_gora_kadan_ko</loc>
+    <lastmod>2026-07-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hakone_gora_kadan_en</loc>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/ginzan_onsen_takimikan_ko</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/ginzan_onsen_takimikan_en</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/ginzan_onsen_notoya_ryokan_ko</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/ginzan_onsen_notoya_ryokan_en</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/ginzan_onsen_kosekiya_bekkan_ko</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/ginzan_onsen_kosekiya_bekkan_en</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/ginzan_onsen_ginzanso_ko</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/ginzan_onsen_ginzanso_en</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/ginzan_onsen_fujiya_ko</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/ginzan_onsen_fujiya_en</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -196,11 +196,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_shinmeikan_ko</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/kurokawa_onsen_shinmeikan_en</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
@@ -216,17 +211,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_fujiya_ko</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/kurokawa_onsen_fujiya_en</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kinosaki_onsen_tsubakino_ryokan_ko</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
   </url>
@@ -236,17 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/kinosaki_onsen_tajimaya_ko</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/kinosaki_onsen_tajimaya_en</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kinosaki_onsen_mikuniya_ko</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
   </url>
@@ -256,17 +231,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/kusatsu_onsen_ryokan_yoshinoya_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/kusatsu_onsen_hotel_sakurai_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kusatsu_onsen_hotel_sakurai_en</loc>
     <lastmod>2026-04-12</lastmod>
     <priority>0.8</priority>
   </url>
@@ -311,11 +276,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_nanjoen_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/kurokawa_onsen_nanjoen_en</loc>
     <lastmod>2026-04-12</lastmod>
     <priority>0.8</priority>
@@ -331,22 +291,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_hozantei_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_gosho_gekkoju_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/kurokawa_onsen_gosho_gekkoju_en</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/beppu_showaen_ko</loc>
     <lastmod>2026-04-12</lastmod>
     <priority>0.8</priority>
   </url>
@@ -356,17 +301,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/beppu_daiiti_hotel_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/beppu_daiiti_hotel_en</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/amane_resort_seikai_ko</loc>
     <lastmod>2026-04-12</lastmod>
     <priority>0.8</priority>
   </url>
@@ -376,17 +311,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/yubatake_souan_ko</loc>
-    <lastmod>2026-04-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/yubatake_souan_en</loc>
-    <lastmod>2026-04-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kusatsu_onsen_tokinoniwa_ko</loc>
     <lastmod>2026-04-05</lastmod>
     <priority>0.8</priority>
   </url>
@@ -401,16 +326,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/kusatsu_onsen_konoha_en</loc>
-    <lastmod>2026-04-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kusatsu_onsen_hotel_village_ko</loc>
-    <lastmod>2026-04-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/kusatsu_onsen_hotel_village_en</loc>
     <lastmod>2026-04-05</lastmod>
     <priority>0.8</priority>
@@ -421,22 +336,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/kusatsu_onsen_daitokan_en</loc>
-    <lastmod>2026-04-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/yufuin_ryokan_seikoen_ko</loc>
     <lastmod>2026-04-03</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/onsen/yufuin_ryokan_seikoen_en</loc>
-    <lastmod>2026-04-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/yufuin_hotel_shumeikan_ko</loc>
     <lastmod>2026-04-03</lastmod>
     <priority>0.8</priority>
   </url>
@@ -461,12 +366,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/yufuin_sansou_waremokou_en</loc>
+    <loc>https://okonsen.net/onsen/yufuin_baien_ko</loc>
     <lastmod>2026-03-24</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/yufuin_baien_ko</loc>
+    <loc>https://okonsen.net/onsen/matsuzakaya_honten_ko</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/matsuzakaya_honten_en</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hotel_indigo_hakone_gora_en</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hakone_suimeisou_ko</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hakone_pax_yoshino_ko</loc>
+    <lastmod>2026-03-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/hakone_pax_yoshino_en</loc>
     <lastmod>2026-03-24</lastmod>
     <priority>0.8</priority>
   </url>
