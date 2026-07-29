@@ -1,6 +1,5 @@
 ---
 address: Minamioguni, Kumamoto
-agoda: ''
 categories:
 - Private Bath
 - Local

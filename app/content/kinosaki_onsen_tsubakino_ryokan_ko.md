@@ -12,7 +12,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tsubakino_ryokan.jpg"
 address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-04-16'
-agoda: ''
 summary: "쓰바키노 료칸은 기노사키 온천의 심장부에서 몰입감 있는 경험을 선사합니다. 세심하게 관리된 이 료칸은 전통 미학과 현대적\
   \ 편안함을 결합하며, 게를 중심으로 한 정교한 가이세키 요리와 활력을 되찾아주는 온천수로 유명합니다. 역사적 뿌리부터 실용적인 여행 팁까지\
   \ 쓰바키노의 매력을 심층적으로 살펴보는 이 종합 가이드를 확인해 보세요."

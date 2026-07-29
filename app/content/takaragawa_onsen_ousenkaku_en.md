@@ -1,6 +1,5 @@
 ---
 address: Minakami, Gunma
-agoda: ''
 categories:
 - Mixed Bathing
 - Great View

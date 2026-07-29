@@ -1,6 +1,5 @@
 ---
 address: Hakone, Kanagawa
-agoda: ''
 categories:
 - 절경
 - 고급

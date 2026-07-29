@@ -1,6 +1,5 @@
 ---
 address: Yufuin, Oita
-agoda: ''
 categories:
 - 타투 허용
 - 절경

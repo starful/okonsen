@@ -14,7 +14,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kosekiya_bekkan.jpg
 address: Obanazawa, Yamagata
 date: '2026-07-27'
-agoda: ''
 summary: Nestled within the enchanting, gaslight-lit streets of Ginzan Onsen, Kosekiya
   Bekkan offers a profound immersion into a bygone era of Japanese hospitality. This
   guide explores its meticulously preserved traditions, the restorative power of its

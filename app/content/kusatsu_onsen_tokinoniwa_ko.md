@@ -1,6 +1,5 @@
 ---
 address: Kusatsu, Gunma
-agoda: ''
 categories:
 - 고급
 - 가족탕

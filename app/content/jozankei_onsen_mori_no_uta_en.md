@@ -13,7 +13,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_mori_no_uta.jpg
 address: Jozankei-higashi 3-chome 192, Minami-ku, Sapporo, Hokkaido 061-2302, Japan
 date: '2026-07-27'
-agoda: ''
 summary: Jozankei Onsen Mori no Uta offers a luxurious escape nestled within the enchanting
   forests of Hokkaido, a mere stone's throw from Sapporo. This exquisite ryokan masterfully
   blends modern comfort with traditional Japanese aesthetics, providing an unparalleled

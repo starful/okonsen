@@ -12,7 +12,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_mori_no_uta.jpg
 address: 北海道札幌市南区定山渓温泉東3丁目192
 date: '2026-07-27'
-agoda: ''
 summary: 숲의 노래가 속삭이는 듯한 삿포로 조잔케이 온천 모리노우타는 자연 속에서 진정한 휴식을 선사하는 프리미엄 료칸입니다. 현대적인 편안함과
   전통적인 미학이 조화롭게 어우러진 이곳에서 온전한 힐링을 경험해보세요. 미식의 향연, 사색의 온천, 그리고 고즈넉한 객실이 어우러져 잊지 못할
   추억을 선사할 것입니다.

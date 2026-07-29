@@ -1,6 +1,5 @@
 ---
 address: Kusatsu, Gunma
-agoda: ''
 categories:
 - Private Bath
 - Tattoo OK

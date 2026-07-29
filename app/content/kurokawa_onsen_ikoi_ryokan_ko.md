@@ -1,6 +1,5 @@
 ---
 address: Minamioguni, Kumamoto
-agoda: ''
 categories:
 - 타투 허용
 - 절경

@@ -1,6 +1,5 @@
 ---
 address: Hakone, Kanagawa
-agoda: ''
 categories:
 - Luxury
 - Great View

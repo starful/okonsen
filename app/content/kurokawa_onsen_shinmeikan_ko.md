@@ -12,7 +12,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_shinmeikan.jpg"
 address: 6600 Manganji, Minamioguni, Aso District, Kumamoto 869-2404, Japan
 date: '2026-04-16'
-agoda: "https://www.agoda.com/shinmeikan-ryokan/hotel/aso-kumamoto-jp.html?cid=1844104"
 summary: 상징적인 동굴 목욕탕('도쿠쓰부로')으로 유명한 존경받는 료칸, 구로카와 온천 신메이칸을 발견해보세요. 그림 같은 구로카와
   계곡에 자리한 이 전통 여관은 치유의 온천수, 정교한 가이세키 다이닝, 시대를 초월한 건축적 배경 속 클래식한 일본 환대로의 비할 데 없는
   몰입을 제공합니다.

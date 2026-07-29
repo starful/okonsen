@@ -61,7 +61,6 @@ def guide_detail(guide_id):
 
         body = re.sub(r"---.*?---", "", body, flags=re.DOTALL)
         body = body.replace("```markdown", "").replace("```", "").strip()
-        body = re.sub(r"\(Agoda 링크는 .*?예정입니다\.\)", "", body, flags=re.IGNORECASE)
 
     content_html = markdown.markdown(body, extensions=["tables", "toc", "fenced_code"])
     base_id = guide_id.rsplit("_", 1)[0]

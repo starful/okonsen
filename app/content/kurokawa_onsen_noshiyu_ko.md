@@ -1,6 +1,5 @@
 ---
 address: Minamioguni, Kumamoto
-agoda: ''
 categories:
 - 고급 료칸
 - 가족탕

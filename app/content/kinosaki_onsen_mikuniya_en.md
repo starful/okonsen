@@ -10,7 +10,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_mikuniya.jpg"
 address: 487 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-04-16'
-agoda: "https://www.agoda.com/mikuniya-ryokan/hotel/toyooka-jp.html?cid=1844104"
 summary: "Mikuniya Ryokan in Kinosaki Onsen offers a sanctuary of refined tranquility,\
   \ immersing guests in the town's centuries-old onsen culture. Experience unparalleled\
   \ hospitality, exquisite cuisine, and rejuvenating waters in this exquisitely preserved\

@@ -1,6 +1,5 @@
 ---
 address: Beppu, Oita
-agoda: ''
 categories:
 - 고급
 - 절경

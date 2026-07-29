@@ -1,6 +1,5 @@
 ---
 address: Yufuin, Oita
-agoda: ''
 categories:
 - 고급 료칸
 - 가족탕

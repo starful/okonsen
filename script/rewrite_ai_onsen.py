@@ -125,7 +125,7 @@ def dump_meta(meta: dict) -> str:
 
 
 def merge_onsen_meta(old: dict, new: dict) -> dict:
-    keep = ("address", "lat", "lng", "categories", "date", "thumbnail", "agoda", "lang", "shop_name")
+    keep = ("address", "lat", "lng", "categories", "date", "thumbnail", "lang", "shop_name")
     merged = dict(old)
     for k, v in new.items():
         if k in keep and old.get(k) not in (None, ""):
@@ -171,7 +171,7 @@ Sections (## in {lang_name}):
 - Access / 오시는 길
 
 Output YAML frontmatter then body. Quote all YAML string values with double quotes.
-Preserve: lang, lat, lng, address, date, thumbnail, agoda, categories
+Preserve: lang, lat, lng, address, date, thumbnail, categories
 Update: title, summary
 
 ---
@@ -183,7 +183,6 @@ categories: [...]
 thumbnail: "{meta.get('thumbnail') or f'{GCS_IMAGE_BASE}/{base}.jpg'}"
 address: "{meta.get('address', '')}"
 date: "{meta.get('date') or datetime.now().strftime('%Y-%m-%d')}"
-agoda: "{meta.get('agoda', '')}"
 summary: "..."
 ---
 

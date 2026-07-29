@@ -1,6 +1,5 @@
 ---
 address: Minamioguni, Kumamoto
-agoda: ''
 categories:
 - 절경
 - 가족탕

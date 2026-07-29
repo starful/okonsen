@@ -13,7 +13,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tsubakino_ryokan.jpg"
 address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-04-16'
-agoda: ''
 summary: "Tsubakino Ryokan offers an immersive experience in the heart of Kinosaki\
   \ Onsen. This meticulously maintained ryokan blends traditional aesthetics with\
   \ modern comfort, renowned for its exquisite crab-focused kaiseki cuisine and rejuvenating\

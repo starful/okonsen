@@ -12,7 +12,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_takimikan.jpg
 address: 야마가타현 오바나자와시 긴잔 온천 522
 date: '2026-07-27'
-agoda: ''
 summary: 야마가타현 오바나자와의 깊은 산 속에 자리한 긴잔 온천 타키미칸은 다이쇼 시대의 낭만이 살아 숨 쉬는, 마치 시간 여행을 떠난 듯한
   특별한 경험을 선사합니다. 은은한 가스등 아래 고즈넉한 온천 마을의 정취를 만끽하며, 천연 온천수와 야마가타 현지 식재료로 빚어낸 호화로운 가이세키
   요리는 잊을 수 없는 추억을 선사할 것입니다. 전통의 아름다움과 최상의 휴식을 동시에 선사하는 타키미칸은 진정한 일본 료칸의 매력을 경험하고 싶은

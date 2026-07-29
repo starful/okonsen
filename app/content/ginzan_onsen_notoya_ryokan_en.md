@@ -14,7 +14,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_notoya_ryokan.jpg
 address: Obanazawa, Yamagata
 date: '2026-07-27'
-agoda: ''
 summary: Nestled within the gas-lit fairytale of Ginzan Onsen, Notoya Ryokan offers
   an unparalleled journey back to the romantic Taisho era. Its exquisite architecture,
   deeply restorative onsen waters, and refined seasonal kaiseki cuisine create an

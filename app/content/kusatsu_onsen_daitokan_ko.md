@@ -1,6 +1,5 @@
 ---
 address: Kusatsu, Gunma
-agoda: ''
 categories:
 - 로컬
 - 절경

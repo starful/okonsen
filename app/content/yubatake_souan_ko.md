@@ -1,6 +1,5 @@
 ---
 address: Kusatsu, Gunma
-agoda: ''
 categories:
 - 가족탕
 - 타투 허용

@@ -10,7 +10,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_fujiya.jpg"
 address: Manganji, Minamioguni, Aso District, Kumamoto 869-2402, Japan
 date: '2026-04-16'
-agoda: ''
 summary: "Fujiya Ryokan in Kurokawa Onsen is more than just a place to stay; it's\
   \ an immersion into the heart of Japanese hospitality and natural beauty. Nestled\
   \ within a secluded valley, this meticulously crafted ryokan offers an authentic\

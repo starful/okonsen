@@ -1,6 +1,5 @@
 ---
 address: Minakami, Gunma
-agoda: ''
 categories:
 - 혼탕
 - 절경

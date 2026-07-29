@@ -12,7 +12,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_oku_no_yu.jpg"
 address: 6593 Manganji, Minamioguni, Aso District, Kumamoto 869-2402, Japan
 date: '2026-04-16'
-agoda: "https://www.agoda.com/okunoyu-ryokan/hotel/kumamoto-jp.html?cid=1844104"
 summary: "Nestled in the heart of Kurokawa Onsen, Oku no Yu Ryokan offers an authentic\
   \ and luxurious escape steeped in Japanese tradition. Experience the healing waters\
   \ of its diverse onsen, indulge in exquisite Kaiseki cuisine, and immerse yourself\

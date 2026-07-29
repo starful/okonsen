@@ -1,6 +1,5 @@
 ---
 address: Beppu, Oita
-agoda: ''
 categories:
 - Private Bath
 - Luxury

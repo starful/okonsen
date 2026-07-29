@@ -1,6 +1,5 @@
 ---
 address: Hakone, Kanagawa
-agoda: ''
 categories:
 - Private Bath
 - Great View

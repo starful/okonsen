@@ -1,6 +1,5 @@
 ---
 address: Yufuin, Oita
-agoda: ''
 categories:
 - Private Bath
 - Great View

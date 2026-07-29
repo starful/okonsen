@@ -13,7 +13,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg"
 address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-06-27'
-agoda: "https://www.agoda.com/tokiwa-inn/hotel/toyooka-jp.html?cid=1844104"
 summary: "Kinosaki Onsen Tokiwa offers an enchanting escape into traditional Japanese\
   \ hospitality. Nestled in the heart of Kinosaki, this ryokan provides unparalleled\
   \ access to the town's seven iconic public onsen. Experience the ultimate relaxation\

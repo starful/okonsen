@@ -13,7 +13,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_shinmeikan.jpg"
 address: 6600 Manganji, Minamioguni, Aso District, Kumamoto 869-2404, Japan
 date: '2026-04-16'
-agoda: "https://www.agoda.com/shinmeikan-ryokan/hotel/aso-kumamoto-jp.html?cid=1844104"
 summary: Discover Kurokawa Onsen Shinmeikan, a revered ryokan celebrated for its iconic
   cave bath (Dokutsu Buro). Tucked within the picturesque Kurokawa valley, this traditional
   inn offers an unparalleled immersion in therapeutic spring waters, exquisite kaiseki

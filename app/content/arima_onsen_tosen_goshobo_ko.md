@@ -9,7 +9,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg
 address: 고베, 효고현
 date: '2026-06-27'
-agoda: ''
 summary: 아리마 온천의 중심부에 위치한 도센 고쇼보는 800년이 넘는 역사를 자랑하는 전통 료칸입니다. 금천과 은천 두 종류의 온천수를 즐길
   수 있으며, 계절별 식재료를 사용한 정통 가이세키 요리는 잊지 못할 미식 경험을 선사합니다. 고베와 효고현 주변 관광 명소와의 접근성도 뛰어나
   일본 전통 문화와 아름다운 자연을 만끽할 수 있습니다.

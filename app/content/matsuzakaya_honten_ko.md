@@ -1,6 +1,5 @@
 ---
 address: Hakone, Kanagawa
-agoda: ''
 categories:
 - 로컬
 - 타투 허용

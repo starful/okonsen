@@ -12,7 +12,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tajimaya.jpg
 address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-04-16'
-agoda: https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1910391&hl=en&hid=104127
 summary: 기노사키 온천의 심장부에 자리한 다지마야 료칸은 일본 전통으로의 비할 데 없는 여정을 선사합니다. 세심하게 관리된 이 료칸은
   역사적 매력과 현대적 편안함을 매끄럽게 결합해 몰입감 있는 온천 경험을 제공합니다. 정교한 가이세키 요리부터 오타니강을 내려다보는 고요한
   노천탕까지, 다지마야는 일본 환대의 본질을 구현합니다.

@@ -1,6 +1,5 @@
 ---
 address: Semboku, Akita
-agoda: ''
 categories:
 - Private Bath
 - Great View

@@ -50,7 +50,7 @@ CATEGORIES = {
     "ko": ["가족탕", "타투 허용", "절경", "고급 료칸", "로컬"]
 }
 
-def generate_onsen_md(safe_name, name, lat, lng, address, lang, features, agoda_link):
+def generate_onsen_md(safe_name, name, lat, lng, address, lang, features):
     """Claude 2.0을 사용한 고퀄리티 컨텐츠 생성 (8000자 지향 및 폰트 크기 최적화)"""
     pass  # Claude CLI; API_KEY unused
     
@@ -101,7 +101,6 @@ def generate_onsen_md(safe_name, name, lat, lng, address, lang, features, agoda_
     thumbnail: "{thumbnail_url}"
     address: "{address}"
     date: "{current_date}"
-    agoda: "{agoda_link}"
     summary: "3-sentence engaging summary"
     ---
     (Body content in Markdown following the formatting rules above)
@@ -165,7 +164,7 @@ def process_csv_auto(limit=10):
                 filename = f"{safe_name}_{lang}.md"
                 if not os.path.exists(os.path.join(CONTENT_DIR, filename)):
                     pair_tasks.append(
-                        (safe_name, name, row['Lat'], row['Lng'], row['Address'], lang, row['Features'], row['Agoda'])
+                        (safe_name, name, row['Lat'], row['Lng'], row['Address'], lang, row['Features'])
                     )
             if not pair_tasks:
                 continue

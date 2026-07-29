@@ -12,7 +12,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kosekiya_bekkan.jpg
 address: Obanazawa, Yamagata
 date: '2026-07-27'
-agoda: ''
 summary: 긴잔 온천의 몽환적인 다이쇼 로망 거리에 자리한 코세키야 벳칸은 시간을 초월한 아름다움과 전통의 정수를 선사합니다. 강물 소리, 가스등
   불빛, 그리고 눈 덮인 풍경이 어우러진 이곳은 몸과 마음의 깊은 치유를 약속하는 특별한 공간입니다. 야마가타의 신선한 제철 식재료로 빚어낸 가이세키
   요리는 오감을 만족시키며, 와비사비 미학이 깃든 객실은 고요한 휴식을 선사합니다.

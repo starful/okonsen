@@ -11,7 +11,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_oku_no_yu.jpg"
 address: 구마모토현 미나미오구니마치
 date: '2026-04-16'
-agoda: ''
 summary: 구로카와 온천 깊숙한 곳에 자리 잡은 오쿠노유는 고요함과 전통의 정수를 담은 료칸입니다. 웅장한 자연 속에서 즐기는 노천탕, 섬세한
   가이세키 요리, 그리고 와비사비 정신이 깃든 건축은 잊을 수 없는 경험을 선사합니다. 숨 막힐 듯 아름다운 구마모토의 자연을 배경으로 진정한 일본
   온천 문화를 경험하세요.

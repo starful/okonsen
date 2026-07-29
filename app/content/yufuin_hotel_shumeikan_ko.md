@@ -1,6 +1,5 @@
 ---
 address: Yufuin, Oita
-agoda: ''
 categories:
 - 로컬
 - 절경

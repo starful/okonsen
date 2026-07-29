@@ -12,7 +12,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tajimaya.jpg
 address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-04-16'
-agoda: https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1910391&hl=en&hid=104127
 summary: Tajimaya Ryokan, nestled in the heart of Kinosaki Onsen, offers an unparalleled
   journey into Japanese tradition. This meticulously maintained ryokan seamlessly
   blends historical charm with modern comforts, providing guests with an immersive

@@ -10,7 +10,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_mikuniya.jpg"
 address: 487 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-04-16'
-agoda: "https://www.agoda.com/mikuniya-ryokan/hotel/toyooka-jp.html?cid=1844104"
 summary: 기노사키 온천의 미쿠니야 료칸은 마을의 수백 년 된 온천 문화에 흠뻑 젖어드는 절제된 고요함의 안식처를 선사합니다. 비할 데
   없는 환대와 정교한 요리, 활력을 되찾아주는 온천수를 이 아름답게 보존된 전통 여관에서 경험해 보세요. 이는 단순한 숙박이 아니라 일본 온천
   전통의 심장부로 떠나는 몰입입니다.

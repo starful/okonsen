@@ -10,7 +10,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_fujiya.jpg"
 address: Manganji, Minamioguni, Aso District, Kumamoto 869-2402, Japan
 date: '2026-04-16'
-agoda: ''
 summary: "구로카와 온천의 후지야 료칸은 단순한 숙박 장소 이상으로, 일본 환대와 자연미의 심장부로 떠나는 몰입입니다. 외딴 계곡에\
   \ 자리한 이 정교하게 조성된 료칸은 숨 막히는 풍경과 정교한 요리, 깊은 고요함이 특징인 진정한 온천 경험을 선사합니다. 후지야만의 독특한\
   \ 매력을 통해 구로카와의 매력을 발견해 보세요."

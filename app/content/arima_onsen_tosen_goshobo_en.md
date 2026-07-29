@@ -10,7 +10,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg
 address: Kobe, Hyogo
 date: '2026-06-27'
-agoda: ''
 summary: Immerse yourself in centuries of tradition and unparalleled luxury at Arima
   Onsen Tosen Goshobo, Kobe's oldest and most prestigious ryokan. This article offers
   an in-depth exploration of its historic Kinsen baths, exquisite kaiseki dining,

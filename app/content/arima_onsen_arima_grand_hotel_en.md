@@ -10,7 +10,6 @@ categories:
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg"
 address: Kobe, Hyogo
 date: '2026-06-27'
-agoda: ''
 summary: "Nestled in the heart of Arima Onsen, one of Japan's oldest hot spring towns,\
   \ the Arima Grand Hotel offers an unparalleled experience of traditional Japanese\
   \ hospitality combined with modern luxury. Famous for its **Kinsen (gold water)**\

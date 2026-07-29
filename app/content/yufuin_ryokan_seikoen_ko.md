@@ -1,6 +1,5 @@
 ---
 address: Yufuin, Oita
-agoda: ''
 categories:
 - 가족탕
 - 절경
@@ -41,7 +40,6 @@ categories: ["가족탕", "절경", "고급 료칸"]
 thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_ryokan_seikoen.jpg"
 address: "Yufuin, Oita"
 date: "2026-04-03"
-agoda: ""
 summary: "유후인 세이코엔 료칸은 프라이빗 가족탕, 유후다케의 절경, 그리고 오감을 만족시키는 가이세키 요리를 선사하며 진정한 휴식을 약속합니다. 전통과 현대가 조화된 공간에서 오모테나시의 정수를 경험해보세요."
 
 ## 소개

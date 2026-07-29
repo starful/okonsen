@@ -12,7 +12,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_ginzanso.jpg
 address: 427 Ginzanshinhata, Obanazawa, Yamagata 999-4333, Japan
 date: '2026-07-27'
-agoda: https://www.agoda.com/ginzan-onsen-ginzanso/hotel/obanazawa-jp.html
 summary: Nestled in the heart of the enchanting Ginzan Onsen, Ginzanso offers an unparalleled
   escape into a snow-laden, gaslit wonderland reminiscent of a bygone Taisho era.
   This exquisite ryokan masterfully blends traditional Japanese hospitality with luxurious

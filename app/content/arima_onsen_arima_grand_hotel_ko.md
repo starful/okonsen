@@ -11,7 +11,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg
 address: 고베, 효고현
 date: '2026-06-27'
-agoda: ''
 summary: 아리마 온천의 중심에 자리 잡은 아리마 그랜드 호텔은 럭셔리함과 전통이 완벽하게 조화를 이루는 곳입니다. 금천과 은천, 두 가지 독특한
   온천수를 경험하고, 최고급 가이세키 요리와 숨 막히는 산 전망을 만끽하세요. 고베 여행의 잊지 못할 추억을 선사할 최고의 온천 료칸입니다.
 description: 아리마 온천 대표 료칸, 아리마 그랜드 호텔의 금천·은천 온천부터 가이세키 요리, 객실, 예약 방법까지 한눈에 정리했습니다.

@@ -13,7 +13,6 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_fujiya.jpg
 address: Obanazawa, Yamagata
 date: '2026-07-27'
-agoda: ''
 summary: Nestled in the gas-lit wonderland of Ginzan Onsen, Fujiya offers a minimalist
   yet profoundly luxurious escape. Designed by Kengo Kuma, this ryokan harmoniously
   blends traditional Japanese aesthetics with modern architectural brilliance, standing
