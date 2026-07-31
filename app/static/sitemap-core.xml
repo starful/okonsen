@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://okonsen.net/</loc>
-    <lastmod>2026-07-30</lastmod>
+    <lastmod>2026-07-31</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://okonsen.net/?lang=ko</loc>
-    <lastmod>2026-07-30</lastmod>
+    <lastmod>2026-07-31</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides</loc>
-    <lastmod>2026-07-30</lastmod>
+    <lastmod>2026-07-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides?lang=ko</loc>
-    <lastmod>2026-07-30</lastmod>
+    <lastmod>2026-07-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -43,6 +43,26 @@
   <url>
     <loc>https://okonsen.net/onsen/yufuin_onsen_yufuin-so_ko</loc>
     <lastmod>2026-04-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/ginzan_onsen_yanadaya_en</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/ginzan_onsen_showakan_en</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/ginzan_onsen_senninkan_en</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/ginzan_onsen_kozankaku_en</loc>
+    <lastmod>2026-07-31</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -196,11 +216,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_shinmeikan_en</loc>
-    <lastmod>2026-04-16</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/onsen/kurokawa_onsen_oku_no_yu_ko</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.8</priority>
@@ -242,16 +257,6 @@
   </url>
   <url>
     <loc>https://okonsen.net/onsen/kurokawa_onsen_yamamizuki_en</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_ryokan_wakaba_ko</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kurokawa_onsen_ryokan_wakaba_en</loc>
     <lastmod>2026-04-12</lastmod>
     <priority>0.8</priority>
   </url>
@@ -436,11 +441,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/guide/beppu_hell_tour_guide_en</loc>
-    <lastmod>2024-01-26</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://okonsen.net/guide/tattoo_friendly_onsen_list_ko</loc>
     <lastmod>2024-10-27</lastmod>
     <priority>0.7</priority>
@@ -466,8 +466,18 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://okonsen.net/guide/beppu_hell_tour_guide_ko</loc>
-    <lastmod>2024-10-27</lastmod>
+    <loc>https://okonsen.net/guide/family_friendly_onsens_ko</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/family_friendly_onsens_en</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/couple_romantic_ryokan_en</loc>
+    <lastmod>2026-07-31</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -512,11 +522,6 @@
   </url>
   <url>
     <loc>https://okonsen.net/guide/guide_expand_008_ko</loc>
-    <lastmod>2026-07-20</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/guide_expand_008_en</loc>
     <lastmod>2026-07-20</lastmod>
     <priority>0.7</priority>
   </url>

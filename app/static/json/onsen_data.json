@@ -1,6 +1,70 @@
 {
-  "last_updated": "2026.07.30 08:21",
+  "last_updated": "2026.07.31 22:04",
   "onsens": [
+    {
+      "id": "ginzan_onsen_yanadaya_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Yanadaya: A Timeless Taisho-Era Retreat in Snow Country",
+      "lat": 38.5718,
+      "lng": 140.5318,
+      "categories": [
+        "Onsen Ryokan",
+        "Yamagata Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_yanadaya.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-31",
+      "summary": "Ginzan Onsen Yanadaya is a storied wooden ryokan perched along the gaslit river of Ginzan Onsen, where hot spring bathing, Taisho-era architecture, and refined Yamagata kaiseki cuisine converge. Guests soak in mineral-rich waters framed by the sound of the Ginzan River before retreating to tatami rooms steeped in nostalgic charm. It is a destination best experienced in the hush of falling snow, when the entire village glows like a scene from another century.",
+      "link": "/onsen/ginzan_onsen_yanadaya_en"
+    },
+    {
+      "id": "ginzan_onsen_showakan_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Showakan: A Lantern-Lit Retreat into Yamagata's Taisho-Era Hot Spring Valley",
+      "lat": 38.5712,
+      "lng": 140.5312,
+      "categories": [
+        "Onsen Ryokan",
+        "Yamagata Hot Springs"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_showakan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-31",
+      "summary": "Ginzan Onsen Showakan sits at the heart of a snowbound, gaslit ravine in Obanazawa, where wooden ryokan rise three and four stories above a narrow river gorge. This storied inn blends mineral-rich alkaline waters, Taisho-romantic architecture, and a kaiseki table built on Yamagata's mountain and river bounty. It remains one of the most photogenic and atmospheric onsen towns in Japan, especially when snow falls and the gas lamps flicker on at dusk.",
+      "link": "/onsen/ginzan_onsen_showakan_en"
+    },
+    {
+      "id": "ginzan_onsen_senninkan_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Senninkan: A Timeless Taisho-Era Retreat in Yamagata's Silver Valley",
+      "lat": 38.5733,
+      "lng": 140.5333,
+      "categories": [
+        "Onsen Ryokan",
+        "Yamagata Hot Springs"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-31",
+      "summary": "Senninkan is one of the oldest ryokan in Ginzan Onsen, a wooden inn perched beside a waterfall where gaslamps and geothermal steam recreate the mood of early 20th-century Japan. This guide explores its mineral-rich waters, Taisho-era architecture, and refined kaiseki cuisine rooted in Yamagata's mountain harvest. Whether you visit under summer greenery or winter snowlight, Senninkan offers an immersive step back into old Japan.",
+      "link": "/onsen/ginzan_onsen_senninkan_en"
+    },
+    {
+      "id": "ginzan_onsen_kozankaku_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Kozankaku: A Taisho-Era Dream Beside the Ginzan River",
+      "lat": 38.5725,
+      "lng": 140.5325,
+      "categories": [
+        "Onsen Ryokan",
+        "Yamagata Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kozankaku.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-31",
+      "summary": "Kozankaku is a storied wooden ryokan perched along the gaslit Ginzan River, blending Taisho-era romance with warm mineral-rich baths. Guests fall asleep to the sound of rushing water and wake to breakfast trays laden with Yamagata's mountain harvest. It remains one of the most photogenic and atmospheric stays in the whole of Tohoku.",
+      "link": "/onsen/ginzan_onsen_kozankaku_en"
+    },
     {
       "id": "takaragawa_onsen_ousenkaku_ko",
       "lang": "ko",
@@ -520,7 +584,7 @@
     {
       "id": "arima_onsen_arima_grand_hotel_ko",
       "lang": "ko",
-      "title": "아리마 그랜드 호텔: 금천·은천 온천 료칸 완벽 가이드",
+      "title": "아리마 그랜드 호텔: 금천·은천 온천 료칸 예약 완벽 가이드",
       "lat": 34.7955,
       "lng": 135.2455,
       "categories": [
@@ -551,25 +615,6 @@
       "published": "2026-06-27",
       "summary": "Nestled in the heart of Arima Onsen, one of Japan's oldest hot spring towns, the Arima Grand Hotel offers an unparalleled experience of traditional Japanese hospitality combined with modern luxury. Famous for its **Kinsen (gold water)** and **Ginsen (silver water)**, this hotel provides a rejuvenating escape. From exquisite Kaiseki dinners to breathtaking views, Arima Grand Hotel is a destination in itself.",
       "link": "/onsen/arima_onsen_arima_grand_hotel_en"
-    },
-    {
-      "id": "kurokawa_onsen_shinmeikan_en",
-      "lang": "en",
-      "title": "Kurokawa Onsen Shinmeikan: The Deep Mystique of Kumamoto's Ultimate Cave Bath Ryokan",
-      "lat": 33.0811,
-      "lng": 131.1425,
-      "categories": [
-        "Onsen",
-        "Ryokan",
-        "Kurokawa Onsen",
-        "Cave Bath",
-        "Kumamoto"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_shinmeikan.jpg",
-      "address": "6600 Manganji, Minamioguni, Aso District, Kumamoto 869-2404, Japan",
-      "published": "2026-04-16",
-      "summary": "Discover Kurokawa Onsen Shinmeikan, a revered ryokan celebrated for its iconic cave bath (Dokutsu Buro). Tucked within the picturesque Kurokawa valley, this traditional inn offers an unparalleled immersion in therapeutic spring waters, exquisite kaiseki dining, and classic Japanese hospitality amidst a timeless architectural setting.",
-      "link": "/onsen/kurokawa_onsen_shinmeikan_en"
     },
     {
       "id": "kurokawa_onsen_oku_no_yu_ko",
@@ -628,7 +673,7 @@
     {
       "id": "kinosaki_onsen_tsubakino_ryokan_en",
       "lang": "en",
-      "title": "Tsubakino Ryokan, Kinosaki Onsen: A Deep Dive into Hyogo's Premier Crab & Hot Spring Haven",
+      "title": "Tsubakino Ryokan Kinosaki Onsen - Japan's Premier Crab Kaiseki & Private Onsen",
       "lat": 35.6222,
       "lng": 134.8133,
       "categories": [
@@ -666,7 +711,7 @@
     {
       "id": "kinosaki_onsen_mikuniya_en",
       "lang": "en",
-      "title": "Kinosaki Onsen Mikuniya: A Journey into Timeless Elegance and Healing Waters",
+      "title": "Mikuniya Ryokan Kinosaki: Premium Traditional Onsen Inn",
       "lat": 35.6266,
       "lng": 134.8144,
       "categories": [
@@ -699,7 +744,7 @@
     {
       "id": "kusatsu_onsen_hotel_sakurai_ko",
       "lang": "ko",
-      "title": "숨 막히는 절경과 진정한 로컬 온천의 향연: 쿠사츠 온천 호텔 사쿠라이 완벽 가이드",
+      "title": "쿠사츠 온센 호텔 사쿠라이 - 최고급 온천 리조트 가이드 및 예약 - OKOnsen",
       "lat": 36.6205,
       "lng": 138.5999,
       "categories": [
@@ -746,38 +791,6 @@
       "link": "/onsen/kurokawa_onsen_yamamizuki_en"
     },
     {
-      "id": "kurokawa_onsen_ryokan_wakaba_ko",
-      "lang": "ko",
-      "title": "구로카와 온천 료칸 와카바: 가족탕과 노천탕이 매력적인 감성 료칸",
-      "lat": 33.0822,
-      "lng": 131.1422,
-      "categories": [
-        "가족탕",
-        "로컬"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_wakaba.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-04-12",
-      "summary": "구로카와 온천 료칸 와카바는 규슈 구마모토현의 한적한 마을에 자리 잡은, 자연과 조화로운 진정한 휴식을 선사하는 료칸입니다. 이곳은 프라이빗한 시간을 보장하는 개별 노천탕, 즉 '가족탕'의 천국이자, 지역의 정서와 전통을 고스란히 간직한 '로컬'의 매력이 가득한 곳입니다. 번잡한 일상에서 벗어나, 자연의 품에서 진정한 일본 온천의 미학을 경험하고 싶은 분들에게 완벽한 안식처가 될 것입니다.",
-      "link": "/onsen/kurokawa_onsen_ryokan_wakaba_ko"
-    },
-    {
-      "id": "kurokawa_onsen_ryokan_wakaba_en",
-      "lang": "en",
-      "title": "Ryokan Wakaba: A Guide to Kurokawa Onsen's Private Baths",
-      "lat": 33.0822,
-      "lng": 131.1422,
-      "categories": [
-        "Private Bath",
-        "Local"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_wakaba.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-04-12",
-      "summary": "Ryokan Wakaba in Kurokawa Onsen offers a serene escape centered around its exceptional private onsen experiences and warm, regional hospitality. Nestled in the picturesque Aso caldera, this ryokan provides a comforting blend of traditional charm and modern relaxation, ideal for those seeking tranquility and authentic Kumamoto culinary delights amidst the natural beauty of Kyushu.",
-      "link": "/onsen/kurokawa_onsen_ryokan_wakaba_en"
-    },
-    {
       "id": "kurokawa_onsen_ryokan_sanga_ko",
       "lang": "ko",
       "title": "구로카와 온천 료칸 산가: 프라이빗 노천탕과 가이세키 완벽 가이드",
@@ -814,7 +827,7 @@
     {
       "id": "kurokawa_onsen_okyakuya_ko",
       "lang": "ko",
-      "title": "흑천 온천 오캬쿠야: 구마모토 깊은 산속, 아늑한 가족탕과 정겨운 로컬 정취가 스며든 휴식처로 떠나는 특별한 여행",
+      "title": "흑천 온천 오캬쿠야: 구마모토 쿠로카와의 로컬 온천 여행지",
       "lat": 33.0815,
       "lng": 131.1405,
       "categories": [
@@ -1046,7 +1059,7 @@
     {
       "id": "kusatsu_onsen_daitokan_ko",
       "lang": "ko",
-      "title": "구사쓰 온천 다이토칸: 일본 3대 명천에서 펼쳐지는 황홀경, 현지 매력과 절경이 조화된 최고의 료칸 체험",
+      "title": "구사쓰 온천 다이토칸: 일본 3대 명천의 최고급 료칸 체험",
       "lat": 36.6222,
       "lng": 138.5977,
       "categories": [
@@ -1212,7 +1225,7 @@
     {
       "id": "the_prince_hakone_lake_ashinoko_en",
       "lang": "en",
-      "title": "The Prince Hakone Lake Ashinoko: Private Onsen, Lake Ashi Views & Honest Review",
+      "title": "The Prince Hakone Lake Ashinoko: Luxury Onsen & Lake Ashi Views - Expert Review & Booking Guide",
       "lat": 35.2122,
       "lng": 139.0111,
       "categories": [
@@ -1245,7 +1258,7 @@
     {
       "id": "matsuzakaya_honten_en",
       "lang": "en",
-      "title": "Unveiling Matsuzakaya Honten: Hakone's Cherished Local Gem Where Tradition Embraces All, Including Tattoos, for an Unforgettable Onsen Escape",
+      "title": "Matsuzakaya Honten: Luxury Onsen Ryokan in Hakone",
       "lat": 35.2155,
       "lng": 139.0456,
       "categories": [
