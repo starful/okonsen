@@ -19,9 +19,15 @@ lat: 33.0815
 lng: 131.1405
 summary: 구마모토 미나미오구니의 고즈넉한 흑천 온천마을에 자리한 오캬쿠야는 진정한 로컬 온천 경험을 선사합니다. 정취 넘치는 가족탕에서 사랑하는
   이들과 오붓한 시간을 보내고, 자연 속에서 깊은 위안을 찾아보세요. 이곳은 일상에 지친 당신에게 따뜻한 위로와 잊지 못할 추억을 안겨줄 것입니다.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_okyakuya.jpg"
-title: "흑천 온천 오캬쿠야: 구마모토 깊은 산속, 아늑한 가족탕과 정겨운 로컬 정취가 스며든 휴식처로 떠나는 특별한 여행"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_okyakuya.jpg
+title: '흑천 온천 오캬쿠야: 구마모토 쿠로카와의 로컬 온천 여행지'
+description: 구마모토 쿠로카와 온천의 오캬쿠야. 정취 넘치는 가족탕과 로컬 정서가 어우러진 온천 숙소. 깊은 산속에서 특별한 온천 경험을
+  즐기세요.
+seo_title: 흑천 온천 오캬쿠야 | 구마모토 가족 온천 휴식처 - OKOnsen
+seo_description: 구마모토 쿠로카와 온천의 오캬쿠야. 정취 넘치는 가족탕과 로컬 정서가 어우러진 온천 숙소. 깊은 산속에서 온천 여행의
+  경험을 즐기세요.
 ---
+
 
 ## 소개
 
