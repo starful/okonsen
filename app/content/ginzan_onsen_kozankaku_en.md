@@ -1,14 +1,21 @@
 ---
 lang: en
-title: "Ginzan Onsen Kozankaku: A Taisho-Era Dream Beside the Ginzan River"
+title: 'Ginzan Onsen Kozankaku: A Taisho-Era Dream Beside the Ginzan River'
 lat: 38.5725
 lng: 140.5325
-categories: ["Onsen Ryokan", "Yamagata Travel"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kozankaku.jpg"
-address: "Obanazawa, Yamagata"
-date: "2026-07-31"
-summary: "Kozankaku is a storied wooden ryokan perched along the gaslit Ginzan River, blending Taisho-era romance with warm mineral-rich baths. Guests fall asleep to the sound of rushing water and wake to breakfast trays laden with Yamagata's mountain harvest. It remains one of the most photogenic and atmospheric stays in the whole of Tohoku."
+categories:
+- Onsen Ryokan
+- Yamagata Travel
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kozankaku.jpg
+address: Obanazawa, Yamagata
+date: '2026-07-31'
+summary: Kozankaku is a storied wooden ryokan perched along the gaslit Ginzan River,
+  blending Taisho-era romance with warm mineral-rich baths. Guests fall asleep to
+  the sound of rushing water and wake to breakfast trays laden with Yamagata's mountain
+  harvest. It remains one of the most photogenic and atmospheric stays in the whole
+  of Tohoku.
 ---
+
 
 ## First Impressions: Stepping Into a Sepia Photograph
 

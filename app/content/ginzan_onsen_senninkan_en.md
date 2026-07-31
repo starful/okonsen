@@ -1,14 +1,23 @@
 ---
 lang: en
-title: "Ginzan Onsen Senninkan: A Timeless Taisho-Era Retreat in Yamagata's Silver Valley"
+title: 'Ginzan Onsen Senninkan: A Timeless Taisho-Era Retreat in Yamagata''s Silver
+  Valley'
 lat: 38.5733
 lng: 140.5333
-categories: ["Onsen Ryokan", "Yamagata Hot Springs"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg"
-address: "Obanazawa, Yamagata"
-date: "2026-07-31"
-summary: "Senninkan is one of the oldest ryokan in Ginzan Onsen, a wooden inn perched beside a waterfall where gaslamps and geothermal steam recreate the mood of early 20th-century Japan. This guide explores its mineral-rich waters, Taisho-era architecture, and refined kaiseki cuisine rooted in Yamagata's mountain harvest. Whether you visit under summer greenery or winter snowlight, Senninkan offers an immersive step back into old Japan."
+categories:
+- Onsen Ryokan
+- Yamagata Hot Springs
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg
+address: Obanazawa, Yamagata
+date: '2026-07-31'
+summary: Senninkan is one of the oldest ryokan in Ginzan Onsen, a wooden inn perched
+  beside a waterfall where gaslamps and geothermal steam recreate the mood of early
+  20th-century Japan. This guide explores its mineral-rich waters, Taisho-era architecture,
+  and refined kaiseki cuisine rooted in Yamagata's mountain harvest. Whether you visit
+  under summer greenery or winter snowlight, Senninkan offers an immersive step back
+  into old Japan.
 ---
+
 
 ## First Impressions: Stepping Into a Living Postcard
 
