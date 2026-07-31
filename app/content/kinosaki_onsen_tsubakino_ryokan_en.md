@@ -1,7 +1,6 @@
 ---
 lang: en
-title: "Tsubakino Ryokan, Kinosaki Onsen: A Deep Dive into Hyogo's Premier Crab &\
-  \ Hot Spring Haven"
+title: Tsubakino Ryokan Kinosaki Onsen - Japan's Premier Crab Kaiseki & Private Onsen
 lat: 35.6222
 lng: 134.8133
 categories:
@@ -10,15 +9,21 @@ categories:
 - Luxury Travel
 - Hyogo Prefecture
 - Crab Cuisine
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tsubakino_ryokan.jpg"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tsubakino_ryokan.jpg
 address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-04-16'
-summary: "Tsubakino Ryokan offers an immersive experience in the heart of Kinosaki\
-  \ Onsen. This meticulously maintained ryokan blends traditional aesthetics with\
-  \ modern comfort, renowned for its exquisite crab-focused kaiseki cuisine and rejuvenating\
-  \ onsen waters. Explore this comprehensive guide for an in-depth look at Tsubakino's\
-  \ charm, from its historical roots to practical travel tips."
+summary: Tsubakino Ryokan offers an immersive experience in the heart of Kinosaki
+  Onsen. This meticulously maintained ryokan blends traditional aesthetics with modern
+  comfort, renowned for its exquisite crab-focused kaiseki cuisine and rejuvenating
+  onsen waters. Explore this comprehensive guide for an in-depth look at Tsubakino's
+  charm, from its historical roots to practical travel tips.
+description: Luxury ryokan in Kinosaki Onsen with premium crab kaiseki, private hot
+  springs & traditional rooms. View rates, amenities & book today.
+seo_title: Tsubakino Ryokan Kinosaki Onsen - Crab Kaiseki & Private Onsen
+seo_description: Luxury ryokan in Kinosaki Onsen. Premium crab kaiseki dining, private
+  hot springs, traditional rooms. View rates & book your stay today.
 ---
+
 
 ## Introduction
 

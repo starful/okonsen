@@ -15,9 +15,15 @@ lng: 138.5999
 summary: 군마현 쿠사츠 온천의 심장부에 위치한 호텔 사쿠라이는 숨 막히는 자연 경관 속에서 진정한 로컬 온천 경험을 선사합니다. 탁월한 수질의
   온천과 최고급 가이세키 요리, 그리고 전통과 현대가 조화된 객실에서 잊을 수 없는 휴식을 만끽하세요. 바쁜 일상에서 벗어나 진정한 재충전을 원하는
   여행자에게 이보다 완벽한 곳은 없을 것입니다.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_sakurai.jpg"
-title: "숨 막히는 절경과 진정한 로컬 온천의 향연: 쿠사츠 온천 호텔 사쿠라이 완벽 가이드"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_sakurai.jpg
+title: 쿠사츠 온센 호텔 사쿠라이 - 최고급 온천 리조트 가이드 및 예약 - OKOnsen
+description: 군마현 쿠사츠 온센의 호텔 사쿠라이. 최고 수질의 온천, 고급 가이세키 요리, 럭셔리 객실. 온천 여행 정보와 예약을 지금
+  확인하세요.
+seo_title: 쿠사츠 온센 호텔 사쿠라이 - 최고급 온천 리조트 가이드 및 예약 - OKOnsen
+seo_description: 군마현 쿠사츠 온센의 호텔 사쿠라이. 최고 수질의 온천, 고급 가이세키 요리, 럭셔리 객실. 온천 여행 정보와 예약을
+  지금 확인하세요.
 ---
+
 
 ## 소개
 

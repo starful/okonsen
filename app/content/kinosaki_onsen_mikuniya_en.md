@@ -1,21 +1,27 @@
 ---
 lang: en
-title: "Kinosaki Onsen Mikuniya: A Journey into Timeless Elegance and Healing Waters"
+title: 'Mikuniya Ryokan Kinosaki: Premium Traditional Onsen Inn'
 lat: 35.6266
 lng: 134.8144
 categories:
 - Onsen Ryokan
 - Traditional Japanese Inn
 - Kinosaki Onsen
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_mikuniya.jpg"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_mikuniya.jpg
 address: 487 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-04-16'
-summary: "Mikuniya Ryokan in Kinosaki Onsen offers a sanctuary of refined tranquility,\
-  \ immersing guests in the town's centuries-old onsen culture. Experience unparalleled\
-  \ hospitality, exquisite cuisine, and rejuvenating waters in this exquisitely preserved\
-  \ traditional inn. This is more than a stay; it's an immersion into the heart of\
-  \ Japan's onsen tradition."
+summary: Mikuniya Ryokan in Kinosaki Onsen offers a sanctuary of refined tranquility,
+  immersing guests in the town's centuries-old onsen culture. Experience unparalleled
+  hospitality, exquisite cuisine, and rejuvenating waters in this exquisitely preserved
+  traditional inn. This is more than a stay; it's an immersion into the heart of Japan's
+  onsen tradition.
+description: Luxury ryokan in Kinosaki Onsen with private hot springs, kaiseki dining,
+  and authentic Japanese hospitality. Experience healing waters and timeless elegance.
+seo_title: Kinosaki Onsen Mikuniya Ryokan - Private Hot Springs & Book Now
+seo_description: 'Mikuniya Ryokan in Kinosaki Onsen: private hot springs, kaiseki
+  cuisine, traditional hospitality. Book your authentic onsen retreat now.'
 ---
+
 
 ## Introduction
 

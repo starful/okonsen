@@ -24,10 +24,15 @@ summary: Nestled in the breathtaking landscapes of Hakone, Matsuzakaya Honten st
   in a deeply restorative onsen experience. Discover a sanctuary where private baths,
   exquisite kaiseki, and stunning natural vistas converge to create an unparalleled
   luxury retreat.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/matsuzakaya_honten.jpg"
-title: "Unveiling Matsuzakaya Honten: Hakone's Cherished Local Gem Where Tradition\
-  \ Embraces All, Including Tattoos, for an Unforgettable Onsen Escape"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/matsuzakaya_honten.jpg
+title: 'Matsuzakaya Honten: Luxury Onsen Ryokan in Hakone'
+description: Luxury onsen ryokan in Hakone. Private hot spring baths, kaiseki dining,
+  scenic views. Matsuzakaya Honten welcomes all guests. Book today.
+seo_title: 'Matsuzakaya Honten: Luxury Onsen Ryokan in Hakone'
+seo_description: Luxury onsen ryokan in Hakone. Private hot spring baths, kaiseki
+  dining, scenic views. Matsuzakaya Honten welcomes all guests. Book today.
 ---
+
 
 ## Introduction
 
