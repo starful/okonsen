@@ -1,14 +1,22 @@
 ---
 lang: en
-title: "Ginzan Onsen Yanadaya: A Timeless Taisho-Era Retreat in Snow Country"
+title: 'Ginzan Onsen Yanadaya: A Timeless Taisho-Era Retreat in Snow Country'
 lat: 38.5718
 lng: 140.5318
-categories: ["Onsen Ryokan", "Yamagata Travel"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_yanadaya.jpg"
-address: "Obanazawa, Yamagata"
-date: "2026-07-31"
-summary: "Ginzan Onsen Yanadaya is a storied wooden ryokan perched along the gaslit river of Ginzan Onsen, where hot spring bathing, Taisho-era architecture, and refined Yamagata kaiseki cuisine converge. Guests soak in mineral-rich waters framed by the sound of the Ginzan River before retreating to tatami rooms steeped in nostalgic charm. It is a destination best experienced in the hush of falling snow, when the entire village glows like a scene from another century."
+categories:
+- Onsen Ryokan
+- Yamagata Travel
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_yanadaya.jpg
+address: Obanazawa, Yamagata
+date: '2026-07-31'
+summary: Ginzan Onsen Yanadaya is a storied wooden ryokan perched along the gaslit
+  river of Ginzan Onsen, where hot spring bathing, Taisho-era architecture, and refined
+  Yamagata kaiseki cuisine converge. Guests soak in mineral-rich waters framed by
+  the sound of the Ginzan River before retreating to tatami rooms steeped in nostalgic
+  charm. It is a destination best experienced in the hush of falling snow, when the
+  entire village glows like a scene from another century.
 ---
+
 
 There is a particular kind of hush that settles over Ginzan Onsen as dusk falls — gas lamps flicker to life along the narrow river, wooden facades glow amber, and the scent of sulfur drifts on cold mountain air. At the heart of this tableau stands **Yanadaya**, one of the village's most beloved ryokan, its multi-story wooden structure rising directly from the riverbank like something lifted from a woodblock print. Stepping through its doors feels less like checking into a hotel and more like crossing into a preserved fragment of Taisho-era Japan, where the modern world recedes and the rhythms of onsen life take over completely.
 

@@ -1,14 +1,23 @@
 ---
 lang: en
-title: "Ginzan Onsen Showakan: A Lantern-Lit Retreat into Yamagata's Taisho-Era Hot Spring Valley"
+title: 'Ginzan Onsen Showakan: A Lantern-Lit Retreat into Yamagata''s Taisho-Era Hot
+  Spring Valley'
 lat: 38.5712
 lng: 140.5312
-categories: ["Onsen Ryokan", "Yamagata Hot Springs"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_showakan.jpg"
-address: "Obanazawa, Yamagata"
-date: "2026-07-31"
-summary: "Ginzan Onsen Showakan sits at the heart of a snowbound, gaslit ravine in Obanazawa, where wooden ryokan rise three and four stories above a narrow river gorge. This storied inn blends mineral-rich alkaline waters, Taisho-romantic architecture, and a kaiseki table built on Yamagata's mountain and river bounty. It remains one of the most photogenic and atmospheric onsen towns in Japan, especially when snow falls and the gas lamps flicker on at dusk."
+categories:
+- Onsen Ryokan
+- Yamagata Hot Springs
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_showakan.jpg
+address: Obanazawa, Yamagata
+date: '2026-07-31'
+summary: Ginzan Onsen Showakan sits at the heart of a snowbound, gaslit ravine in
+  Obanazawa, where wooden ryokan rise three and four stories above a narrow river
+  gorge. This storied inn blends mineral-rich alkaline waters, Taisho-romantic architecture,
+  and a kaiseki table built on Yamagata's mountain and river bounty. It remains one
+  of the most photogenic and atmospheric onsen towns in Japan, especially when snow
+  falls and the gas lamps flicker on at dusk.
 ---
+
 
 ## Stepping Into a Postcard from 1920s Japan
 
