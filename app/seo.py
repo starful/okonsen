@@ -180,6 +180,7 @@ def register_seo_middleware(app: Flask) -> None:
             "/sitemap-core.xml",
             "/sitemap-longtail.xml",
             "/robots.txt",
+            "/ads.txt",
         ):
             return None
         if request.headers.get("X-Forwarded-Proto", "").lower() == "http":

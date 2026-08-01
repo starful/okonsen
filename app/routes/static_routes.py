@@ -41,6 +41,11 @@ def robots_txt():
     return send_from_directory(STATIC_DIR, "robots.txt", mimetype="text/plain")
 
 
+@static_bp.route("/ads.txt")
+def ads_txt():
+    return send_from_directory(STATIC_DIR, "ads.txt", mimetype="text/plain")
+
+
 @static_bp.route("/favicon.ico")
 def favicon_ico():
     return redirect("/static/images/favicons.ico", code=301)

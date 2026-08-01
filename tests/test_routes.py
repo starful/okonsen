@@ -130,3 +130,10 @@ def test_robots_txt(client):
     assert "Disallow: /api/" in text
     assert "Disallow: /card/" in text
     assert "Sitemap:" in text
+
+
+def test_ads_txt(client):
+    r = client.get("/ads.txt")
+    assert r.status_code == 200
+    text = r.data.decode("utf-8")
+    assert "google.com, pub-8780435268193938, DIRECT, f08c47fec0942fa0" in text
