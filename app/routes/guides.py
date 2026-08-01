@@ -16,6 +16,7 @@ try:
         extract_faq_items,
         get_all_guides,
         get_mapped_image,
+        mark_external_links,
         normalize_markdown_source,
     )
     from ..data_cache import get_featured_onsens, get_footer_stats
@@ -28,6 +29,7 @@ except ImportError:
         extract_faq_items,
         get_all_guides,
         get_mapped_image,
+        mark_external_links,
         normalize_markdown_source,
     )
     from data_cache import get_featured_onsens, get_footer_stats
@@ -62,7 +64,10 @@ def guide_detail(guide_id):
         body = re.sub(r"---.*?---", "", body, flags=re.DOTALL)
         body = body.replace("```markdown", "").replace("```", "").strip()
 
-    content_html = markdown.markdown(body, extensions=["tables", "toc", "fenced_code"])
+    content_html = mark_external_links(
+        markdown.markdown(body, extensions=["tables", "toc", "fenced_code"]),
+        lang=lang,
+    )
     base_id = guide_id.rsplit("_", 1)[0]
     image_url = get_mapped_image(base_id)
     faq_items = extract_faq_items(body)

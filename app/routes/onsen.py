@@ -11,7 +11,7 @@ from flask import Blueprint, abort, jsonify, render_template, request
 try:
     from ..config import CATEGORY_MAPPING, CONTENT_DIR, FAMILY_SITE_ID, SITE_URL
     from ..rakuten_affiliate import rakuten_context
-    from ..content_loader import get_all_guides, normalize_markdown_source
+    from ..content_loader import get_all_guides, mark_external_links, normalize_markdown_source
     from ..data_cache import (
         CACHED_DATA,
         ensure_onsen_cache,
@@ -25,7 +25,7 @@ try:
 except ImportError:
     from config import CATEGORY_MAPPING, CONTENT_DIR, FAMILY_SITE_ID, SITE_URL
     from rakuten_affiliate import rakuten_context
-    from content_loader import get_all_guides, normalize_markdown_source
+    from content_loader import get_all_guides, mark_external_links, normalize_markdown_source
     from data_cache import (
         CACHED_DATA,
         ensure_onsen_cache,
@@ -79,7 +79,10 @@ def onsen_detail(onsen_id):
     post["thumbnail"] = thumbnail_with_v(thumb, cache_v)
     lang = post.get("lang", "en")
 
-    content_html = markdown.markdown(post.content, extensions=["tables"])
+    content_html = mark_external_links(
+        markdown.markdown(post.content, extensions=["tables"]),
+        lang=lang,
+    )
     related_guides = get_all_guides(lang)[:6]
     featured_onsens = [
         o for o in get_featured_onsens(lang, limit=10) if o.get("id") != onsen_id

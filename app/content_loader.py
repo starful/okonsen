@@ -6,15 +6,96 @@ import hashlib
 import os
 import re
 from typing import Dict, List
+from urllib.parse import urlparse
 
 import frontmatter
+from bs4 import BeautifulSoup
 
 try:
-    from .config import CORE_GUIDE_BASES, GUIDE_DIR, GUIDE_IMAGES
+    from .config import CORE_GUIDE_BASES, GUIDE_DIR, GUIDE_IMAGES, SITE_URL
     from .content_new import enrich_item
 except ImportError:
-    from config import CORE_GUIDE_BASES, GUIDE_DIR, GUIDE_IMAGES
+    from config import CORE_GUIDE_BASES, GUIDE_DIR, GUIDE_IMAGES, SITE_URL
     from content_new import enrich_item
+
+
+def _site_host(site_url: str | None = None) -> str:
+    raw = (site_url or SITE_URL or "https://okonsen.net").strip()
+    host = urlparse(raw if "://" in raw else f"https://{raw}").netloc.lower()
+    return host.removeprefix("www.")
+
+
+def mark_external_links(
+    html: str,
+    *,
+    lang: str = "en",
+    site_url: str | None = None,
+) -> str:
+    """Tag markdown body links so internal vs external is obvious in the UI."""
+    if not html or "<a " not in html.lower():
+        return html
+
+    site = _site_host(site_url)
+    is_ko = (lang or "en").lower() in ("ko", "kr")
+    tip = "새 탭·외부 사이트" if is_ko else "Opens in a new tab (external)"
+    badge_text = "외부" if is_ko else "ext"
+
+    soup = BeautifulSoup(f'<div id="__md_root">{html}</div>', "html.parser")
+    root = soup.find(id="__md_root")
+    if root is None:
+        return html
+
+    for a in root.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        if not href or href.startswith(("#", "mailto:", "tel:", "sms:")):
+            continue
+
+        classes = list(a.get("class") or [])
+        is_external = False
+
+        if href.startswith("/") and not href.startswith("//"):
+            is_external = False
+        elif href.startswith("//"):
+            is_external = True
+        elif "://" in href:
+            host = urlparse(href).netloc.lower().removeprefix("www.")
+            is_external = bool(host) and host != site and not host.endswith("." + site)
+        else:
+            # Relative path without leading slash — treat as internal.
+            is_external = False
+
+        if is_external:
+            if "md-link--external" not in classes:
+                classes.append("md-link--external")
+            a["class"] = classes
+            a["target"] = "_blank"
+            rel_tokens = set()
+            existing_rel = a.get("rel")
+            if isinstance(existing_rel, str):
+                rel_tokens.update(existing_rel.split())
+            elif isinstance(existing_rel, list):
+                rel_tokens.update(existing_rel)
+            rel_tokens.update({"noopener", "noreferrer"})
+            a["rel"] = " ".join(sorted(rel_tokens))
+            prev_title = (a.get("title") or "").strip()
+            if tip not in prev_title:
+                a["title"] = f"{prev_title} ({tip})".strip() if prev_title else tip
+            if a.find("span", class_="md-link-ext-badge") is None:
+                badge = soup.new_tag(
+                    "span",
+                    attrs={
+                        "class": "md-link-ext-badge",
+                        "aria-hidden": "true",
+                    },
+                )
+                badge.string = f"↗{badge_text}"
+                a.append(badge)
+        else:
+            if "md-link--internal" not in classes:
+                classes.append("md-link--internal")
+            a["class"] = classes
+
+    return root.decode_contents()
 
 
 def get_mapped_image(base_id: str) -> str:

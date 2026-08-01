@@ -463,6 +463,41 @@ header {
     .lang-btn { padding: 4px 10px; font-size: 0.76rem; }
 }
 
+/* Markdown body: internal vs external links */
+.guide-body-content a.md-link--internal,
+.onsen-body-content a.md-link--internal {
+    color: #1f6feb;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+.guide-body-content a.md-link--external,
+.onsen-body-content a.md-link--external {
+    color: #0f766e;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-underline-offset: 3px;
+}
+.guide-body-content a.md-link--external:hover,
+.onsen-body-content a.md-link--external:hover {
+    color: #115e59;
+}
+.md-link-ext-badge {
+    display: inline-block;
+    margin-left: 0.35em;
+    padding: 0.05em 0.4em;
+    border-radius: 999px;
+    font-size: 0.68em;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    vertical-align: middle;
+    color: #0f766e;
+    background: #ccfbf1;
+    border: 1px solid #99f6e4;
+    line-height: 1.4;
+    white-space: nowrap;
+}
+
 /* OK Series cross-site links (footer uses .family-sites-* from okcaddie) */
 .cross-site-links {
     margin: 36px 0;
