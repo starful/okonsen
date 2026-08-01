@@ -24,9 +24,9 @@ seo_description: 고라 료칸·아시노코 전망·Free Pass 팁이 담긴 하
 
 **오후 목욕 + 숙박 (레인 선택):**
 
-*   **모던 럭셔리:** [호텔 인디고 하코네 고라](/onsen/hotel_indigo_hakone_gora_en)
+*   **모던 럭셔리:** [호텔 인디고 하코네 고라](/onsen/hotel_indigo_hakone_gora_ko)
 *   **황실 정원 감성:** [하코네 고라 가단](/onsen/hakone_gora_kadan_ko)
-*   **호수 전망:** [더 프린스 하코네 아시노코](/onsen/the_prince_hakone_lake_ashinoko_en)
+*   **호수 전망:** [더 프린스 하코네 아시노코](/onsen/the_prince_hakone_lake_ashinoko_ko)
 
 예약 전 각 상세 페이지의 문신·가족탕 정책을 확인하세요.
 

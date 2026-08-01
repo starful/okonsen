@@ -70,6 +70,27 @@ def guide_detail(guide_id):
     featured_onsens = get_featured_onsens(lang, limit=10)
     stats = get_footer_stats(lang)
     share_ctx = share_context(guide_id, title, lang, f"/guide/{guide_id}")
+    # Prefer region cross-links (e.g. Hakone → ramen then golf) over bare homepages.
+    guide_address = None
+    gid_lower = guide_id.lower()
+    for region in (
+        "hakone",
+        "kurokawa",
+        "kusatsu",
+        "yufuin",
+        "kinosaki",
+        "beppu",
+        "arima",
+        "tokyo",
+        "kyoto",
+        "osaka",
+        "hokkaido",
+        "okinawa",
+        "fukuoka",
+    ):
+        if region in gid_lower:
+            guide_address = f"{region.title()}, Japan"
+            break
 
     return render_template(
         "guide_detail.html",
@@ -82,7 +103,9 @@ def guide_detail(guide_id):
         faq_items=faq_items,
         related_guides=related_guides,
         featured_onsens=featured_onsens,
-        cross_site_links=cross_links_for(FAMILY_SITE_ID, lang),
+        cross_site_links=cross_links_for(
+            FAMILY_SITE_ID, lang, address=guide_address
+        ),
         **inject_family_context(FAMILY_SITE_ID, lang),
         **stats,
         **share_ctx,
