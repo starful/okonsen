@@ -16,14 +16,14 @@ lng: 131.1322
 summary: 쿠마모토 미나미오구니의 깊은 산 속에 자리한 구로카와 온천 료칸 산가는 대자연의 품에서 진정한 힐링을 선사합니다. 장엄한 경치를 자랑하는
   노천탕과 아늑한 전세 가족탕, 그리고 지역 특산물을 활용한 카이세키 요리는 잊을 수 없는 추억을 선사할 것입니다. 이 곳은 고즈넉한 일본의 정취와
   최고급 서비스가 어우러진, 특별한 휴식을 꿈꾸는 모든 이들을 위한 이상적인 여행지입니다.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_sanga.jpg"
-title: "구로카와 온천 료칸 산가: 프라이빗 노천탕과 가이세키 완벽 가이드"
-description: "구로카와 온천의 명소 '료칸 산가(Sanga)'의 객실, 프라이빗 온천(노천탕), 가이세키 요리 정보를 확인하세요. 대자연\
-  \ 속 진정한 힐링을 제안합니다."
-seo_title: "구로카와 온천 료칸 산가 객실, 노천탕, 가이세키 완벽 정리 | OKOnsen"
-seo_description: "구로카와 온천의 명소 '료칸 산가'의 객실 종류, 프라이빗 노천탕, 가이세키 석식 정보를 확인하세요. 숲속 비경 속\
-  \ 힐링 여행을 위한 완벽 가이드."
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_sanga.jpg
+title: 구로카와 온천 산가 료칸 | 프라이빗 노천탕 & 최고급 가이세키
+description: 쿠마모토 구로카와 온천의 럭셔리 료칸 산가. 프라이빗 노천탕, 지역 특산물 가이세키, 산림 속 힐링. 최고급 온천 경험을 예약하세요.
+seo_title: 구로카와 온천 산가 료칸 - 프라이빗 노천탕 & 가이세키 완벽 가이드
+seo_description: 쿠마모토 구로카와 온천의 럭셔리 료칸 산가. 프라이빗 노천탕, 지역 특산물 가이세키, 산림 속 힐링. 최고급 온천 경험을
+  예약하세요.
 ---
+
 
 ## 소개
 
