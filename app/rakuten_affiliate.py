@@ -71,12 +71,61 @@ REGION_LABELS: dict[str, tuple[str, str]] = {
     "arima": ("Arima", "아리마"),
 }
 
+# Travelpayouts Klook short links (okonsen project). daypass == transport for now.
+_KLOOK = {
+    "hakone_daypass_ko": "https://klook.tpo.mx/3Jx17AsJ",
+    "hakone_daypass_en": "https://klook.tpo.mx/2KjDnw12",
+    "hakone_transport_ko": "https://klook.tpo.mx/3Jx17AsJ",
+    "hakone_transport_en": "https://klook.tpo.mx/2KjDnw12",
+    "hakone_tours_ko": "https://klook.tpo.mx/AenqagWg",
+    "hakone_tours_en": "https://klook.tpo.mx/ogmwN00C",
+    "kusatsu_ko": "https://klook.tpo.mx/NlkzKCnF",
+    "kusatsu_en": "https://klook.tpo.mx/mK6ms91p",
+    "fallback_ko": "https://klook.tpo.mx/mqOWuAfP",
+    "fallback_en": "https://klook.tpo.mx/CSoHIup8",
+}
 
-def resolve_region_from_slug(slug: str) -> str:
-    """Map onsen/guide slug to a travel search region key."""
+
+def _strip_lang_suffix(slug: str) -> str:
     base = (slug or "").strip().lower()
     if base.endswith("_en") or base.endswith("_ko"):
         base = base.rsplit("_", 1)[0]
+    return base
+
+
+def resolve_klook_intent(slug: str) -> str:
+    """hakone day_trip → daypass; hakone weekend/other → tours; kusatsu → kusatsu."""
+    base = _strip_lang_suffix(slug)
+    region = resolve_region_from_slug(slug)
+
+    parts = base.split("_")
+    explicit = region in parts or region in base
+    if not explicit:
+        for alias, mapped in SLUG_ALIASES.items():
+            if mapped == region and (base == alias or base.startswith(alias + "_")):
+                explicit = True
+                break
+
+    if region == "hakone" and explicit:
+        if "day_trip" in base or "daytrip" in base:
+            return "hakone_daypass"
+        if "transport" in base or "access" in base or "odawara" in base:
+            return "hakone_transport"
+        return "hakone_tours"
+    if region == "kusatsu" and explicit:
+        return "kusatsu"
+    return "fallback"
+
+
+def klook_url_for(slug: str, *, lang: str = "en") -> str:
+    intent = resolve_klook_intent(slug)
+    suffix = "ko" if (lang or "en").lower() == "ko" else "en"
+    return _KLOOK[f"{intent}_{suffix}"]
+
+
+def resolve_region_from_slug(slug: str) -> str:
+    """Map onsen/guide slug to a travel search region key."""
+    base = _strip_lang_suffix(slug)
 
     for alias, region in SLUG_ALIASES.items():
         if base == alias or base.startswith(alias + "_"):
@@ -93,6 +142,7 @@ def resolve_region_from_slug(slug: str) -> str:
 def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
     """Template vars for booking CTA (Klook + Rakuten Travel)."""
     region = resolve_region_from_slug(slug)
+    klook_intent = resolve_klook_intent(slug)
     is_ko = (lang or "en").lower() == "ko"
     label_en, label_ko = REGION_LABELS.get(
         region, REGION_LABELS[DEFAULT_REGION]
@@ -108,7 +158,12 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
             "Klook 또는 라쿠텐 트래블이 열리며, 이 료칸의 직접 예약 페이지가 "
             "아닐 수 있습니다."
         )
-        klook_button_label = "Klook에서 투어·패스 보기 ↗"
+        if klook_intent == "hakone_daypass":
+            klook_button_label = "Klook에서 하코네 당일·패스 보기 ↗"
+        elif klook_intent == "hakone_transport":
+            klook_button_label = "Klook에서 하코네 교통·패스 보기 ↗"
+        else:
+            klook_button_label = "Klook에서 투어·패스 보기 ↗"
         rakuten_button_label = f"라쿠텐에서 {region_label} 료칸 검색 ↗"
     else:
         booking_title = (
@@ -119,7 +174,12 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
             "Rakuten Travel in a new tab to search tours and ryokan in the "
             f"{region_label} area — not always this exact property."
         )
-        klook_button_label = "Tours & passes on Klook ↗"
+        if klook_intent == "hakone_daypass":
+            klook_button_label = "Hakone day trip & passes on Klook ↗"
+        elif klook_intent == "hakone_transport":
+            klook_button_label = "Hakone transport & passes on Klook ↗"
+        else:
+            klook_button_label = "Tours & passes on Klook ↗"
         rakuten_button_label = f"Search {region_label} ryokan on Rakuten ↗"
 
     return {
@@ -128,6 +188,8 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
         "rakuten_search_url": REGION_URLS.get(
             region, REGION_URLS[DEFAULT_REGION]
         ),
+        "klook_url": klook_url_for(slug, lang=lang),
+        "klook_intent": klook_intent,
         "booking_title": booking_title,
         "booking_desc": booking_desc,
         "klook_button_label": klook_button_label,
