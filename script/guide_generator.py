@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from topic_queue_csv import resolve as resolve_queue_csv
 from content_guards import (
     duplicate_guide_reason,
+    locale_pair_status,
     sibling_exists,
     strip_code_fences,
     validate_generated_markdown,
@@ -114,9 +115,11 @@ def generate_guide(row, lang):
         return f"❌ 에러: {filename} - {str(e)}"
 
 def run_batch(limit=3):
-    missing_tasks = []
-    
-    # 1. 먼저 생성이 필요한(파일이 없는) 작업 목록을 전부 수집합니다.
+    """Generate brand-new guide topics only (en+ko as a set). Half pairs are skipped."""
+    tasks_to_run = []
+    pairs_queued = 0
+    half_skipped = 0
+
     csv_path = _guides_csv_path()
     if not os.path.exists(csv_path):
         print(f"❌ CSV 파일을 찾을 수 없습니다: {csv_path}")
@@ -125,6 +128,8 @@ def run_batch(limit=3):
     with open(csv_path, 'r', encoding='utf-8-sig') as f:
         reader = csv.DictReader(f)
         for row in reader:
+            if limit > 0 and pairs_queued >= limit:
+                break
             gid = (row.get('id') or '').strip()
             if not gid:
                 continue
@@ -132,23 +137,27 @@ def run_batch(limit=3):
             if dup:
                 print(f"⏭️ 큐에서 제외(중복주제): {gid} — {dup}")
                 continue
+            status = locale_pair_status(OUTPUT_DIR, gid)
+            if status == "complete":
+                continue
+            if status == "half":
+                half_skipped += 1
+                continue
             for lang in ['en', 'ko']:
-                filename = f"{gid}_{lang}.md"
-                filepath = os.path.join(OUTPUT_DIR, filename)
-                if not os.path.exists(filepath):
-                    missing_tasks.append((row, lang))
+                tasks_to_run.append((row, lang))
+            pairs_queued += 1
 
-    # 2. 💡 생성 제한(Limit) 적용
-    tasks_to_run = missing_tasks[:limit]
+    if half_skipped:
+        print(f"⏭️  반쪽(en/ko 한쪽만) 가이드 {half_skipped}건 — 신규 페어 우선으로 스킵")
 
     if not tasks_to_run:
-        print("💡 모든 가이드가 이미 생성되어 있습니다. 새로 생성할 항목이 없습니다.")
-        _emit_pipeline_result(step="guides", topics=0, generated=0)
+        print("💡 새로 생성할 가이드 페어가 없습니다.")
+        _emit_pipeline_result(step="guides", topics=0, generated=0, skipped=half_skipped)
         return
 
-    print(f"🚀 총 {len(missing_tasks)}개의 대기 작업 중 상위 {len(tasks_to_run)}개 생성을 시작합니다...")
+    print(f"🚀 {pairs_queued}페어 · {len(tasks_to_run)}파일 가이드 생성 시작...")
 
-    workers = max(1, min(limit, 5))
+    workers = max(1, min(len(tasks_to_run), 5))
     ok = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
         futures = [executor.submit(generate_guide, t[0], t[1]) for t in tasks_to_run]
@@ -157,12 +166,12 @@ def run_batch(limit=3):
             print(result)
             if result and result.startswith("✅"):
                 ok += 1
-    topics = len({t[0].get("id") for t in tasks_to_run})
     _emit_pipeline_result(
         step="guides",
-        topics=topics,
+        topics=pairs_queued,
         generated=ok,
         failed=len(tasks_to_run) - ok,
+        skipped=half_skipped,
     )
 
 if __name__ == "__main__":
