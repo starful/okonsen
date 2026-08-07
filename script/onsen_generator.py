@@ -7,6 +7,7 @@ import concurrent.futures
 
 from topic_queue_csv import resolve as resolve_queue_csv
 from content_guards import (
+    locale_pair_status,
     sibling_exists,
     strip_code_fences,
     validate_generated_markdown,
@@ -139,6 +140,7 @@ def process_csv_auto(limit=10):
 
     tasks = []
     pairs_queued = 0
+    half_skipped = 0
     with open(csv_path, mode='r', encoding='utf-8-sig') as file:
         reader = csv.DictReader(file)
         for row in reader:
@@ -154,25 +156,25 @@ def process_csv_auto(limit=10):
             if is_off_onsen_theme(safe_name, name, features=features, address=address):
                 print(f"⏭️  Skip off-theme CSV row: {name} ({safe_name})")
                 continue
-            en_path = os.path.join(CONTENT_DIR, f"{safe_name}_en.md")
-            ko_path = os.path.join(CONTENT_DIR, f"{safe_name}_ko.md")
-            if os.path.exists(en_path) and os.path.exists(ko_path):
+            status = locale_pair_status(CONTENT_DIR, safe_name)
+            if status == "complete":
+                continue
+            if status == "half":
+                half_skipped += 1
                 continue
 
-            pair_tasks = []
+            # New pair only: always queue en+ko together.
             for lang in TARGET_LANGS:
-                filename = f"{safe_name}_{lang}.md"
-                if not os.path.exists(os.path.join(CONTENT_DIR, filename)):
-                    pair_tasks.append(
-                        (safe_name, name, row['Lat'], row['Lng'], row['Address'], lang, row['Features'])
-                    )
-            if not pair_tasks:
-                continue
+                tasks.append(
+                    (safe_name, name, row['Lat'], row['Lng'], row['Address'], lang, row['Features'])
+                )
             pairs_queued += 1
-            tasks.extend(pair_tasks)
+
+    if half_skipped:
+        print(f"⏭️  반쪽(en/ko 한쪽만) {half_skipped}건 — 신규 페어 우선으로 스킵")
 
     if tasks:
-        print(f"⚡️ {len(tasks)}개 신규 작업 병렬 실행 시작...")
+        print(f"⚡️ {pairs_queued}페어 · {len(tasks)}파일 신규 생성 시작...")
         results = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
             results = list(executor.map(lambda p: generate_onsen_md(*p), tasks))
@@ -182,10 +184,11 @@ def process_csv_auto(limit=10):
             topics=pairs_queued,
             generated=ok,
             failed=len(tasks) - ok,
+            skipped=half_skipped,
         )
     else:
         print("💡 새로 생성할 컨텐츠가 없습니다.")
-        _emit_pipeline_result(step="items", topics=0, generated=0)
+        _emit_pipeline_result(step="items", topics=0, generated=0, skipped=half_skipped)
 
 if __name__ == "__main__":
     # 기본 10개 주제, 인자/환경변수로 오버라이드 가능

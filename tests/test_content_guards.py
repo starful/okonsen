@@ -12,6 +12,7 @@ sys.path.insert(0, str(ROOT / "script"))
 
 from content_guards import (  # noqa: E402
     duplicate_guide_reason,
+    locale_pair_status,
     validate_generated_markdown,
 )
 
@@ -115,3 +116,12 @@ def test_sibling_fill_requires_higher_min():
     assert ok_new, err_new
     assert not ok_fill
     assert any(e.startswith("too_short:") for e in errors)
+
+
+def test_locale_pair_status(tmp_path: Path) -> None:
+    base = "ginzan_test"
+    assert locale_pair_status(tmp_path, base) == "new"
+    (tmp_path / f"{base}_en.md").write_text("en", encoding="utf-8")
+    assert locale_pair_status(tmp_path, base) == "half"
+    (tmp_path / f"{base}_ko.md").write_text("ko", encoding="utf-8")
+    assert locale_pair_status(tmp_path, base) == "complete"

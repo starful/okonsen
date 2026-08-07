@@ -132,3 +132,15 @@ def sibling_path(content_dir: str | Path, base: str, lang: str) -> Path:
 
 def sibling_exists(content_dir: str | Path, base: str, lang: str) -> bool:
     return sibling_path(content_dir, base, lang).is_file()
+
+
+def locale_pair_status(content_dir: str | Path, base: str) -> str:
+    """Return 'complete', 'half' (one lang), or 'new' (neither en nor ko)."""
+    root = Path(content_dir)
+    en = (root / f"{base}_en.md").is_file()
+    ko = (root / f"{base}_ko.md").is_file()
+    if en and ko:
+        return "complete"
+    if en or ko:
+        return "half"
+    return "new"
