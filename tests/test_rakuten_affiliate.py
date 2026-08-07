@@ -73,3 +73,19 @@ def test_klook_kusatsu():
     assert resolve_klook_intent("kusatsu_onsen_tokinoniwa_en") == "kusatsu"
     assert "mK6ms91p" in klook_url_for("kusatsu_onsen_tokinoniwa_en", lang="en")
     assert "NlkzKCnF" in klook_url_for("kusatsu_onsen_tokinoniwa_ko", lang="ko")
+
+
+def test_travel_daybath_vs_stay():
+    from urllib.parse import unquote
+
+    from rakuten_affiliate import resolve_travel_intent, rakuten_url_for
+
+    assert resolve_travel_intent("hakone_day_trip_guide_ko") == "daybath"
+    assert resolve_travel_intent("hakone_pax_yoshino_ko") == "stay"
+    day = unquote(unquote(rakuten_url_for("hakone_day_trip_guide_ko")))
+    stay = unquote(unquote(rakuten_url_for("hakone_pax_yoshino_ko")))
+    assert "日帰り入浴" in day
+    assert "旅館" in stay
+    ctx = rakuten_context("hakone_day_trip_guide_ko", lang="ko")
+    assert ctx["travel_intent"] == "daybath"
+    assert "당일" in ctx["rakuten_button_label"]
