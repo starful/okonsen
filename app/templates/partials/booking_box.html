@@ -1,17 +1,8 @@
-{# Klook + Rakuten Travel — placed high on page; opens external sites in new tab #}
+{# Rakuten Travel (+ Coupang on KO) + Klook — placed high on page #}
 <div class="booking-section booking-section--prominent" role="complementary" aria-label="{{ '예약 안내' if lang == 'ko' else 'Booking links' }}">
     <p class="booking-title">{{ booking_title }}</p>
     <p class="booking-desc">{{ booking_desc }}</p>
     <div class="booking-actions">
-        <a href="{{ klook_url }}"
-           target="_blank"
-           rel="nofollow sponsored noopener noreferrer"
-           class="btn-klook"
-           title="{{ 'Klook에서 열기 (새 탭)' if lang == 'ko' else 'Opens Klook in a new tab' }}"
-           data-track="affiliate_klook"
-           data-track-label="{{ klook_intent or 'klook' }}">
-            {{ klook_button_label }}
-        </a>
         {% if rakuten_search_url %}
         <a href="{{ rakuten_search_url }}"
            target="_blank"
@@ -23,7 +14,30 @@
             {{ rakuten_button_label }}
         </a>
         {% endif %}
+        {% if show_coupang and coupang_url %}
+        <a href="{{ coupang_url }}"
+           target="_blank"
+           rel="nofollow sponsored noopener noreferrer"
+           class="btn-coupang"
+           title="쿠팡트래블 (새 탭)"
+           data-track="affiliate_coupang"
+           data-track-label="{{ coupang_intent or 'coupang' }}">
+            {{ coupang_button_label }}
+        </a>
+        {% endif %}
+        <a href="{{ klook_url }}"
+           target="_blank"
+           rel="nofollow sponsored noopener noreferrer"
+           class="btn-klook {% if show_coupang %}btn-klook--secondary{% endif %}"
+           title="{{ 'Klook에서 열기 (새 탭)' if lang == 'ko' else 'Opens Klook in a new tab' }}"
+           data-track="affiliate_klook"
+           data-track-label="{{ klook_intent or 'klook' }}">
+            {{ klook_button_label }}
+        </a>
     </div>
+    {% if coupang_disclosure %}
+    <p class="booking-disclosure">{{ coupang_disclosure }}</p>
+    {% endif %}
     <p class="booking-note">
         {{ '제휴 링크 · 새 탭에서 열림' if lang == 'ko' else 'Affiliate links · opens in new tab' }}
     </p>

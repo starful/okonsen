@@ -173,6 +173,13 @@
             transition: all 0.3s;
         }
         .btn-klook:hover { transform: translateY(-5px); background-color: #2980b9; box-shadow: 0 20px 40px rgba(52, 152, 219, 0.4); }
+        .btn-klook--secondary {
+            background-color: #64748b;
+            box-shadow: 0 10px 20px rgba(100, 116, 139, 0.25);
+            font-size: 1.1rem;
+            padding: 16px 36px;
+        }
+        .btn-klook--secondary:hover { background-color: #475569; }
 
         .booking-actions {
             display: flex;
@@ -193,6 +200,26 @@
             transition: all 0.3s;
         }
         .btn-rakuten:hover { transform: translateY(-5px); background-color: #a00000; box-shadow: 0 20px 40px rgba(191, 0, 0, 0.35); }
+        .btn-coupang {
+            display: inline-block;
+            background-color: #e7422d;
+            color: white !important;
+            padding: 20px 50px;
+            font-size: 1.3rem;
+            font-weight: 900;
+            border-radius: 60px;
+            text-decoration: none;
+            box-shadow: 0 15px 30px rgba(231, 66, 45, 0.28);
+            transition: all 0.3s;
+        }
+        .btn-coupang:hover { transform: translateY(-5px); background-color: #c93624; }
+        .booking-disclosure {
+            margin: 14px auto 0;
+            max-width: 36rem;
+            font-size: 0.78rem;
+            line-height: 1.5;
+            color: #666;
+        }
         .booking-note {
             margin-top: 18px;
             font-size: 0.8rem;
@@ -223,7 +250,7 @@
             .detail-title { font-size: 1.9rem; }
             .onsen-body-content { font-size: 1.1rem; }
             .booking-section { padding: 30px 20px; }
-            .btn-klook, .btn-rakuten { font-size: 1.1rem; width: 100%; box-sizing: border-box; }
+            .btn-klook, .btn-rakuten, .btn-coupang { font-size: 1.1rem; width: 100%; box-sizing: border-box; }
         }
     </style>
 

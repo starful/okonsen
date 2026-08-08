@@ -53,7 +53,8 @@ def test_rakuten_context_korean_labels():
     ctx = rakuten_context("hakone_pax_yoshino_ko", lang="ko")
     assert ctx["region_label"] == "하코네"
     assert "하코네" in ctx["rakuten_button_label"]
-    assert "새 탭" in ctx["booking_desc"]
+    assert "쿠팡" in ctx["booking_desc"] or "라쿠텐" in ctx["booking_desc"]
+    assert ctx["show_coupang"] is True
     assert "AenqagWg" in ctx["klook_url"]
     assert ctx["klook_intent"] == "hakone_tours"
 
@@ -89,3 +90,18 @@ def test_travel_daybath_vs_stay():
     ctx = rakuten_context("hakone_day_trip_guide_ko", lang="ko")
     assert ctx["travel_intent"] == "daybath"
     assert "당일" in ctx["rakuten_button_label"]
+
+
+def test_coupang_ko_only_and_hakone_intent():
+    from rakuten_affiliate import coupang_url_for, resolve_coupang_intent
+
+    assert resolve_coupang_intent("hakone_day_trip_guide_ko") == "hakone"
+    assert "f28SBETBgi" in coupang_url_for("hakone_day_trip_guide_ko")
+    assert resolve_coupang_intent("kusatsu_onsen_tokinoniwa_ko") == "japan"
+    ctx_ko = rakuten_context("hakone_pax_yoshino_ko", lang="ko")
+    assert ctx_ko["show_coupang"] is True
+    assert "f28SBETBgi" in ctx_ko["coupang_url"]
+    assert "쿠팡 파트너스" in ctx_ko["coupang_disclosure"]
+    ctx_en = rakuten_context("hakone_pax_yoshino_en", lang="en")
+    assert ctx_en["show_coupang"] is False
+    assert not ctx_en["coupang_url"]

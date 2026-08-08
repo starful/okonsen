@@ -162,6 +162,13 @@
             transition: all 0.3s;
         }
         .btn-klook:hover { transform: translateY(-4px); background-color: #2980b9; }
+        .btn-klook--secondary {
+            background-color: #64748b;
+            box-shadow: 0 8px 16px rgba(100, 116, 139, 0.22);
+            font-size: 1rem;
+            padding: 14px 28px;
+        }
+        .btn-klook--secondary:hover { background-color: #475569; }
         .btn-rakuten {
             display: inline-block;
             background-color: #bf0000;
@@ -175,6 +182,26 @@
             transition: all 0.3s;
         }
         .btn-rakuten:hover { transform: translateY(-4px); background-color: #a00000; }
+        .btn-coupang {
+            display: inline-block;
+            background-color: #e7422d;
+            color: white !important;
+            padding: 16px 36px;
+            font-size: 1.1rem;
+            font-weight: 900;
+            border-radius: 60px;
+            text-decoration: none;
+            box-shadow: 0 12px 24px rgba(231, 66, 45, 0.28);
+            transition: all 0.3s;
+        }
+        .btn-coupang:hover { transform: translateY(-4px); background-color: #c93624; }
+        .booking-disclosure {
+            margin: 14px auto 0;
+            max-width: 36rem;
+            font-size: 0.78rem;
+            line-height: 1.5;
+            color: #666;
+        }
         .booking-note {
             margin-top: 16px;
             font-size: 0.8rem;
@@ -227,7 +254,7 @@
                 font-size: 1.05rem;
             }
             .booking-section { padding: 28px 18px; }
-            .btn-klook, .btn-rakuten { width: 100%; box-sizing: border-box; }
+            .btn-klook, .btn-rakuten, .btn-coupang { width: 100%; box-sizing: border-box; }
         }
     </style>
 

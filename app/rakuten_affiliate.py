@@ -109,6 +109,39 @@ _KLOOK = {
     "fallback_en": "https://klook.tpo.mx/CSoHIup8",
 }
 
+# Coupang Partners (KO UI only).
+COUPANG_DISCLOSURE_KO = (
+    "이 포스팅은 쿠팡 파트너스 활동의 일환으로, "
+    "이에 따른 일정액의 수수료를 제공받습니다."
+)
+_COUPANG = {
+    "fallback": "https://link.coupang.com/a/f28OZJUsfI",
+    "japan": "https://link.coupang.com/a/f28Q4FLTmC",
+    "hakone": "https://link.coupang.com/a/f28SBETBgi",
+}
+
+
+def resolve_coupang_intent(slug: str) -> str:
+    """hakone → hakone; known JP onsen regions → japan; else fallback."""
+    region = resolve_region_from_slug(slug)
+    base = _strip_lang_suffix(slug)
+    parts = base.split("_")
+    explicit = region in parts or region in base
+    if not explicit:
+        for alias, mapped in SLUG_ALIASES.items():
+            if mapped == region and (base == alias or base.startswith(alias + "_")):
+                explicit = True
+                break
+    if region == "hakone" and explicit:
+        return "hakone"
+    if explicit and region in _REGION_STAY_KEYWORDS:
+        return "japan"
+    return "fallback"
+
+
+def coupang_url_for(slug: str) -> str:
+    return _COUPANG[resolve_coupang_intent(slug)]
+
 
 def _strip_lang_suffix(slug: str) -> str:
     base = (slug or "").strip().lower()
@@ -202,8 +235,8 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
                 f"당일 입욕은 외부 사이트에서 {region_label} 지역을 검색하세요"
             )
             booking_desc = (
-                "이 페이지는 소개 글입니다. 버튼을 누르면 새 탭에서 "
-                "Klook 또는 라쿠텐 트래블(당일·입욕 검색)이 열립니다."
+                "이 페이지는 소개 글입니다. 라쿠텐(숙·당일), 쿠팡트래블, "
+                "Klook에서 검색할 수 있습니다."
             )
             rakuten_button_label = f"라쿠텐에서 {region_label} 당일 입욕 검색 ↗"
         else:
@@ -211,9 +244,8 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
                 f"예약은 외부 사이트에서 {region_label} 지역 숙소·투어를 검색하세요"
             )
             booking_desc = (
-                "이 페이지는 소개 글입니다. 버튼을 누르면 새 탭에서 "
-                "Klook 또는 라쿠텐 트래블이 열리며, 이 료칸의 직접 예약 페이지가 "
-                "아닐 수 있습니다."
+                "이 페이지는 소개 글입니다. 라쿠텐 트래블·쿠팡트래블·Klook으로 "
+                "연결되며, 이 료칸의 직접 예약 페이지가 아닐 수 있습니다."
             )
             rakuten_button_label = f"라쿠텐에서 {region_label} 료칸 검색 ↗"
         if klook_intent == "hakone_daypass":
@@ -222,6 +254,11 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
             klook_button_label = "Klook에서 하코네 교통·패스 보기 ↗"
         else:
             klook_button_label = "Klook에서 투어·패스 보기 ↗"
+        coupang_button_label = "쿠팡트래블에서 여행·패스 보기 ↗"
+        coupang_intent = resolve_coupang_intent(slug)
+        show_coupang = True
+        coupang_url = coupang_url_for(slug)
+        coupang_disclosure = COUPANG_DISCLOSURE_KO
     else:
         if travel_intent == "daybath":
             booking_title = (
@@ -250,6 +287,11 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
             klook_button_label = "Hakone transport & passes on Klook ↗"
         else:
             klook_button_label = "Tours & passes on Klook ↗"
+        coupang_button_label = ""
+        coupang_intent = ""
+        show_coupang = False
+        coupang_url = ""
+        coupang_disclosure = ""
 
     return {
         "rakuten_region": region,
@@ -258,6 +300,11 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
         "travel_intent": travel_intent,
         "klook_url": klook_url_for(slug, lang=lang),
         "klook_intent": klook_intent,
+        "show_coupang": show_coupang,
+        "coupang_url": coupang_url,
+        "coupang_intent": coupang_intent,
+        "coupang_button_label": coupang_button_label,
+        "coupang_disclosure": coupang_disclosure,
         "booking_title": booking_title,
         "booking_desc": booking_desc,
         "klook_button_label": klook_button_label,
