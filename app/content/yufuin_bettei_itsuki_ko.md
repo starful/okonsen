@@ -18,14 +18,13 @@ lng: 131.3588
 summary: 유후인 벳테이 이츠키는 오이타 유후인의 그림 같은 자연 속에 자리한 럭셔리 료칸으로, 완벽한 프라이빗 온천 경험을 제공합니다. 전
   객실에 딸린 전용 노천탕과 아름다운 정원, 그리고 최고급 가이세키 요리가 어우러져 잊을 수 없는 추억을 선사합니다. 번잡함에서 벗어나 오직 당신과
   당신의 소중한 이들을 위한 고요하고 안락한 휴식을 경험해보세요.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_bettei_itsuki.jpg"
-title: "유후인 벳테이 이츠키: 프라이빗 독채와 개인 노천탕을 갖춘 프리미엄 료칸"
-description: 유후인 벳테이 이츠키는 전 객실 독채 구조와 개인 노천탕을 갖춘 최고급 료칸입니다. 조용한 숲속에서 프라이빗한 온천욕과 계절
-  가이세키 요리를 즐기며 진정한 힐링을 경험해보세요.
-seo_title: "유후인 벳테이 이츠키 료칸 추천: 독채 객실·전용 노천탕 온천 예약 가이드"
-seo_description: 유후인 벳테이 이츠키 — 전 객실 독채 구조, 전용 노천탕, 계절 가이세키 요리. 예약 방법부터 체크인 팁까지
-  유후인 프리미엄 료칸 완벽 가이드.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yufuin_bettei_itsuki.jpg
+title: '유후인 벳테이 이츠키: 프라이빗 온천 독채 료칸'
+description: 유후인의 럭셔리 료칸. 각 객실 프라이빗 노천탕, 정원, 고급 가이세키. 최고의 온천 경험을 만나세요.
+seo_title: 유후인 벳테이 이츠키 - 프라이빗 온천 료칸 | OKOnsen
+seo_description: 유후인 벳테이 이츠키의 럭셔리 료칸입니다. 각 객실에 프라이빗 노천탕, 정원, 고급 가이세키. 최고의 온천 여행을 경험하세요.
 ---
+
 
 ## 소개
 

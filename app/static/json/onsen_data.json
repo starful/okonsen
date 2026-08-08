@@ -1,6 +1,39 @@
 {
-  "last_updated": "2026.08.05 16:27",
+  "last_updated": "2026.08.08 09:08",
   "onsens": [
+    {
+      "id": "nyuto_onsen_kuroyu_en",
+      "lang": "en",
+      "title": "Nyuto Onsen Kuroyu: Akita's Legendary Hidden Hot Spring Retreat",
+      "lat": 39.8111,
+      "lng": 140.7911,
+      "categories": [
+        "Hot Springs",
+        "Ryokan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_kuroyu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-08-08",
+      "summary": "Deep in the beech forests of Nyuto Onsen, Kuroyu preserves a thatched-roof world where thermal rivers, milky sulfur baths, and irori hearths have changed little in three centuries. This is Japan's most atmospheric mixed-bathing onsen for travelers chasing authenticity over polish. Expect wood smoke, mountain silence, and water so mineral-rich it stains stone gold.",
+      "link": "/onsen/nyuto_onsen_kuroyu_en"
+    },
+    {
+      "id": "ginzan_onsen_izu_no_hana_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Izu no Hana: A Gaslit Dream in Obanazawa, Yamagata",
+      "lat": 38.5719,
+      "lng": 140.5319,
+      "categories": [
+        "Onsen Ryokan",
+        "Yamagata Travel",
+        "Hot Spring Guide"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-08-08",
+      "summary": "Izu no Hana is a storied wooden ryokan on the banks of the Ginzan River, where gaslamps, mineral-rich waters, and Yamagata kaiseki cuisine combine into one of Japan's most cinematic onsen experiences. This guide explores its Taisho-era architecture, the chemistry of its baths, and everything you need to plan a flawless stay in Obanazawa.",
+      "link": "/onsen/ginzan_onsen_izu_no_hana_en"
+    },
     {
       "id": "ginzan_onsen_yanadaya_ko",
       "lang": "ko",
@@ -707,7 +740,7 @@
     {
       "id": "kinosaki_onsen_tsubakino_ryokan_en",
       "lang": "en",
-      "title": "Tsubakino Ryokan Kinosaki Onsen - Japan's Premier Crab Kaiseki & Private Onsen",
+      "title": "Tsubakino Ryokan Kinosaki Onsen | Crab Kaiseki & Private Onsen",
       "lat": 35.6222,
       "lng": 134.8133,
       "categories": [
@@ -745,7 +778,7 @@
     {
       "id": "kinosaki_onsen_mikuniya_en",
       "lang": "en",
-      "title": "Mikuniya Ryokan Kinosaki: Premium Traditional Onsen Inn",
+      "title": "Mikuniya Ryokan: Experience Premium Kinosaki Onsen Luxury",
       "lat": 35.6266,
       "lng": 134.8144,
       "categories": [
@@ -778,7 +811,7 @@
     {
       "id": "kusatsu_onsen_hotel_sakurai_ko",
       "lang": "ko",
-      "title": "쿠사츠 온센 호텔 사쿠라이 - 최고급 온천 리조트 가이드 및 예약 - OKOnsen",
+      "title": "쿠사츠 온센 호텔 사쿠라이 - 최고급 온천 리조트 가이드 및 예약 - OKOnsen - OKOnsen",
       "lat": 36.6205,
       "lng": 138.5999,
       "categories": [
@@ -827,7 +860,7 @@
     {
       "id": "kurokawa_onsen_ryokan_sanga_ko",
       "lang": "ko",
-      "title": "구로카와 온천 료칸 산가: 프라이빗 노천탕과 가이세키 완벽 가이드",
+      "title": "구로카와 온천 산가 료칸 | 프라이빗 노천탕 & 최고급 가이세키",
       "lat": 33.0788,
       "lng": 131.1322,
       "categories": [
@@ -861,7 +894,7 @@
     {
       "id": "kurokawa_onsen_okyakuya_ko",
       "lang": "ko",
-      "title": "흑천 온천 오캬쿠야: 구마모토 쿠로카와의 로컬 온천 여행지",
+      "title": "흑천온천 오캬쿠야 | 구마모토 가족 독채온천 숙박 - OKOnsen",
       "lat": 33.0815,
       "lng": 131.1405,
       "categories": [
@@ -893,7 +926,7 @@
     {
       "id": "kurokawa_onsen_nanjoen_en",
       "lang": "en",
-      "title": "Kurokawa Onsen Nanjoen: Embrace Authentic Kumamoto Luxury Where Tattoos Are Celebrated",
+      "title": "Kurokawa Onsen Nanjoen | Luxury Ryokan Kumamoto | OKOnsen",
       "lat": 33.0812,
       "lng": 131.1433,
       "categories": [
@@ -1093,7 +1126,7 @@
     {
       "id": "kusatsu_onsen_daitokan_ko",
       "lang": "ko",
-      "title": "구사쓰 온천 다이토칸: 일본 3대 명천의 최고급 료칸 체험",
+      "title": "다이토칸 | 구사쓰 온천 최고급 료칸 추천 - OKOnsen",
       "lat": 36.6222,
       "lng": 138.5977,
       "categories": [
@@ -1292,7 +1325,7 @@
     {
       "id": "matsuzakaya_honten_en",
       "lang": "en",
-      "title": "Matsuzakaya Honten: Luxury Onsen Ryokan in Hakone",
+      "title": "Matsuzakaya Honten: Luxury Onsen Ryokan in Hakone - OKOnsen",
       "lat": 35.2155,
       "lng": 139.0456,
       "categories": [

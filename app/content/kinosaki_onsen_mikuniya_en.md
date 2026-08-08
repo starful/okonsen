@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 'Mikuniya Ryokan: Experience Premium Kinosaki Onsen Luxury'
+title: 'Mikuniya Ryokan Kinosaki: Private Onsen & Kaiseki Dining Experience'
 lat: 35.6266
 lng: 134.8144
 categories:
@@ -15,12 +15,13 @@ summary: Mikuniya Ryokan in Kinosaki Onsen offers a sanctuary of refined tranqui
   hospitality, exquisite cuisine, and rejuvenating waters in this exquisitely preserved
   traditional inn. This is more than a stay; it's an immersion into the heart of Japan's
   onsen tradition.
-description: Experience luxury Kinosaki Onsen at Mikuniya Ryokan. Premium service,
-  authentic kaiseki dining & rejuvenating hot springs. Reserve your stay.
-seo_title: 'Mikuniya Ryokan Kinosaki: Premium Hot Spring Experience - Book Now'
-seo_description: Experience luxury Kinosaki Onsen at Mikuniya Ryokan. Premium service,
-  authentic kaiseki dining & rejuvenating hot springs. Reserve your stay.
+description: Luxury ryokan in Kinosaki with private hot spring baths, kaiseki cuisine
+  & geisha district. Book your authentic Japanese onsen getaway today.
+seo_title: 'Mikuniya Ryokan: Private Onsen, Kaiseki & Geisha in Kinosaki'
+seo_description: Premium Kinosaki ryokan with private onsen baths, award-winning kaiseki
+  meals, traditional geisha entertainment. Reserve your luxury stay.
 ---
+
 
 
 
