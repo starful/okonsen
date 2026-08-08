@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 'Arima Onsen Tosen Goshobo: Inside Kobe''s Oldest Luxury Ryokan'
+title: 'Arima Onsen Tosen Goshobo: Inside Kobe''s Oldest Luxury Ryokan - OKOnsen'
 lat: 34.7966
 lng: 135.2477
 categories:
@@ -15,12 +15,13 @@ summary: Immerse yourself in centuries of tradition and unparalleled luxury at A
   an in-depth exploration of its historic Kinsen baths, exquisite kaiseki dining,
   refined Japanese architecture, and the serene ambiance that defines this iconic
   retreat in the heart of Arima Onsen.
-description: Kobe's most historic ryokan awaits—golden Kinsen baths, exquisite kaiseki
-  dining & centuries of tradition. Discover Tosen Goshobo's timeless luxury.
-seo_title: 'Arima Onsen Tosen Goshobo Review: Kinsen Baths, Kaiseki & Japan''s Oldest Ryokan'
-seo_description: Japan's oldest ryokan in Arima Onsen — golden Kinsen baths, multi-course
-  kaiseki & historic rooms. Honest review + what to book before it sells out.
+description: Kobe's oldest and most prestigious luxury ryokan offering centuries of
+  tradition, historic Kinsen baths, and exquisite kaiseki dining.
+seo_title: 'Arima Onsen Tosen Goshobo: Kobe''s Most Exclusive Luxury Ryokan'
+seo_description: Experience Arima Onsen's most exclusive ryokan. Centuries-old Kinsen
+  baths, exceptional kaiseki dining, and refined Japanese hospitality.
 ---
+
 
 
 

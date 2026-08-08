@@ -25,14 +25,14 @@ summary: Nestled in the breathtaking landscapes of Hakone, Matsuzakaya Honten st
   exquisite kaiseki, and stunning natural vistas converge to create an unparalleled
   luxury retreat.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/matsuzakaya_honten.jpg
-title: 'Matsuzakaya Honten: Luxury Onsen Ryokan in Hakone - OKOnsen'
-description: Luxury onsen ryokan in Hakone's breathtaking landscape. Private baths,
-  exquisite kaiseki, mountain views. Authentic Japanese hospitality welcoming all
-  guests.
-seo_title: 'Matsuzakaya Honten: Luxury Ryokan in Hakone with Private Onsen'
-seo_description: Luxury onsen ryokan in Hakone with private baths, kaiseki dining
-  & mountain views. Tattoo-friendly. Experience authentic Japanese hospitality.
+title: 'Matsuzakaya Honten: Hakone''s Premier Tattoo-Friendly Ryokan'
+description: Luxury Hakone ryokan with private onsen and kaiseki dining. Tattoo-friendly.
+  Authentic Japanese hospitality in stunning mountain views.
+seo_title: 'Matsuzakaya Honten: Hakone''s Premier Tattoo-Friendly Ryokan'
+seo_description: Luxury Hakone ryokan with private onsen and kaiseki dining. Tattoo-friendly.
+  Authentic Japanese hospitality in stunning mountain views.
 ---
+
 
 
 
