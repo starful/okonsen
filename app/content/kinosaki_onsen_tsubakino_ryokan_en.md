@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Tsubakino Ryokan Kinosaki Onsen | Crab Kaiseki & Private Onsen
+title: Tsubakino Ryokan Kinosaki | Luxury Crab Kaiseki & Private Onsen
 lat: 35.6222
 lng: 134.8133
 categories:
@@ -17,12 +17,14 @@ summary: Tsubakino Ryokan offers an immersive experience in the heart of Kinosak
   comfort, renowned for its exquisite crab-focused kaiseki cuisine and rejuvenating
   onsen waters. Explore this comprehensive guide for an in-depth look at Tsubakino's
   charm, from its historical roots to practical travel tips.
-description: 'Discover Tsubakino Ryokan: crab kaiseki & private onsen in Kinosaki.
-  Top-rated traditional ryokan with modern amenities. Reviews & booking guide.'
-seo_title: Tsubakino Ryokan Kinosaki Onsen | Crab Kaiseki & Private Onsen
-seo_description: 'Discover Tsubakino Ryokan: crab kaiseki & private onsen in Kinosaki.
-  Top-rated traditional ryokan with modern amenities. Reviews & booking guide.'
+description: 'Discover Tsubakino Ryokan: luxury crab kaiseki dining, private onsen
+  baths & authentic Japanese hospitality in Kinosaki. Book your retreat.'
+seo_title: Tsubakino Ryokan Kinosaki Onsen | Luxury Crab Kaiseki & Private Onsen -
+  OKOnsen
+seo_description: 'Discover Tsubakino Ryokan: luxury crab kaiseki dining, private onsen
+  baths & authentic Japanese hospitality in Kinosaki. Book your retreat.'
 ---
+
 
 
 
