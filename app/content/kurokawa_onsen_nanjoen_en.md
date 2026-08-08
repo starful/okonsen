@@ -22,17 +22,14 @@ summary: Discover Kurokawa Onsen Nanjoen, a truly unique Kumamoto ryokan where t
   charm, exquisite **private bathing**, and breathtaking natural beauty that awaits
   in this authentic sanctuary.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_nanjoen.jpg
-title: Kurokawa Onsen Nanjoen | Luxury Ryokan Kumamoto | OKOnsen - OKOnsen
-description: Discover Kurokawa Onsen Nanjoen, a truly unique Kumamoto ryokan where
-  the warmth of **local hospitality** embraces every guest. Immerse yourself in the
-  therapeutic embrace of its mineral-rich waters, knowing that **tattoos are respectfully
-  welcomed**, a rare and refreshing policy. Experience the unparalleled blend of traditional
-  Japanese charm, exquisite **private bathing**, and breathtaking natural beauty that
-  awaits in this authentic sanctuary.
-seo_title: Kurokawa Onsen Nanjoen | Tattoo-Friendly Luxury Ryokan | Kumamoto | OKOnsen
-seo_description: Luxury Kumamoto ryokan with rare tattoo-friendly policy. Enjoy mineral-rich
-  onsen, private baths & authentic hospitality in pristine Kurokawa nature.
+title: Kurokawa Onsen Nanjoen | Tattoo-Friendly Luxury Ryokan Kumamoto
+description: Tattoo-friendly luxury ryokan in Kurokawa Onsen, Kumamoto. Enjoy private
+  mineral-rich hot springs, traditional charm, and warm local hospitality.
+seo_title: Kurokawa Onsen Nanjoen | Tattoo-Friendly Luxury Ryokan Kumamoto
+seo_description: Tattoo-friendly luxury ryokan in Kurokawa Onsen, Kumamoto. Enjoy
+  private mineral-rich hot springs, traditional charm, and warm local hospitality.
 ---
+
 
 
 
