@@ -55,8 +55,8 @@ def test_rakuten_context_korean_labels():
     assert "하코네" in ctx["rakuten_button_label"]
     assert "쿠팡" in ctx["booking_desc"] or "라쿠텐" in ctx["booking_desc"]
     assert ctx["show_coupang"] is True
-    assert "AenqagWg" in ctx["klook_url"]
-    assert ctx["klook_intent"] == "hakone_tours"
+    assert ctx["show_klook"] is False
+    assert not ctx["klook_url"]
 
 
 def test_klook_hakone_day_trip():

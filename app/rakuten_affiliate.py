@@ -229,14 +229,15 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
     )
     region_label = label_ko if is_ko else label_en
 
+    show_klook = not is_ko
     if is_ko:
         if travel_intent == "daybath":
             booking_title = (
                 f"당일 입욕은 외부 사이트에서 {region_label} 지역을 검색하세요"
             )
             booking_desc = (
-                "이 페이지는 소개 글입니다. 라쿠텐(숙·당일), 쿠팡트래블, "
-                "Klook에서 검색할 수 있습니다."
+                "이 페이지는 소개 글입니다. 라쿠텐(숙·당일)과 쿠팡트래블에서 "
+                "검색할 수 있습니다."
             )
             rakuten_button_label = f"라쿠텐에서 {region_label} 당일 입욕 검색 ↗"
         else:
@@ -244,16 +245,11 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
                 f"예약은 외부 사이트에서 {region_label} 지역 숙소·투어를 검색하세요"
             )
             booking_desc = (
-                "이 페이지는 소개 글입니다. 라쿠텐 트래블·쿠팡트래블·Klook으로 "
+                "이 페이지는 소개 글입니다. 라쿠텐 트래블·쿠팡트래블로 "
                 "연결되며, 이 료칸의 직접 예약 페이지가 아닐 수 있습니다."
             )
             rakuten_button_label = f"라쿠텐에서 {region_label} 료칸 검색 ↗"
-        if klook_intent == "hakone_daypass":
-            klook_button_label = "Klook에서 하코네 당일·패스 보기 ↗"
-        elif klook_intent == "hakone_transport":
-            klook_button_label = "Klook에서 하코네 교통·패스 보기 ↗"
-        else:
-            klook_button_label = "Klook에서 투어·패스 보기 ↗"
+        klook_button_label = ""
         coupang_button_label = "쿠팡트래블에서 여행·패스 보기 ↗"
         coupang_intent = resolve_coupang_intent(slug)
         show_coupang = True
@@ -298,8 +294,9 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
         "region_label": region_label,
         "rakuten_search_url": rakuten_url_for(slug),
         "travel_intent": travel_intent,
-        "klook_url": klook_url_for(slug, lang=lang),
-        "klook_intent": klook_intent,
+        "show_klook": show_klook,
+        "klook_url": klook_url_for(slug, lang=lang) if show_klook else "",
+        "klook_intent": klook_intent if show_klook else "",
         "show_coupang": show_coupang,
         "coupang_url": coupang_url,
         "coupang_intent": coupang_intent,

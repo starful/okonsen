@@ -25,15 +25,17 @@
             {{ coupang_button_label }}
         </a>
         {% endif %}
+        {% if show_klook and klook_url %}
         <a href="{{ klook_url }}"
            target="_blank"
            rel="nofollow sponsored noopener noreferrer"
-           class="btn-klook {% if show_coupang %}btn-klook--secondary{% endif %}"
-           title="{{ 'Klook에서 열기 (새 탭)' if lang == 'ko' else 'Opens Klook in a new tab' }}"
+           class="btn-klook"
+           title="Opens Klook in a new tab"
            data-track="affiliate_klook"
            data-track-label="{{ klook_intent or 'klook' }}">
             {{ klook_button_label }}
         </a>
+        {% endif %}
     </div>
     {% if coupang_disclosure %}
     <p class="booking-disclosure">{{ coupang_disclosure }}</p>
