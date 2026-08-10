@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "Kinosaki Onsen Tokiwa: A Timeless Retreat in Japan's Onsen Paradise"
+title: Tokiwa Ryokan | Kinosaki Onsen Luxury Hot Spring Resort
 lat: 35.6225
 lng: 134.8128
 categories:
@@ -10,15 +10,21 @@ categories:
 - Hyogo
 - Luxury Travel
 - Japan Travel
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg
 address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-06-27'
-summary: "Kinosaki Onsen Tokiwa offers an enchanting escape into traditional Japanese\
-  \ hospitality. Nestled in the heart of Kinosaki, this ryokan provides unparalleled\
-  \ access to the town's seven iconic public onsen. Experience the ultimate relaxation\
-  \ with exquisite cuisine, elegant rooms, and a serene atmosphere steeped in history\
-  \ and natural beauty."
+summary: Kinosaki Onsen Tokiwa offers an enchanting escape into traditional Japanese
+  hospitality. Nestled in the heart of Kinosaki, this ryokan provides unparalleled
+  access to the town's seven iconic public onsen. Experience the ultimate relaxation
+  with exquisite cuisine, elegant rooms, and a serene atmosphere steeped in history
+  and natural beauty.
+description: Stay at Tokiwa Ryokan, a luxury hot spring resort in Kinosaki Onsen.
+  Access 7 public onsen, enjoy exquisite cuisine & elegant traditional rooms.
+seo_title: Tokiwa Ryokan | Kinosaki Onsen Luxury Hot Spring Resort Japan
+seo_description: Experience Tokiwa Ryokan - a luxury hot spring resort in Kinosaki
+  Onsen. Direct access to 7 iconic onsen, fine dining, & traditional Japanese hospitality.
 ---
+
 
 ## Introduction
 

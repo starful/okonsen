@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026.08.08 09:08",
+  "last_updated": "2026.08.11 08:17",
   "onsens": [
+    {
+      "id": "nyuto_onsen_tae-no-yu_en",
+      "lang": "en",
+      "title": "Tae-no-yu: Nyuto Onsen's Timeless Milky Bathhouse in Akita",
+      "lat": 39.8055,
+      "lng": 140.7955,
+      "categories": [
+        "Onsen",
+        "Ryokan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_tae-no-yu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-08-11",
+      "summary": "Deep in the beech forests of Nyuto Onsen, Tae-no-yu remains one of Japan's last true thatched-roof bathhouses, unchanged in spirit for over three centuries. Its milky-white sulfur waters, wood-smoke-scented rooms, and rustic Kaiseki cuisine offer a rare, unfiltered encounter with old Tohoku. This is a guide for travelers who want the real, weathered version of a mountain onsen — not a polished imitation.",
+      "link": "/onsen/nyuto_onsen_tae-no-yu_en"
+    },
+    {
+      "id": "nyuto_onsen_magoroku_en",
+      "lang": "en",
+      "title": "Nyuto Onsen Magoroku: Akita's Legendary Milky-White Hot Spring Retreat",
+      "lat": 39.8088,
+      "lng": 140.7988,
+      "categories": [
+        "Onsen Ryokan",
+        "Hidden Hot Springs"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_magoroku.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-08-11",
+      "summary": "Tucked deep in the beech forests of Nyuto Onsen, Magoroku is a 300-year-old thatched-roof ryokan famous for its milky sulfur bath and rustic mountain charm. It offers a rare, unfiltered glimpse into Edo-period bathing culture, complete with wooden corridors, irori hearths, and seasonal kaiseki cuisine. For travelers seeking Japan's most authentic onsen experience, Magoroku remains an unmissable pilgrimage.",
+      "link": "/onsen/nyuto_onsen_magoroku_en"
+    },
+    {
+      "id": "nyuto_onsen_ganiba_en",
+      "lang": "en",
+      "title": "Ganiba Onsen: The Secret Milky-White Bath Deep in Nyuto's Beech Forest",
+      "lat": 39.8155,
+      "lng": 140.7955,
+      "categories": [
+        "Onsen Ryokan",
+        "Hot Spring Retreat"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-08-11",
+      "summary": "Ganiba Onsen is the smallest and most secluded of the seven hot springs scattered through the Nyuto Onsenkyo valley, reachable only by a narrow forest track above Tsurunoyu. Its milky sulfur water, wood-smoke-scented rooms, and near-total absence of modern distraction make it a pilgrimage site for onsen purists. This guide covers everything from the mineral chemistry of its baths to the exact turns you need to find the place.",
+      "link": "/onsen/nyuto_onsen_ganiba_en"
+    },
     {
       "id": "nyuto_onsen_kuroyu_en",
       "lang": "en",
@@ -634,7 +682,7 @@
     {
       "id": "arima_onsen_tosen_goshobo_en",
       "lang": "en",
-      "title": "Arima Onsen Tosen Goshobo: Inside Kobe's Oldest Luxury Ryokan",
+      "title": "Arima Onsen Tosen Goshobo: Inside Kobe's Oldest Luxury Ryokan - OKOnsen",
       "lat": 34.7966,
       "lng": 135.2477,
       "categories": [
@@ -651,7 +699,7 @@
     {
       "id": "arima_onsen_arima_grand_hotel_ko",
       "lang": "ko",
-      "title": "아리마 그랜드 호텔: 금천·은천 온천 료칸 예약 완벽 가이드",
+      "title": "아리마 그랜드 호텔 온천 료칸 | 금천·은천 2가지 온천 | OKOnsen",
       "lat": 34.7955,
       "lng": 135.2455,
       "categories": [
@@ -740,7 +788,7 @@
     {
       "id": "kinosaki_onsen_tsubakino_ryokan_en",
       "lang": "en",
-      "title": "Tsubakino Ryokan Kinosaki Onsen | Crab Kaiseki & Private Onsen",
+      "title": "Tsubakino Ryokan Kinosaki | Luxury Crab Kaiseki & Private Onsen",
       "lat": 35.6222,
       "lng": 134.8133,
       "categories": [
@@ -778,7 +826,7 @@
     {
       "id": "kinosaki_onsen_mikuniya_en",
       "lang": "en",
-      "title": "Mikuniya Ryokan: Experience Premium Kinosaki Onsen Luxury",
+      "title": "Mikuniya Ryokan Kinosaki: Private Onsen & Kaiseki Dining Experience",
       "lat": 35.6266,
       "lng": 134.8144,
       "categories": [
@@ -795,7 +843,7 @@
     {
       "id": "kusatsu_onsen_ryokan_yoshinoya_en",
       "lang": "en",
-      "title": "Kusatsu Onsen Ryokan Yoshinoya: Exclusive Private Baths & Stay Guide",
+      "title": "Kusatsu Onsen Ryokan Yoshinoya: Luxury Private Baths & Stay Guide | OKOnsen",
       "lat": 36.6241,
       "lng": 138.5962,
       "categories": [
@@ -811,7 +859,7 @@
     {
       "id": "kusatsu_onsen_hotel_sakurai_ko",
       "lang": "ko",
-      "title": "쿠사츠 온센 호텔 사쿠라이 - 최고급 온천 리조트 가이드 및 예약 - OKOnsen - OKOnsen",
+      "title": "쿠사츠 온센 호텔 사쿠라이 | 프리미엄 온천 리조트",
       "lat": 36.6205,
       "lng": 138.5999,
       "categories": [
@@ -860,7 +908,7 @@
     {
       "id": "kurokawa_onsen_ryokan_sanga_ko",
       "lang": "ko",
-      "title": "구로카와 온천 산가 료칸 | 프라이빗 노천탕 & 최고급 가이세키",
+      "title": "구로카와 온천 산가 료칸 | 프라이빗 노천탕 &amp; 고급 가이세키 - OKOnsen - OKOnsen",
       "lat": 33.0788,
       "lng": 131.1322,
       "categories": [
@@ -894,7 +942,7 @@
     {
       "id": "kurokawa_onsen_okyakuya_ko",
       "lang": "ko",
-      "title": "흑천온천 오캬쿠야 | 구마모토 가족 독채온천 숙박 - OKOnsen",
+      "title": "흑천온천 오캬쿠야 | 구마모토 가족 독채온천 - OKOnsen",
       "lat": 33.0815,
       "lng": 131.1405,
       "categories": [
@@ -926,7 +974,7 @@
     {
       "id": "kurokawa_onsen_nanjoen_en",
       "lang": "en",
-      "title": "Kurokawa Onsen Nanjoen | Luxury Ryokan Kumamoto | OKOnsen",
+      "title": "Kurokawa Onsen Nanjoen | Tattoo-Friendly Luxury Ryokan Kumamoto",
       "lat": 33.0812,
       "lng": 131.1433,
       "categories": [
@@ -1142,7 +1190,7 @@
     {
       "id": "yufuin_ryokan_seikoen_ko",
       "lang": "ko",
-      "title": "유후인 세이코엔 료칸 추천: 프라이빗 가족탕과 가이세키 완벽 가이드",
+      "title": "유후인 세이코엔 료칸: 프라이빗 가족탕과 가이세키 완벽 가이드 - OKOnsen",
       "lat": 33.2699,
       "lng": 131.3677,
       "categories": [
@@ -1225,7 +1273,7 @@
     {
       "id": "yufuin_bettei_itsuki_ko",
       "lang": "ko",
-      "title": "유후인 벳테이 이츠키: 프라이빗 독채와 개인 노천탕을 갖춘 프리미엄 료칸",
+      "title": "유후인 벳테이 이츠키: 프라이빗 온천 독채 료칸",
       "lat": 33.2677,
       "lng": 131.3588,
       "categories": [
@@ -1309,7 +1357,7 @@
     {
       "id": "matsuzakaya_honten_ko",
       "lang": "ko",
-      "title": "하코네 마츠자카야 본점: 타투 허용 프라이빗 온천 료칸",
+      "title": "하코네 마츠자카야 본점 - 타투 허용 온천 료칸",
       "lat": 35.2155,
       "lng": 139.0456,
       "categories": [
@@ -1325,7 +1373,7 @@
     {
       "id": "matsuzakaya_honten_en",
       "lang": "en",
-      "title": "Matsuzakaya Honten: Luxury Onsen Ryokan in Hakone - OKOnsen",
+      "title": "Matsuzakaya Honten: Hakone's Premier Tattoo-Friendly Ryokan",
       "lat": 35.2155,
       "lng": 139.0456,
       "categories": [
