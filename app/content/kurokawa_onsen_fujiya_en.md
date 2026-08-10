@@ -1,22 +1,28 @@
 ---
 lang: en
-title: "Kurokawa Onsen Fujiya: A Deep Dive into Kumamoto's Hidden Gem"
+title: Fujiya Ryokan Kurokawa Onsen - Luxury Onsen & Kaiseki Dining
 lat: 33.0819
 lng: 131.1409
 categories:
 - Onsen Ryokan
 - Luxury Travel
 - Japanese Culture
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_fujiya.jpg"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_fujiya.jpg
 address: Manganji, Minamioguni, Aso District, Kumamoto 869-2402, Japan
 date: '2026-04-16'
-summary: "Fujiya Ryokan in Kurokawa Onsen is more than just a place to stay; it's\
-  \ an immersion into the heart of Japanese hospitality and natural beauty. Nestled\
-  \ within a secluded valley, this meticulously crafted ryokan offers an authentic\
-  \ onsen experience characterized by breathtaking landscapes, exquisite cuisine,\
-  \ and a profound sense of tranquility. Discover the allure of Kurokawa through the\
-  \ lens of Fujiya's unique charm."
+summary: Fujiya Ryokan in Kurokawa Onsen is more than just a place to stay; it's an
+  immersion into the heart of Japanese hospitality and natural beauty. Nestled within
+  a secluded valley, this meticulously crafted ryokan offers an authentic onsen experience
+  characterized by breathtaking landscapes, exquisite cuisine, and a profound sense
+  of tranquility. Discover the allure of Kurokawa through the lens of Fujiya's unique
+  charm.
+description: Discover private hot springs & kaiseki cuisine at Fujiya Ryokan. Authentic
+  Japanese hospitality in Kurokawa's secluded mountains. Book your retreat today.
+seo_title: Fujiya Ryokan Kurokawa Onsen | Private Onsen & Kaiseki Experience
+seo_description: Experience luxury onsen at Fujiya Ryokan in Kurokawa. Private hot
+  springs, award-winning kaiseki & authentic hospitality. Reserve your mountain escape.
 ---
+
 
 ## Introduction
 

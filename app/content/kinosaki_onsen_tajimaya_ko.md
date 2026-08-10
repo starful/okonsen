@@ -1,6 +1,6 @@
 ---
 lang: ko
-title: '기노사키 온천 다지마야 료칸 리뷰: 럭셔리와 프라이빗 온천'
+title: 'Tajimaya Ryokan Review: Luxury Private Baths in Kinosaki Onsen'
 lat: 35.6277
 lng: 134.8155
 categories:
@@ -12,15 +12,17 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tajimaya.jpg
 address: 376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan
 date: '2026-04-16'
-summary: 기노사키 온천의 심장부에 자리한 다지마야 료칸은 일본 전통으로의 비할 데 없는 여정을 선사합니다. 세심하게 관리된 이 료칸은
-  역사적 매력과 현대적 편안함을 매끄럽게 결합해 몰입감 있는 온천 경험을 제공합니다. 정교한 가이세키 요리부터 오타니강을 내려다보는 고요한
-  노천탕까지, 다지마야는 일본 환대의 본질을 구현합니다.
-description: 기노사키 온천의 최고급 럭셔리 료칸 다지마야에 대한 심층 리뷰로, 숨 막히는 프라이빗 온천과 수상 경력의 디자인, 지역
-  다지마규 요리로 유명합니다.
-seo_title: 기노사키 온천 다지마야 료칸 리뷰 & 가이드 | OKOnsen
-seo_description: 기노사키 온천 다지마야 리뷰를 읽어보세요. 이 럭셔리 료칸의 무료 프라이빗 온천, 다지마규 가이세키, 전통 일본
-  정취를 살펴봅니다.
+summary: 기노사키 온천의 심장부에 자리한 다지마야 료칸은 일본 전통으로의 비할 데 없는 여정을 선사합니다. 세심하게 관리된 이 료칸은 역사적
+  매력과 현대적 편안함을 매끄럽게 결합해 몰입감 있는 온천 경험을 제공합니다. 정교한 가이세키 요리부터 오타니강을 내려다보는 고요한 노천탕까지,
+  다지마야는 일본 환대의 본질을 구현합니다.
+description: Luxury ryokan in Kinosaki Onsen featuring private hot baths, exquisite
+  kaiseki dining, and a serene rotenburo overlooking the Otani River. Discover authentic
+  Japanese hospitality at Tajimaya.
+seo_title: 'Tajimaya Ryokan in Kinosaki Onsen: Luxury with Private Baths | OKOnsen'
+seo_description: Luxury ryokan in Kinosaki Onsen with private hot baths, kaiseki cuisine,
+  and rotenburo. Experience authentic Japanese hospitality at Tajimaya.
 ---
+
 
 ## 소개
 

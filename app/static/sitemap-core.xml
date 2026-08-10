@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://okonsen.net/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-11</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://okonsen.net/?lang=ko</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-11</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides?lang=ko</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -43,6 +43,21 @@
   <url>
     <loc>https://okonsen.net/onsen/yufuin_onsen_yufuin-so_ko</loc>
     <lastmod>2026-04-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/nyuto_onsen_tae-no-yu_en</loc>
+    <lastmod>2026-08-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/nyuto_onsen_magoroku_en</loc>
+    <lastmod>2026-08-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/nyuto_onsen_ganiba_en</loc>
+    <lastmod>2026-08-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -486,6 +501,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://okonsen.net/guide/mixed_gender_bathing_konjoku_ko</loc>
+    <lastmod>2026-08-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/mixed_gender_bathing_konjoku_en</loc>
+    <lastmod>2026-08-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/history_of_onsen_culture_ko</loc>
+    <lastmod>2026-08-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/history_of_onsen_culture_en</loc>
+    <lastmod>2026-08-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/guide/pregnant_onsen_safety_ko</loc>
     <lastmod>2026-08-08</lastmod>
     <priority>0.7</priority>
@@ -523,26 +558,6 @@
   <url>
     <loc>https://okonsen.net/guide/family_friendly_onsens_ko</loc>
     <lastmod>2026-07-31</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/family_friendly_onsens_en</loc>
-    <lastmod>2026-07-31</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/couple_romantic_ryokan_en</loc>
-    <lastmod>2026-07-31</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/kinosaki_kusatsu_onsen_course_ko</loc>
-    <lastmod>2026-07-27</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/kinosaki_kusatsu_onsen_course_en</loc>
-    <lastmod>2026-07-27</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
