@@ -21,13 +21,13 @@ summary: Nestled in the heart of legendary Kusatsu Onsen, Yubatake Souan offers 
   can be savored in utmost privacy and style. Prepare for an unforgettable escape
   where relaxation, culture, and personalized luxury converge seamlessly.
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/yubatake_souan.jpg
-title: Yubatake Souan – Kusatsu Ryokan with Private Onsen & Tattoo Welcome
-description: Private onsen ryokan in Kusatsu welcoming guests with tattoos. Traditional
-  Japanese hospitality meets modern comfort in an exclusive setting.
-seo_title: Yubatake Souan – Kusatsu Ryokan with Private Onsen & Tattoo Welcome
-seo_description: Private onsen ryokan in Kusatsu welcoming guests with tattoos. Traditional
-  Japanese hospitality meets modern comfort in an exclusive setting.
+title: Yubatake Souan – Private Onsen Ryokan in Kusatsu (Tattoo-Friendly)
+description: Yubatake Souan – Kusatsu Ryokan with Private Onsen & Tattoo Welcome
+seo_title: Yubatake Souan – Private Onsen Ryokan in Kusatsu (Tattoo-Friendly) | OKOnsen
+seo_description: Private onsen ryokan in Kusatsu—guests with tattoos welcome. Yubatake
+  Souan offers luxury baths, authentic hospitality & traditional service. Reserve.
 ---
+
 
 
 Kusatsu, a name synonymous with Japan's most celebrated onsen, draws countless visitors seeking its unparalleled therapeutic waters. Amidst the charming, steam-filled alleys and the iconic Yubatake, a captivating sanctuary awaits: Yubatake Souan. This ryokan stands out not merely for its superb location and luxurious amenities, but for its rare commitment to embracing both deep-rooted Japanese tradition and a distinctly modern, inclusive spirit, notably its welcoming stance on guests with tattoos. It is a property that understands the essence of Japanese hospitality while quietly, confidently, redefining it for the contemporary traveler.

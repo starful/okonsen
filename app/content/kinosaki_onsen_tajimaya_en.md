@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 'Kinosaki Onsen Tajimaya Ryokan Review: Luxury & Private Baths'
+title: 'Kinosaki Onsen Tajimaya Ryokan Review: Luxury Private Baths & Kaiseki'
 lat: 35.6277
 lng: 134.8155
 categories:
@@ -17,13 +17,13 @@ summary: Tajimaya Ryokan, nestled in the heart of Kinosaki Onsen, offers an unpa
   blends historical charm with modern comforts, providing guests with an immersive
   onsen experience. From its exquisite kaiseki cuisine to its serene rotenburo overlooking
   the Otani River, Tajimaya embodies the essence of Japanese hospitality.
-description: An in-depth review of Tajimaya, a premier luxury ryokan in Kinosaki Onsen
-  famous for its stunning private hot springs, award-winning design, and local Tajima
-  beef cuisine.
-seo_title: Kinosaki Onsen Tajimaya Ryokan Review & Guide | OKOnsen
-seo_description: Read our Kinosaki Onsen Tajimaya review. Explore this luxury ryokan's
-  free private baths, Tajima beef kaiseki, and traditional Japanese charm.
+description: 'Discover Tajimaya Ryokan in Kinosaki Onsen: private onsen baths, exquisite
+  kaiseki cuisine, and riverside rotenburo. Authentic luxury ryokan experience.'
+seo_title: Tajimaya Ryokan Kinosaki Onsen - Luxury Private Baths & Kaiseki | OKOnsen
+seo_description: Premium ryokan in Kinosaki Onsen with private onsen baths, kaiseki
+  dining, and serene riverside rotenburo. Authentic Japanese hospitality awaits.
 ---
+
 
 
 ## Introduction

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Tokiwa Ryokan | Kinosaki Onsen Luxury Hot Spring Resort
+title: Tokiwa Ryokan - Kinosaki Onsen Luxury Hot Spring Resort
 lat: 35.6225
 lng: 134.8128
 categories:
@@ -18,12 +18,13 @@ summary: Kinosaki Onsen Tokiwa offers an enchanting escape into traditional Japa
   access to the town's seven iconic public onsen. Experience the ultimate relaxation
   with exquisite cuisine, elegant rooms, and a serene atmosphere steeped in history
   and natural beauty.
-description: Stay at Tokiwa Ryokan, a luxury hot spring resort in Kinosaki Onsen.
-  Access 7 public onsen, enjoy exquisite cuisine & elegant traditional rooms.
-seo_title: Tokiwa Ryokan | Kinosaki Onsen Luxury Hot Spring Resort Japan
-seo_description: Experience Tokiwa Ryokan - a luxury hot spring resort in Kinosaki
-  Onsen. Direct access to 7 iconic onsen, fine dining, & traditional Japanese hospitality.
+description: Luxury hot spring resort in Kinosaki Onsen with access to 7 public baths.
+  Enjoy exquisite cuisine, elegant rooms, and traditional Japanese hospitality.
+seo_title: Tokiwa Ryokan | Best Luxury Hot Spring Resort in Kinosaki Onsen
+seo_description: Tokiwa Ryokan offers luxury accommodations at Kinosaki Onsen with
+  access to 7 public hot springs, gourmet dining, and serene traditional atmosphere.
 ---
+
 
 
 ## Introduction
