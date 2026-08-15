@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Fujiya Ryokan Kurokawa Onsen - Luxury Onsen & Kaiseki Dining
+title: Luxury Hot Spring Retreat - Fujiya Ryokan in Kurokawa Onsen
 lat: 33.0819
 lng: 131.1409
 categories:
@@ -16,12 +16,15 @@ summary: Fujiya Ryokan in Kurokawa Onsen is more than just a place to stay; it's
   characterized by breathtaking landscapes, exquisite cuisine, and a profound sense
   of tranquility. Discover the allure of Kurokawa through the lens of Fujiya's unique
   charm.
-description: Discover private hot springs & kaiseki cuisine at Fujiya Ryokan. Authentic
-  Japanese hospitality in Kurokawa's secluded mountains. Book your retreat today.
-seo_title: Fujiya Ryokan Kurokawa Onsen | Private Onsen & Kaiseki Experience
-seo_description: Experience luxury onsen at Fujiya Ryokan in Kurokawa. Private hot
-  springs, award-winning kaiseki & authentic hospitality. Reserve your mountain escape.
+description: Discover authentic Japanese hospitality at Fujiya Ryokan, a luxury hot
+  spring resort in Kurokawa Onsen. Experience private onsen bathing and exquisite
+  kaiseki cuisine in an exclusive mountain setting. This beautifully maintained ryokan
+  combines traditional charm with modern amenities for the ultimate onsen retreat.
+seo_title: Fujiya Ryokan - Luxury Hot Spring Resort in Kurokawa, Japan
+seo_description: Private onsen baths and kaiseki fine dining at Fujiya Ryokan. Luxury
+  hot spring resort nestled in Kurokawa's scenic mountain valley. Book now.
 ---
+
 
 
 ## Introduction
