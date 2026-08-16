@@ -95,7 +95,7 @@ REGION_LABELS: dict[str, tuple[str, str]] = {
     "arima": ("Arima", "아리마"),
 }
 
-# Travelpayouts Klook short links (okonsen project). daypass == transport for now.
+# Travelpayouts Klook short links (legacy map; UI no longer shows Klook CTAs).
 _KLOOK = {
     "hakone_daypass_ko": "https://klook.tpo.mx/3Jx17AsJ",
     "hakone_daypass_en": "https://klook.tpo.mx/2KjDnw12",
@@ -219,9 +219,8 @@ def resolve_region_from_slug(slug: str) -> str:
 
 
 def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
-    """Template vars for booking CTA (Klook + Rakuten Travel)."""
+    """Template vars for booking CTA (Rakuten Travel + Coupang on KO)."""
     region = resolve_region_from_slug(slug)
-    klook_intent = resolve_klook_intent(slug)
     travel_intent = resolve_travel_intent(slug)
     is_ko = (lang or "en").lower() == "ko"
     label_en, label_ko = REGION_LABELS.get(
@@ -229,7 +228,9 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
     )
     region_label = label_ko if is_ko else label_en
 
-    show_klook = not is_ko
+    # Klook CTA retired (low trust / zero conversion). Keep helpers for legacy URLs.
+    show_klook = False
+    klook_button_label = ""
     if is_ko:
         if travel_intent == "daybath":
             booking_title = (
@@ -249,7 +250,6 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
                 "연결되며, 이 료칸의 직접 예약 페이지가 아닐 수 있습니다."
             )
             rakuten_button_label = f"라쿠텐에서 {region_label} 료칸 검색 ↗"
-        klook_button_label = ""
         coupang_button_label = "쿠팡트래블에서 여행·패스 보기 ↗"
         coupang_intent = resolve_coupang_intent(slug)
         show_coupang = True
@@ -261,7 +261,7 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
                 f"Day-trip bathing — search {region_label} on external sites"
             )
             booking_desc = (
-                "This page is a guide, not a booking form. Buttons open Klook or "
+                "This page is a guide, not a booking form. The button opens "
                 "Rakuten Travel (day-bath search) in a new tab."
             )
             rakuten_button_label = (
@@ -272,17 +272,11 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
                 f"Book via external sites — search {region_label} area stays"
             )
             booking_desc = (
-                "This page is a guide, not a booking form. Buttons open Klook or "
-                "Rakuten Travel in a new tab to search tours and ryokan in the "
+                "This page is a guide, not a booking form. The button opens "
+                "Rakuten Travel in a new tab to search ryokan in the "
                 f"{region_label} area — not always this exact property."
             )
             rakuten_button_label = f"Search {region_label} ryokan on Rakuten ↗"
-        if klook_intent == "hakone_daypass":
-            klook_button_label = "Hakone day trip & passes on Klook ↗"
-        elif klook_intent == "hakone_transport":
-            klook_button_label = "Hakone transport & passes on Klook ↗"
-        else:
-            klook_button_label = "Tours & passes on Klook ↗"
         coupang_button_label = ""
         coupang_intent = ""
         show_coupang = False
@@ -295,8 +289,8 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
         "rakuten_search_url": rakuten_url_for(slug),
         "travel_intent": travel_intent,
         "show_klook": show_klook,
-        "klook_url": klook_url_for(slug, lang=lang) if show_klook else "",
-        "klook_intent": klook_intent if show_klook else "",
+        "klook_url": "",
+        "klook_intent": "",
         "show_coupang": show_coupang,
         "coupang_url": coupang_url,
         "coupang_intent": coupang_intent,
