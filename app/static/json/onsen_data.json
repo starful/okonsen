@@ -1,6 +1,39 @@
 {
-  "last_updated": "2026.08.15 21:08",
+  "last_updated": "2026.08.22 08:13",
   "onsens": [
+    {
+      "id": "nyuto_onsen_tae-no-yu_ko",
+      "lang": "ko",
+      "title": "뉴토 온천 타에노유: 유황빛 노천탕과 원시림이 빚어낸 아키타 최고의 비경",
+      "lat": 39.8055,
+      "lng": 140.7955,
+      "categories": [
+        "온천 료칸",
+        "일본 온천 여행",
+        "아키타 비경"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_tae-no-yu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-08-22",
+      "summary": "아키타현 센보쿠시 깊은 산중, 니혼바나시 국립공원 자락에 자리한 타에노유는 유백색 유황온천과 통나무 지붕 노천탕으로 유명한 일본 3대 비경 온천 중 하나입니다. 300년이 넘는 역사를 간직한 이곳은 전기도 인터넷도 잠시 내려놓게 만드는 원시의 고요함을 선사합니다. 눈 덮인 겨울 설경 노천탕부터 향토색 짙은 이로리 저녁상까지, 타에노유는 온천 여행의 본질을 되묻는 장소입니다.",
+      "link": "/onsen/nyuto_onsen_tae-no-yu_ko"
+    },
+    {
+      "id": "ginzan_onsen_izu_no_hana_ko",
+      "lang": "ko",
+      "title": "긴잔온센 이즈노하나: 다이쇼 로망과 온천이 흐르는 협곡의 숙소",
+      "lat": 38.5719,
+      "lng": 140.5319,
+      "categories": [
+        "일본 온천료칸",
+        "야마가타 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-08-22",
+      "summary": "야마가타현 오바나자와, 눈 덮인 협곡 사이로 가스등이 켜지는 긴잔온센 골목 안쪽에 자리한 이즈노하나는 다이쇼 시대의 정취와 현대적 편안함을 동시에 품은 온천료칸이다. 긴잔강의 물소리를 배경으로 삼는 노천탕과 쇼나이·야마가타 산지의 식재료로 차려내는 가이세키 요리가 이 숙소의 진짜 매력이다. 자동차 진입이 통제된 마을 특유의 고요함 속에서 하룻밤을 보내면, 왜 이곳이 '치히로의 행방불명'의 모티브로 불리는지 자연스레 이해하게 된다.",
+      "link": "/onsen/ginzan_onsen_izu_no_hana_ko"
+    },
     {
       "id": "jozankei_onsen_koyotei_en",
       "lang": "en",
@@ -659,7 +692,7 @@
     {
       "id": "kinosaki_onsen_tokiwa_en",
       "lang": "en",
-      "title": "Tokiwa Ryokan | Kinosaki Onsen Luxury Hot Spring Resort",
+      "title": "Tokiwa Ryokan - Kinosaki Onsen Luxury Hot Spring Resort",
       "lat": 35.6225,
       "lng": 134.8128,
       "categories": [
@@ -819,7 +852,7 @@
     {
       "id": "kurokawa_onsen_fujiya_en",
       "lang": "en",
-      "title": "Fujiya Ryokan Kurokawa Onsen - Luxury Onsen & Kaiseki Dining",
+      "title": "Luxury Hot Spring Retreat - Fujiya Ryokan in Kurokawa Onsen",
       "lat": 33.0819,
       "lng": 131.1409,
       "categories": [
@@ -855,7 +888,7 @@
     {
       "id": "kinosaki_onsen_tajimaya_en",
       "lang": "en",
-      "title": "Kinosaki Onsen Tajimaya Ryokan Review: Luxury & Private Baths",
+      "title": "Kinosaki Onsen Tajimaya Ryokan Review: Luxury Private Baths & Kaiseki",
       "lat": 35.6277,
       "lng": 134.8155,
       "categories": [
@@ -990,7 +1023,7 @@
     {
       "id": "kurokawa_onsen_okyakuya_ko",
       "lang": "ko",
-      "title": "흑천온천 오캬쿠야 | 구마모토 가족 독채온천 - OKOnsen",
+      "title": "흑천온천 오캬쿠야 | 구마모토 프리미엄 가족 독채온천",
       "lat": 33.0815,
       "lng": 131.1405,
       "categories": [
@@ -1156,7 +1189,7 @@
     {
       "id": "yubatake_souan_en",
       "lang": "en",
-      "title": "Yubatake Souan – Kusatsu Ryokan with Private Onsen & Tattoo Welcome",
+      "title": "Yubatake Souan – Private Onsen Ryokan in Kusatsu (Tattoo-Friendly)",
       "lat": 36.6233,
       "lng": 138.5961,
       "categories": [

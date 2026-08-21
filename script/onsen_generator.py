@@ -159,6 +159,17 @@ def process_csv_auto(limit=10):
             status = locale_pair_status(CONTENT_DIR, safe_name)
             if status == "complete":
                 continue
+            fill_half = os.environ.get("FILL_HALF", "").strip().lower() in ("1", "true", "yes")
+            if fill_half:
+                if status != "half":
+                    continue
+                for lang in TARGET_LANGS:
+                    if not os.path.isfile(os.path.join(CONTENT_DIR, f"{safe_name}_{lang}.md")):
+                        tasks.append(
+                            (safe_name, name, row['Lat'], row['Lng'], row['Address'], lang, row['Features'])
+                        )
+                pairs_queued += 1
+                continue
             if status == "half":
                 half_skipped += 1
                 continue
