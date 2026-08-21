@@ -114,11 +114,16 @@ def generate_guide(row, lang):
     except Exception as e:
         return f"❌ 에러: {filename} - {str(e)}"
 
+def _want_fill_half() -> bool:
+    return os.environ.get("FILL_HALF", "").strip().lower() in ("1", "true", "yes")
+
+
 def run_batch(limit=3):
-    """Generate brand-new guide topics only (en+ko as a set). Half pairs are skipped."""
+    """New topics: en+ko as a set (half skipped). FILL_HALF=1: missing locale only."""
     tasks_to_run = []
     pairs_queued = 0
     half_skipped = 0
+    fill_half = _want_fill_half()
 
     csv_path = _guides_csv_path()
     if not os.path.exists(csv_path):
@@ -140,6 +145,14 @@ def run_batch(limit=3):
             status = locale_pair_status(OUTPUT_DIR, gid)
             if status == "complete":
                 continue
+            if fill_half:
+                if status != "half":
+                    continue
+                for lang in ("en", "ko"):
+                    if not os.path.isfile(os.path.join(OUTPUT_DIR, f"{gid}_{lang}.md")):
+                        tasks_to_run.append((row, lang))
+                pairs_queued += 1
+                continue
             if status == "half":
                 half_skipped += 1
                 continue
@@ -147,11 +160,13 @@ def run_batch(limit=3):
                 tasks_to_run.append((row, lang))
             pairs_queued += 1
 
-    if half_skipped:
+    if fill_half:
+        print(f"ℹ️  반쪽 채우기: {pairs_queued}주제 · {len(tasks_to_run)}파일")
+    elif half_skipped:
         print(f"⏭️  반쪽(en/ko 한쪽만) 가이드 {half_skipped}건 — 신규 페어 우선으로 스킵")
 
     if not tasks_to_run:
-        print("💡 새로 생성할 가이드 페어가 없습니다.")
+        print("💡 채울 반쪽 가이드가 없습니다." if fill_half else "💡 새로 생성할 가이드 페어가 없습니다.")
         _emit_pipeline_result(step="guides", topics=0, generated=0, skipped=half_skipped)
         return
 
