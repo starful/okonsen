@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026.08.22 08:13",
+  "last_updated": "2026.08.26 14:09",
   "onsens": [
+    {
+      "id": "jozankei_onsen_chalet_ivy_jozankei_en",
+      "lang": "en",
+      "title": "Chalet Ivy Jozankei: A Nordic-Inspired Onsen Retreat in the Sapporo Highlands",
+      "lat": 42.9681,
+      "lng": 141.1681,
+      "categories": [
+        "Hokkaido Onsen",
+        "Family Ryokan",
+        "Hot Spring Resort"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-08-26",
+      "summary": "Chalet Ivy Jozankei blends Scandinavian-style architecture with the mineral-rich waters of Sapporo's forested onsen town, creating a hybrid retreat unlike any traditional ryokan. Guests soak in riverside baths framed by birch and maple, then retreat to warm, timber-lined rooms designed for genuine relaxation. Just an hour from Sapporo's urban core, it offers an accessible yet deeply restorative escape into Hokkaido's mountain wilderness.",
+      "link": "/onsen/jozankei_onsen_chalet_ivy_jozankei_en"
+    },
     {
       "id": "nyuto_onsen_tae-no-yu_ko",
       "lang": "ko",
@@ -747,7 +764,7 @@
     {
       "id": "arima_onsen_tosen_goshobo_ko",
       "lang": "ko",
-      "title": "아리마 온천 도센 고쇼보: 800년 역사와 전통의 명품 료칸 가이드",
+      "title": "아리마 온천 도센 고쇼보 완벽 가이드: 800년 전통 금천 료칸 후기 - OKOnsen",
       "lat": 34.7966,
       "lng": 135.2477,
       "categories": [
@@ -757,7 +774,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg",
       "address": "고베, 효고현",
       "published": "2026-06-27",
-      "summary": "아리마 온천의 중심부에 위치한 도센 고쇼보는 800년이 넘는 역사를 자랑하는 전통 료칸입니다. 금천과 은천 두 종류의 온천수를 즐길 수 있으며, 계절별 식재료를 사용한 정통 가이세키 요리는 잊지 못할 미식 경험을 선사합니다. 고베와 효고현 주변 관광 명소와의 접근성도 뛰어나 일본 전통 문화와 아름다운 자연을 만끽할 수 있습니다.",
+      "summary": "아리마 온천의 명품 료칸 도센 고쇼보를 800년 역사, 금천·은천, 가이세키 요리, 방문 팁 중심으로 정리한 가이드입니다.",
       "link": "/onsen/arima_onsen_tosen_goshobo_ko"
     },
     {
@@ -989,7 +1006,7 @@
     {
       "id": "kurokawa_onsen_ryokan_sanga_ko",
       "lang": "ko",
-      "title": "구로카와 온천 산가 료칸 | 프라이빗 노천탕 &amp; 고급 가이세키 - OKOnsen - OKOnsen",
+      "title": "구로카와 온천 료칸 산가 - 프라이빗 노천탕 & 가이세키 요리 | OKOnsen",
       "lat": 33.0788,
       "lng": 131.1322,
       "categories": [
@@ -1000,7 +1017,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_sanga.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
-      "summary": "쿠마모토 미나미오구니의 깊은 산 속에 자리한 구로카와 온천 료칸 산가는 대자연의 품에서 진정한 힐링을 선사합니다. 장엄한 경치를 자랑하는 노천탕과 아늑한 전세 가족탕, 그리고 지역 특산물을 활용한 카이세키 요리는 잊을 수 없는 추억을 선사할 것입니다. 이 곳은 고즈넉한 일본의 정취와 최고급 서비스가 어우러진, 특별한 휴식을 꿈꾸는 모든 이들을 위한 이상적인 여행지입니다.",
+      "summary": "쿠마모토 구로카와 온천 깊은 산속 료칸 산가에서 5개 원천의 노천탕과 제철 가이세키 요리로 완성되는 프라이빗 힐링 여행을 경험하세요.",
       "link": "/onsen/kurokawa_onsen_ryokan_sanga_ko"
     },
     {
@@ -1039,7 +1056,7 @@
     {
       "id": "kurokawa_onsen_okyakuya_en",
       "lang": "en",
-      "title": "Kurokawa Onsen Okyakuya: Discover Authentic Serenity and Private Bliss in Kumamoto's Hidden Gem",
+      "title": "Kurokawa Onsen Okyakuya Ryokan: Private Open-Air Baths in Kumamoto - OKOnsen",
       "lat": 33.0815,
       "lng": 131.1405,
       "categories": [
@@ -1049,7 +1066,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_okyakuya.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
-      "summary": "Nestled deep within the picturesque Minamioguni region of Kumamoto, Kurokawa Onsen Okyakuya stands as a beacon of genuine Japanese hospitality, offering an unparalleled blend of local charm and rejuvenating hot spring experiences. This ryokan is a sanctuary where guests can immerse themselves in the tranquil beauty of nature while indulging in the ultimate luxury of private, open-air baths. Discover a truly authentic escape, far from the madding crowds, and let the healing waters of Okyakuya wash away the stresses of the modern world.",
+      "summary": "A guide to Kurokawa Onsen Okyakuya, a Kumamoto ryokan known for private open-air baths and traditional hospitality in the historic Kurokawa Onsen village.",
       "link": "/onsen/kurokawa_onsen_okyakuya_en"
     },
     {
@@ -1488,7 +1505,7 @@
     {
       "id": "hakone_suimeisou_ko",
       "lang": "ko",
-      "title": "하코네 스이메이소: 절경 속 오붓한 가족탕에서 누리는 궁극의 휴식, 럭셔리 료칸 체험 가이드",
+      "title": "하코네 스이메이소 가족탕: 노천탕에서 즐기는 절경 프라이빗 온천, 럭셔리 료칸 가이드 - OKOnsen",
       "lat": 35.2334,
       "lng": 139.1065,
       "categories": [
@@ -1499,7 +1516,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_suimeisou.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
-      "summary": "하코네 스이메이소는 고즈넉한 하코네의 품 안에서 **절경**과 함께 진정한 휴식을 약속하는 럭셔리 료칸입니다. 개인의 프라이버시를 중시하는 **가족탕**은 사랑하는 이들과 오붓한 시간을 보내기에 더할 나위 없이 완벽하며, 사계절 다채롭게 변모하는 자연이 선사하는 감동은 잊을 수 없는 추억을 선사합니다. 전통과 현대가 조화롭게 어우러진 공간에서 미식과 온천의 정수를 경험해보세요.",
+      "summary": "하코네 스이메이소는 절경을 마주한 프라이빗 가족탕과 대욕장을 갖춘 하코네 대표 럭셔리 료칸입니다. 전통 오모테나시와 현대적 편안함이 어우러진 공간에서 조용한 휴식을 누릴 수 있습니다.",
       "link": "/onsen/hakone_suimeisou_ko"
     },
     {

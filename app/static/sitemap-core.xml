@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://okonsen.net/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://okonsen.net/?lang=ko</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides?lang=ko</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -43,6 +43,11 @@
   <url>
     <loc>https://okonsen.net/onsen/yufuin_onsen_yufuin-so_ko</loc>
     <lastmod>2026-04-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_chalet_ivy_jozankei_en</loc>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -526,6 +531,21 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://okonsen.net/guide/luxury_ryokan_stay_tips_en</loc>
+    <lastmod>2026-08-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/jozankei_sapporo_access_ko</loc>
+    <lastmod>2026-08-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/guide/jozankei_sapporo_access_en</loc>
+    <lastmod>2026-08-26</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://okonsen.net/guide/solo_travel_onsen_ko</loc>
     <lastmod>2026-08-15</lastmod>
     <priority>0.7</priority>
@@ -568,21 +588,6 @@
   <url>
     <loc>https://okonsen.net/guide/pregnant_onsen_safety_ko</loc>
     <lastmod>2026-08-08</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/pregnant_onsen_safety_en</loc>
-    <lastmod>2026-08-08</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/onsen_medical_benefits_en</loc>
-    <lastmod>2026-08-08</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/guide/onsen_water_types_ko</loc>
-    <lastmod>2026-08-05</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
