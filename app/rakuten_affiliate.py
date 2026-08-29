@@ -6,7 +6,6 @@ import os
 from typing import Any
 from urllib.parse import quote, quote_plus
 
-# Rakuten Travel affiliate ID (override via env).
 RAKUTEN_HGC = os.getenv(
     "RAKUTEN_TRAVEL_HGC", "55b9427b.a63c2df8.55b9427c.3a0d270c"
 )
@@ -14,7 +13,6 @@ _RAKUTEN_UT = "eyJwYWdlIjoidXJsIiwidHlwZSI6InRleHQiLCJjb2wiOjF9"
 
 DEFAULT_REGION = "kusatsu"
 
-# Slug prefix or alias → region key.
 REGION_PREFIXES: tuple[str, ...] = (
     "kurokawa",
     "kinosaki",
@@ -30,7 +28,6 @@ SLUG_ALIASES: dict[str, str] = {
     "yubatake": "kusatsu",
 }
 
-# Stay search keywords: lodging vs day-bath (f_key).
 _REGION_STAY_KEYWORDS: dict[str, dict[str, str]] = {
     "kusatsu": {
         "stay": "草津温泉 宿",
@@ -79,7 +76,6 @@ def _affiliate_wrap(destination_url: str) -> str:
     )
 
 
-# Back-compat: region → default lodging search.
 REGION_URLS: dict[str, str] = {
     region: _affiliate_wrap(_travel_search_raw(kws["stay"]))
     for region, kws in _REGION_STAY_KEYWORDS.items()
@@ -95,89 +91,12 @@ REGION_LABELS: dict[str, tuple[str, str]] = {
     "arima": ("Arima", "아리마"),
 }
 
-# Travelpayouts Klook short links (legacy map; UI no longer shows Klook CTAs).
-_KLOOK = {
-    "hakone_daypass_ko": "https://klook.tpo.mx/3Jx17AsJ",
-    "hakone_daypass_en": "https://klook.tpo.mx/2KjDnw12",
-    "hakone_transport_ko": "https://klook.tpo.mx/3Jx17AsJ",
-    "hakone_transport_en": "https://klook.tpo.mx/2KjDnw12",
-    "hakone_tours_ko": "https://klook.tpo.mx/AenqagWg",
-    "hakone_tours_en": "https://klook.tpo.mx/ogmwN00C",
-    "kusatsu_ko": "https://klook.tpo.mx/NlkzKCnF",
-    "kusatsu_en": "https://klook.tpo.mx/mK6ms91p",
-    "fallback_ko": "https://klook.tpo.mx/mqOWuAfP",
-    "fallback_en": "https://klook.tpo.mx/CSoHIup8",
-}
-
-# Coupang Partners (KO UI only).
-COUPANG_DISCLOSURE_KO = (
-    "이 포스팅은 쿠팡 파트너스 활동의 일환으로, "
-    "이에 따른 일정액의 수수료를 제공받습니다."
-)
-_COUPANG = {
-    "fallback": "https://link.coupang.com/a/f28OZJUsfI",
-    "japan": "https://link.coupang.com/a/f28Q4FLTmC",
-    "hakone": "https://link.coupang.com/a/f28SBETBgi",
-}
-
-
-def resolve_coupang_intent(slug: str) -> str:
-    """hakone → hakone; known JP onsen regions → japan; else fallback."""
-    region = resolve_region_from_slug(slug)
-    base = _strip_lang_suffix(slug)
-    parts = base.split("_")
-    explicit = region in parts or region in base
-    if not explicit:
-        for alias, mapped in SLUG_ALIASES.items():
-            if mapped == region and (base == alias or base.startswith(alias + "_")):
-                explicit = True
-                break
-    if region == "hakone" and explicit:
-        return "hakone"
-    if explicit and region in _REGION_STAY_KEYWORDS:
-        return "japan"
-    return "fallback"
-
-
-def coupang_url_for(slug: str) -> str:
-    return _COUPANG[resolve_coupang_intent(slug)]
-
 
 def _strip_lang_suffix(slug: str) -> str:
     base = (slug or "").strip().lower()
     if base.endswith("_en") or base.endswith("_ko"):
         base = base.rsplit("_", 1)[0]
     return base
-
-
-def resolve_klook_intent(slug: str) -> str:
-    """hakone day_trip → daypass; hakone weekend/other → tours; kusatsu → kusatsu."""
-    base = _strip_lang_suffix(slug)
-    region = resolve_region_from_slug(slug)
-
-    parts = base.split("_")
-    explicit = region in parts or region in base
-    if not explicit:
-        for alias, mapped in SLUG_ALIASES.items():
-            if mapped == region and (base == alias or base.startswith(alias + "_")):
-                explicit = True
-                break
-
-    if region == "hakone" and explicit:
-        if "day_trip" in base or "daytrip" in base:
-            return "hakone_daypass"
-        if "transport" in base or "access" in base or "odawara" in base:
-            return "hakone_transport"
-        return "hakone_tours"
-    if region == "kusatsu" and explicit:
-        return "kusatsu"
-    return "fallback"
-
-
-def klook_url_for(slug: str, *, lang: str = "en") -> str:
-    intent = resolve_klook_intent(slug)
-    suffix = "ko" if (lang or "en").lower() == "ko" else "en"
-    return _KLOOK[f"{intent}_{suffix}"]
 
 
 def resolve_travel_intent(slug: str) -> str:
@@ -219,7 +138,7 @@ def resolve_region_from_slug(slug: str) -> str:
 
 
 def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
-    """Template vars for booking CTA (Rakuten Travel + Coupang on KO)."""
+    """Template vars for booking CTA (Rakuten Travel)."""
     region = resolve_region_from_slug(slug)
     travel_intent = resolve_travel_intent(slug)
     is_ko = (lang or "en").lower() == "ko"
@@ -228,16 +147,13 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
     )
     region_label = label_ko if is_ko else label_en
 
-    # Klook CTA retired (low trust / zero conversion). Keep helpers for legacy URLs.
-    show_klook = False
-    klook_button_label = ""
     if is_ko:
         if travel_intent == "daybath":
             booking_title = (
                 f"당일 입욕은 외부 사이트에서 {region_label} 지역을 검색하세요"
             )
             booking_desc = (
-                "이 페이지는 소개 글입니다. 라쿠텐(숙·당일)과 쿠팡트래블에서 "
+                "이 페이지는 소개 글입니다. 라쿠텐에서 숙소·당일 입욕을 "
                 "검색할 수 있습니다."
             )
             rakuten_button_label = f"라쿠텐에서 {region_label} 당일 입욕 검색 ↗"
@@ -246,58 +162,38 @@ def rakuten_context(slug: str, *, lang: str = "en") -> dict[str, Any]:
                 f"예약은 외부 사이트에서 {region_label} 지역 숙소·투어를 검색하세요"
             )
             booking_desc = (
-                "이 페이지는 소개 글입니다. 라쿠텐 트래블·쿠팡트래블로 "
-                "연결되며, 이 료칸의 직접 예약 페이지가 아닐 수 있습니다."
+                "이 페이지는 소개 글입니다. 라쿠텐 트래블로 연결되며, "
+                "이 료칸의 직접 예약 페이지가 아닐 수 있습니다."
             )
             rakuten_button_label = f"라쿠텐에서 {region_label} 료칸 검색 ↗"
-        coupang_button_label = "쿠팡트래블에서 여행·패스 보기 ↗"
-        coupang_intent = resolve_coupang_intent(slug)
-        show_coupang = True
-        coupang_url = coupang_url_for(slug)
-        coupang_disclosure = COUPANG_DISCLOSURE_KO
+    elif travel_intent == "daybath":
+        booking_title = (
+            f"Day-trip bathing — search {region_label} on external sites"
+        )
+        booking_desc = (
+            "This page is a guide, not a booking form. The button opens "
+            "Rakuten Travel (day-bath search) in a new tab."
+        )
+        rakuten_button_label = (
+            f"Search {region_label} day bathing on Rakuten ↗"
+        )
     else:
-        if travel_intent == "daybath":
-            booking_title = (
-                f"Day-trip bathing — search {region_label} on external sites"
-            )
-            booking_desc = (
-                "This page is a guide, not a booking form. The button opens "
-                "Rakuten Travel (day-bath search) in a new tab."
-            )
-            rakuten_button_label = (
-                f"Search {region_label} day bathing on Rakuten ↗"
-            )
-        else:
-            booking_title = (
-                f"Book via external sites — search {region_label} area stays"
-            )
-            booking_desc = (
-                "This page is a guide, not a booking form. The button opens "
-                "Rakuten Travel in a new tab to search ryokan in the "
-                f"{region_label} area — not always this exact property."
-            )
-            rakuten_button_label = f"Search {region_label} ryokan on Rakuten ↗"
-        coupang_button_label = ""
-        coupang_intent = ""
-        show_coupang = False
-        coupang_url = ""
-        coupang_disclosure = ""
+        booking_title = (
+            f"Book via external sites — search {region_label} area stays"
+        )
+        booking_desc = (
+            "This page is a guide, not a booking form. The button opens "
+            "Rakuten Travel in a new tab to search ryokan in the "
+            f"{region_label} area — not always this exact property."
+        )
+        rakuten_button_label = f"Search {region_label} ryokan on Rakuten ↗"
 
     return {
         "rakuten_region": region,
         "region_label": region_label,
         "rakuten_search_url": rakuten_url_for(slug),
         "travel_intent": travel_intent,
-        "show_klook": show_klook,
-        "klook_url": "",
-        "klook_intent": "",
-        "show_coupang": show_coupang,
-        "coupang_url": coupang_url,
-        "coupang_intent": coupang_intent,
-        "coupang_button_label": coupang_button_label,
-        "coupang_disclosure": coupang_disclosure,
         "booking_title": booking_title,
         "booking_desc": booking_desc,
-        "klook_button_label": klook_button_label,
         "rakuten_button_label": rakuten_button_label,
     }

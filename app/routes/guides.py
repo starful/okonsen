@@ -11,6 +11,7 @@ from flask import Blueprint, abort, render_template, request
 
 try:
     from ..config import FAMILY_SITE_ID, GUIDE_DIR
+    from ..a8_affiliate import a8_banners_context
     from ..rakuten_affiliate import rakuten_context
     from ..content_loader import (
         extract_faq_items,
@@ -24,6 +25,7 @@ try:
     from ..seo import hreflang_flags, share_context
 except ImportError:
     from config import FAMILY_SITE_ID, GUIDE_DIR
+    from a8_affiliate import a8_banners_context
     from rakuten_affiliate import rakuten_context
     from content_loader import (
         extract_faq_items,
@@ -116,4 +118,5 @@ def guide_detail(guide_id):
         **share_ctx,
         **hreflang_flags("guide", base_id),
         **rakuten_context(guide_id, lang=lang),
+        **a8_banners_context(lang=lang),
     )

@@ -1,4 +1,4 @@
-{# Rakuten Travel (+ Coupang on KO). Klook CTA retired. #}
+{# Rakuten Travel + A8.net banners #}
 <div class="booking-section booking-section--prominent" role="complementary" aria-label="{{ '예약 안내' if lang == 'ko' else 'Booking links' }}">
     <p class="booking-title">{{ booking_title }}</p>
     <p class="booking-desc">{{ booking_desc }}</p>
@@ -14,33 +14,9 @@
             {{ rakuten_button_label }}
         </a>
         {% endif %}
-        {% if show_coupang and coupang_url %}
-        <a href="{{ coupang_url }}"
-           target="_blank"
-           rel="nofollow sponsored noopener noreferrer"
-           class="btn-coupang"
-           title="쿠팡트래블 (새 탭)"
-           data-track="affiliate_coupang"
-           data-track-label="{{ coupang_intent or 'coupang' }}">
-            {{ coupang_button_label }}
-        </a>
-        {% endif %}
-        {% if show_klook and klook_url %}
-        <a href="{{ klook_url }}"
-           target="_blank"
-           rel="nofollow sponsored noopener noreferrer"
-           class="btn-klook"
-           title="Opens Klook in a new tab"
-           data-track="affiliate_klook"
-           data-track-label="{{ klook_intent or 'klook' }}">
-            {{ klook_button_label }}
-        </a>
-        {% endif %}
     </div>
-    {% if coupang_disclosure %}
-    <p class="booking-disclosure">{{ coupang_disclosure }}</p>
-    {% endif %}
     <p class="booking-note">
         {{ '제휴 링크 · 새 탭에서 열림' if lang == 'ko' else 'Affiliate links · opens in new tab' }}
     </p>
 </div>
+{% include 'partials/a8_banners.html' %}
