@@ -1,14 +1,24 @@
 ---
 lang: en
-title: "Ganiba Onsen: The Secret Milky-White Bath Deep in Nyuto's Beech Forest"
+title: 'Ganiba Onsen: The Secret Milky-White Bath Deep in Nyuto''s Beech Forest'
 lat: 39.8155
 lng: 140.7955
-categories: ["Onsen Ryokan", "Hot Spring Retreat"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg"
-address: "Semboku, Akita"
-date: "2026-08-11"
-summary: "Ganiba Onsen is the smallest and most secluded of the seven hot springs scattered through the Nyuto Onsenkyo valley, reachable only by a narrow forest track above Tsurunoyu. Its milky sulfur water, wood-smoke-scented rooms, and near-total absence of modern distraction make it a pilgrimage site for onsen purists. This guide covers everything from the mineral chemistry of its baths to the exact turns you need to find the place."
+categories:
+- Onsen Ryokan
+- Hot Spring Retreat
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg
+address: Semboku, Akita
+date: '2026-08-31'
+summary: Ganiba Onsen is the smallest and most secluded of the seven hot springs scattered
+  through the Nyuto Onsenkyo valley, reachable only by a narrow forest track above
+  Tsurunoyu. Its milky sulfur water, wood-smoke-scented rooms, and near-total absence
+  of modern distraction make it a pilgrimage site for onsen purists. This guide covers
+  everything from the mineral chemistry of its baths to the exact turns you need to
+  find the place.
+image_prompt: ''
 ---
+
+
 
 Tucked at the very end of a gravel spur road that climbs above the rest of Nyuto Onsenkyo, Ganiba Onsen barely registers as a "resort" in any conventional sense. There is no lobby music, no vending-machine glow, no paved parking lot crowded with tour buses. What greets you instead is a huddle of dark wooden buildings exhaling faint sulfur steam into the beech forest air, a narrow stream cutting past the entrance, and a silence so complete that the crunch of gravel underfoot feels loud. Ganiba means "crab field," a name locals say comes from the freshwater crabs once found along the stream banks here, and the ryokan still feels like something you might stumble upon rather than something built to be found.
 
