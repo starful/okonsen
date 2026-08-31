@@ -1,14 +1,21 @@
 ---
 lang: en
-title: "Nyuto Onsen Kuroyu: Akita's Legendary Hidden Hot Spring Retreat"
+title: 'Nyuto Onsen Kuroyu: Akita''s Legendary Hidden Hot Spring Retreat'
 lat: 39.8111
 lng: 140.7911
-categories: ["Hot Springs", "Ryokan"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_kuroyu.jpg"
-address: "Semboku, Akita"
-date: "2026-08-08"
-summary: "Deep in the beech forests of Nyuto Onsen, Kuroyu preserves a thatched-roof world where thermal rivers, milky sulfur baths, and irori hearths have changed little in three centuries. This is Japan's most atmospheric mixed-bathing onsen for travelers chasing authenticity over polish. Expect wood smoke, mountain silence, and water so mineral-rich it stains stone gold."
+categories:
+- Hot Springs
+- Ryokan
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_kuroyu.jpg
+address: Semboku, Akita
+date: '2026-08-31'
+summary: Deep in the beech forests of Nyuto Onsen, Kuroyu preserves a thatched-roof
+  world where thermal rivers, milky sulfur baths, and irori hearths have changed little
+  in three centuries. This is Japan's most atmospheric mixed-bathing onsen for travelers
+  chasing authenticity over polish. Expect wood smoke, mountain silence, and water
+  so mineral-rich it stains stone gold.
 ---
+
 
 ## First Impressions: Stepping Out of Time
 

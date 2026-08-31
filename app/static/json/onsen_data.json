@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026.08.26 14:09",
+  "last_updated": "2026.08.31 22:20",
   "onsens": [
+    {
+      "id": "nyuto_onsen_kuroyu_en",
+      "lang": "en",
+      "title": "Nyuto Onsen Kuroyu: Akita's Legendary Hidden Hot Spring Retreat",
+      "lat": 39.8111,
+      "lng": 140.7911,
+      "categories": [
+        "Hot Springs",
+        "Ryokan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_kuroyu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-08-31",
+      "summary": "Deep in the beech forests of Nyuto Onsen, Kuroyu preserves a thatched-roof world where thermal rivers, milky sulfur baths, and irori hearths have changed little in three centuries. This is Japan's most atmospheric mixed-bathing onsen for travelers chasing authenticity over polish. Expect wood smoke, mountain silence, and water so mineral-rich it stains stone gold.",
+      "link": "/onsen/nyuto_onsen_kuroyu_en"
+    },
+    {
+      "id": "nyuto_onsen_ganiba_en",
+      "lang": "en",
+      "title": "Ganiba Onsen: The Secret Milky-White Bath Deep in Nyuto's Beech Forest",
+      "lat": 39.8155,
+      "lng": 140.7955,
+      "categories": [
+        "Onsen Ryokan",
+        "Hot Spring Retreat"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-08-31",
+      "summary": "Ganiba Onsen is the smallest and most secluded of the seven hot springs scattered through the Nyuto Onsenkyo valley, reachable only by a narrow forest track above Tsurunoyu. Its milky sulfur water, wood-smoke-scented rooms, and near-total absence of modern distraction make it a pilgrimage site for onsen purists. This guide covers everything from the mineral chemistry of its baths to the exact turns you need to find the place.",
+      "link": "/onsen/nyuto_onsen_ganiba_en"
+    },
+    {
+      "id": "jozankei_onsen_grand_blissen_hotel_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Grand Blissen Hotel: Sapporo's Riverside Sanctuary of Steam and Forest",
+      "lat": 42.9622,
+      "lng": 141.1622,
+      "categories": [
+        "Hokkaido Onsen",
+        "Sapporo Hot Springs",
+        "Luxury Ryokan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-08-31",
+      "summary": "Tucked into the emerald gorge just an hour from downtown Sapporo, Jozankei Onsen Grand Blissen Hotel pairs mineral-rich alkaline waters with panoramic canyon views and refined Hokkaido kaiseki cuisine. It's a rare hybrid: the convenience of a city-adjacent retreat with the immersive wilderness feel of a deep mountain onsen. This guide covers everything from bath chemistry to the best train connections for planning your stay.",
+      "link": "/onsen/jozankei_onsen_grand_blissen_hotel_en"
+    },
     {
       "id": "jozankei_onsen_chalet_ivy_jozankei_en",
       "lang": "en",
@@ -130,38 +179,6 @@
       "published": "2026-08-11",
       "summary": "Tucked deep in the beech forests of Nyuto Onsen, Magoroku is a 300-year-old thatched-roof ryokan famous for its milky sulfur bath and rustic mountain charm. It offers a rare, unfiltered glimpse into Edo-period bathing culture, complete with wooden corridors, irori hearths, and seasonal kaiseki cuisine. For travelers seeking Japan's most authentic onsen experience, Magoroku remains an unmissable pilgrimage.",
       "link": "/onsen/nyuto_onsen_magoroku_en"
-    },
-    {
-      "id": "nyuto_onsen_ganiba_en",
-      "lang": "en",
-      "title": "Ganiba Onsen: The Secret Milky-White Bath Deep in Nyuto's Beech Forest",
-      "lat": 39.8155,
-      "lng": 140.7955,
-      "categories": [
-        "Onsen Ryokan",
-        "Hot Spring Retreat"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg",
-      "address": "Semboku, Akita",
-      "published": "2026-08-11",
-      "summary": "Ganiba Onsen is the smallest and most secluded of the seven hot springs scattered through the Nyuto Onsenkyo valley, reachable only by a narrow forest track above Tsurunoyu. Its milky sulfur water, wood-smoke-scented rooms, and near-total absence of modern distraction make it a pilgrimage site for onsen purists. This guide covers everything from the mineral chemistry of its baths to the exact turns you need to find the place.",
-      "link": "/onsen/nyuto_onsen_ganiba_en"
-    },
-    {
-      "id": "nyuto_onsen_kuroyu_en",
-      "lang": "en",
-      "title": "Nyuto Onsen Kuroyu: Akita's Legendary Hidden Hot Spring Retreat",
-      "lat": 39.8111,
-      "lng": 140.7911,
-      "categories": [
-        "Hot Springs",
-        "Ryokan"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_kuroyu.jpg",
-      "address": "Semboku, Akita",
-      "published": "2026-08-08",
-      "summary": "Deep in the beech forests of Nyuto Onsen, Kuroyu preserves a thatched-roof world where thermal rivers, milky sulfur baths, and irori hearths have changed little in three centuries. This is Japan's most atmospheric mixed-bathing onsen for travelers chasing authenticity over polish. Expect wood smoke, mountain silence, and water so mineral-rich it stains stone gold.",
-      "link": "/onsen/nyuto_onsen_kuroyu_en"
     },
     {
       "id": "ginzan_onsen_izu_no_hana_en",
