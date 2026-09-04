@@ -1,14 +1,22 @@
 ---
 lang: en
-title: "Ginzan Onsen Izu no Hana: A Gaslit Dream in Obanazawa, Yamagata"
+title: 'Ginzan Onsen Izu no Hana: A Gaslit Dream in Obanazawa, Yamagata'
 lat: 38.5719
 lng: 140.5319
-categories: ["Onsen Ryokan", "Yamagata Travel", "Hot Spring Guide"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg"
-address: "Obanazawa, Yamagata"
-date: "2026-08-08"
-summary: "Izu no Hana is a storied wooden ryokan on the banks of the Ginzan River, where gaslamps, mineral-rich waters, and Yamagata kaiseki cuisine combine into one of Japan's most cinematic onsen experiences. This guide explores its Taisho-era architecture, the chemistry of its baths, and everything you need to plan a flawless stay in Obanazawa."
+categories:
+- Onsen Ryokan
+- Yamagata Travel
+- Hot Spring Guide
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg
+address: Obanazawa, Yamagata
+date: '2026-08-31'
+summary: Izu no Hana is a storied wooden ryokan on the banks of the Ginzan River,
+  where gaslamps, mineral-rich waters, and Yamagata kaiseki cuisine combine into one
+  of Japan's most cinematic onsen experiences. This guide explores its Taisho-era
+  architecture, the chemistry of its baths, and everything you need to plan a flawless
+  stay in Obanazawa.
 ---
+
 
 ## A Gaslit Ribbon of Nostalgia
 

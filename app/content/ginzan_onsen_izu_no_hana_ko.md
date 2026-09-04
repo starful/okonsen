@@ -1,14 +1,20 @@
 ---
 lang: ko
-title: "긴잔온센 이즈노하나: 다이쇼 로망과 온천이 흐르는 협곡의 숙소"
+title: '긴잔온센 이즈노하나: 다이쇼 로망과 온천이 흐르는 협곡의 숙소'
 lat: 38.5719
 lng: 140.5319
-categories: ["일본 온천료칸", "야마가타 여행"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg"
-address: "Obanazawa, Yamagata"
-date: "2026-08-22"
-summary: "야마가타현 오바나자와, 눈 덮인 협곡 사이로 가스등이 켜지는 긴잔온센 골목 안쪽에 자리한 이즈노하나는 다이쇼 시대의 정취와 현대적 편안함을 동시에 품은 온천료칸이다. 긴잔강의 물소리를 배경으로 삼는 노천탕과 쇼나이·야마가타 산지의 식재료로 차려내는 가이세키 요리가 이 숙소의 진짜 매력이다. 자동차 진입이 통제된 마을 특유의 고요함 속에서 하룻밤을 보내면, 왜 이곳이 '치히로의 행방불명'의 모티브로 불리는지 자연스레 이해하게 된다."
+categories:
+- 일본 온천료칸
+- 야마가타 여행
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg
+address: Obanazawa, Yamagata
+date: '2026-08-31'
+summary: 야마가타현 오바나자와, 눈 덮인 협곡 사이로 가스등이 켜지는 긴잔온센 골목 안쪽에 자리한 이즈노하나는 다이쇼 시대의 정취와 현대적
+  편안함을 동시에 품은 온천료칸이다. 긴잔강의 물소리를 배경으로 삼는 노천탕과 쇼나이·야마가타 산지의 식재료로 차려내는 가이세키 요리가 이 숙소의
+  진짜 매력이다. 자동차 진입이 통제된 마을 특유의 고요함 속에서 하룻밤을 보내면, 왜 이곳이 '치히로의 행방불명'의 모티브로 불리는지 자연스레
+  이해하게 된다.
 ---
+
 
 ## 협곡 골목 끝에서 만난 첫인상, 이즈노하나
 
