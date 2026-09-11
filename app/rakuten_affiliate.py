@@ -21,11 +21,16 @@ REGION_PREFIXES: tuple[str, ...] = (
     "hakone",
     "beppu",
     "arima",
+    "nyuto",
+    "ginzan",
+    "jozankei",
+    "takaragawa",
 )
 
 SLUG_ALIASES: dict[str, str] = {
     "matsuzakaya": "kinosaki",
     "yubatake": "kusatsu",
+    "amane": "beppu",
 }
 
 _REGION_STAY_KEYWORDS: dict[str, dict[str, str]] = {
@@ -56,6 +61,22 @@ _REGION_STAY_KEYWORDS: dict[str, dict[str, str]] = {
     "arima": {
         "stay": "有馬温泉 旅館",
         "daybath": "有馬温泉 日帰り",
+    },
+    "nyuto": {
+        "stay": "乳頭温泉 宿",
+        "daybath": "乳頭温泉 日帰り",
+    },
+    "ginzan": {
+        "stay": "銀山温泉 宿",
+        "daybath": "銀山温泉 日帰り",
+    },
+    "jozankei": {
+        "stay": "定山渓温泉 宿",
+        "daybath": "定山渓 日帰り入浴",
+    },
+    "takaragawa": {
+        "stay": "宝川温泉 宿",
+        "daybath": "宝川温泉 日帰り",
     },
 }
 
@@ -89,6 +110,10 @@ REGION_LABELS: dict[str, tuple[str, str]] = {
     "kinosaki": ("Kinosaki", "기노사키"),
     "beppu": ("Beppu", "벳푸"),
     "arima": ("Arima", "아리마"),
+    "nyuto": ("Nyuto", "뉴토"),
+    "ginzan": ("Ginzan", "긴잔"),
+    "jozankei": ("Jozankei", "조잔케이"),
+    "takaragawa": ("Takaragawa", "타카라가와"),
 }
 
 
@@ -124,12 +149,12 @@ def rakuten_url_for(slug: str) -> str:
 def resolve_region_from_slug(slug: str) -> str:
     """Map onsen/guide slug to a travel search region key."""
     base = _strip_lang_suffix(slug)
+    parts = base.split("_")
 
     for alias, region in SLUG_ALIASES.items():
-        if base == alias or base.startswith(alias + "_"):
+        if base == alias or base.startswith(alias + "_") or alias in parts:
             return region
 
-    parts = base.split("_")
     for region in REGION_PREFIXES:
         if region in parts:
             return region
