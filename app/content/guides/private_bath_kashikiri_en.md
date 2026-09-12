@@ -1,15 +1,15 @@
 ---
 lang: en
-title: How to Find and Book a Private Onsen (Kashikiri) in Japan
+title: Private Onsen (Kashikiri) — How to Book in Japan
 summary: Escape the crowds and create lasting memories in Japan by discovering the
   serene world of kashikiri-buro. This guide offers practical advice, booking tips,
   and expert recommendations for finding and enjoying private family onsen.
 date: '2026-04-15'
-description: Want to rent a private onsen (kashikiri) in Japan? Learn how to find
-  and book private baths, perfect for couples, families, and tattoo-friendly trips.
-seo_title: "How to Book a Private Onsen (Kashikiri) in Japan | OKOnsen"
-seo_description: Want to rent a private onsen (kashikiri) in Japan? Learn how to find
-  and book private baths, perfect for couples, families, and tattoo-friendly trips.
+description: How to find and book a private onsen (kashikiri) in Japan for couples,
+  families, and tattoo-friendly trips.
+seo_title: Private Onsen (Kashikiri) — How to Book in Japan
+seo_description: How to find and book a private onsen (kashikiri) in Japan for couples,
+  families, and tattoo-friendly trips.
 ---
 
 ## The Appeal of a Private Onsen (Kashikiri)
