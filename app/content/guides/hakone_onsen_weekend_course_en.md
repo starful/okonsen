@@ -1,12 +1,18 @@
 ---
 lang: en
-title: 'Hakone Onsen Weekend Course: 1–2 Days of Baths & Ryokan Picks'
-summary: A practical Hakone weekend itinerary linking day-use baths, Gora luxury stays, and Lake Ashi views — with OKOnsen shop links for each stop.
+title: 'Hakone Onsen Weekend Course: Tokyo Day Trip &amp; Gora Ryokan Itinerary -
+  OKOnsen Guide'
+summary: A practical Hakone onsen weekend itinerary from Tokyo — day-use baths, Gora
+  ryokan stays, and Lake Ashi views, with shop links for each stop.
 date: '2026-07-27'
-description: Plan a 1–2 day Hakone onsen weekend with transit tips and curated ryokan links from OKOnsen.
-seo_title: Hakone Onsen Weekend Course — Day Trip or Overnight | OKOnsen
-seo_description: Hakone weekend onsen itinerary with Gora ryokan picks, Lake Ashi views, Free Pass tips, and links to detailed OKOnsen guides.
+description: 'Plan a Hakone onsen weekend from Tokyo: day-use baths, Gora ryokan stays,
+  and Lake Ashi views, with shop links for each stop.'
+seo_title: 'Hakone Onsen Weekend Course: Tokyo Day Trip &amp; Gora Ryokan Itinerary
+  - OKOnsen Guide'
+seo_description: 'Plan a Hakone onsen weekend from Tokyo: day-use baths, Gora ryokan
+  stays, and Lake Ashi views, with shop links for each stop.'
 ---
+
 
 Hakone is close enough to Tokyo for a day soak, and rich enough for an overnight that feels like a different country. This course is built for travelers who want a clear sequence — arrival, soak, stay (optional), and a second bath — without inventing a new plan from scratch.
 
@@ -50,3 +56,11 @@ Check tattoo and private-bath policies on each detail page before you book.
 *   [Hakone area deep dive](/guide/hakone_area_deep_dive_en)
 
 Build your shortlist on the [OKOnsen map](/), filter by Private / Luxury / View, then open Compare for up to three stays.
+
+## Quick Tips for This Course
+
+This itinerary works as a single overnight or a slower full weekend if you want more time between soaks.
+
+- **Day-trip only?** Use the day-use bath option and skip the Gora stay — same route, same views, no overnight needed.
+- **Solo or with friends?** The private-bath (*kashikiri*) lanes suit couples and small groups; the lake lane fits a larger resort-style stay.
+- **Short on time?** Pick one soak plus the ropeway view rather than rushing both days — Hakone rewards a slower pace over a checklist.
