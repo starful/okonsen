@@ -18,8 +18,9 @@ GUIDE_DUPLICATE_OF: dict[str, str] = {
 
 ONSEN_MIN_CHARS = 4500
 GUIDE_MIN_CHARS = 4000
-# Sibling locale fill (one lang already live) uses a higher bar.
-SIBLING_FILL_MIN_CHARS = 5500
+# Sibling fill used to require 5500 and discarded most KO drafts after a full
+# Claude call (often 4–5.4k). Same floor as new pages — depth is prompt-driven.
+SIBLING_FILL_MIN_CHARS = ONSEN_MIN_CHARS
 
 HANGUL_RE = re.compile(r"[\uac00-\ud7a3]")
 FM_SPLIT = re.compile(r"^---\s*\n(.*?)\n---\s*\n(.*)$", re.S)
@@ -79,8 +80,9 @@ def duplicate_guide_reason(base_id: str, guide_dir: str | Path) -> str | None:
 
 
 def min_chars_for(*, kind: str, sibling_exists: bool) -> int:
-    if sibling_exists:
-        return SIBLING_FILL_MIN_CHARS
+    # sibling_exists kept for call-site compatibility; a higher sibling bar
+    # discarded most KO drafts after full Claude calls (see pipeline logs).
+    del sibling_exists
     return ONSEN_MIN_CHARS if kind == "onsen" else GUIDE_MIN_CHARS
 
 

@@ -1,6 +1,122 @@
 {
-  "last_updated": "2026.09.04 20:25",
+  "last_updated": "2026.09.20 11:38",
   "onsens": [
+    {
+      "id": "nyuto_onsen_magoroku_ko",
+      "lang": "ko",
+      "title": "뉴토온센 마고로쿠 완벽 가이드: 너도밤나무 숲 속 최후의 비탕(秘湯)",
+      "lat": 39.8088,
+      "lng": 140.7988,
+      "categories": [
+        "비경 온천",
+        "노천탕",
+        "료칸"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_magoroku.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-09-20",
+      "summary": "아키타현 뉴토온센향 가장 깊숙한 곳, 너도밤나무 원시림에 파묻힌 마고로쿠 온천은 두 개의 서로 다른 원천에서 솟는 유백색 온천수와 통나무 건축, 이로리 화덕 요리로 온천 애호가들의 성지로 불린다. 화려함 대신 흙과 나무, 물의 본질에 집중한 이 작은 료칸은 진짜 '비탕'이 어떤 곳인지를 온몸으로 느끼게 해준다. 현대적 편의를 기대하기보다 자연에 몸을 맡길 준비가 된 여행자에게 가장 깊은 만족을 선사하는 곳이다.",
+      "link": "/onsen/nyuto_onsen_magoroku_ko"
+    },
+    {
+      "id": "nyuto_onsen_kuroyu_ko",
+      "lang": "ko",
+      "title": "뉴토 온천 쿠로유, 아키타 산속에 숨은 400년 유황 온천의 진짜 얼굴",
+      "lat": 39.8111,
+      "lng": 140.7911,
+      "categories": [
+        "아키타 온천",
+        "비경 온천",
+        "전통 료칸"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_kuroyu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-09-20",
+      "summary": "아키타현 센보쿠시 깊은 너도밤나무 숲 속, 뉴토 온천향의 원류라 불리는 쿠로유 온천은 초가지붕 본관과 우윳빛 유황탕이 400년 세월을 그대로 간직한 곳이다. 전기도 늦게 들어온 오지의 온천장답게 휴대전화 신호조차 닿지 않는 고립감이 오히려 최고의 사치로 다가온다. 이 글에서는 쿠로유의 역사, 탕질, 객실, 식사, 주변 명소, 실전 팁, 접근 방법까지 여행을 준비하는 데 필요한 모든 정보를 담았다.",
+      "link": "/onsen/nyuto_onsen_kuroyu_ko"
+    },
+    {
+      "id": "nyuto_onsen_ganiba_ko",
+      "lang": "ko",
+      "title": "니뉴토 온천 카니바 완벽 가이드: 아키타 너도밤나무 숲 속 비경 노천탕",
+      "lat": 39.8155,
+      "lng": 140.7955,
+      "categories": [
+        "일본 온천",
+        "아키타 노천탕"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-09-20",
+      "summary": "아키타현 센보쿠시, 너도밤나무 숲 깊은 곳에 자리한 니뉴토 온천 카니바는 우윳빛 유백색 온천수와 통나무로 지은 고즈넉한 객실이 어우러진 비경의 온천 마을입니다. 출렁다리를 건너야 닿는 혼욕 노천탕과 사계절마다 옷을 갈아입는 숲의 풍경이 방문객을 압도합니다. 도쿄에서 신칸센과 버스를 갈아타야 도달할 수 있는 접근성 덕분에, 이곳은 여전히 일본인들이 가장 아끼는 '숨겨진 온천'으로 남아 있습니다.",
+      "link": "/onsen/nyuto_onsen_ganiba_ko"
+    },
+    {
+      "id": "jozankei_onsen_koyotei_ko",
+      "lang": "ko",
+      "title": "삿포로 근교의 비밀 정원, 죠잔케이 온천 코요테이 완벽 가이드",
+      "lat": 42.9989,
+      "lng": 141.1136,
+      "categories": [
+        "일본 온천",
+        "홋카이도 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-09-20",
+      "summary": "삿포로 시내에서 차로 한 시간 거리에 있는 죠잔케이 온천 코요테이는 도요히라가와 협곡을 품은 프라이빗 료칸으로, 사계절 내내 다른 얼굴을 보여주는 노천탕과 정갈한 가이세키 요리로 유명하다. 와비사비 미학이 살아있는 객실과 세심한 오모테나시가 어우러져 삿포로 여행의 마지막 하이라이트가 되어준다. 이 가이드에서는 역사, 온천수의 성분부터 예약 팁까지 코요테이를 제대로 즐기는 모든 방법을 담았다.",
+      "link": "/onsen/jozankei_onsen_koyotei_ko"
+    },
+    {
+      "id": "jozankei_onsen_kasho_gyoen_ko",
+      "lang": "ko",
+      "title": "삿포로 조잔케이 온천 카쇼교엔: 숲속에 숨은 미네랄 온천의 정수",
+      "lat": 42.8397,
+      "lng": 141.1136,
+      "categories": [
+        "홋카이도 온천",
+        "삿포로 근교 여행",
+        "노천탕 료칸"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-09-20",
+      "summary": "삿포로 시내에서 차로 한 시간 거리, 시코츠토야 국립공원 자락에 자리한 조잔케이 온천 카쇼교엔은 도요히라강의 협곡 소리를 배경으로 미네랄이 풍부한 온천수를 즐길 수 있는 숨은 명소입니다. 개척 시대의 역사를 간직한 온천 마을 특유의 정취와 홋카이도 대지의 식재료를 살린 가이세키 요리가 어우러져 사계절 내내 색다른 감동을 선사합니다. 단풍과 설경이 특히 아름다운 이곳은 도심 근교 여행이면서도 깊은 산중 휴양지의 고요함을 동시에 누릴 수 있는 특별한 장소입니다.",
+      "link": "/onsen/jozankei_onsen_kasho_gyoen_ko"
+    },
+    {
+      "id": "jozankei_onsen_grand_blissen_hotel_ko",
+      "lang": "ko",
+      "title": "삿포로의 비밀 정원, 조잔케이 온천 그랜드 블리센 호텔 완벽 가이드",
+      "lat": 42.9622,
+      "lng": 141.1622,
+      "categories": [
+        "홋카이도 온천",
+        "삿포로 근교 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-09-20",
+      "summary": "삿포로 도심에서 불과 한 시간 거리에 자리한 조잔케이 온천 그랜드 블리센 호텔은 도요히라가와 협곡의 절경과 사철천의 부드러운 온천수가 어우러진 홋카이도 대표 온천 리조트다. 사계절 내내 색을 바꾸는 계곡 풍경을 바라보며 즐기는 노천탕과 홋카이도산 식재료로 완성한 가이세키 요리가 여행의 완성도를 높인다. 삿포로 시내 관광과 자연 속 온천 휴양을 동시에 누리고 싶은 여행자에게 이보다 완벽한 선택지는 드물다.",
+      "link": "/onsen/jozankei_onsen_grand_blissen_hotel_ko"
+    },
+    {
+      "id": "ginzan_onsen_senninkan_ko",
+      "lang": "ko",
+      "title": "긴잔온센 센닌칸: 다이쇼 로망 골목 끝, 바위굴 노천탕이 있는 비경의 숙소",
+      "lat": 38.5733,
+      "lng": 140.5333,
+      "categories": [
+        "온천 료칸",
+        "가이세키 요리",
+        "동북 지방 명소"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-09-20",
+      "summary": "야마가타현 오바나자와의 긴잔온센 골목 가장 안쪽, 폭포와 맞닿은 자리에 선 센닌칸은 다이쇼 시대의 목조 건축과 바위를 깎아 만든 동굴 노천탕이 공존하는 료칸이다. 가스등이 켜지는 저녁이면 온천 거리 전체가 옛 영화 속 풍경처럼 물들고, 센닌칸의 객실 창문마다 그 불빛이 스며든다. 온천의 온기와 쇼나이 평야의 식재료가 어우러진 가이세키, 그리고 사계절 다른 표정을 짓는 계곡의 풍경이 이 료칸을 특별하게 만든다.",
+      "link": "/onsen/ginzan_onsen_senninkan_ko"
+    },
     {
       "id": "jozankei_onsen_hatago_sakura_ko",
       "lang": "ko",
@@ -442,7 +558,7 @@
     {
       "id": "jozankei_onsen_mori_no_uta_en",
       "lang": "en",
-      "title": "The Ultimate Guide to Jozankei Onsen Mori no Uta: Hokkaido's Forest Hot Spring Oasis",
+      "title": "Jozankei Onsen Mori no Uta Review: Hokkaido Forest Ryokan Guide - OKOnsen",
       "lat": 42.9648,
       "lng": 141.1648,
       "categories": [
@@ -455,7 +571,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_mori_no_uta.jpg",
       "address": "Jozankei-higashi 3-chome 192, Minami-ku, Sapporo, Hokkaido 061-2302, Japan",
       "published": "2026-07-27",
-      "summary": "Jozankei Onsen Mori no Uta offers a luxurious escape nestled within the enchanting forests of Hokkaido, a mere stone's throw from Sapporo. This exquisite ryokan masterfully blends modern comfort with traditional Japanese aesthetics, providing an unparalleled onsen experience amidst nature's tranquility. From its mineral-rich hot springs to its meticulously crafted Kaiseki cuisine, Mori no Uta promises a rejuvenating journey for the discerning traveler.",
+      "summary": "A forest ryokan near Sapporo pairing mineral hot springs and kaiseki dining with modern comfort — see who it suits and what to know before booking.",
       "link": "/onsen/jozankei_onsen_mori_no_uta_en"
     },
     {

@@ -94,8 +94,9 @@ def test_quality_rejects_en_with_too_much_hangul():
     assert any(e.startswith("en_too_much_hangul:") for e in errors)
 
 
-def test_sibling_fill_requires_higher_min():
-    # ~4800 chars: passes new-page bar (4500), fails sibling-fill bar (5500).
+def test_sibling_fill_uses_same_min_as_new_page():
+    # Sibling fill shares the new-page floor so KO drafts are not discarded
+    # after a full Claude call for being ~4.5–5.4k.
     chunk = "Decent English travel copy for testing length gates. "
     body = (
         "## Introduction\n"
@@ -105,17 +106,16 @@ def test_sibling_fill_requires_higher_min():
         + "\n## Baths\n"
         + chunk * 30
     )
-    assert 4500 <= len(body) < 5500
+    assert len(body) >= 4500
     raw = _wrap("en", body, onsen=True)
     ok_new, err_new = validate_generated_markdown(
         raw, kind="onsen", lang="en", sibling_exists=False
     )
-    ok_fill, errors = validate_generated_markdown(
+    ok_fill, err_fill = validate_generated_markdown(
         raw, kind="onsen", lang="en", sibling_exists=True
     )
     assert ok_new, err_new
-    assert not ok_fill
-    assert any(e.startswith("too_short:") for e in errors)
+    assert ok_fill, err_fill
 
 
 def test_locale_pair_status(tmp_path: Path) -> None:
