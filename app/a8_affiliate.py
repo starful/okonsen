@@ -74,7 +74,8 @@ def a8_banners_context(*, lang: str = "en") -> dict[str, Any]:
     if not _enabled():
         return {"show_a8_banners": False, "a8_banners": []}
     is_ko = (lang or "en").lower() == "ko"
-    banners = [_copy(k, lang=lang) for k in ("yumeyado", "agoda", "tora_esim")]
+    # yumeyado (s00000019305003) ended 2026-09-16 — do not serve
+    banners = [_copy(k, lang=lang) for k in ("agoda", "tora_esim")]
     return {
         "show_a8_banners": True,
         "a8_banners": banners,
