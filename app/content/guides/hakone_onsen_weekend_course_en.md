@@ -1,17 +1,18 @@
 ---
 lang: en
-title: 'Hakone Onsen Weekend Course: Tokyo Day Trip &amp; Gora Ryokan Itinerary -
-  OKOnsen Guide'
+title: 'Hakone Onsen Weekend Course: Tokyo Day Trip & Gora Ryokan Itinerary | OKOnsen
+  Guide'
 summary: A practical Hakone onsen weekend itinerary from Tokyo — day-use baths, Gora
   ryokan stays, and Lake Ashi views, with shop links for each stop.
 date: '2026-07-27'
 description: 'Plan a Hakone onsen weekend from Tokyo: day-use baths, Gora ryokan stays,
-  and Lake Ashi views, with shop links for each stop.'
-seo_title: 'Hakone Onsen Weekend Course: Tokyo Day Trip &amp; Gora Ryokan Itinerary
-  - OKOnsen Guide'
+  Lake Ashi views, and a clear 2-day itinerary with shop links.'
+seo_title: 'Hakone Onsen Weekend Course: Tokyo Day Trip & Gora Ryokan Itinerary |
+  OKOnsen Guide'
 seo_description: 'Plan a Hakone onsen weekend from Tokyo: day-use baths, Gora ryokan
-  stays, and Lake Ashi views, with shop links for each stop.'
+  stays, Lake Ashi views, and a clear 2-day itinerary with shop links.'
 ---
+
 
 
 Hakone is close enough to Tokyo for a day soak, and rich enough for an overnight that feels like a different country. This course is built for travelers who want a clear sequence — arrival, soak, stay (optional), and a second bath — without inventing a new plan from scratch.
@@ -64,3 +65,7 @@ This itinerary works as a single overnight or a slower full weekend if you want 
 - **Day-trip only?** Use the day-use bath option and skip the Gora stay — same route, same views, no overnight needed.
 - **Solo or with friends?** The private-bath (*kashikiri*) lanes suit couples and small groups; the lake lane fits a larger resort-style stay.
 - **Short on time?** Pick one soak plus the ropeway view rather than rushing both days — Hakone rewards a slower pace over a checklist.
+
+## Who This Two-Day Course Suits Best
+
+This itinerary works best for travelers doing a Tokyo–Hakone round trip who want one clear plan instead of comparing dozens of ryokan separately. It suits first-timers, couples booking a private bath together, and anyone using the Hakone Free Pass rather than driving. Only have a single day? Follow Day 1 through the afternoon soak and skip the overnight stay — the same lane choices still work for a day-use visit.

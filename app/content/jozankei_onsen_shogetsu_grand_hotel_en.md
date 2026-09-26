@@ -1,0 +1,49 @@
+---
+lang: en
+title: "Jozankei Onsen Shogetsu Grand Hotel: A Riverside Sanctuary in the Hokkaido Highlands"
+lat: 42.9677
+lng: 141.1677
+categories: ["Hokkaido Onsen", "Luxury Ryokan"]
+thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg"
+address: "Sapporo, Hokkaido"
+date: "2026-09-26"
+summary: "Tucked into the forested gorge of Jozankei just an hour from Sapporo, Shogetsu Grand Hotel pairs mineral-rich, milky-white sulfate waters with sweeping views of the Toyohira River. Its blend of classic hospitality and modern comfort makes it a favorite four-season escape for travelers seeking both wilderness and refinement. This guide covers everything from its bathing culture to the exact train and bus routes to get there."
+---
+
+Arriving at Jozankei Onsen Shogetsu Grand Hotel feels like stepping out of the bustle of Sapporo and into a quieter, older Hokkaido. The Toyohira River cuts through a narrow gorge here, its banks lined with maple and oak that blaze crimson in autumn and lie hushed under snow in winter. The hotel itself rises above this ravine, a large-scale property that nonetheless manages an intimate, cocooning atmosphere once you're inside. Steam drifts from the rooftop baths even in the height of summer, and the low murmur of the river is a constant soundtrack to the stay. What makes this property unique is not just its scale — it is genuinely one of the larger onsen resorts in the region — but the way it uses that scale to offer a dizzying variety of bathing experiences, from open-air river-view rotenburo to private family baths, all fed by the same generous mineral springs that gave Jozankei its name over a century and a half ago.
+
+## The Gorge That Became a Spa Town
+
+Jozankei's onsen history begins not with a nobleman or a shogun, but with a Buddhist monk. In 1866, the priest Miizumi Jozan trekked into this remote valley seeking a hot spring cure for his ailments, and upon finding the source, established a modest bathhouse that eventually lent the town his name. For decades Jozankei remained a rustic retreat, reachable only by rough mountain trails, prized by locals for its curative waters long before Sapporo grew into Hokkaido's largest city. The arrival of rail and later highway links in the 20th century transformed it into the "Okuzashiki of Sapporo" — literally the "inner drawing room," a term used across Japan for onsen towns positioned as a short retreat from a major metropolis. Shogetsu Grand Hotel emerged from this later wave of development, growing alongside the town's postwar expansion into a full-service resort. Unlike Jozankei's oldest inns, which trade on centuries of continuous operation, Shogetsu built its reputation on being an accessible, all-encompassing gateway to the valley's springs, updating its facilities across the decades while keeping the emphasis firmly on the water itself.
+
+## Water From the Mountain's Core
+
+The baths here draw on Jozankei's classic sodium-calcium-chloride springs, waters that emerge from deep volcanic strata and carry a distinctive silky texture against the skin. Bathers frequently describe the water as faintly saline, with a soft, almost oily smoothness that clings after rinsing — a hallmark of chloride-rich springs prized for retaining body heat long after leaving the tub. The mineral concentration is credited locally with easing muscle fatigue, joint stiffness, and poor circulation, making it a favored stop for hikers coming off the nearby peaks and skiers descending from Hokkaido's winter slopes.
+
+### The Rooftop and River-View Rotenburo
+
+The signature bathing experience at Shogetsu is its open-air rooftop bath, elevated above the tree line so bathers look directly down into the Toyohira gorge without obstruction. In autumn, this vantage becomes one of the most photographed onsen views in the Sapporo region, with a canopy of orange and red spreading below the bath's edge. Come winter, snow gathers on the rocks ringing the tub while steam rises into the cold night air, and the contrast between icy surroundings and the hot mineral water is the very essence of the Hokkaido onsen experience. A separate riverside rotenburo sits closer to water level, offering a more intimate, ground-level communion with the rushing current just meters away.
+
+### Indoor Baths and Private Options
+
+Inside, spacious indoor bathing halls feature large picture windows facing the gorge, allowing guests to soak regardless of weather. For couples, families, or travelers with tattoos who prefer discretion, the hotel also offers reservable private baths (kashikiri) with their own small rotenburo, ensuring nobody has to forgo the experience due to modesty or ink.
+
+## Sleeping Above the River
+
+Shogetsu Grand Hotel's rooms range from traditional tatami-mat washitsu to more contemporary Japanese-Western hybrid layouts, and a number of premium rooms come with their own semi-open-air bath on the balcony, plumbed with the same mineral spring water as the communal facilities. The aesthetic throughout favors warm wood tones, shoji screens that filter daylight into soft diffuse pools, and low furniture that keeps sightlines open toward the river view. Rather than austere wabi-sabi minimalism, the design leans toward a more generous, welcoming comfort — plush futon bedding, deep soaking tubs, and thoughtful touches like yukata in multiple sizes and heated floors in the colder months. Corner rooms and higher floors command the best gorge views, particularly during the November foliage season and the deep-snow months of January and February, and are worth requesting specifically at booking.
+
+## A Table Set With Hokkaido's Bounty
+
+Dinner at Shogetsu is built around Hokkaido's exceptional seafood and mountain produce, typically served as a multi-course kaiseki meal either in-room, in a private dining room, or at a semi-buffet style hall depending on the plan booked. Expect a parade of small, precisely composed dishes: sashimi of Hokkaido scallop and salmon, so fresh it barely needs the accompanying wasabi; a simmered course of local vegetables like Jozankei-grown pumpkin and mountain potato in a delicate dashi; and a hot pot centered on Ishikari-style salmon and miso, a dish with deep roots in Hokkaido's Ainu and settler culinary history. Crab features prominently in season, whether as a delicate steamed course or grilled with a hint of butter and soy. Breakfast shifts to a lighter register — grilled fish, rice, miso soup, house-made pickles, and a small hot pot of tofu — designed to be restorative rather than heavy, so guests are ready for another soak or a morning walk along the gorge before checkout.
+
+## Beyond the Bath: Exploring Jozankei and Sapporo
+
+Jozankei sits close enough to central Sapporo — roughly an hour by car or bus — that guests can easily combine onsen relaxation with city sightseeing, yet the immediate area offers plenty on its own. The Toyohira River gorge has several walking trails and suspension bridges offering views down into the ravine, particularly spectacular during the autumn foliage season from late September through mid-October. Nature lovers can visit the nearby Jozankei Dam and Lake Jozan for quiet lakeside walks, while the adjacent Kappa Taiko Bridge and its whimsical kappa-themed statues make for a lighthearted photo stop tied to local folklore about river spirits said to inhabit the gorge. In winter, the region transforms into a gateway for skiing and snowboarding, with several resorts a short drive away, and the annual Jozankei Onsen Yukigassen snow festival brings sculpture displays and illuminations to the town center. For those extending into Sapporo proper, the Sapporo Beer Museum, Odori Park, and the historic Clock Tower are all easily reached, making Shogetsu a practical base for pairing onsen tranquility with urban culture.
+
+## Planning Your Stay
+
+Tattoo policy at Shogetsu follows the common Japanese onsen standard: visible tattoos are generally not permitted in the communal baths, though the hotel's private reservable baths offer a workaround for tattooed guests who still want to enjoy the mineral waters without restriction — it is worth confirming current policy and reserving a private slot when booking. The best seasons to visit are early-to-mid autumn, when the gorge's foliage peaks and the air carries a crisp chill perfect for a hot soak, and midwinter, when snow-draped rotenburo deliver the quintessential Hokkaido onsen scene. Summer offers a cooler, greener alternative to Sapporo's warmer streets and tends to be less crowded. Booking hacks worth knowing: weekday stays are noticeably less expensive and quieter than weekend and holiday periods, and rooms with private open-air baths sell out first during the autumn leaf season, so reserving several weeks ahead is wise if that feature matters to you. Many rates are structured with dinner and breakfast included, and upgrading to a kaiseki course featuring crab or Hokkaido wagyu is generally worth the supplement.
+
+## Getting to the Gorge
+
+From New Chitose Airport, the most direct route is an airport limousine bus or train transfer into Sapporo Station, followed by a Jozankei-bound bus, a journey of roughly 90 minutes to two hours total depending on connections. From central Sapporo Station or Susukino, the Jotetsu Bus "Jozankei Line" runs directly to Jozankei Onsen, taking approximately 60 to 70 minutes and dropping passengers within walking distance of the hotel; buses run frequently throughout the day, and many hotels including Shogetsu can arrange shuttle pickups from the bus terminal for added convenience. Travelers with a rental car can reach Jozankei from Sapporo in about 50 minutes via Route 230, a scenic drive that itself offers previews of the gorge scenery to come, with hotel parking available on-site for those arriving by car.

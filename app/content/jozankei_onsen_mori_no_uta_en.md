@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 'Jozankei Onsen Mori no Uta Review: Hokkaido Forest Ryokan Guide - OKOnsen'
+title: 'Jozankei Onsen Mori no Uta Review: Worth It Near Sapporo? - OKOnsen'
 lat: 42.9648
 lng: 141.1648
 categories:
@@ -14,14 +14,13 @@ address: Jozankei-higashi 3-chome 192, Minami-ku, Sapporo, Hokkaido 061-2302, Ja
 date: '2026-07-27'
 summary: A forest ryokan near Sapporo pairing mineral hot springs and kaiseki dining
   with modern comfort — see who it suits and what to know before booking.
-description: 'Jozankei Onsen Mori no Uta guide: a forest ryokan near Sapporo with
-  hot springs, kaiseki dining & an outdoor footbath. Tips on who it suits before booking.'
-seo_title: 'Jozankei Onsen Mori no Uta Review: Hokkaido Forest Ryokan Guide - OKOnsen'
-seo_description: 'Jozankei Onsen Mori no Uta guide: a forest ryokan near Sapporo with
-  hot springs, kaiseki dining & an outdoor footbath. Tips on who it suits before booking.'
+description: Forest ryokan near Sapporo with mineral hot springs and kaiseki dining
+  — who it suits, what to expect, and what to check before you book.
+seo_title: 'Jozankei Onsen Mori no Uta Review: Worth It Near Sapporo? - OKOnsen'
+seo_description: Forest ryokan near Sapporo with mineral hot springs and kaiseki dining
+  — who it suits, what to expect, and what to check before you book.
 ---
-
-
+**Quick take:** if you want Hokkaido's forest quiet paired with mineral hot springs and kaiseki dining just outside Sapporo, Mori no Uta earns its reputation — but it's not for everyone. Below: who it suits, what stands out, and what to weigh before booking.
 
 ## A Sanctuary Where Forest Whispers and Waters Restore
 

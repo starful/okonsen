@@ -1,6 +1,55 @@
 {
-  "last_updated": "2026.09.20 11:38",
+  "last_updated": "2026.09.26 21:03",
   "onsens": [
+    {
+      "id": "jozankei_onsen_shogetsu_grand_hotel_ko",
+      "lang": "ko",
+      "title": "삿포로 근교 최고의 온천, 조잔케이 온센 쇼게츠 그랜드 호텔 완벽 가이드",
+      "lat": 42.9677,
+      "lng": 141.1677,
+      "categories": [
+        "온천 료칸",
+        "홋카이도 여행",
+        "삿포로 근교 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-09-26",
+      "summary": "삿포로에서 차로 한 시간 거리, 도요히라강 협곡 위에 자리한 조잔케이 온센 쇼게츠 그랜드 호텔은 홋카이도 유수의 노천 온천과 계절마다 옷을 갈아입는 절경으로 유명하다. 이 가이드는 온천수의 성분부터 가이세키 요리, 삿포로 시내 연계 관광까지 방문 전 알아야 할 모든 것을 담았다. 도심의 편리함과 깊은 산속 온천의 정취를 동시에 누리고 싶은 여행자에게 최적의 선택지다.",
+      "link": "/onsen/jozankei_onsen_shogetsu_grand_hotel_ko"
+    },
+    {
+      "id": "jozankei_onsen_shogetsu_grand_hotel_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Shogetsu Grand Hotel: A Riverside Sanctuary in the Hokkaido Highlands",
+      "lat": 42.9677,
+      "lng": 141.1677,
+      "categories": [
+        "Hokkaido Onsen",
+        "Luxury Ryokan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-09-26",
+      "summary": "Tucked into the forested gorge of Jozankei just an hour from Sapporo, Shogetsu Grand Hotel pairs mineral-rich, milky-white sulfate waters with sweeping views of the Toyohira River. Its blend of classic hospitality and modern comfort makes it a favorite four-season escape for travelers seeking both wilderness and refinement. This guide covers everything from its bathing culture to the exact train and bus routes to get there.",
+      "link": "/onsen/jozankei_onsen_shogetsu_grand_hotel_en"
+    },
+    {
+      "id": "jozankei_onsen_jozankei_hotel_en",
+      "lang": "en",
+      "title": "Jozankei Hotel: Sapporo's Riverside Onsen Retreat in the Forest",
+      "lat": 42.9651,
+      "lng": 141.1651,
+      "categories": [
+        "Hokkaido Onsen",
+        "Hot Spring Ryokan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_jozankei_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-09-26",
+      "summary": "Jozankei Hotel sits along the emerald curves of the Toyohira River, just forty minutes from downtown Sapporo, offering mineral-rich alkaline waters framed by Hokkaido's dense cedar forest. This guide explores its onsen chemistry, kaiseki cuisine built on Hokkaido's seasonal bounty, and the practical details needed to plan a stay in every season, from spring melt to deep winter snow.",
+      "link": "/onsen/jozankei_onsen_jozankei_hotel_en"
+    },
     {
       "id": "nyuto_onsen_magoroku_ko",
       "lang": "ko",

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 'Arima Grand Hotel Review: Kinsen Gold Water Onsen Ryokan | OKOnsen'
+title: 'Arima Grand Hotel Review: Kinsen Gold Water Onsen | OKOnsen'
 lat: 34.7955
 lng: 135.2455
 categories:
@@ -10,15 +10,15 @@ categories:
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg
 address: Kobe, Hyogo
 date: '2026-06-27'
-summary: Arima Grand Hotel pairs Kinsen gold and Ginsen silver hot springs with kaiseki
-  dining and traditional hospitality in the heart of Arima Onsen.
-description: Explore Arima Grand Hotel's Kinsen gold and Ginsen silver hot springs,
-  kaiseki dinners, and mountain views in Japan's oldest onsen town, Arima Onsen.
-seo_title: 'Arima Grand Hotel Review: Kinsen Gold Water Onsen Ryokan | OKOnsen'
-seo_description: Explore Arima Grand Hotel's Kinsen gold and Ginsen silver hot springs,
-  kaiseki dinners, and mountain views in Japan's oldest onsen town, Arima Onsen.
+summary: A closer look at whether Arima Grand Hotel's twin Kinsen and Ginsen springs,
+  kaiseki dining, and hospitality earn its reputation among Arima Onsen ryokan.
+description: Is Arima Grand Hotel worth it? See how its Kinsen gold and Ginsen silver
+  springs, kaiseki dining, and hospitality stack up before you book.
+seo_title: 'Arima Grand Hotel Review: Kinsen Gold Water Onsen | OKOnsen'
+seo_description: Is Arima Grand Hotel worth it? See how its Kinsen gold and Ginsen
+  silver springs, kaiseki dining, and hospitality stack up before you book.
 ---
-
+**Quick take:** Arima Grand Hotel is one of the few ryokan in town offering both Kinsen (gold) and Ginsen (silver) springs under one roof, paired with kaiseki dining and classic omotenashi service. Here's what stands out before you book your stay.
 
 ## Introduction
 
