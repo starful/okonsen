@@ -11,7 +11,7 @@ _BANNERS: dict[str, dict[str, str]] = {
         "click_url": "",
         "image_url": "",
         "pixel_url": "",
-        "label_en": "Agoda — hotels near onsen",
+        "label_en": "Agoda — near this onsen",
         "label_ko": "Agoda — 온천 주변 숙소",
         "desc_en": "Search hotels and ryokan near this area.",
         "desc_ko": "이 지역 주변 숙소 검색.",
