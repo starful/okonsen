@@ -116,7 +116,11 @@ def onsen_detail(onsen_id):
         **share_ctx,
         **hreflang_flags("onsen", base_id),
         **rakuten_context(onsen_id, lang=lang),
-        **a8_banners_context(lang=lang),
+        **a8_banners_context(
+            lang=lang,
+            lat=post.get("lat"),
+            lng=post.get("lng"),
+        ),
     )
 
 
