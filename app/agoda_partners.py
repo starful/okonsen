@@ -1,6 +1,6 @@
 """Agoda Partners (CID) search links — replaces A8 Agoda click URLs.
 
-CID 1969838 = Approval Site. Deep-link with city= when possible.
+CID 1969838 = Agoda Partners site for okonsen. Deep-link with city= when possible.
 
 City IDs below are partner-confirmed (2026-09). If a hub is missing, ask
 for the Agoda city code rather than guessing.
