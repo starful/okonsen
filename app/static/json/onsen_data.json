@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026.09.26 21:03",
+  "last_updated": "2026.10.01 19:14",
   "onsens": [
+    {
+      "id": "jozankei_onsen_kuramure_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Kuramure: A Sapporo Ryokan Sanctuary Where Art Meets Hot Spring Serenity",
+      "lat": 42.9688,
+      "lng": 141.1688,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Hokkaido"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kuramure.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-10-01",
+      "summary": "Kuramure is a design-forward ryokan tucked into the Toyohira River gorge of Jozankei Onsen, just an hour from central Sapporo, where sculptural architecture and private open-air baths meet Hokkaido's volcanic hot spring water. Every room carries its own semi-outdoor bath fed by the mineral-rich springs, pairing contemporary art-gallery minimalism with the ritual intimacy of a classic onsen retreat. It's the rare Hokkaido ryokan that feels equally suited to a quiet solo escape and a romantic anniversary stay.",
+      "link": "/onsen/jozankei_onsen_kuramure_en"
+    },
     {
       "id": "jozankei_onsen_shogetsu_grand_hotel_ko",
       "lang": "ko",
@@ -607,7 +624,7 @@
     {
       "id": "jozankei_onsen_mori_no_uta_en",
       "lang": "en",
-      "title": "Jozankei Onsen Mori no Uta Review: Hokkaido Forest Ryokan Guide - OKOnsen",
+      "title": "Jozankei Onsen Mori no Uta Review: Worth It Near Sapporo? - OKOnsen",
       "lat": 42.9648,
       "lng": 141.1648,
       "categories": [
@@ -1046,7 +1063,7 @@
     {
       "id": "arima_onsen_arima_grand_hotel_en",
       "lang": "en",
-      "title": "Arima Grand Hotel Review: Kinsen Gold Water Onsen Ryokan | OKOnsen",
+      "title": "Arima Grand Hotel Review: Kinsen Gold Water Onsen | OKOnsen",
       "lat": 34.7955,
       "lng": 135.2455,
       "categories": [
@@ -1057,7 +1074,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg",
       "address": "Kobe, Hyogo",
       "published": "2026-06-27",
-      "summary": "Arima Grand Hotel pairs Kinsen gold and Ginsen silver hot springs with kaiseki dining and traditional hospitality in the heart of Arima Onsen.",
+      "summary": "A closer look at whether Arima Grand Hotel's twin Kinsen and Ginsen springs, kaiseki dining, and hospitality earn its reputation among Arima Onsen ryokan.",
       "link": "/onsen/arima_onsen_arima_grand_hotel_en"
     },
     {
@@ -1297,7 +1314,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_okyakuya.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
-      "summary": "A guide to Kurokawa Onsen Okyakuya, a Kumamoto ryokan known for private open-air baths and traditional hospitality in the historic Kurokawa Onsen village.",
+      "summary": "A guide to Kurokawa Onsen Okyakuya, a Kumamoto ryokan known for private open-air baths, kaiseki dining, and traditional hospitality in the historic Kurokawa Onsen village.",
       "link": "/onsen/kurokawa_onsen_okyakuya_en"
     },
     {
@@ -1719,7 +1736,7 @@
     {
       "id": "hotel_indigo_hakone_gora_en",
       "lang": "en",
-      "title": "Hotel Indigo Hakone Gora | Private Onsen Baths & Luxury Stay",
+      "title": "Hotel Indigo Hakone Gora: Private Onsen Baths & Art Ryokan | OKOnsen",
       "lat": 35.2511,
       "lng": 139.0452,
       "categories": [
@@ -1730,7 +1747,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hotel_indigo_hakone_gora.jpg",
       "address": "Hakone, Kanagawa",
       "published": "2026-03-24",
-      "summary": "Immerse yourself in the unparalleled luxury and breathtaking natural beauty of Hotel Indigo Hakone Gora, a modern ryokan offering an exquisite onsen experience. Perched amidst the majestic landscapes of Hakone, this sanctuary blends traditional Japanese hospitality with contemporary elegance and offers spectacular views. Discover serene private baths, innovative gastronomy, and a tranquil escape designed for ultimate rejuvenation and cultural immersion.",
+      "summary": "Hotel Indigo Hakone Gora pairs a design-forward, art-filled ryokan aesthetic with private onsen baths and mountain views along the Hayakawa River, offering a stylish alternative for travelers seeking Hakone's hot spring culture with international-standard comfort.",
       "link": "/onsen/hotel_indigo_hakone_gora_en"
     },
     {
