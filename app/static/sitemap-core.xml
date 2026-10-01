@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://okonsen.net/</loc>
-    <lastmod>2026-09-26</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://okonsen.net/?lang=ko</loc>
-    <lastmod>2026-09-26</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides</loc>
-    <lastmod>2026-09-26</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://okonsen.net/guides?lang=ko</loc>
-    <lastmod>2026-09-26</lastmod>
+    <lastmod>2026-10-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -43,6 +43,11 @@
   <url>
     <loc>https://okonsen.net/onsen/yufuin_onsen_yufuin-so_ko</loc>
     <lastmod>2026-04-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okonsen.net/onsen/jozankei_onsen_kuramure_en</loc>
+    <lastmod>2026-10-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -462,11 +467,6 @@
   </url>
   <url>
     <loc>https://okonsen.net/onsen/kusatsu_onsen_konoha_ko</loc>
-    <lastmod>2026-04-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okonsen.net/onsen/kusatsu_onsen_hotel_village_en</loc>
     <lastmod>2026-04-05</lastmod>
     <priority>0.8</priority>
   </url>
