@@ -1,14 +1,25 @@
 ---
 lang: en
-title: "Jozankei Onsen Kasho Gyoen: Sapporo's Riverside Sanctuary of Silence"
+title: 'Jozankei Onsen Kasho Gyoen: Riverside Ryokan Near Sapporo - OKOnsen'
 lat: 42.9856
 lng: 141.1136
-categories: ["Onsen Ryokan", "Hokkaido Hot Springs"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg"
-address: "Jozankei, Minami-ku, Sapporo, Hokkaido"
-date: "2026-08-15"
-summary: "Kasho Gyoen is a secluded riverside ryokan in Jozankei Onsen, just an hour from Sapporo's city center, where mineral-rich waters meet the dramatic seasonal colors of the Toyohira River gorge. Its architecture blends modern minimalism with traditional Hokkaido craftsmanship, creating a retreat that feels worlds away from the nearby metropolis. This is a guide for travelers seeking deep relaxation, refined Hokkaido cuisine, and an authentic onsen experience without leaving Sapporo behind."
+categories:
+- Onsen Ryokan
+- Hokkaido Hot Springs
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg
+address: Jozankei, Minami-ku, Sapporo, Hokkaido
+date: '2026-08-15'
+summary: Kasho Gyoen is a secluded riverside ryokan in Jozankei Onsen, about an hour
+  from Sapporo, where mineral-rich hot springs meet the Toyohira River gorge and refined
+  Hokkaido cuisine.
+description: 'Kasho Gyoen: a secluded riverside ryokan in Jozankei Onsen, about an
+  hour from Sapporo, with mineral-rich hot springs, Hokkaido cuisine and gorge views.'
+seo_title: 'Jozankei Onsen Kasho Gyoen: Riverside Ryokan Near Sapporo - OKOnsen'
+seo_description: 'Kasho Gyoen: a secluded riverside ryokan in Jozankei Onsen, about
+  an hour from Sapporo, with mineral-rich hot springs, Hokkaido cuisine and gorge
+  views.'
 ---
+
 
 Stepping through the entrance of Kasho Gyoen feels like crossing an invisible threshold between Sapporo's brisk urban energy and the hush of a mountain gorge. The lobby is dim and deliberate, lit by paper lanterns and the soft glow of a hearth, while beyond the windows the Toyohira River churns over dark volcanic rock. There is no attempt to overwhelm guests with grandeur here; instead, the ryokan works in restraint, letting the sound of rushing water and the scent of cedar do the talking. Within minutes of arrival, the pace of the city falls away, replaced by something slower and more attentive — a staff member kneeling to offer tea, the creak of tatami underfoot, the distant call of a bird from the surrounding cedar forest. It is this immediate sensory shift, achieved with so little ornamentation, that makes Kasho Gyoen distinct among Hokkaido's hot spring retreats.
 
@@ -73,3 +84,7 @@ Because of its proximity to Sapporo, Kasho Gyoen books quickly during the Snow F
 ## Getting There
 
 From New Chitose Airport, the journey to Jozankei takes approximately 90 minutes by rental car or airport limousine bus with a transfer in central Sapporo. From Sapporo Station, direct shuttle buses run several times daily to Jozankei Onsen, taking roughly 60 to 70 minutes depending on traffic and season; many ryokan, including Kasho Gyoen, can arrange private pickup for an additional fee. Drivers coming from Sapporo should follow Route 230 south, a scenic route that itself offers glimpses of the gorge before arrival.
+
+## Who Kasho Gyoen Suits
+
+Kasho Gyoen is best suited to travelers based in Sapporo who want a quiet escape without a long journey — roughly an hour by car or bus from the city center. It appeals most to couples and solo travelers seeking a slow, contemplative onsen stay rather than a lively resort scene. Because the ryokan leans into stillness and natural sound, visitors hoping for extensive nightlife or large group facilities may prefer other Jozankei properties. Autumn and winter, when the Toyohira River gorge frames the rooms in color or snow, are especially rewarding times to visit.

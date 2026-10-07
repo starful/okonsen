@@ -1,12 +1,16 @@
 ---
 lang: en
-title: 'Kinosaki & Kusatsu Onsen Course: Two Classic Towns'
-summary: Pair Kinosaki’s yukata street culture with Kusatsu’s strong sulfuric springs — a two-town onsen course with OKOnsen links.
+title: 'Kinosaki & Kusatsu Onsen Course: 2 Towns, 1 Trip Plan'
+summary: A two-town onsen course pairing Kinosaki's yukata bath-hopping with Kusatsu's
+  strong sulfuric springs, with sequencing advice and OKOnsen picks.
 date: '2026-07-27'
-description: Classic Japan onsen towns itinerary linking Kinosaki and Kusatsu with practical transfer notes.
-seo_title: Kinosaki & Kusatsu Onsen Course | Classic Towns | OKOnsen
-seo_description: Combine Kinosaki’s public-bath hop with Kusatsu’s powerful springs — itinerary tips and OKOnsen ryokan links.
+description: Yukata nights in Kinosaki, strong sulfuric baths in Kusatsu — how to
+  sequence both towns plus OKOnsen ryokan picks.
+seo_title: 'Kinosaki & Kusatsu Onsen Course: 2 Towns, 1 Trip Plan'
+seo_description: Yukata nights in Kinosaki, strong sulfuric baths in Kusatsu — how
+  to sequence both towns plus OKOnsen ryokan picks.
 ---
+Wondering whether Kinosaki and Kusatsu actually work as one trip? They don't sit next to each other, but sequenced right — as two separate legs rather than a same-day hop — they make one of the cleanest onsen pairings in Japan: yukata streets on one side, serious mineral water on the other.
 
 If you want the postcard version of Japanese onsen towns, **Kinosaki** and **Kusatsu** are the cleanest pairing: one is about strolling in *yukata* between public baths, the other about serious mineral water and mountain air.
 

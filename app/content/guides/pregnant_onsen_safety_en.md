@@ -1,9 +1,16 @@
 ---
 lang: en
-title: "Pregnancy Onsen Bathing in Japan: A Safe, Expert-Backed Babymoon Guide"
-summary: "Everything expectant travelers need to know about soaking safely in Japanese hot springs, from doctor-approved water temperatures to the best babymoon-friendly ryokan."
-date: "2026-08-08"
+title: Is It Safe to Go to an Onsen While Pregnant? A Doctor-Backed Guide
+summary: A doctor-backed answer to whether pregnant travelers can safely enjoy Japan's
+  onsen, plus the babymoon ryokan picks worth booking.
+date: '2026-08-08'
+description: Yes, pregnant travelers can enjoy Japan's onsen safely. Get doctor-backed
+  rules on temperature, timing, and babymoon-friendly ryokan picks.
+seo_title: Pregnant & Want an Onsen? Safety Guide + Best Ryokan
+seo_description: Can you use a Japanese onsen while pregnant? Doctor-backed rules
+  on safe temperature, timing, and the best babymoon ryokan for expectant travelers.
 ---
+**Short answer: yes, pregnant travelers can safely enjoy a Japanese onsen** — with a few key precautions. Keep soaks under 10–15 minutes, avoid scorching-hot baths, and skip onsen entirely during a high-risk first trimester or with any pregnancy complications. Below is exactly how to bathe safely, from water temperature to the best babymoon-friendly ryokan.
 
 Japan's onsen culture is one of the country's most cherished traditions, and for many expectant mothers planning a babymoon, the idea of soaking in a steaming mineral bath surrounded by mountains or the sea feels like the ultimate way to relax before the baby arrives. But pregnancy changes the rules. The same heat and mineral immersion that soothes sore muscles and eases stress can pose real risks to a developing baby if approached carelessly. This guide exists to help pregnant travelers enjoy Japan's onsen heritage responsibly, with clear, practical guidance grounded in what obstetricians and experienced ryokan staff actually recommend, rather than folklore or guesswork.
 
