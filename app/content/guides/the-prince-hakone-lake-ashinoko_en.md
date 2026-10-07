@@ -1,9 +1,16 @@
 ---
 lang: en
-title: "The Prince Hakone Lake Ashinoko: A Complete Lakeside Escape Beneath Mount Fuji"
-summary: "Discover why The Prince Hakone Lake Ashinoko remains one of Japan's most storied lakeside retreats, blending onsen tradition, Fuji views, and effortless access from Tokyo."
-date: "2026-09-20"
+title: 'The Prince Hakone Lake Ashinoko: Fuji Views, Onsen & Easy Tokyo Access'
+summary: A lakeside Hakone resort pairing onsen tradition with Mount Fuji views, set
+  in 400,000㎡ of private forest just two hours from Tokyo.
+date: '2026-09-20'
+description: Lakeside onsen views of Mount Fuji, 400,000㎡ of private forest, and just
+  2 hours from Tokyo. See why The Prince Hakone Lake Ashinoko is worth the trip.
+seo_title: 'The Prince Hakone Lake Ashinoko: Fuji Views, Onsen & Easy Tokyo Access'
+seo_description: Lakeside onsen views of Mount Fuji, 400,000㎡ of private forest, and
+  just 2 hours from Tokyo. See why The Prince Hakone Lake Ashinoko is worth the trip.
 ---
+On a clear morning, few hotel windows in Japan deliver a view like this: still volcanic water in the foreground, Mount Fuji rising behind it, and not another building in sight. That's the daily draw of The Prince Hakone Lake Ashinoko — a resort that manages to feel remote while sitting under two hours from Tokyo.
 
 ## Where the Water Meets the Volcano: An Introduction to the Property
 
