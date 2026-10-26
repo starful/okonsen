@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026.10.01 19:14",
+  "last_updated": "2026.10.12 15:49",
   "onsens": [
+    {
+      "id": "noboribetsu_onsen_adzuma_en",
+      "lang": "en",
+      "title": "Noboribetsu Onsen Adzuma: Hokkaido's Secluded Sanctuary of Milky-White Sulphur Baths",
+      "lat": 42.4961,
+      "lng": 141.1431,
+      "categories": [
+        "Onsen Ryokan",
+        "Hokkaido Hot Springs"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_adzuma.jpg",
+      "address": "Noboribetsu, Hokkaido",
+      "published": "2026-10-12",
+      "summary": "Noboribetsu Onsen Adzuma is a quietly dignified ryokan tucked beside the sulphurous valley of Jigokudani, offering nine distinct therapeutic spring waters drawn directly from the volcanic earth. It pairs rustic Hokkaido craftsmanship with refined kaiseki cuisine built around Pacific seafood and mountain vegetables. For travelers seeking an authentic, less commercialized alternative to Noboribetsu's larger resort hotels, Adzuma delivers an intimate, onsen-first experience.",
+      "link": "/onsen/noboribetsu_onsen_adzuma_en"
+    },
+    {
+      "id": "jozankei_onsen_suizantei_en",
+      "lang": "en",
+      "title": "Suizantei: A Riverside Onsen Sanctuary in Jozankei, Sapporo",
+      "lat": 42.9666,
+      "lng": 141.1666,
+      "categories": [
+        "Hokkaido Onsen",
+        "Ryokan Guide"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_suizantei.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-10-12",
+      "summary": "Suizantei is a riverside ryokan in Jozankei Onsen, just an hour from Sapporo, prized for its mineral-rich alkaline waters and dramatic gorge views. This guide walks through its history, baths, cuisine, and rooms, along with practical tips for visitors. Whether you crave autumn foliage or snow-draped silence, Suizantei offers one of Hokkaido's most convenient yet immersive onsen escapes.",
+      "link": "/onsen/jozankei_onsen_suizantei_en"
+    },
+    {
+      "id": "jozankei_onsen_nukumorino_yado_furukawa_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Nukumorino Yado Furukawa: Sapporo's Secluded River Sanctuary",
+      "lat": 42.9633,
+      "lng": 141.1633,
+      "categories": [
+        "Hokkaido Onsen",
+        "Ryokan Review"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_nukumorino_yado_furukawa.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-10-12",
+      "summary": "Nukumorino Yado Furukawa is an intimate riverside ryokan in Jozankei Onsen, just an hour from Sapporo, built around a philosophy of quiet, personal warmth. Its open-air baths overlook the rushing Toyohira River gorge, delivering a sense of wilderness immersion rarely found so close to a major city. This guide explores every layer of the property, from its mineral-rich waters to its seasonal kaiseki cuisine.",
+      "link": "/onsen/jozankei_onsen_nukumorino_yado_furukawa_en"
+    },
     {
       "id": "jozankei_onsen_kuramure_en",
       "lang": "en",
@@ -367,7 +415,7 @@
     {
       "id": "jozankei_onsen_kasho_gyoen_en",
       "lang": "en",
-      "title": "Jozankei Onsen Kasho Gyoen: Sapporo's Riverside Sanctuary of Silence",
+      "title": "Jozankei Onsen Kasho Gyoen: Riverside Ryokan Near Sapporo - OKOnsen",
       "lat": 42.9856,
       "lng": 141.1136,
       "categories": [
@@ -377,7 +425,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg",
       "address": "Jozankei, Minami-ku, Sapporo, Hokkaido",
       "published": "2026-08-15",
-      "summary": "Kasho Gyoen is a secluded riverside ryokan in Jozankei Onsen, just an hour from Sapporo's city center, where mineral-rich waters meet the dramatic seasonal colors of the Toyohira River gorge. Its architecture blends modern minimalism with traditional Hokkaido craftsmanship, creating a retreat that feels worlds away from the nearby metropolis. This is a guide for travelers seeking deep relaxation, refined Hokkaido cuisine, and an authentic onsen experience without leaving Sapporo behind.",
+      "summary": "Kasho Gyoen is a secluded riverside ryokan in Jozankei Onsen, about an hour from Sapporo, where mineral-rich hot springs meet the Toyohira River gorge and refined Hokkaido cuisine.",
       "link": "/onsen/jozankei_onsen_kasho_gyoen_en"
     },
     {
@@ -700,7 +748,7 @@
     {
       "id": "ginzan_onsen_takimikan_en",
       "lang": "en",
-      "title": "Ginzan Onsen Takimikan: A Timeless Retreat in Yamagata's Winter Wonderland",
+      "title": "Ginzan Onsen Takimikan Guide: Ryokan by Shirogane Waterfall in Yamagata - OKOnsen",
       "lat": 38.5744,
       "lng": 140.5344,
       "categories": [
@@ -713,7 +761,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_takimikan.jpg",
       "address": "427 Ginzanshinhata, Obanazawa, Yamagata 999-4333, Japan",
       "published": "2026-07-27",
-      "summary": "Nestled in the heart of the famously picturesque Ginzan Onsen, Takimikan offers an authentic escape to a bygone era. Overlooking the iconic Shirogane Waterfall, this traditional ryokan provides a deeply immersive experience steeped in natural beauty and serene hospitality. It's a sanctuary where the healing power of water meets the timeless charm of Japanese tradition, especially enchanting under a blanket of snow.",
+      "summary": "Nestled in the heart of the famously picturesque Ginzan Onsen, Takimikan offers an authentic escape to a bygone era, overlooking the iconic Shirogane Waterfall. This guide covers what makes the ryokan distinct and how to plan a visit, especially in winter snow.",
       "link": "/onsen/ginzan_onsen_takimikan_en"
     },
     {
@@ -855,7 +903,7 @@
     {
       "id": "ginzan_onsen_fujiya_en",
       "lang": "en",
-      "title": "Ginzan Onsen Fujiya: A Timeless Winter Dream in Yamagata's Iconic Valley",
+      "title": "Ginzan Onsen Fujiya: Kengo Kuma&#39;s Timeless Ryokan in Yamagata&#39;s Iconic Valley - OKOnsen",
       "lat": 38.5722,
       "lng": 140.5322,
       "categories": [
@@ -869,7 +917,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_fujiya.jpg",
       "address": "Obanazawa, Yamagata",
       "published": "2026-07-27",
-      "summary": "Nestled in the gas-lit wonderland of Ginzan Onsen, Fujiya offers a minimalist yet profoundly luxurious escape. Designed by Kengo Kuma, this ryokan harmoniously blends traditional Japanese aesthetics with modern architectural brilliance, standing as a beacon of quiet sophistication. It promises an unforgettable journey into tranquility, enveloped by the ethereal beauty of a bygone era and the soothing embrace of its private onsen.",
+      "summary": "A guide to Ginzan Onsen Fujiya, Kengo Kuma&#39;s minimalist ryokan blending traditional Japanese design with modern luxury and private onsen baths.",
       "link": "/onsen/ginzan_onsen_fujiya_en"
     },
     {
@@ -1271,7 +1319,7 @@
     {
       "id": "kurokawa_onsen_ryokan_sanga_en",
       "lang": "en",
-      "title": "Kurokawa Onsen Ryokan Sanga: A Secluded Kumamoto Oasis of Natural Beauty and Authentic Japanese Charm",
+      "title": "Ryokan Sanga Kurokawa Onsen: Private Rotenburo & Kaiseki Stay",
       "lat": 33.0788,
       "lng": 131.1322,
       "categories": [
@@ -1282,7 +1330,7 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ryokan_sanga.jpg",
       "address": "Minamioguni, Kumamoto",
       "published": "2026-04-12",
-      "summary": "Discover Ryokan Sanga in Kurokawa Onsen, a tranquil retreat nestled deep within Kumamoto's pristine natural landscapes. This esteemed ryokan offers an exceptional escape with its diverse array of private and public rotenburo, enriching the experience with mineral-rich waters. Guests are treated to exquisite kaiseki dining, highlighting local seasonal ingredients, and accommodations that perfectly blend traditional Japanese aesthetics with modern comfort. Ryokan Sanga stands as a testament to authentic hospitality, providing a deep connection to nature and a rejuvenating stay in one of Japan's most picturesque onsen villages.",
+      "summary": "Ryokan Sanga blends Kurokawa Onsen's riverside rotenburo tradition with kaiseki dining and Edo-period architectural charm.",
       "link": "/onsen/kurokawa_onsen_ryokan_sanga_en"
     },
     {
