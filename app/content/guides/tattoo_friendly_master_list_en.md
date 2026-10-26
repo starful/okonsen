@@ -1,15 +1,18 @@
 ---
 lang: en
-title: Tattooed in Japan? 100+ Onsen That Actually Welcome You (2026)
+title: 'Japan Tattoo-Friendly Onsen Guide 2026: 100+ Places That Actually Let You
+  In'
 summary: Planning Japan with tattoos? See what is actually allowed, how to use cover
   stickers, and where private baths make your onsen trip stress-free.
 date: '2026-04-16'
-description: Skip the rejection—100+ tattoo-OK onsen across Japan, verified 2026.
-  Private baths, cover sticker tips & rules by region. Your complete guide.
-seo_title: 'Japan Tattoo-Friendly Onsen Guide 2026: 100+ Places That Actually Let You In'
-seo_description: 100+ verified tattoo-OK onsen across Japan—private kashikiri baths,
-  cover sticker rules by region & what to say at the door. Plan stress-free.
+description: 100+ verified tattoo-OK onsen across Japan—private kashikiri baths, cover
+  sticker rules by region & what to say at the door. Plan stress-free.
+seo_title: '100+ Tattoo-Friendly Onsen in Japan 2026: Places That Actually Welcome
+  You'
+seo_description: Find 100+ verified tattoo-welcome onsen across Japan 2026. Private
+  bath rules, cover sticker tips by region & what to say at check-in.
 ---
+
 
 
 
