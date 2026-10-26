@@ -13,13 +13,6 @@ seo_description: 'Best day-trip to Hakone onsen from Tokyo: top public baths, ry
 ---
 **Stuck in Tokyo but craving hot springs?** Hakone is just 90 minutes away and offers world-class onsen with mountain views—perfect for a day escape without an overnight stay. Here's how to maximize your visit.
 
-lang: en
-title: "Hakone Onsen Day Trip: Best Day-Use Baths & Ryokans"
-date: "2024-02-29"
-summary: "Unlock the ultimate Hakone onsen day trip! Discover the best public and private day-use baths, unique ryokan experiences, and travel tips for a rejuvenating escape from Tokyo."
-seo_title: "Hakone Day Trip Onsen Guide: Best Public & Private Baths | OKOnsen"
-seo_description: "Planning a day trip to Hakone? This exhaustive guide covers top day-use onsen facilities like Hakone Yuryo and Tenzan Tohji-kyo, ryokans offering short visits, travel logistics, and essential etiquette for a perfect Hakone onsen experience."
-
 ## Hakone Onsen Day Trip: Best Day-Use Baths & Ryokans
 
 Hakone, nestled in the scenic mountains southwest of Tokyo, is a quintessential destination for a Japanese onsen (hot spring) experience. Renowned for its natural beauty, including views of Mount Fuji and Lake Ashi, alongside a rich history and art scene, Hakone truly shines as an accessible and deeply rewarding day trip from the bustling capital. Its proximity and excellent transport links make it ideal for those seeking a rejuvenating soak without committing to an overnight stay.
