@@ -181,6 +181,19 @@
             transition: all 0.3s;
         }
         .btn-rakuten:hover { transform: translateY(-4px); background-color: #a00000; }
+        .btn-agoda {
+            display: inline-block;
+            background-color: #1d4ed8;
+            color: white !important;
+            padding: 18px 40px;
+            font-size: 1.2rem;
+            font-weight: 900;
+            border-radius: 60px;
+            text-decoration: none;
+            box-shadow: 0 12px 24px rgba(29, 78, 216, 0.28);
+            transition: all 0.3s;
+        }
+        .btn-agoda:hover { transform: translateY(-4px); background-color: #1e40af; }
         .btn-coupang {
             display: inline-block;
             background-color: #e7422d;
@@ -253,7 +266,7 @@
                 font-size: 1.05rem;
             }
             .booking-section { padding: 28px 18px; }
-            .btn-klook, .btn-rakuten, .btn-coupang { width: 100%; box-sizing: border-box; }
+            .btn-klook, .btn-rakuten, .btn-agoda, .btn-coupang { width: 100%; box-sizing: border-box; }
         }
     </style>
 
@@ -294,13 +307,13 @@
 
     <main class="container">
         <article class="guide-detail-wrapper">
-            <!-- 대표 이미지 -->
-            <img src="{{ image_url }}" class="detail-main-img" alt="{{ title }}">
-
             <!-- 제목 -->
             <h1 class="detail-title">{{ title }}</h1>
 
             {% include 'partials/booking_box.html' %}
+
+            <!-- 대표 이미지 -->
+            <img src="{{ image_url }}" class="detail-main-img" alt="{{ title }}">
 
             <!-- 본문 내용 -->
             <div class="guide-body-content">
