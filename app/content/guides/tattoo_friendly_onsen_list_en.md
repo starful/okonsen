@@ -1,22 +1,15 @@
 ---
 lang: en
-title: "Tattoo-Friendly Onsen & Ryokan in Japan: The Ultimate 2026 List"
+title: 'Tattoo-Friendly Onsen & Ryokan in Japan: 2026 List | OKOnsen'
 summary: Planning Japan with tattoos? See what is allowed, cover-sticker tips, and
   ryokans with private baths before you book.
 date: '2026-04-15'
-description: "Looking for tattoo-friendly hot springs in Japan? Discover our 2026\
-  \ list of onsen & ryokan that welcome tattoos (no stickers required!)."
-seo_title: "Tattoo-Friendly Onsen & Ryokan in Japan: 2026 List | OKOnsen"
-seo_description: "Looking for tattoo-friendly hot springs in Japan? Discover our 2026\
-  \ list of onsen & ryokan that welcome tattoos (no stickers required!)."
+description: Looking for tattoo-friendly hot springs in Japan? Discover our 2026 list
+  of onsen & ryokan that welcome tattoos (no stickers required!).
+seo_title: Tattoo-Friendly Onsen & Ryokan in Japan 2026 | Private Baths & Tips
+seo_description: 'Tattooed travelers: find onsen & ryokan that welcome you in 2026.
+  Private bath options, cover sticker tips, and policies explained clearly.'
 ---
-
-lang: en
-title: "Tattoo-Friendly Onsen & Ryokan in Japan: The Ultimate 2026 List"
-date: "2026-04-15"
-summary: "Navigate Japan's onsen culture with tattoos. This guide helps you find the best tattoo-friendly onsen and ryokan options for a relaxing trip in 2026, focusing on private baths, specific policies, and respectful travel."
-seo_title: "Tattoo-Friendly Onsen & Ryokan in Japan 2026 | OKOnsen"
-seo_description: "Discover how to find tattoo-friendly onsen and ryokan in Japan for your 2026 trip. Learn about private baths, evolving policies, and essential etiquette for a relaxing experience."
 
 Navigating Japan's revered onsen culture can be a dream for many, but for those with tattoos, it often comes with a unique set of challenges. Traditionally, tattoos (irezumi or shisei) have been associated with organized crime in Japan, leading many public onsen and ryokan to enforce strict "no tattoo" policies. This can be disheartening for travelers eager to experience a quintessential part of Japanese relaxation and wellness.
 

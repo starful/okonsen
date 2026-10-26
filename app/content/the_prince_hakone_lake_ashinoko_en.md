@@ -18,16 +18,17 @@ summary: 'See if this Hakone ryokan is right for your trip: Lake Ashi view highl
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/the_prince_hakone_lake_ashinoko.jpg
 title: 'The Prince Hakone Lake Ashinoko: Luxury Onsen & Lake Ashi Views - Expert Review
   & Booking Guide'
-description: Luxury Hakone ryokan with stunning private onsen and Lake Ashi views.
-  Complete traveler's guide with expert recommendations and insider tips.
-seo_title: 'The Prince Hakone Lake Ashinoko: Luxury Onsen & Lake Ashi Views - Expert
-  Review & Booking Guide'
-seo_description: 'Private onsen overlooking Lake Ashi. Expert review & insider guide:
+description: 'Private onsen overlooking Lake Ashi. Expert review & insider guide:
   best rooms, booking tips, and why this luxury ryokan is worth the splurge.'
+seo_title: 'The Prince Hakone Lake Ashinoko: Lake Ashi Views + Modern Design + Private
+  Onsen'
+seo_description: Iconic mid-century ryokan with private onsen overlooking Lake Ashi.
+  Murano architecture, Fuji views, best rooms & 2026 booking insider tips.
 ---
-
-
-
+## What Makes This Property Special
+**Iconic Architecture**: Designed by renowned Togo Murano in a distinctive circular form that frames lake views.  
+**Private Onsen**: Most rooms feature private baths overlooking Lake Ashi; main onsen also has views.  
+**Location**: Quieter southern shore setting, away from busy Yumoto area, ideal for peaceful relaxation.
 
 ## Introduction
 

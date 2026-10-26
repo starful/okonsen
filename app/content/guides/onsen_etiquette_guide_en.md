@@ -1,17 +1,16 @@
 ---
 lang: en
-title: 'Japanese Onsen Etiquette: Complete Rules & Manners Guide'
+title: 'Japanese Onsen Etiquette: Complete Step-by-Step Guide + Rules'
 summary: Confused about onsen manners? Get a simple, step-by-step guide to washing,
   towels, nudity rules, and tattoo policy so you can enter with confidence.
 date: '2024-04-15'
-description: 'Master Japanese onsen etiquette: complete guide to washing, towel tips,
-  nudity rules, tattoo policies & hot spring customs for confident bathing.'
-seo_title: 'Japanese Onsen Etiquette: Complete Rules & Manners Guide - OKOnsen'
-seo_description: 'Master Japanese onsen etiquette: complete guide to washing, towel
-  tips, nudity rules, tattoo policies & hot spring customs for confident bathing.'
+description: 'Step-by-step onsen etiquette guide: how to wash, towel rules, nudity
+  customs, tattoo policies & essential manners for your first hot spring visit.'
+seo_title: 'Japanese Onsen Etiquette: Complete Step-by-Step Guide + Rules'
+seo_description: 'Step-by-step onsen etiquette guide: how to wash, towel rules, nudity
+  customs, tattoo policies & essential manners for your first hot spring visit.'
 ---
-
-
+**Nervous about your first onsen?** Don't be. This guide breaks down every step—from what to wear in the changing room to how long you should soak—so you can walk in with confidence and bathe like a local.
 
 Stepping into a Japanese onsen (natural hot spring) is more than just taking a bath; it's a deeply ingrained cultural ritual centered on cleanliness, relaxation, and respect. For first-time visitors or even seasoned travelers, understanding the intricate etiquette is key to a truly authentic and enjoyable experience. This guide will walk you through every step, ensuring you navigate the onsen with confidence and courtesy.
 
