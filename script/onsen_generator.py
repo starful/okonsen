@@ -30,7 +30,6 @@ load_dotenv()
 
 def _claude_md(prompt: str) -> str:
     """MD text via Claude CLI subscription (not Claude API)."""
-    import sys
     from pathlib import Path
     _shared = Path(__file__).resolve().parents[2] / "_shared"
     if str(_shared) not in sys.path:
@@ -52,9 +51,7 @@ CATEGORIES = {
 }
 
 def generate_onsen_md(safe_name, name, lat, lng, address, lang, features):
-    """Claude 2.0을 사용한 고퀄리티 컨텐츠 생성 (8000자 지향 및 폰트 크기 최적화)"""
-    pass  # Claude CLI; API_KEY unused
-    
+    """고퀄리티 온천 가이드 MD 생성 (Claude CLI)"""
     current_date = datetime.now().strftime('%Y-%m-%d')
     allowed_categories = ", ".join(CATEGORIES.get(lang, CATEGORIES["en"]))
     thumbnail_url = f"{GCS_IMAGE_BASE}/{safe_name}.jpg"
@@ -66,7 +63,6 @@ def generate_onsen_md(safe_name, name, lat, lng, address, lang, features):
         else "7,000 to 8,000 characters"
     )
 
-    # 💡 [프롬프트 수정] 제목 태그 제한 및 본문 스타일 지침 추가
     prompt = f"""
     You are an elite travel journalist specializing in Japanese Onsens.
     Write an EXTREMELY comprehensive, deeply detailed guide for '{name}' located at {address}.

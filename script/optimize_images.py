@@ -42,8 +42,7 @@ def optimize_images():
         
         try:
             with Image.open(filepath) as img:
-                # 💡 [핵심 추가] 이미 가로 크기가 800px 이하이고 포맷이 JPG라면?
-                # 다시 저장할 필요가 없으므로 날짜 보존을 위해 스킵합니다.
+                # 이미 800px 이하 JPG면 재저장하지 않음 — 파일 수정일을 보존하기 위함.
                 if img.width <= MAX_WIDTH and ext == '.jpg':
                     print(f"⏭️  이미 최적화됨 (날짜 보존): {filename}")
                     skip_count += 1

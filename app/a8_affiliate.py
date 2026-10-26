@@ -40,30 +40,20 @@ def _copy(
     src = _BANNERS[banner_id]
     is_ko = (lang or "en").lower() == "ko"
     suffix = "ko" if is_ko else "en"
-    if banner_id == "agoda":
-        try:
-            from agoda_partners import url_for_location
-        except ImportError:
-            from .agoda_partners import url_for_location
-        click = url_for_location(
-            lang=lang,
-            lat=lat,
-            lng=lng,
-            country="jp",
-            default_city=5085,
-        )
-        return {
-            "id": src["id"],
-            "click_url": click,
-            "image_url": "",
-            "pixel_url": "",
-            "label": src[f"label_{suffix}"],
-            "desc": src[f"desc_{suffix}"],
-            "alt": src[f"alt_{suffix}"],
-        }
+    try:
+        from agoda_partners import url_for_location
+    except ImportError:
+        from .agoda_partners import url_for_location
+    click_url = url_for_location(
+        lang=lang,
+        lat=lat,
+        lng=lng,
+        country="jp",
+        default_city=5085,
+    )
     return {
         "id": src["id"],
-        "click_url": src["click_url"],
+        "click_url": click_url,
         "image_url": "",
         "pixel_url": "",
         "label": src[f"label_{suffix}"],

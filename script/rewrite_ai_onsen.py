@@ -35,8 +35,6 @@ _thread_local = threading.local()
 
 def _claude_md(prompt: str) -> str:
     """MD text via Claude CLI subscription (not Claude API)."""
-    import sys
-    from pathlib import Path
     _shared = Path(__file__).resolve().parents[2] / "_shared"
     if str(_shared) not in sys.path:
         sys.path.insert(0, str(_shared))
