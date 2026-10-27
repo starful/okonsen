@@ -1,5 +1,5 @@
 {# Rakuten Travel + prominent Agoda stay CTA #}
-<div class="booking-section booking-section--prominent" role="complementary" aria-label="{{ '예약 안내' if lang == 'ko' else 'Booking links' }}">
+<div id="booking-box-top" class="booking-section booking-section--prominent" role="complementary" aria-label="{{ '예약 안내' if lang == 'ko' else 'Booking links' }}">
     <p class="booking-title">{{ booking_title }}</p>
     <p class="booking-desc">{{ booking_desc }}</p>
     <div class="booking-actions">
@@ -10,7 +10,8 @@
            class="btn-rakuten"
            title="{{ ('라쿠텐 트래블에서 ' ~ region_label ~ ' 검색 (새 탭)') if lang == 'ko' else ('Search ' ~ region_label ~ ' on Rakuten Travel (new tab)') }}"
            data-track="affiliate_rakuten"
-           data-track-label="{{ region_label }}">
+           data-track-label="{{ region_label }}"
+           data-track-position="top">
             {{ rakuten_button_label }}
         </a>
         {% endif %}
@@ -21,7 +22,8 @@
            class="btn-agoda"
            title="{{ agoda_cta.label }}{% if agoda_cta.desc %} — {{ agoda_cta.desc }}{% endif %}"
            data-track="affiliate_a8"
-           data-track-label="agoda-early">
+           data-track-label="agoda-early"
+           data-track-position="top">
             {{ 'Agoda에서 주변 숙소 보기' if lang == 'ko' else 'Find nearby stays on Agoda' }}
         </a>
         {% endif %}

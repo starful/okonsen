@@ -26,7 +26,30 @@ document.addEventListener("click", function (event) {
     var label = target.getAttribute("data-track-label") || target.getAttribute("href") || "";
     window.gtag("event", action, {
         event_category: "engagement",
-        event_label: label
+        event_label: label,
+        cta_position: target.getAttribute("data-track-position") || ""
     });
 });
+
+// 본문 중간에 예약 CTA 박스를 하나 더 노출 (상단 박스를 복제)
+(function () {
+    var topBox = document.getElementById("booking-box-top");
+    if (!topBox) return;
+    var contentEl = document.querySelector(".onsen-body-content, .guide-body-content");
+    if (!contentEl) return;
+
+    var children = Array.prototype.filter.call(contentEl.children, function (el) {
+        return el.tagName !== "SCRIPT";
+    });
+    if (children.length < 4) return;
+
+    var midBox = topBox.cloneNode(true);
+    midBox.id = "booking-box-middle";
+    midBox.classList.add("booking-section--middle");
+    midBox.querySelectorAll("[data-track-position]").forEach(function (el) {
+        el.setAttribute("data-track-position", "middle");
+    });
+
+    contentEl.insertBefore(midBox, children[Math.floor(children.length / 2)]);
+})();
 </script>
