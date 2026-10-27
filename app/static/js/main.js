@@ -46,11 +46,6 @@ function filterOnsens(theme) {
     return sortByPublishedDesc(filtered);
 }
 
-function activeTheme() {
-    const active = document.querySelector('.theme-button.active');
-    return (active && active.dataset.theme) || currentTheme || 'all';
-}
-
 const CATEGORY_MAP = {
     '가족탕': 'private', 'Private Bath': 'private',
     '타투 허용': 'tattoo', 'Tattoo OK': 'tattoo',
@@ -65,8 +60,8 @@ async function initPage() {
         const cacheBuster = new Date().getTime();
         const response = await fetch(`/api/onsens?lang=${currentLang}&v=${cacheBuster}`);
         const data = await response.json();
-        
-        // 풋터 업데이트 (데이터가 잘 왔는지 확인용)
+
+        // 데이터 로드 확인용 디버그 로그
         console.log("데이터 업데이트 날짜:", data.last_updated);
         
         allOnsens = sortByPublishedDesc(data.onsens || []);
@@ -100,7 +95,6 @@ function initMap() {
         mapId: "OKONSEN_MAP_ID", 
     });
 
-    // 지도 로드 직후 마커 표시
     renderMarkers('all');
 }
 
@@ -162,7 +156,6 @@ function renderList(theme) {
 function renderMarkers(theme) {
     if (!map || !google.maps.marker) return;
 
-    // 기존 마커 제거
     markers.forEach(m => m.map = null);
     markers = [];
 
@@ -173,7 +166,6 @@ function renderMarkers(theme) {
         markerTag.className = 'marker-icon';
         markerTag.style.backgroundImage = `url(${onsen.thumbnail})`;
 
-        // AdvancedMarkerElement 사용
         const marker = new google.maps.marker.AdvancedMarkerElement({
             map: map,
             position: { lat: parseFloat(onsen.lat), lng: parseFloat(onsen.lng) },
@@ -232,7 +224,6 @@ function updateFilterStats() {
     });
 }
 
-// 초기 실행
 document.addEventListener('DOMContentLoaded', () => {
     initPage();
     setupFilters();
