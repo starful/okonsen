@@ -3,7 +3,7 @@ address: Kusatsu, Gunma
 categories:
 - 절경
 - 로컬
-date: '2026-04-12'
+date: '2026-10-27'
 image_prompt: An aerial view of Kusatsu Onsen Hotel Sakurai nestled amidst lush Japanese
   mountains, with steam rising from its expansive outdoor rotenburo baths. The architecture
   blends traditional Japanese ryokan elements with modern comfort. Snow-capped peaks
@@ -22,6 +22,7 @@ description: 쿠사츠 온천 중심부의 최고급 온천 리조트 호텔 사
 seo_title: 쿠사츠 온센 호텔 사쿠라이 | 프리미엄 온천 리조트
 seo_description: 쿠사츠 온천의 프리미엄 온천 리조트. 상질의 온천수, 정통 가이세키 요리, 세련된 객실에서 완벽한 온천 휴양을 경험하세요.
 ---
+
 
 
 

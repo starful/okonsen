@@ -8,7 +8,7 @@ categories:
 - Hokkaido Hot Springs
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg
 address: Jozankei, Minami-ku, Sapporo, Hokkaido
-date: '2026-08-15'
+date: '2026-10-27'
 summary: Kasho Gyoen is a secluded riverside ryokan in Jozankei Onsen, about an hour
   from Sapporo, where mineral-rich hot springs meet the Toyohira River gorge and refined
   Hokkaido cuisine.
@@ -19,6 +19,8 @@ seo_description: 'Kasho Gyoen: a secluded riverside ryokan in Jozankei Onsen, ab
   an hour from Sapporo, with mineral-rich hot springs, Hokkaido cuisine and gorge
   views.'
 ---
+
+
 
 
 Stepping through the entrance of Kasho Gyoen feels like crossing an invisible threshold between Sapporo's brisk urban energy and the hush of a mountain gorge. The lobby is dim and deliberate, lit by paper lanterns and the soft glow of a hearth, while beyond the windows the Toyohira River churns over dark volcanic rock. There is no attempt to overwhelm guests with grandeur here; instead, the ryokan works in restraint, letting the sound of rushing water and the scent of cedar do the talking. Within minutes of arrival, the pace of the city falls away, replaced by something slower and more attentive — a staff member kneeling to offer tea, the creak of tatami underfoot, the distant call of a bird from the surrounding cedar forest. It is this immediate sensory shift, achieved with so little ornamentation, that makes Kasho Gyoen distinct among Hokkaido's hot spring retreats.

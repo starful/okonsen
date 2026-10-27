@@ -8,13 +8,15 @@ categories:
 - 아리마 온천
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg
 address: 고베, 효고현
-date: '2026-06-27'
+date: '2026-10-27'
 summary: 아리마 온천의 명품 료칸 도센 고쇼보를 800년 역사, 금천·은천, 가이세키 요리, 방문 팁 중심으로 정리한 가이드입니다.
 description: '아리마 온천 도센 고쇼보 총정리: 800년 전통 금천·은천, 정통 가이세키, 고베 근교 명품 료칸 방문 팁까지 한눈에.'
 seo_title: 아리마 온천 도센 고쇼보 가이드 | 800년 전통 금천 료칸 후기 - OKOnsen
 seo_description: '아리마 온천 도센 고쇼보 리뷰: 800년 역사의 금천·은천, 가이세키 요리, 고베 근교 접근성까지 방문 전 참고할
   정보 정리.'
 ---
+
+
 
 
 

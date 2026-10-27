@@ -1,14 +1,23 @@
 ---
 lang: en
-title: "Jozankei Onsen Nukumorino Yado Furukawa: Sapporo's Secluded River Sanctuary"
+title: 'Jozankei Onsen Nukumorino Yado Furukawa: Sapporo''s Secluded River Sanctuary'
 lat: 42.9633
 lng: 141.1633
-categories: ["Hokkaido Onsen", "Ryokan Review"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_nukumorino_yado_furukawa.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-10-12"
-summary: "Nukumorino Yado Furukawa is an intimate riverside ryokan in Jozankei Onsen, just an hour from Sapporo, built around a philosophy of quiet, personal warmth. Its open-air baths overlook the rushing Toyohira River gorge, delivering a sense of wilderness immersion rarely found so close to a major city. This guide explores every layer of the property, from its mineral-rich waters to its seasonal kaiseki cuisine."
+categories:
+- Hokkaido Onsen
+- Ryokan Review
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_nukumorino_yado_furukawa.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: Nukumorino Yado Furukawa is an intimate riverside ryokan in Jozankei Onsen,
+  just an hour from Sapporo, built around a philosophy of quiet, personal warmth.
+  Its open-air baths overlook the rushing Toyohira River gorge, delivering a sense
+  of wilderness immersion rarely found so close to a major city. This guide explores
+  every layer of the property, from its mineral-rich waters to its seasonal kaiseki
+  cuisine.
 ---
+
+
 
 Arriving at Nukumorino Yado Furukawa feels like slipping through a seam in the city. Sapporo's grid of department stores and ramen alleys recedes within forty-five minutes, replaced by cedar-dark mountains and the percussive rush of the Toyohira River. The ryokan itself is modest in scale compared to the sprawling resort hotels that dominate much of Jozankei, and that is precisely its appeal. "Nukumori" means warmth, and the name is not marketing fluff — it describes the actual sensation of walking through the lobby's low lighting and cedar scent into a space that feels handled, cared for, and personal rather than processed. This is a ryokan for travelers who want the restorative power of hot spring bathing without the convention-hall energy of a 300-room resort.
 

@@ -4,7 +4,7 @@ categories:
 - 가족탕
 - 절경
 - 고급 료칸
-date: '2026-06-27'
+date: '2026-10-27'
 image_prompt: A breathtaking panoramic view of Kurokawa Onsen Yumerindo during autumn,
   with vibrant red and golden maple trees surrounding traditional Japanese ryokan
   buildings with dark wooden exteriors and slate roofs. In the foreground, a serene
@@ -19,9 +19,10 @@ lng: 131.1418
 summary: 아소산의 웅장한 자연 속에 자리한 구로카와 온천 유메린도는 절경의 노천탕과 아늑한 전세 가족탕, 그리고 제철 식재료로 빚어낸 가이세키
   요리로 진정한 힐링을 선사하는 최고급 료칸입니다. 고즈넉한 숲속에서 프라이빗한 휴식을 꿈꾸는 이들에게 완벽한 선택이며, 오감을 만족시키는 섬세한
   서비스와 자연과의 조화가 돋보이는 공간에서 일상의 번잡함을 벗어나 온전한 휴식을 경험할 수 있습니다.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg"
-title: "구로카와 온천 유메린도: 숲속의 은밀한 안식처, 오감으로 경험하는 치유"
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg
+title: '구로카와 온천 유메린도: 숲속의 은밀한 안식처, 오감으로 경험하는 치유'
 ---
+
 
 ## 소개
 

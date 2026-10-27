@@ -1,14 +1,20 @@
 ---
 lang: ko
-title: "삿포로 근교의 비밀 정원, 죠잔케이 온천 코요테이 완벽 가이드"
+title: 삿포로 근교의 비밀 정원, 죠잔케이 온천 코요테이 완벽 가이드
 lat: 42.9989
 lng: 141.1136
-categories: ["일본 온천", "홋카이도 여행"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-09-20"
-summary: "삿포로 시내에서 차로 한 시간 거리에 있는 죠잔케이 온천 코요테이는 도요히라가와 협곡을 품은 프라이빗 료칸으로, 사계절 내내 다른 얼굴을 보여주는 노천탕과 정갈한 가이세키 요리로 유명하다. 와비사비 미학이 살아있는 객실과 세심한 오모테나시가 어우러져 삿포로 여행의 마지막 하이라이트가 되어준다. 이 가이드에서는 역사, 온천수의 성분부터 예약 팁까지 코요테이를 제대로 즐기는 모든 방법을 담았다."
+categories:
+- 일본 온천
+- 홋카이도 여행
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: 삿포로 시내에서 차로 한 시간 거리에 있는 죠잔케이 온천 코요테이는 도요히라가와 협곡을 품은 프라이빗 료칸으로, 사계절 내내 다른
+  얼굴을 보여주는 노천탕과 정갈한 가이세키 요리로 유명하다. 와비사비 미학이 살아있는 객실과 세심한 오모테나시가 어우러져 삿포로 여행의 마지막 하이라이트가
+  되어준다. 이 가이드에서는 역사, 온천수의 성분부터 예약 팁까지 코요테이를 제대로 즐기는 모든 방법을 담았다.
 ---
+
+
 
 ## 소개: 삿포로 속 숨은 정원, 코요테이의 첫인상
 

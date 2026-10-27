@@ -9,7 +9,7 @@ categories:
 - Yamagata Hot Springs
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg
 address: Obanazawa, Yamagata
-date: '2026-07-31'
+date: '2026-10-27'
 summary: Senninkan is one of the oldest ryokan in Ginzan Onsen, a wooden inn perched
   beside a waterfall where gaslamps and geothermal steam recreate the mood of early
   20th-century Japan. This guide explores its mineral-rich waters, Taisho-era architecture,
@@ -17,6 +17,7 @@ summary: Senninkan is one of the oldest ryokan in Ginzan Onsen, a wooden inn per
   under summer greenery or winter snowlight, Senninkan offers an immersive step back
   into old Japan.
 ---
+
 
 
 ## First Impressions: Stepping Into a Living Postcard

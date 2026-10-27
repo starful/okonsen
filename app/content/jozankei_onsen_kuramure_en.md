@@ -1,15 +1,26 @@
 ---
 lang: en
-title: "Jozankei Onsen Kuramure: A Sapporo Ryokan Sanctuary Where Art Meets Hot Spring Serenity"
+title: 'Jozankei Onsen Kuramure: A Sapporo Ryokan Sanctuary Where Art Meets Hot Spring
+  Serenity'
 lat: 42.9688
 lng: 141.1688
-categories: ["Onsen", "Ryokan", "Hokkaido"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kuramure.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-10-01"
-summary: "Kuramure is a design-forward ryokan tucked into the Toyohira River gorge of Jozankei Onsen, just an hour from central Sapporo, where sculptural architecture and private open-air baths meet Hokkaido's volcanic hot spring water. Every room carries its own semi-outdoor bath fed by the mineral-rich springs, pairing contemporary art-gallery minimalism with the ritual intimacy of a classic onsen retreat. It's the rare Hokkaido ryokan that feels equally suited to a quiet solo escape and a romantic anniversary stay."
-
+categories:
+- Onsen
+- Ryokan
+- Hokkaido
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kuramure.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: Kuramure is a design-forward ryokan tucked into the Toyohira River gorge
+  of Jozankei Onsen, just an hour from central Sapporo, where sculptural architecture
+  and private open-air baths meet Hokkaido's volcanic hot spring water. Every room
+  carries its own semi-outdoor bath fed by the mineral-rich springs, pairing contemporary
+  art-gallery minimalism with the ritual intimacy of a classic onsen retreat. It's
+  the rare Hokkaido ryokan that feels equally suited to a quiet solo escape and a
+  romantic anniversary stay.
 ---
+
+
 
 Arriving at Kuramure feels less like checking into a ryokan and more like stepping into a quiet, sculptural gallery that happens to be built around hot spring water. Tucked into a bend of the Toyohira River within Jozankei Onsen, roughly an hour's drive from downtown Sapporo, Kuramure immediately distinguishes itself from the timber-and-tatami convention of rural Japanese inns. Concrete walls, dim corridors lit by recessed lanterns, and an entrance that opens onto a hushed, library-like lounge set the tone: this is an onsen experience designed for adults seeking stillness, not spectacle. The first impression is one of restraint — low lighting, the murmur of the river outside, the faint mineral scent of sulfur drifting from somewhere unseen. It's a place that rewards slowing down.
 

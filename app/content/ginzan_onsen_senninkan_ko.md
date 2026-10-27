@@ -1,14 +1,20 @@
 ---
 lang: ko
-title: "긴잔온센 센닌칸: 다이쇼 로망 골목 끝, 바위굴 노천탕이 있는 비경의 숙소"
+title: '긴잔온센 센닌칸: 다이쇼 로망 골목 끝, 바위굴 노천탕이 있는 비경의 숙소'
 lat: 38.5733
 lng: 140.5333
-categories: ["온천 료칸", "가이세키 요리", "동북 지방 명소"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg"
-address: "Obanazawa, Yamagata"
-date: "2026-09-20"
-summary: "야마가타현 오바나자와의 긴잔온센 골목 가장 안쪽, 폭포와 맞닿은 자리에 선 센닌칸은 다이쇼 시대의 목조 건축과 바위를 깎아 만든 동굴 노천탕이 공존하는 료칸이다. 가스등이 켜지는 저녁이면 온천 거리 전체가 옛 영화 속 풍경처럼 물들고, 센닌칸의 객실 창문마다 그 불빛이 스며든다. 온천의 온기와 쇼나이 평야의 식재료가 어우러진 가이세키, 그리고 사계절 다른 표정을 짓는 계곡의 풍경이 이 료칸을 특별하게 만든다."
+categories:
+- 온천 료칸
+- 가이세키 요리
+- 동북 지방 명소
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg
+address: Obanazawa, Yamagata
+date: '2026-10-27'
+summary: 야마가타현 오바나자와의 긴잔온센 골목 가장 안쪽, 폭포와 맞닿은 자리에 선 센닌칸은 다이쇼 시대의 목조 건축과 바위를 깎아 만든 동굴
+  노천탕이 공존하는 료칸이다. 가스등이 켜지는 저녁이면 온천 거리 전체가 옛 영화 속 풍경처럼 물들고, 센닌칸의 객실 창문마다 그 불빛이 스며든다.
+  온천의 온기와 쇼나이 평야의 식재료가 어우러진 가이세키, 그리고 사계절 다른 표정을 짓는 계곡의 풍경이 이 료칸을 특별하게 만든다.
 ---
+
 
 ## 폭포 옆 마지막 등불, 센닌칸에서 시작되는 밤
 

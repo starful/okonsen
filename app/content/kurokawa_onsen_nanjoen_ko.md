@@ -4,7 +4,7 @@ categories:
 - 타투 허용
 - 로컬
 - 가족탕
-date: '2026-04-12'
+date: '2026-10-27'
 image_prompt: A picturesque aerial view of Kurokawa Onsen Nanjoen nestled deep within
   a lush, misty valley in Minamioguni, Kumamoto, Japan, during autumn. Traditional
   Japanese ryokan buildings with dark wooden roofs and white walls are scattered amidst
@@ -15,12 +15,13 @@ image_prompt: A picturesque aerial view of Kurokawa Onsen Nanjoen nestled deep w
 lang: ko
 lat: 33.0812
 lng: 131.1433
-summary: "구로카와 온천 난조엔을 발견해보세요. **현지 환대**의 따뜻함이 모든 손님을 감싸는 진정으로 독특한 구마모토 료칸입니다.\
-  \ 흔하지 않고 신선한 정책인 **문신을 존중하며 환영**한다는 사실을 알고, 미네랄이 풍부한 물의 치유적 포옹에 몸을 담가보세요. 이\
-  \ 진정한 성역에서 기다리는 전통 일본의 매력과 정교한 **프라이빗 입욕**, 숨 막히는 자연미의 비할 데 없는 조화를 경험해보세요."
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_nanjoen.jpg"
-title: "구로카와 온천 난조엔: 문신이 환영받는 진정한 구마모토 럭셔리를 받아들이다"
+summary: 구로카와 온천 난조엔을 발견해보세요. **현지 환대**의 따뜻함이 모든 손님을 감싸는 진정으로 독특한 구마모토 료칸입니다. 흔하지
+  않고 신선한 정책인 **문신을 존중하며 환영**한다는 사실을 알고, 미네랄이 풍부한 물의 치유적 포옹에 몸을 담가보세요. 이 진정한 성역에서 기다리는
+  전통 일본의 매력과 정교한 **프라이빗 입욕**, 숨 막히는 자연미의 비할 데 없는 조화를 경험해보세요.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_nanjoen.jpg
+title: '구로카와 온천 난조엔: 문신이 환영받는 진정한 구마모토 럭셔리를 받아들이다'
 ---
+
 
 ## 소개
 

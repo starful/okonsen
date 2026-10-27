@@ -8,7 +8,7 @@ categories:
 - Hot Spring Retreat
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg
 address: Semboku, Akita
-date: '2026-08-31'
+date: '2026-10-27'
 summary: Ganiba Onsen is the smallest and most secluded of the seven hot springs scattered
   through the Nyuto Onsenkyo valley, reachable only by a narrow forest track above
   Tsurunoyu. Its milky sulfur water, wood-smoke-scented rooms, and near-total absence
@@ -17,6 +17,7 @@ summary: Ganiba Onsen is the smallest and most secluded of the seven hot springs
   find the place.
 image_prompt: ''
 ---
+
 
 
 
