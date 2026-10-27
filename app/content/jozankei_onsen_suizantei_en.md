@@ -1,14 +1,22 @@
 ---
 lang: en
-title: "Suizantei: A Riverside Onsen Sanctuary in Jozankei, Sapporo"
+title: 'Suizantei: A Riverside Onsen Sanctuary in Jozankei, Sapporo'
 lat: 42.9666
 lng: 141.1666
-categories: ["Hokkaido Onsen", "Ryokan Guide"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_suizantei.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-10-12"
-summary: "Suizantei is a riverside ryokan in Jozankei Onsen, just an hour from Sapporo, prized for its mineral-rich alkaline waters and dramatic gorge views. This guide walks through its history, baths, cuisine, and rooms, along with practical tips for visitors. Whether you crave autumn foliage or snow-draped silence, Suizantei offers one of Hokkaido's most convenient yet immersive onsen escapes."
+categories:
+- Hokkaido Onsen
+- Ryokan Guide
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_suizantei.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: Suizantei is a riverside ryokan in Jozankei Onsen, just an hour from Sapporo,
+  prized for its mineral-rich alkaline waters and dramatic gorge views. This guide
+  walks through its history, baths, cuisine, and rooms, along with practical tips
+  for visitors. Whether you crave autumn foliage or snow-draped silence, Suizantei
+  offers one of Hokkaido's most convenient yet immersive onsen escapes.
 ---
+
+
 
 ## A Mountain Retreat on the Toyohira River
 

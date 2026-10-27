@@ -6,7 +6,7 @@ categories:
 - Great View
 - Relais & Chateaux
 - Hakone
-date: '2026-07-27'
+date: '2026-10-27'
 image_prompt: A stunning aerial photograph of Hakone Gora Kadan ryokan, a luxury traditional
   Japanese estate set on terraced gardens in a verdant mountain valley. The stone-walled
   garden terraces cascade down toward Mount Hakone, with a clear view of Mount Fuji
@@ -31,6 +31,8 @@ seo_description: Read our complete review of Hakone Gora Kadan. Discover its Imp
   history, Relais & Châteaux membership, private outdoor baths, and exceptional kaiseki
   dining in the heart of Hakone's Gora district.
 ---
+
+
 
 
 

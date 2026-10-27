@@ -3,7 +3,7 @@ address: Kusatsu, Gunma
 categories:
 - Great View
 - Local
-date: '2026-04-12'
+date: '2026-10-27'
 image_prompt: An aerial view of Kusatsu Onsen Hotel Sakurai nestled amidst lush Japanese
   mountains, with steam rising from its expansive outdoor rotenburo baths. The architecture
   blends traditional Japanese ryokan elements with modern comfort. Snow-capped peaks
@@ -24,6 +24,7 @@ seo_title: Kusatsu Onsen Hotel Sakurai Review — Views, Local Baths & Springs
 seo_description: Plan a Kusatsu stay at Hotel Sakurai — sulfuric baths, mountain scenery,
   kaiseki dining, and tips for first-time visitors to Gunma’s famous onsen town.
 ---
+
 
 ## Introduction
 

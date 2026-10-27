@@ -4,7 +4,7 @@ categories:
 - Tattoo OK
 - Local
 - Private Bath
-date: '2026-04-12'
+date: '2026-10-27'
 image_prompt: A picturesque aerial view of Kurokawa Onsen Nanjoen nestled deep within
   a lush, misty valley in Minamioguni, Kumamoto, Japan, during autumn. Traditional
   Japanese ryokan buildings with dark wooden roofs and white walls are scattered amidst
@@ -29,6 +29,7 @@ seo_title: Kurokawa Onsen Nanjoen | Tattoo-Friendly Luxury Ryokan Kumamoto
 seo_description: Tattoo-friendly luxury ryokan in Kurokawa Onsen, Kumamoto. Enjoy
   private mineral-rich hot springs, traditional charm, and warm local hospitality.
 ---
+
 
 
 

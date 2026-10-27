@@ -1,15 +1,24 @@
 ---
 lang: en
-title: "Jozankei Onsen Grand Blissen Hotel: Sapporo's Riverside Sanctuary of Steam and Forest"
+title: 'Jozankei Onsen Grand Blissen Hotel: Sapporo''s Riverside Sanctuary of Steam
+  and Forest'
 lat: 42.9622
 lng: 141.1622
-categories: ["Hokkaido Onsen", "Sapporo Hot Springs", "Luxury Ryokan"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-08-31"
-summary: "Tucked into the emerald gorge just an hour from downtown Sapporo, Jozankei Onsen Grand Blissen Hotel pairs mineral-rich alkaline waters with panoramic canyon views and refined Hokkaido kaiseki cuisine. It's a rare hybrid: the convenience of a city-adjacent retreat with the immersive wilderness feel of a deep mountain onsen. This guide covers everything from bath chemistry to the best train connections for planning your stay."
-
+categories:
+- Hokkaido Onsen
+- Sapporo Hot Springs
+- Luxury Ryokan
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: 'Tucked into the emerald gorge just an hour from downtown Sapporo, Jozankei
+  Onsen Grand Blissen Hotel pairs mineral-rich alkaline waters with panoramic canyon
+  views and refined Hokkaido kaiseki cuisine. It''s a rare hybrid: the convenience
+  of a city-adjacent retreat with the immersive wilderness feel of a deep mountain
+  onsen. This guide covers everything from bath chemistry to the best train connections
+  for planning your stay.'
 ---
+
 
 Arriving in Jozankei after the winding forty-minute drive from central Sapporo feels like passing through an invisible membrane. One moment you're navigating city traffic; the next, the Toyohira River gorge opens up around you, walled in by cedar and maple, with plumes of geothermal steam rising from vents along the roadside. Grand Blissen Hotel sits directly on this river bend, and the first impression on checking in is one of scale softened by warmth — a soaring lobby of blond hardwood and volcanic stone, the low murmur of running water audible even before you reach the baths. Staff greet you not with stiff formality but with the easy hospitality typical of Hokkaido's tourism culture, quick with local recommendations delivered in fluent, friendly English. What distinguishes Grand Blissen from the dozens of other properties lining this valley is its unusual doubling as both onsen retreat and gateway lodge: close enough to Sapporo for a spontaneous overnight trip, remote enough that by nightfall you'll hear nothing but the river and the wind through the ravine.
 

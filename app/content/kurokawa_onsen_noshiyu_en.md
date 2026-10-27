@@ -3,7 +3,7 @@ address: Minamioguni, Kumamoto
 categories:
 - Luxury
 - Private Bath
-date: '2026-06-27'
+date: '2026-10-27'
 image_prompt: A breathtaking aerial view of Kurokawa Onsen Noshiyu ryokan nestled
   amidst a dense, ancient Japanese forest in autumn, with vibrant red and golden maple
   trees surrounding traditional dark-wood buildings and stone pathways. Wisps of steam
@@ -15,17 +15,18 @@ image_prompt: A breathtaking aerial view of Kurokawa Onsen Noshiyu ryokan nestle
 lang: en
 lat: 33.0825
 lng: 131.1411
-summary: "Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Noshiyu\
-  \ stands as an epitome of refined Japanese hospitality, offering an unparalleled\
-  \ escape into luxurious tranquility. This exquisite ryokan masterfully blends traditional\
-  \ aesthetics with modern comfort, providing guests an intimate journey into Japan's\
-  \ revered onsen culture. Boasting an array of exceptional private family baths,\
-  \ Noshiyu invites you to immerse yourself in therapeutic waters while surrounded\
-  \ by breathtaking natural beauty, ensuring a deeply personal and unforgettable retreat."
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_noshiyu.jpg"
-title: "Escape to Serenity: Unveiling the Timeless Elegance and Secluded Luxury of\
-  \ Kurokawa Onsen Noshiyu – Your Ultimate Kumamoto Retreat"
+summary: Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Noshiyu
+  stands as an epitome of refined Japanese hospitality, offering an unparalleled escape
+  into luxurious tranquility. This exquisite ryokan masterfully blends traditional
+  aesthetics with modern comfort, providing guests an intimate journey into Japan's
+  revered onsen culture. Boasting an array of exceptional private family baths, Noshiyu
+  invites you to immerse yourself in therapeutic waters while surrounded by breathtaking
+  natural beauty, ensuring a deeply personal and unforgettable retreat.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_noshiyu.jpg
+title: 'Escape to Serenity: Unveiling the Timeless Elegance and Secluded Luxury of
+  Kurokawa Onsen Noshiyu – Your Ultimate Kumamoto Retreat'
 ---
+
 
 ## Introduction
 

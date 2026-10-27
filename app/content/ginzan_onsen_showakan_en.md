@@ -9,7 +9,7 @@ categories:
 - Yamagata Hot Springs
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_showakan.jpg
 address: Obanazawa, Yamagata
-date: '2026-07-31'
+date: '2026-10-27'
 summary: Ginzan Onsen Showakan sits at the heart of a snowbound, gaslit ravine in
   Obanazawa, where wooden ryokan rise three and four stories above a narrow river
   gorge. This storied inn blends mineral-rich alkaline waters, Taisho-romantic architecture,
@@ -17,6 +17,8 @@ summary: Ginzan Onsen Showakan sits at the heart of a snowbound, gaslit ravine i
   of the most photogenic and atmospheric onsen towns in Japan, especially when snow
   falls and the gas lamps flicker on at dusk.
 ---
+
+
 
 
 ## Stepping Into a Postcard from 1920s Japan

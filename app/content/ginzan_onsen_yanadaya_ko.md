@@ -1,14 +1,20 @@
 ---
 lang: ko
-title: "긴잔온천 야나다야, 다이쇼 로망이 흐르는 강변의 온천 여관"
+title: 긴잔온천 야나다야, 다이쇼 로망이 흐르는 강변의 온천 여관
 lat: 38.5718
 lng: 140.5318
-categories: ["온천 료칸", "야마가타 여행", "가이세키 요리"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_yanadaya.jpg"
-address: "Obanazawa, Yamagata"
-date: "2026-08-05"
-summary: "야마가타현 오바나자와시 긴잔온천의 협곡 한가운데 자리한 야나다야는 다이쇼 시대의 목조 건축과 가스등 불빛이 만들어내는 시간 여행 같은 풍경을 간직한 온천 여관이다. 은은한 유황 향과 부드러운 나트륨 온천수, 협곡의 사계절을 담은 가이세키 요리가 어우러져 오감을 만족시킨다. 눈 내리는 겨울밤 가스등이 켜지는 순간부터, 신록의 여름 계곡 물소리까지 야나다야는 계절마다 전혀 다른 얼굴을 보여주는 곳이다."
+categories:
+- 온천 료칸
+- 야마가타 여행
+- 가이세키 요리
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_yanadaya.jpg
+address: Obanazawa, Yamagata
+date: '2026-10-27'
+summary: 야마가타현 오바나자와시 긴잔온천의 협곡 한가운데 자리한 야나다야는 다이쇼 시대의 목조 건축과 가스등 불빛이 만들어내는 시간 여행 같은
+  풍경을 간직한 온천 여관이다. 은은한 유황 향과 부드러운 나트륨 온천수, 협곡의 사계절을 담은 가이세키 요리가 어우러져 오감을 만족시킨다. 눈
+  내리는 겨울밤 가스등이 켜지는 순간부터, 신록의 여름 계곡 물소리까지 야나다야는 계절마다 전혀 다른 얼굴을 보여주는 곳이다.
 ---
+
 
 ## 협곡 속으로 걸어 들어가는 순간, 시간이 멈추다
 

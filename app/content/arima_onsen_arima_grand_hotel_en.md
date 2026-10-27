@@ -9,7 +9,7 @@ categories:
 - Hyogo Prefecture
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg
 address: Kobe, Hyogo
-date: '2026-06-27'
+date: '2026-10-27'
 summary: A closer look at whether Arima Grand Hotel's twin Kinsen and Ginsen springs,
   kaiseki dining, and hospitality earn its reputation among Arima Onsen ryokan.
 description: Is Arima Grand Hotel worth it? See how its Kinsen gold and Ginsen silver
@@ -18,6 +18,8 @@ seo_title: 'Arima Grand Hotel Review: Kinsen Gold Water Onsen | OKOnsen'
 seo_description: Is Arima Grand Hotel worth it? See how its Kinsen gold and Ginsen
   silver springs, kaiseki dining, and hospitality stack up before you book.
 ---
+
+
 **Quick take:** Arima Grand Hotel is one of the few ryokan in town offering both Kinsen (gold) and Ginsen (silver) springs under one roof, paired with kaiseki dining and classic omotenashi service. Here's what stands out before you book your stay.
 
 ## Introduction

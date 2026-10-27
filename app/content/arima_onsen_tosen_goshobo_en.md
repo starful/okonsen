@@ -9,7 +9,7 @@ categories:
 - Cultural Immersion
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg
 address: Kobe, Hyogo
-date: '2026-06-27'
+date: '2026-10-27'
 summary: Immerse yourself in centuries of tradition and unparalleled luxury at Arima
   Onsen Tosen Goshobo, Kobe's oldest and most prestigious ryokan. This article offers
   an in-depth exploration of its historic Kinsen baths, exquisite kaiseki dining,
@@ -21,6 +21,8 @@ seo_title: 'Arima Onsen Tosen Goshobo: Kobe''s Most Exclusive Luxury Ryokan'
 seo_description: Experience Arima Onsen's most exclusive ryokan. Centuries-old Kinsen
   baths, exceptional kaiseki dining, and refined Japanese hospitality.
 ---
+
+
 
 
 

@@ -1,14 +1,21 @@
 ---
 lang: ko
-title: "삿포로 근교 최고의 온천, 조잔케이 온센 쇼게츠 그랜드 호텔 완벽 가이드"
+title: 삿포로 근교 최고의 온천, 조잔케이 온센 쇼게츠 그랜드 호텔 완벽 가이드
 lat: 42.9677
 lng: 141.1677
-categories: ["온천 료칸", "홋카이도 여행", "삿포로 근교 여행"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-09-26"
-summary: "삿포로에서 차로 한 시간 거리, 도요히라강 협곡 위에 자리한 조잔케이 온센 쇼게츠 그랜드 호텔은 홋카이도 유수의 노천 온천과 계절마다 옷을 갈아입는 절경으로 유명하다. 이 가이드는 온천수의 성분부터 가이세키 요리, 삿포로 시내 연계 관광까지 방문 전 알아야 할 모든 것을 담았다. 도심의 편리함과 깊은 산속 온천의 정취를 동시에 누리고 싶은 여행자에게 최적의 선택지다."
+categories:
+- 온천 료칸
+- 홋카이도 여행
+- 삿포로 근교 여행
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: 삿포로에서 차로 한 시간 거리, 도요히라강 협곡 위에 자리한 조잔케이 온센 쇼게츠 그랜드 호텔은 홋카이도 유수의 노천 온천과 계절마다
+  옷을 갈아입는 절경으로 유명하다. 이 가이드는 온천수의 성분부터 가이세키 요리, 삿포로 시내 연계 관광까지 방문 전 알아야 할 모든 것을 담았다.
+  도심의 편리함과 깊은 산속 온천의 정취를 동시에 누리고 싶은 여행자에게 최적의 선택지다.
 ---
+
+
 
 ## 삿포로의 안뜰, 협곡 위에 세워진 온천 왕국
 

@@ -9,13 +9,14 @@ categories:
 - Hot Spring Guide
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg
 address: Obanazawa, Yamagata
-date: '2026-08-31'
+date: '2026-10-27'
 summary: Izu no Hana is a storied wooden ryokan on the banks of the Ginzan River,
   where gaslamps, mineral-rich waters, and Yamagata kaiseki cuisine combine into one
   of Japan's most cinematic onsen experiences. This guide explores its Taisho-era
   architecture, the chemistry of its baths, and everything you need to plan a flawless
   stay in Obanazawa.
 ---
+
 
 
 ## A Gaslit Ribbon of Nostalgia

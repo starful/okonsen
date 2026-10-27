@@ -1,14 +1,20 @@
 ---
 lang: ko
-title: "긴잔온센 쇼와칸, 다이쇼 로망이 흐르는 협곡의 온천 여관 완벽 가이드"
+title: 긴잔온센 쇼와칸, 다이쇼 로망이 흐르는 협곡의 온천 여관 완벽 가이드
 lat: 38.5712
 lng: 140.5312
-categories: ["온천 여관", "야마가타 온천"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_showakan.jpg"
-address: "Obanazawa, Yamagata"
-date: "2026-09-04"
-summary: "긴잔온센 쇼와칸은 다이쇼 시대의 정취가 살아 숨 쉬는 협곡 마을 한복판에서 가스등 불빛과 온천수 흐르는 소리에 둘러싸여 하룻밤을 보낼 수 있는 목조 여관이다. 은빛 광맥의 역사를 간직한 마을의 정취와 야마가타의 산해진미가 어우러진 가이세키 요리, 그리고 계절마다 다른 얼굴을 보여주는 노천탕이 여행자를 기다린다. 눈 내리는 겨울밤의 가스등 풍경만으로도 다시 찾아올 이유가 충분한 곳이다."
+categories:
+- 온천 여관
+- 야마가타 온천
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_showakan.jpg
+address: Obanazawa, Yamagata
+date: '2026-10-27'
+summary: 긴잔온센 쇼와칸은 다이쇼 시대의 정취가 살아 숨 쉬는 협곡 마을 한복판에서 가스등 불빛과 온천수 흐르는 소리에 둘러싸여 하룻밤을 보낼
+  수 있는 목조 여관이다. 은빛 광맥의 역사를 간직한 마을의 정취와 야마가타의 산해진미가 어우러진 가이세키 요리, 그리고 계절마다 다른 얼굴을 보여주는
+  노천탕이 여행자를 기다린다. 눈 내리는 겨울밤의 가스등 풍경만으로도 다시 찾아올 이유가 충분한 곳이다.
 ---
+
+
 
 ## 협곡을 채우는 물소리와 가스등, 첫인상부터 시간을 거스르다
 

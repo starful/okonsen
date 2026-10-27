@@ -1,14 +1,19 @@
 ---
 lang: ko
-title: "삿포로의 비밀 정원, 조잔케이 온천 그랜드 블리센 호텔 완벽 가이드"
+title: 삿포로의 비밀 정원, 조잔케이 온천 그랜드 블리센 호텔 완벽 가이드
 lat: 42.9622
 lng: 141.1622
-categories: ["홋카이도 온천", "삿포로 근교 여행"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-09-20"
-summary: "삿포로 도심에서 불과 한 시간 거리에 자리한 조잔케이 온천 그랜드 블리센 호텔은 도요히라가와 협곡의 절경과 사철천의 부드러운 온천수가 어우러진 홋카이도 대표 온천 리조트다. 사계절 내내 색을 바꾸는 계곡 풍경을 바라보며 즐기는 노천탕과 홋카이도산 식재료로 완성한 가이세키 요리가 여행의 완성도를 높인다. 삿포로 시내 관광과 자연 속 온천 휴양을 동시에 누리고 싶은 여행자에게 이보다 완벽한 선택지는 드물다."
+categories:
+- 홋카이도 온천
+- 삿포로 근교 여행
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: 삿포로 도심에서 불과 한 시간 거리에 자리한 조잔케이 온천 그랜드 블리센 호텔은 도요히라가와 협곡의 절경과 사철천의 부드러운 온천수가
+  어우러진 홋카이도 대표 온천 리조트다. 사계절 내내 색을 바꾸는 계곡 풍경을 바라보며 즐기는 노천탕과 홋카이도산 식재료로 완성한 가이세키 요리가
+  여행의 완성도를 높인다. 삿포로 시내 관광과 자연 속 온천 휴양을 동시에 누리고 싶은 여행자에게 이보다 완벽한 선택지는 드물다.
 ---
+
 
 ## 삿포로 도심 속 숨은 온천향, 조잔케이의 첫인상
 

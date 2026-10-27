@@ -4,31 +4,31 @@ categories:
 - Private Bath
 - Great View
 - Luxury
-date: '2026-06-27'
-image_prompt: "A breathtaking panoramic shot of a luxurious, traditional Japanese\
-  \ onsen ryokan, Kurokawa Onsen Yumerindo, nestled amidst the lush, vibrant autumn\
-  \ foliage of Minamioguni, Kumamoto. Focus on an outdoor private bath (kashikiri\
-  \ rotemburo) made of natural rock, steam gently rising, with a stunning, expansive\
-  \ view of rolling mountains and a serene river winding through the valley below\
-  \ at sunrise. The bath is impeccably clean, surrounded by perfectly manicured Japanese\
-  \ garden elements, with soft, warm lighting accentuating the tranquil atmosphere.\
-  \ Emphasize natural textures like wood, stone, and the vibrant colors of autumn\
-  \ leaves, evoking a sense of deep relaxation, exclusivity, and profound connection\
-  \ to nature. Include subtle hints of a traditional ryokan building in the background.\
-  \ --ar 16:9 --v 5.2"
+date: '2026-10-27'
+image_prompt: A breathtaking panoramic shot of a luxurious, traditional Japanese onsen
+  ryokan, Kurokawa Onsen Yumerindo, nestled amidst the lush, vibrant autumn foliage
+  of Minamioguni, Kumamoto. Focus on an outdoor private bath (kashikiri rotemburo)
+  made of natural rock, steam gently rising, with a stunning, expansive view of rolling
+  mountains and a serene river winding through the valley below at sunrise. The bath
+  is impeccably clean, surrounded by perfectly manicured Japanese garden elements,
+  with soft, warm lighting accentuating the tranquil atmosphere. Emphasize natural
+  textures like wood, stone, and the vibrant colors of autumn leaves, evoking a sense
+  of deep relaxation, exclusivity, and profound connection to nature. Include subtle
+  hints of a traditional ryokan building in the background. --ar 16:9 --v 5.2
 lang: en
 lat: 33.0818
 lng: 131.1418
-summary: "Escape to the serene heart of Kumamoto and discover Kurokawa Onsen Yumerindo,\
-  \ an exquisite ryokan offering unparalleled luxury and tranquility. Indulge in the\
-  \ therapeutic embrace of its private open-air baths, where the pristine waters meet\
-  \ breathtaking panoramic views of nature's majesty. This haven promises an unforgettable\
-  \ journey into traditional Japanese hospitality, enveloped by spectacular scenery\
-  \ and ultimate relaxation."
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg"
-title: "Kurokawa Onsen Yumerindo: Your Gateway to Kumamoto's Ultimate Private Bath\
-  \ Luxury with Breathtaking Views"
+summary: Escape to the serene heart of Kumamoto and discover Kurokawa Onsen Yumerindo,
+  an exquisite ryokan offering unparalleled luxury and tranquility. Indulge in the
+  therapeutic embrace of its private open-air baths, where the pristine waters meet
+  breathtaking panoramic views of nature's majesty. This haven promises an unforgettable
+  journey into traditional Japanese hospitality, enveloped by spectacular scenery
+  and ultimate relaxation.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg
+title: 'Kurokawa Onsen Yumerindo: Your Gateway to Kumamoto''s Ultimate Private Bath
+  Luxury with Breathtaking Views'
 ---
+
 
 ## Introduction
 

@@ -13,7 +13,7 @@ categories:
 - Kengo Kuma Design
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_fujiya.jpg
 address: Obanazawa, Yamagata
-date: '2026-07-27'
+date: '2026-10-27'
 summary: A guide to Ginzan Onsen Fujiya, Kengo Kuma&#39;s minimalist ryokan blending
   traditional Japanese design with modern luxury and private onsen baths.
 description: 'Ginzan Onsen Fujiya ryokan guide: Kengo Kuma design, private onsen baths,
@@ -22,6 +22,8 @@ seo_title: Ginzan Onsen Fujiya Ryokan Guide | Kengo Kuma Design, Yamagata
 seo_description: 'Discover Ginzan Onsen Fujiya: Kengo Kuma&#39;s minimalist ryokan
   with private onsen in Yamagata&#39;s gas-lit valley. Who it suits, and what to expect.'
 ---
+
+
 
 
 

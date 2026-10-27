@@ -4,7 +4,7 @@ categories:
 - Local
 - Great View
 - Tattoo OK
-date: '2026-04-12'
+date: '2026-10-27'
 image_prompt: Highly detailed photograph of a traditional Japanese ryokan, Kurokawa
   Onsen Ikoi Ryokan, nestled amongst lush green mountains and a pristine river in
   Minamioguni, Kumamoto, Japan. The scene is bathed in soft, natural light, highlighting
@@ -30,6 +30,7 @@ seo_title: 'Kurokawa Onsen Ikoi Ryokan: Tattoo-Friendly Inn | OKOnsen'
 seo_description: Experience Kurokawa Onsen at Ikoi Ryokan. Enjoy 11 historic, tattoo-friendly
   hot springs, exquisite kaiseki dining, and classic ryokan charm.
 ---
+
 
 
 ## Introduction

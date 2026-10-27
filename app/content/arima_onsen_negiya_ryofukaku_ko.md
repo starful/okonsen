@@ -1,5 +1,5 @@
 ---
-date: '2026-06-27'
+date: '2026-10-27'
 lang: ko
 title: Arima Onsen Negiya Ryofukaku - Premium Hot Spring Ryokan | OKOnsen
 description: Authentic Arima Onsen experience with natural hot springs, traditional
@@ -8,6 +8,8 @@ seo_title: Arima Onsen Negiya Ryofukaku - Luxury Ryokan with Natural Hot Springs
 seo_description: Experience Arima Onsen's finest at Negiya Ryofukaku. Authentic Japanese
   ryokan with premium hot springs, kaiseki dining & mountain views.
 ---
+
+
 
 
 ## 소개

@@ -12,7 +12,7 @@ categories:
 - Historic Onsen
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_takimikan.jpg
 address: 427 Ginzanshinhata, Obanazawa, Yamagata 999-4333, Japan
-date: '2026-07-27'
+date: '2026-10-27'
 summary: Nestled in the heart of the famously picturesque Ginzan Onsen, Takimikan
   offers an authentic escape to a bygone era, overlooking the iconic Shirogane Waterfall.
   This guide covers what makes the ryokan distinct and how to plan a visit, especially
@@ -23,6 +23,8 @@ seo_title: 'Ginzan Onsen Takimikan: Ryokan Guide & Shirogane Waterfall View'
 seo_description: 'Ginzan Onsen Takimikan ryokan guide: Shirogane Waterfall views,
   access tips, and snowy winter atmosphere in Yamagata, Japan.'
 ---
+
+
 
 
 

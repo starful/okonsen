@@ -1,14 +1,24 @@
 ---
 lang: en
-title: "Jozankei Onsen Shogetsu Grand Hotel: A Riverside Sanctuary in the Hokkaido Highlands"
+title: 'Jozankei Onsen Shogetsu Grand Hotel: A Riverside Sanctuary in the Hokkaido
+  Highlands'
 lat: 42.9677
 lng: 141.1677
-categories: ["Hokkaido Onsen", "Luxury Ryokan"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-09-26"
-summary: "Tucked into the forested gorge of Jozankei just an hour from Sapporo, Shogetsu Grand Hotel pairs mineral-rich, milky-white sulfate waters with sweeping views of the Toyohira River. Its blend of classic hospitality and modern comfort makes it a favorite four-season escape for travelers seeking both wilderness and refinement. This guide covers everything from its bathing culture to the exact train and bus routes to get there."
+categories:
+- Hokkaido Onsen
+- Luxury Ryokan
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: Tucked into the forested gorge of Jozankei just an hour from Sapporo, Shogetsu
+  Grand Hotel pairs mineral-rich, milky-white sulfate waters with sweeping views of
+  the Toyohira River. Its blend of classic hospitality and modern comfort makes it
+  a favorite four-season escape for travelers seeking both wilderness and refinement.
+  This guide covers everything from its bathing culture to the exact train and bus
+  routes to get there.
 ---
+
+
 
 Arriving at Jozankei Onsen Shogetsu Grand Hotel feels like stepping out of the bustle of Sapporo and into a quieter, older Hokkaido. The Toyohira River cuts through a narrow gorge here, its banks lined with maple and oak that blaze crimson in autumn and lie hushed under snow in winter. The hotel itself rises above this ravine, a large-scale property that nonetheless manages an intimate, cocooning atmosphere once you're inside. Steam drifts from the rooftop baths even in the height of summer, and the low murmur of the river is a constant soundtrack to the stay. What makes this property unique is not just its scale — it is genuinely one of the larger onsen resorts in the region — but the way it uses that scale to offer a dizzying variety of bathing experiences, from open-air river-view rotenburo to private family baths, all fed by the same generous mineral springs that gave Jozankei its name over a century and a half ago.
 

@@ -4,29 +4,28 @@ categories:
 - 고급
 - 절경
 - 가족탕
-date: '2026-04-12'
-image_prompt: "An aerial shot of a luxurious Japanese ryokan, 'Kurokawa Onsen Gosho\
-  \ Gekkoju', nestled amidst the lush, rolling mountains of Kumamoto, Japan, during\
-  \ autumn. The scene features elegantly designed traditional Japanese architecture\
-  \ with dark wooden exteriors and intricate roofs, seamlessly integrated with the\
-  \ natural landscape. Private open-air onsen baths with steaming water are visible\
-  \ on spacious outdoor terraces, offering stunning panoramic views of vibrant red,\
-  \ orange, and golden foliage. The atmosphere is serene and exclusive, emphasizing\
-  \ tranquility and upscale Japanese aesthetics. Include details of traditional garden\
-  \ elements, stone pathways, and gentle mist rising from the valley in the distance\
-  \ under a soft, golden hour light. Photography style: cinematic, wide-angle, highly\
-  \ detailed, serene, luxurious."
+date: '2026-10-27'
+image_prompt: 'An aerial shot of a luxurious Japanese ryokan, ''Kurokawa Onsen Gosho
+  Gekkoju'', nestled amidst the lush, rolling mountains of Kumamoto, Japan, during
+  autumn. The scene features elegantly designed traditional Japanese architecture
+  with dark wooden exteriors and intricate roofs, seamlessly integrated with the natural
+  landscape. Private open-air onsen baths with steaming water are visible on spacious
+  outdoor terraces, offering stunning panoramic views of vibrant red, orange, and
+  golden foliage. The atmosphere is serene and exclusive, emphasizing tranquility
+  and upscale Japanese aesthetics. Include details of traditional garden elements,
+  stone pathways, and gentle mist rising from the valley in the distance under a soft,
+  golden hour light. Photography style: cinematic, wide-angle, highly detailed, serene,
+  luxurious.'
 lang: ko
 lat: 33.0888
 lng: 131.1355
-summary: 구로카와 온천의 매혹적인 계곡 깊숙이 자리한 고쇼 게코주는 일본 환대의 정수를 보여주며, 은밀한 럭셔리와 원초적인 자연미의
-  비할 데 없는 조화를 선사합니다. 이 정교한 료칸은 파노라마 산악 전망과 온천의 진정 효과가 만나는 성역으로, 손님들을 궁극의 휴식의
-  세계로 초대합니다. 모든 디테일이 여러분의 탐닉을 위해 세심하게 만들어진 잊지 못할 여정을 준비하십시오. 평범함을 초월하고 럭셔리 온천
-  경험을 재정의하는 탈출을 약속합니다.
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_gosho_gekkoju.jpg"
-title: "구로카와 온천 고쇼 게코주: 구마모토 온천 낙원에서 만나는 비할 데 없는 럭셔리, 은밀한 고요함, 숨 막히는 전망으로의 궁극의\
-  \ 탈출"
+summary: 구로카와 온천의 매혹적인 계곡 깊숙이 자리한 고쇼 게코주는 일본 환대의 정수를 보여주며, 은밀한 럭셔리와 원초적인 자연미의 비할 데
+  없는 조화를 선사합니다. 이 정교한 료칸은 파노라마 산악 전망과 온천의 진정 효과가 만나는 성역으로, 손님들을 궁극의 휴식의 세계로 초대합니다.
+  모든 디테일이 여러분의 탐닉을 위해 세심하게 만들어진 잊지 못할 여정을 준비하십시오. 평범함을 초월하고 럭셔리 온천 경험을 재정의하는 탈출을 약속합니다.
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_gosho_gekkoju.jpg
+title: '구로카와 온천 고쇼 게코주: 구마모토 온천 낙원에서 만나는 비할 데 없는 럭셔리, 은밀한 고요함, 숨 막히는 전망으로의 궁극의 탈출'
 ---
+
 
 ## 소개
 구마모토현 아소-구주 국립공원 안에 숨겨진 보석인 구로카와 온천은 일본의 영속적인 온천 문화를 구현합니다. 도시의 소란에서 멀리 떨어진 이 그림 같은 마을은 소박한 매력과 전통 목조 료칸, 독특한 '뉴토 테가타'(온천 순례 패스)로 유명합니다. 이 목가적인 환경 속에서도 구로카와 온천 고쇼 게코주는 스스로를 차별화합니다. 이곳은 단순한 료칸이 아니라, 럭셔리와 비할 데 없는 프라이버시, 자연의 원초적인 아름다움이 만나 깊은 고요함을 만들어내는 정교하게 조성된 성역입니다.

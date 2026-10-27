@@ -6,7 +6,7 @@ categories:
 - Historic Ryokan
 - Mixed Bathing
 - Tohoku
-date: '2026-07-27'
+date: '2026-10-27'
 image_prompt: A stunning wide-angle shot of Nyuto Onsen Tsurunoyu in winter, featuring
   a large milky-white outdoor rotenburo steaming gently in a snow-covered mountain
   forest. The historic thatched-roof main building glows with warm lantern light against
@@ -30,6 +30,8 @@ seo_description: Read our complete guide to Nyuto Onsen Tsurunoyu. Discover its 
   milky-white outdoor baths, Edo-period architecture, konyoku etiquette, and how to
   reach this remote Akita mountain retreat.
 ---
+
+
 
 
 

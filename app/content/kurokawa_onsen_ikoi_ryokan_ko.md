@@ -4,7 +4,7 @@ categories:
 - 타투 허용
 - 절경
 - 로컬
-date: '2026-04-12'
+date: '2026-10-27'
 image_prompt: A serene and atmospheric image of Kurokawa Onsen Ikoi Ryokan in winter,
   with snow-covered traditional Japanese buildings, steam rising from outdoor onsen
   baths, lush surrounding forests, and subtle lighting. A Japanese woman with delicate
@@ -25,6 +25,7 @@ seo_title: '구로카와 온천 이코이 료칸 완벽 가이드: 가족탕, �
 seo_description: 일본 명탕 100선에 꼽힌 구로카와 온천 이코이 료칸 완벽 가이드! 인기 노천탕과 프라이빗 가족탕 정보, 당일 온천
   이용 팁, 객실 예약 방법과 생생한 투숙 후기를 지금 바로 확인해 보세요.
 ---
+
 
 
 

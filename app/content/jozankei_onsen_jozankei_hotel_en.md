@@ -1,14 +1,22 @@
 ---
 lang: en
-title: "Jozankei Hotel: Sapporo's Riverside Onsen Retreat in the Forest"
+title: 'Jozankei Hotel: Sapporo''s Riverside Onsen Retreat in the Forest'
 lat: 42.9651
 lng: 141.1651
-categories: ["Hokkaido Onsen", "Hot Spring Ryokan"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_jozankei_hotel.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-09-26"
-summary: "Jozankei Hotel sits along the emerald curves of the Toyohira River, just forty minutes from downtown Sapporo, offering mineral-rich alkaline waters framed by Hokkaido's dense cedar forest. This guide explores its onsen chemistry, kaiseki cuisine built on Hokkaido's seasonal bounty, and the practical details needed to plan a stay in every season, from spring melt to deep winter snow."
+categories:
+- Hokkaido Onsen
+- Hot Spring Ryokan
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_jozankei_hotel.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: Jozankei Hotel sits along the emerald curves of the Toyohira River, just
+  forty minutes from downtown Sapporo, offering mineral-rich alkaline waters framed
+  by Hokkaido's dense cedar forest. This guide explores its onsen chemistry, kaiseki
+  cuisine built on Hokkaido's seasonal bounty, and the practical details needed to
+  plan a stay in every season, from spring melt to deep winter snow.
 ---
+
+
 
 ## First Impressions: Sapporo's Hidden Gorge
 

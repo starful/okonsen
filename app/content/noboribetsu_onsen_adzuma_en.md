@@ -1,14 +1,24 @@
 ---
 lang: en
-title: "Noboribetsu Onsen Adzuma: Hokkaido's Secluded Sanctuary of Milky-White Sulphur Baths"
+title: 'Noboribetsu Onsen Adzuma: Hokkaido''s Secluded Sanctuary of Milky-White Sulphur
+  Baths'
 lat: 42.4961
 lng: 141.1431
-categories: ["Onsen Ryokan", "Hokkaido Hot Springs"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_adzuma.jpg"
-address: "Noboribetsu, Hokkaido"
-date: "2026-10-12"
-summary: "Noboribetsu Onsen Adzuma is a quietly dignified ryokan tucked beside the sulphurous valley of Jigokudani, offering nine distinct therapeutic spring waters drawn directly from the volcanic earth. It pairs rustic Hokkaido craftsmanship with refined kaiseki cuisine built around Pacific seafood and mountain vegetables. For travelers seeking an authentic, less commercialized alternative to Noboribetsu's larger resort hotels, Adzuma delivers an intimate, onsen-first experience."
+categories:
+- Onsen Ryokan
+- Hokkaido Hot Springs
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/noboribetsu_onsen_adzuma.jpg
+address: Noboribetsu, Hokkaido
+date: '2026-10-27'
+summary: Noboribetsu Onsen Adzuma is a quietly dignified ryokan tucked beside the
+  sulphurous valley of Jigokudani, offering nine distinct therapeutic spring waters
+  drawn directly from the volcanic earth. It pairs rustic Hokkaido craftsmanship with
+  refined kaiseki cuisine built around Pacific seafood and mountain vegetables. For
+  travelers seeking an authentic, less commercialized alternative to Noboribetsu's
+  larger resort hotels, Adzuma delivers an intimate, onsen-first experience.
 ---
+
+
 
 Stepping off the narrow approach road into Adzuma's entrance, the first sensation is smell before sight: a faint, mineral tang of sulphur drifting on cold Hokkaido air, carried down from the steaming crater valley above. Where many Noboribetsu establishments lean into scale and spectacle, Adzuma leans the opposite direction — toward hush, dim wood tones, and the sound of running spring water. It is a ryokan built for people who came to Noboribetsu for one reason only: the water itself. The lobby is modest, almost austere, with low lighting and a single ikebana arrangement doing all the talking. There is no sprawling buffet hall greeting you, no arcade of souvenir counters. Instead, staff in dark indigo aprons quietly direct you toward check-in, already anticipating that most guests want to be undressed and submerged within the hour.
 

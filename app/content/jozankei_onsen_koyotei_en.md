@@ -1,14 +1,22 @@
 ---
 lang: en
-title: "Jozankei Onsen Koyotei: A Riverside Retreat in Sapporo's Mountain Spa Town"
+title: 'Jozankei Onsen Koyotei: A Riverside Retreat in Sapporo''s Mountain Spa Town'
 lat: 42.9631
 lng: 141.1631
-categories: ["Hokkaido Onsen", "Ryokan Guide"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-08-15"
-summary: "Jozankei Onsen Koyotei blends riverside hot spring bathing with refined Hokkaido kaiseki cuisine just 45 minutes from central Sapporo. Its open-air baths overlook the Toyohira River gorge, offering a seasonal theater of autumn foliage and winter snow. This guide covers everything from the mineral composition of the waters to practical booking advice for first-time visitors."
+categories:
+- Hokkaido Onsen
+- Ryokan Guide
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: Jozankei Onsen Koyotei blends riverside hot spring bathing with refined Hokkaido
+  kaiseki cuisine just 45 minutes from central Sapporo. Its open-air baths overlook
+  the Toyohira River gorge, offering a seasonal theater of autumn foliage and winter
+  snow. This guide covers everything from the mineral composition of the waters to
+  practical booking advice for first-time visitors.
 ---
+
+
 
 Tucked into a narrow gorge where the Toyohira River carves through cedar-covered mountains, Koyotei announces itself quietly. There is no flashy signage, no crowded lobby scrum — just the low murmur of moving water and steam curling off the rocks below. For travelers who assume Hokkaido's onsen culture lives only in the wilds of Noboribetsu or the volcanic drama of Shikotsu-Toya, Koyotei offers a correction: some of the region's most atmospheric bathing happens barely 45 minutes from Sapporo's Odori Park, in a valley that feels a world removed from the city grid.
 

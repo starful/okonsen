@@ -1,14 +1,24 @@
 ---
 lang: en
-title: "Chalet Ivy Jozankei: A Nordic-Inspired Onsen Retreat in the Sapporo Highlands"
+title: 'Chalet Ivy Jozankei: A Nordic-Inspired Onsen Retreat in the Sapporo Highlands'
 lat: 42.9681
 lng: 141.1681
-categories: ["Hokkaido Onsen", "Family Ryokan", "Hot Spring Resort"]
-thumbnail: "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg"
-address: "Sapporo, Hokkaido"
-date: "2026-08-26"
-summary: "Chalet Ivy Jozankei blends Scandinavian-style architecture with the mineral-rich waters of Sapporo's forested onsen town, creating a hybrid retreat unlike any traditional ryokan. Guests soak in riverside baths framed by birch and maple, then retreat to warm, timber-lined rooms designed for genuine relaxation. Just an hour from Sapporo's urban core, it offers an accessible yet deeply restorative escape into Hokkaido's mountain wilderness."
+categories:
+- Hokkaido Onsen
+- Family Ryokan
+- Hot Spring Resort
+thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg
+address: Sapporo, Hokkaido
+date: '2026-10-27'
+summary: Chalet Ivy Jozankei blends Scandinavian-style architecture with the mineral-rich
+  waters of Sapporo's forested onsen town, creating a hybrid retreat unlike any traditional
+  ryokan. Guests soak in riverside baths framed by birch and maple, then retreat to
+  warm, timber-lined rooms designed for genuine relaxation. Just an hour from Sapporo's
+  urban core, it offers an accessible yet deeply restorative escape into Hokkaido's
+  mountain wilderness.
 ---
+
+
 
 The moment the sliding doors part at Chalet Ivy Jozankei, the atmosphere shifts. Gone is the formal hush of a centuries-old ryokan; in its place is something warmer and more relaxed — golden timber walls, low-slung Scandinavian furniture, and the faint mineral scent of hot spring water drifting in from the bath wing. This is not a temple to tradition so much as a mountain chalet reinterpreted through a distinctly Hokkaido lens, built for travelers who want the therapeutic power of onsen bathing without the rigidity that sometimes comes with it. Nestled along the Toyohira River gorge in Jozankei, roughly an hour southwest of central Sapporo, Chalet Ivy occupies a sweet spot: close enough for a weekend escape from the city, remote enough to feel like true wilderness. The first impression is one of unhurried comfort — a lodge where ski-town coziness meets onsen ritual, and where the surrounding cedar and maple forest seems to press right up against the windows.
 
