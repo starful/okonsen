@@ -107,6 +107,7 @@ function renderList(theme) {
 
     const cmpAdd = currentLang === 'ko' ? '+ 비교' : '+ Compare';
     const cmpOn = currentLang === 'ko' ? '✓ 비교 중' : '✓ Comparing';
+    const detailCta = currentLang === 'ko' ? '상세보기 →' : 'View Details →';
     filtered.forEach(onsen => {
         const isNew = isContentNew(onsen.published);
         const bid = baseIdOf(onsen);
@@ -129,6 +130,7 @@ function renderList(theme) {
                     <div style="margin-top:10px;">
                         ${onsen.categories.map(c => `<span class="count-badge">${c}</span>`).join(' ')}
                     </div>
+                    <span class="card-detail-cta">${detailCta}</span>
                 </div>
             </a>
             <button type="button" class="compare-toggle-btn" data-compare-id="${bid}"
