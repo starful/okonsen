@@ -146,6 +146,40 @@ def is_indexable_path(path: str) -> bool:
     return path not in SEO_REDIRECTS
 
 
+# Thin-content floor for the sitemap-longtail generator (GSC "Crawled - currently
+# not indexed" cleanup, 2026-10). Mirrors the generation-time gate in
+# script/content_guards.py (ONSEN_MIN_CHARS / GUIDE_MIN_CHARS) so a page that was
+# good enough to publish stays good enough to advertise in the sitemap.
+THIN_CONTENT_MIN_CHARS = {"onsen": 4500, "guide": 4000}
+
+
+def is_thin_body(body_chars: int, kind: str) -> bool:
+    """True when a page's markdown body is below the thin-content floor."""
+    return body_chars < THIN_CONTENT_MIN_CHARS.get(kind, 4000)
+
+
+def dedupe_longtail(items: list[dict], *, kind: str) -> list[dict]:
+    """Drop thin bodies and exact-duplicate bodies from sitemap-longtail candidates.
+
+    Items are expected to carry 'body_chars' (int) and 'body_hash' (str) set by
+    the caller while reading each markdown file. Keeps the first occurrence of
+    a duplicate hash (lists are pre-sorted newest/priority first).
+    """
+    seen_hashes: set[str] = set()
+    kept: list[dict] = []
+    for item in items:
+        body_chars = item.get("body_chars", 0)
+        if is_thin_body(body_chars, kind):
+            continue
+        body_hash = item.get("body_hash")
+        if body_hash:
+            if body_hash in seen_hashes:
+                continue
+            seen_hashes.add(body_hash)
+        kept.append(item)
+    return kept
+
+
 def sibling_is_indexable(prefix: str, base_id: str, lang: str) -> bool:
     """Whether /{prefix}/{base_id}_{lang} should be advertised (hreflang / lang switcher)."""
     path = f"/{prefix}/{base_id}_{lang}"

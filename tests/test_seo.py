@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "app"))
 
 from __init__ import app as flask_app  # noqa: E402
+from seo import dedupe_longtail, is_thin_body  # noqa: E402
 
 
 @pytest.fixture()
@@ -42,3 +43,21 @@ def test_social_card_page(client):
     assert 'property="og:url" content="https://okonsen.net/card/kusatsu_onsen_ryokan_yoshinoya_en"' in html
     assert "/social/kusatsu_onsen_ryokan_yoshinoya.jpg" in html
     assert "View onsen guide" in html
+
+
+def test_is_thin_body():
+    assert is_thin_body(100, "onsen") is True
+    assert is_thin_body(5000, "onsen") is False
+    assert is_thin_body(3000, "guide") is True
+    assert is_thin_body(4500, "guide") is False
+
+
+def test_dedupe_longtail_drops_thin_and_duplicate_bodies():
+    items = [
+        {"id": "a", "body_chars": 5000, "body_hash": "h1"},
+        {"id": "b", "body_chars": 5000, "body_hash": "h1"},  # duplicate of a
+        {"id": "c", "body_chars": 100, "body_hash": "h2"},  # too thin
+        {"id": "d", "body_chars": 5000, "body_hash": "h3"},
+    ]
+    kept = dedupe_longtail(items, kind="onsen")
+    assert [i["id"] for i in kept] == ["a", "d"]

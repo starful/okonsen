@@ -1,5 +1,6 @@
 import os
 import json
+import hashlib
 import frontmatter
 import markdown
 import re
@@ -17,9 +18,9 @@ sys.path.insert(0, SCRIPT_DIR)
 from seo_priority import CORE_GUIDE_BASES, CORE_ONSEN_IDS, guide_id, prioritize_by_ids
 from md_dates import ensure_post_date, save_post
 
-# app/seo.py — exclude redirect sources from sitemap / JSON map
+# app/seo.py — exclude redirect sources + thin/duplicate bodies from sitemap / JSON map
 sys.path.insert(0, os.path.join(BASE_DIR, 'app'))
-from seo import SEO_REDIRECTS  # noqa: E402
+from seo import SEO_REDIRECTS, dedupe_longtail  # noqa: E402
 
 CONTENT_DIR = os.path.join(BASE_DIR, 'app', 'content')
 GUIDE_DIR = os.path.join(CONTENT_DIR, 'guides')
@@ -41,6 +42,12 @@ def normalize_markdown_source(raw_text):
     text = re.sub(r'^\s*yaml\s*\n(?=---\s*\n)', '', text, count=1, flags=re.IGNORECASE)
     text = re.sub(r'^---\s*\n\{\}\s*\n---\s*\n(?=---\s*\n)', '', text, count=1, flags=re.MULTILINE)
     return text
+
+def body_fingerprint(body):
+    """(char count, content hash) used by seo.dedupe_longtail for thin/duplicate filtering."""
+    normalized = re.sub(r'\s+', ' ', (body or '').strip().lower())
+    body_hash = hashlib.sha1(normalized.encode('utf-8')).hexdigest()
+    return len(normalized), body_hash
 
 def strip_markdown(text):
     """마크다운을 일반 텍스트로 변환하여 요약문 생성"""
@@ -72,10 +79,13 @@ def collect_guides():
             guide_link = f"/guide/{filename.replace('.md', '')}"
             if guide_link in SEO_REDIRECTS:
                 continue
+            body_chars, body_hash = body_fingerprint(post.content)
             guides.append({
                 "id": filename.replace('.md', ''),
                 "link": guide_link,
                 "published": published_date,
+                "body_chars": body_chars,
+                "body_hash": body_hash,
             })
         except Exception as e:
             print(f"❌ 가이드 파일 처리 오류 ({filename}): {e}")
@@ -218,6 +228,7 @@ def main():
                 img_name = os.path.basename(raw_thumb)
                 gcs_thumbnail_url = f"{GCS_IMAGE_BASE}/{img_name}"
 
+                body_chars, body_hash = body_fingerprint(post.content)
                 onsen = {
                     "id": filename.replace('.md', ''),
                     "lang": post.get('lang', 'en'),
@@ -229,7 +240,9 @@ def main():
                     "address": post.get('address', ''),
                     "published": published_date,
                     "summary": summary,
-                    "link": f"/onsen/{filename.replace('.md', '')}"
+                    "link": f"/onsen/{filename.replace('.md', '')}",
+                    "body_chars": body_chars,
+                    "body_hash": body_hash,
                 }
                 onsens.append(onsen)
         except Exception as e:
@@ -252,8 +265,18 @@ def main():
     guides, guide_backfilled = collect_guides()
     backfilled += guide_backfilled
     core_onsens, longtail_onsens, core_guides, longtail_guides = split_sitemap_sets(onsens, guides)
+
+    # Thin/duplicate 롱테일 URL은 GSC 미색인(Crawled - currently not indexed)의
+    # 주 원인이므로 sitemap-longtail.xml에서 제외 (코어는 이미 수동 선별된 목록).
+    longtail_onsens_filtered = dedupe_longtail(longtail_onsens, kind="onsen")
+    longtail_guides_filtered = dedupe_longtail(longtail_guides, kind="guide")
+    dropped_onsens = len(longtail_onsens) - len(longtail_onsens_filtered)
+    dropped_guides = len(longtail_guides) - len(longtail_guides_filtered)
+
     core_sitemap_content = generate_sitemap(core_onsens, core_guides, include_static=True)
-    longtail_sitemap_content = generate_sitemap(longtail_onsens, longtail_guides, include_static=False)
+    longtail_sitemap_content = generate_sitemap(
+        longtail_onsens_filtered, longtail_guides_filtered, include_static=False
+    )
     sitemap_index_content = generate_sitemap_index()
 
     with open(SITEMAP_CORE_OUTPUT, 'w', encoding='utf-8') as f:
@@ -269,7 +292,9 @@ def main():
     print(f"   - 처리된 항목: {len(onsens)}개")
     print(f"   - 처리된 가이드: {len(guides)}개")
     print(f"   - 코어 사이트맵: 온천 {len(core_onsens)}개 / 가이드 {len(core_guides)}개")
-    print(f"   - 롱테일 사이트맵: 온천 {len(longtail_onsens)}개 / 가이드 {len(longtail_guides)}개")
+    print(f"   - 롱테일 사이트맵: 온천 {len(longtail_onsens_filtered)}개 / 가이드 {len(longtail_guides_filtered)}개")
+    if dropped_onsens or dropped_guides:
+        print(f"   - 롱테일 제외(thin/dup): 온천 {dropped_onsens}개 / 가이드 {dropped_guides}개")
     print(f"   - 최신 항목: {onsens[0]['title'] if onsens else '없음'} ({onsens[0]['published'] if onsens else '-'})")
     print(f"   - 출력 파일: {JSON_OUTPUT}")
 
