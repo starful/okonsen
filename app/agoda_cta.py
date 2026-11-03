@@ -12,12 +12,9 @@ except ImportError:
 
 
 def _enabled() -> bool:
-    return os.getenv("A8_OKONSEN_ENABLED", "1").strip().lower() in (
-        "1",
-        "true",
-        "yes",
-        "on",
-    )
+    # Prefer AFFILIATE_*; keep A8_* as legacy alias so existing .env still works.
+    raw = os.getenv("AFFILIATE_OKONSEN_ENABLED") or os.getenv("A8_OKONSEN_ENABLED", "1")
+    return raw.strip().lower() in ("1", "true", "yes", "on")
 
 
 def agoda_cta_context(
