@@ -10,7 +10,7 @@ from flask import Blueprint, abort, jsonify, render_template, request
 
 try:
     from ..config import CATEGORY_MAPPING, CONTENT_DIR, FAMILY_SITE_ID, SITE_URL
-    from ..a8_affiliate import a8_banners_context
+    from ..agoda_cta import agoda_cta_context
     from ..rakuten_affiliate import rakuten_context
     from ..content_loader import get_all_guides, mark_external_links, normalize_markdown_source
     from ..data_cache import (
@@ -25,7 +25,7 @@ try:
     from ..seo import hreflang_flags, share_context
 except ImportError:
     from config import CATEGORY_MAPPING, CONTENT_DIR, FAMILY_SITE_ID, SITE_URL
-    from a8_affiliate import a8_banners_context
+    from agoda_cta import agoda_cta_context
     from rakuten_affiliate import rakuten_context
     from content_loader import get_all_guides, mark_external_links, normalize_markdown_source
     from data_cache import (
@@ -116,7 +116,7 @@ def onsen_detail(onsen_id):
         **share_ctx,
         **hreflang_flags("onsen", base_id),
         **rakuten_context(onsen_id, lang=lang),
-        **a8_banners_context(
+        **agoda_cta_context(
             lang=lang,
             lat=post.get("lat"),
             lng=post.get("lng"),
