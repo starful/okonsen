@@ -21,10 +21,22 @@
            rel="nofollow sponsored noopener noreferrer"
            class="btn-agoda"
            title="{{ agoda_cta.label }}{% if agoda_cta.desc %} — {{ agoda_cta.desc }}{% endif %}"
-           data-track="affiliate_a8"
+           data-track="affiliate_agoda"
            data-track-label="agoda-early"
            data-track-position="top">
             {{ 'Agoda에서 주변 숙소 보기' if lang == 'ko' else 'Find nearby stays on Agoda' }}
+        </a>
+        {% endif %}
+        {% if show_amazon and amazon_cta %}
+        <a href="{{ amazon_cta.click_url }}"
+           target="_blank"
+           rel="nofollow sponsored noopener noreferrer"
+           class="btn-amazon"
+           title="{{ amazon_cta.label }}{% if amazon_cta.desc %} — {{ amazon_cta.desc }}{% endif %}"
+           data-track="affiliate_amazon"
+           data-track-label="{{ amazon_cta.keyword }}"
+           data-track-position="top">
+            {{ 'Amazon에서 온천 준비물' if lang == 'ko' else 'Onsen essentials on Amazon' }}
         </a>
         {% endif %}
     </div>

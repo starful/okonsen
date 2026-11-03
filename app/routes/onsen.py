@@ -11,6 +11,7 @@ from flask import Blueprint, abort, jsonify, render_template, request
 try:
     from ..config import CATEGORY_MAPPING, CONTENT_DIR, FAMILY_SITE_ID, SITE_URL
     from ..agoda_cta import agoda_cta_context
+    from ..amazon_affiliate import amazon_context
     from ..rakuten_affiliate import rakuten_context
     from ..content_loader import get_all_guides, mark_external_links, normalize_markdown_source
     from ..data_cache import (
@@ -26,6 +27,7 @@ try:
 except ImportError:
     from config import CATEGORY_MAPPING, CONTENT_DIR, FAMILY_SITE_ID, SITE_URL
     from agoda_cta import agoda_cta_context
+    from amazon_affiliate import amazon_context
     from rakuten_affiliate import rakuten_context
     from content_loader import get_all_guides, mark_external_links, normalize_markdown_source
     from data_cache import (
@@ -121,6 +123,7 @@ def onsen_detail(onsen_id):
             lat=post.get("lat"),
             lng=post.get("lng"),
         ),
+        **amazon_context(kind="onsen", lang=lang),
     )
 
 

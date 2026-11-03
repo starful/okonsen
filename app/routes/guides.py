@@ -12,6 +12,7 @@ from flask import Blueprint, abort, render_template, request
 try:
     from ..config import FAMILY_SITE_ID, GUIDE_DIR
     from ..agoda_cta import agoda_cta_context
+    from ..amazon_affiliate import amazon_context
     from ..rakuten_affiliate import rakuten_context
     from ..content_loader import (
         extract_faq_items,
@@ -26,6 +27,7 @@ try:
 except ImportError:
     from config import FAMILY_SITE_ID, GUIDE_DIR
     from agoda_cta import agoda_cta_context
+    from amazon_affiliate import amazon_context
     from rakuten_affiliate import rakuten_context
     from content_loader import (
         extract_faq_items,
@@ -119,4 +121,5 @@ def guide_detail(guide_id):
         **hreflang_flags("guide", base_id),
         **rakuten_context(guide_id, lang=lang),
         **agoda_cta_context(lang=lang),
+        **amazon_context(kind="guide", lang=lang),
     )
