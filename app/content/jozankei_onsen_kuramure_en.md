@@ -10,7 +10,7 @@ categories:
 - Hokkaido
 thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kuramure.jpg
 address: Sapporo, Hokkaido
-date: '2026-10-27'
+date: '2026-11-07'
 summary: Kuramure is a design-forward ryokan tucked into the Toyohira River gorge
   of Jozankei Onsen, just an hour from central Sapporo, where sculptural architecture
   and private open-air baths meet Hokkaido's volcanic hot spring water. Every room
@@ -19,6 +19,7 @@ summary: Kuramure is a design-forward ryokan tucked into the Toyohira River gorg
   the rare Hokkaido ryokan that feels equally suited to a quiet solo escape and a
   romantic anniversary stay.
 ---
+
 
 
 
