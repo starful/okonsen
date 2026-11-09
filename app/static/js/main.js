@@ -108,6 +108,7 @@ function renderList(theme) {
     const cmpAdd = currentLang === 'ko' ? '+ 비교' : '+ Compare';
     const cmpOn = currentLang === 'ko' ? '✓ 비교 중' : '✓ Comparing';
     const detailCta = currentLang === 'ko' ? '상세보기 →' : 'View Details →';
+    const thumbCta = currentLang === 'ko' ? '자세히 보기' : 'View Details';
     filtered.forEach(onsen => {
         const isNew = isContentNew(onsen.published);
         const bid = baseIdOf(onsen);
@@ -122,6 +123,7 @@ function renderList(theme) {
                         alt="${onsen.title}" 
                         onerror="this.onerror=null; this.src='https://storage.googleapis.com/ok-project-assets/okonsen/default.png';">
                     ${newBadgeHtml(isNew)}
+                    <span class="card-visual-cta">${thumbCta}</span>
                 </div>
                 <div class="card-content">
                     <div class="card-meta">📍 ${onsen.address}${formatPublished(onsen.published) ? ` · <span class="published-date">${formatPublished(onsen.published)}</span>` : ''}</div>
