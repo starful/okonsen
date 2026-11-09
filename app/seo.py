@@ -180,6 +180,25 @@ def dedupe_longtail(items: list[dict], *, kind: str) -> list[dict]:
     return kept
 
 
+def flag_unindexable_reason(item: dict, *, kind: str, seen_hashes: set[str]) -> str | None:
+    """Per-item reason dedupe_longtail would drop this page: 'thin', 'duplicate', or None.
+
+    Mirrors dedupe_longtail's gate but returns *why* instead of filtering, so a
+    batch audit can report reasons per URL. Mutates seen_hashes like
+    dedupe_longtail does, so callers must iterate items in the same
+    newest/priority-first order used for sitemap generation.
+    """
+    body_chars = item.get("body_chars", 0)
+    if is_thin_body(body_chars, kind):
+        return "thin"
+    body_hash = item.get("body_hash")
+    if body_hash:
+        if body_hash in seen_hashes:
+            return "duplicate"
+        seen_hashes.add(body_hash)
+    return None
+
+
 def sibling_is_indexable(prefix: str, base_id: str, lang: str) -> bool:
     """Whether /{prefix}/{base_id}_{lang} should be advertised (hreflang / lang switcher)."""
     path = f"/{prefix}/{base_id}_{lang}"
