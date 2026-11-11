@@ -369,13 +369,12 @@
                 </h2>
                 <div class="onsen-grid">
                     {% for onsen in featured_onsens %}
-                    <a href="{{ onsen.link }}" class="onsen-card onsen-card-link">
+                    <a href="{{ onsen.link }}" class="onsen-card onsen-card-link" aria-label="{{ onsen.title }}">
                         <div class="card-visual">
-                            <img src="{{ onsen.thumbnail }}"
+                            <img src="{{ onsen.thumbnail or 'https://storage.googleapis.com/ok-project-assets/okonsen/default.png' }}"
                                 class="card-thumb"
                                 alt="{{ onsen.title }}"
                                 onerror="this.onerror=null; this.src='https://storage.googleapis.com/ok-project-assets/okonsen/default.png';">
-                            <span class="card-visual-cta">{{ '자세히 보기' if post.lang == 'ko' else 'View Details' }}</span>
                         </div>
                         <div class="card-content">
                             <h3 class="card-title">{{ onsen.title }}</h3>
