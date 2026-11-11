@@ -367,13 +367,23 @@
                 <h2 style="font-size:1.2rem; margin-bottom:14px; color:#333;">
                     {{ 'Related Ryokan Pages' if post.lang == 'en' else '다른 료칸 페이지 보기' }}
                 </h2>
-                <ul style="margin:0; padding-left:18px; line-height:1.8;">
+                <div class="onsen-grid">
                     {% for onsen in featured_onsens %}
-                    <li>
-                        <a href="{{ onsen.link }}" style="color:#1f6feb; text-decoration:underline;">{{ onsen.title }}</a>
-                    </li>
+                    <a href="{{ onsen.link }}" class="onsen-card onsen-card-link">
+                        <div class="card-visual">
+                            <img src="{{ onsen.thumbnail }}"
+                                class="card-thumb"
+                                alt="{{ onsen.title }}"
+                                onerror="this.onerror=null; this.src='https://storage.googleapis.com/ok-project-assets/okonsen/default.png';">
+                            <span class="card-visual-cta">{{ '자세히 보기' if post.lang == 'ko' else 'View Details' }}</span>
+                        </div>
+                        <div class="card-content">
+                            <h3 class="card-title">{{ onsen.title }}</h3>
+                            <span class="card-detail-cta">{{ '상세보기 →' if post.lang == 'ko' else 'View Details →' }}</span>
+                        </div>
+                    </a>
                     {% endfor %}
-                </ul>
+                </div>
             </section>
             {% endif %}
 
