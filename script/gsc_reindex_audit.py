@@ -10,12 +10,19 @@ Search Console → 색인 → 페이지 보고서에서 "미색인" 이유별로
 
 Search Console의 URL 검사 도구는 색인 요청을 공개 API로 제공하지 않고(일일
 수동 할당량), 한 번에 한 URL만 처리할 수 있다. 이 스크립트는 실제 제출을
-대신하지 않고, seo_priority의 우선순위를 반영한 제출 순서 큐를 만들어
-담당자가 URL 검사 도구에서 순서대로 처리할 수 있게 한다.
+대신하지 않고, 제출 순서 큐를 만들어 담당자가 URL 검사 도구에서 순서대로
+처리할 수 있게 한다.
+
+--gsc-performance-csv로 Search Console 실적 보고서(페이지별 클릭/노출수)
+CSV를 함께 넘기면 조회수가 높았던 페이지(한때 색인되어 트래픽이 있었으나
+지금은 미색인인 페이지)부터 우선 재제출하도록 큐를 정렬한다. 생략하면
+seo_priority의 고정 우선순위 목록으로 대체한다.
 
 Usage:
     python script/gsc_reindex_audit.py --gsc-csv not_indexed_export.csv
     python script/gsc_reindex_audit.py --gsc-csv not_indexed_export.csv --limit 15 --out queue.txt
+    python script/gsc_reindex_audit.py --gsc-csv not_indexed_export.csv \
+        --gsc-performance-csv performance_export.csv
 """
 from __future__ import annotations
 
@@ -103,6 +110,35 @@ def load_gsc_not_indexed(csv_path: Path) -> set[str]:
     return urls
 
 
+def load_gsc_performance(csv_path: Path) -> dict[str, int]:
+    """Parse a GSC Performance-report CSV export (Page/URL column + Clicks or Impressions)."""
+    metrics: dict[str, int] = {}
+    with csv_path.open(newline="", encoding="utf-8-sig") as f:
+        rows = list(csv.reader(f))
+    if not rows:
+        return metrics
+    header = rows[0]
+    url_col = next(
+        (i for i, cell in enumerate(header) if "url" in cell.strip().lower() or "page" in cell.strip().lower()), 0
+    )
+    metric_col = next((i for i, cell in enumerate(header) if "click" in cell.strip().lower()), None)
+    if metric_col is None:
+        metric_col = next((i for i, cell in enumerate(header) if "impression" in cell.strip().lower()), None)
+    if metric_col is None:
+        return metrics
+    for row in rows[1:]:
+        if url_col >= len(row) or metric_col >= len(row):
+            continue
+        url = row[url_col].strip()
+        if not url.startswith(BASE_URL):
+            continue
+        try:
+            metrics[url] = int(float(row[metric_col].replace(",", "").strip() or 0))
+        except ValueError:
+            continue
+    return metrics
+
+
 def priority_order() -> list[str]:
     """Flattened priority URLs, highest priority first (mirrors seo_priority sets)."""
     order = [f"{BASE_URL}/onsen/{oid}" for oid in CORE_ONSEN_IDS]
@@ -112,20 +148,34 @@ def priority_order() -> list[str]:
     return order
 
 
-def build_queue(not_indexed: set[str], sitemap: set[str], thin_links: set[str], limit: int) -> list[str]:
+def build_queue(
+    not_indexed: set[str],
+    sitemap: set[str],
+    thin_links: set[str],
+    limit: int,
+    performance: dict[str, int] | None = None,
+) -> list[str]:
     actionable = {
         u for u in not_indexed
         if u in sitemap and u[len(BASE_URL):] not in thin_links
     }
-    ranked = [u for u in priority_order() if u in actionable]
-    remaining = sorted(actionable - set(ranked))
-    queue = ranked + remaining
+    if performance:
+        priority_rank = {u: idx for idx, u in enumerate(priority_order())}
+        queue = sorted(actionable, key=lambda u: (-performance.get(u, 0), priority_rank.get(u, 999), u))
+    else:
+        ranked = [u for u in priority_order() if u in actionable]
+        remaining = sorted(actionable - set(ranked))
+        queue = ranked + remaining
     return queue[:limit] if limit else queue
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--gsc-csv", required=True, type=Path, help="GSC 색인 보고서 '미색인' 드릴다운 CSV 경로")
+    parser.add_argument(
+        "--gsc-performance-csv", type=Path,
+        help="GSC 실적 보고서(페이지별 클릭/노출수) CSV 경로. 지정 시 조회수 높은 순으로 큐를 정렬",
+    )
     parser.add_argument(
         "--limit", type=int, default=15,
         help="재제출 큐에 담을 최대 URL 수 (URL 검사 도구는 1건씩 수동 제출, 일일 할당량 제한). 0=무제한",
@@ -142,6 +192,17 @@ def main() -> int:
         print(f"⚠️  CSV에서 okonsen.net URL을 찾지 못했습니다: {args.gsc_csv}")
         return 1
 
+    performance: dict[str, int] = {}
+    if args.gsc_performance_csv:
+        if not args.gsc_performance_csv.exists():
+            print(f"❌ 실적 보고서 CSV 파일을 찾을 수 없습니다: {args.gsc_performance_csv}")
+            return 1
+        performance = load_gsc_performance(args.gsc_performance_csv)
+        if performance:
+            print(f"📈 실적 보고서: {len(performance)}개 URL의 조회수 데이터 로드")
+        else:
+            print(f"⚠️  실적 보고서 CSV에서 조회수 컬럼을 찾지 못했습니다: {args.gsc_performance_csv}")
+
     sitemap = sitemap_urls()
     thin_links = thin_duplicate_links()
 
@@ -157,10 +218,12 @@ def main() -> int:
         for u in sorted(thin_in_sitemap)[:20]:
             print(f"        - {u}")
 
-    queue = build_queue(not_indexed, sitemap, thin_links, args.limit)
-    print(f"\n🚀 URL 검사 도구 재제출 큐 (우선순위 {len(queue)}개, limit={args.limit or '무제한'}):")
+    queue = build_queue(not_indexed, sitemap, thin_links, args.limit, performance=performance)
+    order_desc = "조회수 높은 순" if performance else "seo_priority 고정 순위"
+    print(f"\n🚀 URL 검사 도구 재제출 큐 ({order_desc}, {len(queue)}개, limit={args.limit or '무제한'}):")
     for u in queue:
-        print(f"   - {u}")
+        hits = performance.get(u) if performance else None
+        print(f"   - {u}" + (f" (조회수 {hits})" if hits else ""))
 
     if args.out:
         args.out.write_text("\n".join(queue) + ("\n" if queue else ""), encoding="utf-8")
