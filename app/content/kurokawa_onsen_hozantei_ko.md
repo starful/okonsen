@@ -1,4 +1,6 @@
 ---
+youtube_id: pAJ3-A0ExoE
+
 address: Minamioguni, Kumamoto
 categories:
 - 가족탕

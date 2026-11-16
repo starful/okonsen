@@ -1,4 +1,6 @@
 ---
+youtube_id: 4ZeQ6zKy-Ro
+
 address: Yufuin, Oita
 categories:
 - 타투 허용
