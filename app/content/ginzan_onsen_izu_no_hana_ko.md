@@ -1,4 +1,6 @@
 ---
+youtube_id: ZsorryPwLCw
+
 lang: ko
 title: '긴잔온센 이즈노하나: 다이쇼 로망과 온천이 흐르는 협곡의 숙소'
 lat: 38.5719

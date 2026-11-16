@@ -1,4 +1,6 @@
 ---
+youtube_id: IanXU-fFQQ4
+
 lang: en
 title: 'Jozankei Onsen Shogetsu Grand Hotel: A Riverside Sanctuary in the Hokkaido
   Highlands'

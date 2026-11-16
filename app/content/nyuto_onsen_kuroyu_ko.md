@@ -1,4 +1,6 @@
 ---
+youtube_id: mLhnbuoJqJc
+
 lang: ko
 title: 뉴토 온천 쿠로유, 아키타 산속에 숨은 400년 유황 온천의 진짜 얼굴
 lat: 39.8111

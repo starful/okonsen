@@ -1,4 +1,6 @@
 ---
+youtube_id: IanXU-fFQQ4
+
 lang: ko
 title: 삿포로 근교 최고의 온천, 조잔케이 온센 쇼게츠 그랜드 호텔 완벽 가이드
 lat: 42.9677

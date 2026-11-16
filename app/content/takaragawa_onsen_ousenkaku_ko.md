@@ -1,4 +1,6 @@
 ---
+youtube_id: Idz3Pc_BorI
+
 address: Minakami, Gunma
 categories:
 - 혼탕

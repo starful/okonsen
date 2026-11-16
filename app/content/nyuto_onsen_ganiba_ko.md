@@ -1,4 +1,6 @@
 ---
+youtube_id: s7wN5N2M0rs
+
 lang: ko
 title: '니뉴토 온천 카니바 완벽 가이드: 아키타 너도밤나무 숲 속 비경 노천탕'
 lat: 39.8155

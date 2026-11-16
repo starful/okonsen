@@ -1,4 +1,6 @@
 ---
+youtube_id: mLhnbuoJqJc
+
 lang: en
 title: 'Nyuto Onsen Kuroyu: Akita''s Legendary Hidden Hot Spring Retreat'
 lat: 39.8111

@@ -1,4 +1,6 @@
 ---
+youtube_id: ZsorryPwLCw
+
 lang: en
 title: 'Ginzan Onsen Izu no Hana: A Gaslit Dream in Obanazawa, Yamagata'
 lat: 38.5719
