@@ -1,4 +1,6 @@
 ---
+youtube_id: 7N5N63B_FXw
+
 lang: en
 title: 'Arima Onsen Tosen Goshobo: Japan''s Oldest Luxury Ryokan (800+ Years, Kinsen
   Mineral Baths)'

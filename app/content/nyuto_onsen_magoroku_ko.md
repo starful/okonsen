@@ -1,4 +1,6 @@
 ---
+youtube_id: 1arbmq8aMyA
+
 lang: ko
 title: "뉴토온센 마고로쿠 완벽 가이드: 너도밤나무 숲 속 최후의 비탕(秘湯)"
 lat: 39.8088

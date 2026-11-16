@@ -1,4 +1,6 @@
 ---
+youtube_id: wRt-aqGqcbE
+
 address: Hakone, Kanagawa
 categories:
 - 절경

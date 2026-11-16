@@ -1,4 +1,6 @@
 ---
+youtube_id: qKtvk7PCbpg
+
 address: Kusatsu, Gunma
 categories:
 - 로컬

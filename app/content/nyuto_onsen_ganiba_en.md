@@ -1,4 +1,6 @@
 ---
+youtube_id: s7wN5N2M0rs
+
 lang: en
 title: 'Ganiba Onsen: The Secret Milky-White Bath Deep in Nyuto''s Beech Forest'
 lat: 39.8155

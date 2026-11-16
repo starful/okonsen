@@ -1,4 +1,6 @@
 ---
+youtube_id: 7N5N63B_FXw
+
 lang: ko
 title: '아리마 온천 도센 고쇼보 완벽 가이드: 800년 전통 금천 료칸 후기 - OKOnsen'
 lat: 34.7966
