@@ -1,6 +1,7 @@
 ---
 lang: en
-title: 'Arima Onsen Tosen Goshobo: Inside Kobe''s Oldest Luxury Ryokan - OKOnsen'
+title: 'Arima Onsen Tosen Goshobo: Japan''s Oldest Luxury Ryokan (800+ Years, Kinsen
+  Mineral Baths)'
 lat: 34.7966
 lng: 135.2477
 categories:
@@ -11,21 +12,18 @@ thumbnail: https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_
 address: Kobe, Hyogo
 date: '2026-10-27'
 summary: Immerse yourself in centuries of tradition and unparalleled luxury at Arima
-  Onsen Tosen Goshobo, Kobe's oldest and most prestigious ryokan. This article offers
-  an in-depth exploration of its historic Kinsen baths, exquisite kaiseki dining,
-  refined Japanese architecture, and the serene ambiance that defines this iconic
-  retreat in the heart of Arima Onsen.
-description: Kobe's oldest and most prestigious luxury ryokan offering centuries of
-  tradition, historic Kinsen baths, and exquisite kaiseki dining.
-seo_title: 'Arima Onsen Tosen Goshobo: Kobe''s Most Exclusive Luxury Ryokan'
-seo_description: Experience Arima Onsen's most exclusive ryokan. Centuries-old Kinsen
-  baths, exceptional kaiseki dining, and refined Japanese hospitality.
+  Onsen Tosen Goshobo, Japan's oldest continuously-operating luxury ryokan with historic
+  Kinsen baths and exquisite kaiseki dining.
+description: Experience Japan's oldest luxury ryokan with 800+ years of history. Exclusive
+  Kinsen mineral baths, kaiseki dining, and refined Japanese hospitality.
+seo_title: 'Arima Onsen Tosen Goshobo: Japan''s Oldest Luxury Ryokan (800+ Years,
+  Kinsen Mineral Baths)'
+seo_description: Experience Japan's oldest luxury ryokan with 800+ years of history.
+  Exclusive Kinsen mineral baths, kaiseki dining, and refined Japanese hospitality.
 ---
+## An 800-Year Legacy Worth Your Time
 
-
-
-
-
+Tosen Goshobo is not just another luxury ryokan—it's the oldest continually-operated ryokan in Japan with an unbroken heritage spanning eight centuries. This exclusivity translates to access to Arima's legendary Kinsen mineral baths and kaiseki crafted by multi-generational culinary masters.
 
 ## Introduction
 
