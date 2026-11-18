@@ -1,16 +1,16 @@
 ---
 lang: en
 title: 'Private Onsen (Kashikiri Buro) in Japan: Book Alone, Tattoos Welcome'
-summary: A plain-English guide to kashikiri buro—Japan's private, reservable onsen
-  baths—for travelers who want the hot-spring experience without communal bathing
-  jitters.
+summary: Complete guide to booking kashikiri buro (private onsen) in Japan for solo
+  travelers, couples, and families with tips on avoiding strangers and tattoo restrictions.
 date: '2026-09-20'
 description: Reserve a private onsen (kashikiri buro) in Japan with no strangers or
   tattoo rules. Complete booking guide, facility types & tips for couples.
-seo_title: 'Private Onsen (Kashikiri Buro) in Japan: Book Alone, Tattoos Welcome'
-seo_description: Reserve a private onsen (kashikiri buro) in Japan with no strangers
-  or tattoo rules. Complete booking guide, facility types & tips for couples.
+seo_title: Book a Private Kashikiri Buro in Japan | Solo, Couples & Tattoo-Friendly
+seo_description: Reserve a private kashikiri buro in Japan—no strangers, tattoos OK.
+  Solo & couples sessions. How to book, facility types & tips for every traveler.
 ---
+**Tired of communal baths on vacation?** A kashikiri buro (private onsen) is your answer. Reserve the entire bath for yourself, your partner, or family—no strangers, no tattoo rules, no compromises. Enjoy Japan's hot springs exactly on your terms.
 
 **Anxious about communal bathing?** A kashikiri buro (private onsen) lets you reserve the entire bath for yourself, your partner, or family—no strangers, all the hot-spring benefits. Here's how to book one.
 
