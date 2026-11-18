@@ -8,3 +8,4 @@ markdown
 python-dotenv
 firebase-admin
 Pillow
+google-cloud-firestore
