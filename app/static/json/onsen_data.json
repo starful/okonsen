@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09",
+  "last_updated": "2026.11.20 16:35",
   "onsens": [
     {
       "id": "jozankei_onsen_kuramure_en",
@@ -1184,7 +1184,7 @@
     {
       "id": "arima_onsen_tosen_goshobo_en",
       "lang": "en",
-      "title": "Arima Onsen Tosen Goshobo: Inside Kobe's Oldest Luxury Ryokan - OKOnsen",
+      "title": "Arima Onsen Tosen Goshobo: Japan's Oldest Luxury Ryokan (800+ Years, Kinsen Mineral Baths)",
       "lat": 34.7966,
       "lng": 135.2477,
       "categories": [
@@ -1195,10 +1195,10 @@
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg",
       "address": "Kobe, Hyogo",
       "published": "2026-10-27",
-      "summary": "Immerse yourself in centuries of tradition and unparalleled luxury at Arima Onsen Tosen Goshobo, Kobe's oldest and most prestigious ryokan. This article offers an in-depth exploration of its historic Kinsen baths, exquisite kaiseki dining, refined Japanese architecture, and the serene ambiance that defines this iconic retreat in the heart of Arima Onsen.",
+      "summary": "Immerse yourself in centuries of tradition and unparalleled luxury at Arima Onsen Tosen Goshobo, Japan's oldest continuously-operating luxury ryokan with historic Kinsen baths and exquisite kaiseki dining.",
       "link": "/onsen/arima_onsen_tosen_goshobo_en",
-      "body_chars": 19148,
-      "body_hash": "2ccaa580ddbad9c86c70316c6c80b7d06ddbd0f1"
+      "body_chars": 19479,
+      "body_hash": "2e80fbf2bff807a3343d39be0e40dd05e2a5c0a7"
     },
     {
       "id": "arima_onsen_arima_grand_hotel_ko",
