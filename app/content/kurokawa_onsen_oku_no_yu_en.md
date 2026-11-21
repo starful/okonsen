@@ -1,6 +1,4 @@
 ---
-youtube_id: OmqsWzH81Z0
-
 lang: en
 title: "Oku no Yu Kurokawa Onsen: A Deep Dive into Kumamoto's Hidden Gem"
 lat: 33.0799

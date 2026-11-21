@@ -1,6 +1,4 @@
 ---
-youtube_id: 1arbmq8aMyA
-
 lang: en
 title: "Nyuto Onsen Magoroku: Akita's Legendary Milky-White Hot Spring Retreat"
 lat: 39.8088

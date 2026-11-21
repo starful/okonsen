@@ -1,6 +1,4 @@
 ---
-youtube_id: DLBkhYjeTqI
-
 address: Hakone, Kanagawa
 categories:
 - Local

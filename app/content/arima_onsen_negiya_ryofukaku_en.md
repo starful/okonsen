@@ -1,9 +1,7 @@
 ---
-date: '2026-10-27'
+date: '2026-06-27'
 lang: en
 ---
-
-
 
 ## Introduction
 

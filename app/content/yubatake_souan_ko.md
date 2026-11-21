@@ -1,6 +1,4 @@
 ---
-youtube_id: -nyjiLywYN4
-
 address: Kusatsu, Gunma
 categories:
 - 가족탕
