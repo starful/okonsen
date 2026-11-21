@@ -1,6 +1,4 @@
 ---
-youtube_id: pAJ3-A0ExoE
-
 address: Minamioguni, Kumamoto
 categories:
 - Private Bath

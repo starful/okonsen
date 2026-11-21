@@ -1,182 +1,6 @@
 {
-  "last_updated": "2026-11-20",
+  "last_updated": "2026.11.21 22:06",
   "onsens": [
-    {
-      "id": "jozankei_onsen_kuramure_en",
-      "lang": "en",
-      "title": "Jozankei Onsen Kuramure: A Sapporo Ryokan Sanctuary Where Art Meets Hot Spring Serenity",
-      "lat": 42.9688,
-      "lng": 141.1688,
-      "categories": [
-        "Onsen",
-        "Ryokan",
-        "Hokkaido"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kuramure.jpg",
-      "address": "Sapporo, Hokkaido",
-      "published": "2026-11-07",
-      "summary": "Kuramure is a design-forward ryokan tucked into the Toyohira River gorge of Jozankei Onsen, just an hour from central Sapporo, where sculptural architecture and private open-air baths meet Hokkaido's volcanic hot spring water. Every room carries its own semi-outdoor bath fed by the mineral-rich springs, pairing contemporary art-gallery minimalism with the ritual intimacy of a classic onsen retreat. It's the rare Hokkaido ryokan that feels equally suited to a quiet solo escape and a romantic anniversary stay.",
-      "link": "/onsen/jozankei_onsen_kuramure_en",
-      "body_chars": 9604,
-      "body_hash": "6212c99fd4a1f953f338d031f286084b52c70c9b"
-    },
-    {
-      "id": "takaragawa_onsen_ousenkaku_ko",
-      "lang": "ko",
-      "title": "다카라가와 온천 오센카쿠: 일본 최대 강변 혼탕 노천탕 완벽 가이드",
-      "lat": 36.8454,
-      "lng": 139.0485,
-      "categories": [
-        "혼탕",
-        "절경",
-        "강변 온천",
-        "역사 료칸",
-        "군마"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/takaragawa_onsen_ousenkaku.jpg",
-      "address": "Minakami, Gunma",
-      "published": "2026-10-27",
-      "summary": "군마현 미나카미의 협곡 깊숙이 자리한 다카라가와 온천 오센카쿠는 일본에서 가장 크고 웅장한 혼탕 노천탕으로 유명합니다. 다카라가와 강변을 따라 펼쳐진 네 개의 노천탕과 사계절 절경, 도쿄에서 약 2시간 만에 닿을 수 있는 접근성이 자랑입니다.",
-      "link": "/onsen/takaragawa_onsen_ousenkaku_ko",
-      "body_chars": 4397,
-      "body_hash": "4376dbbaf134b98ef0746558d2a1f7f187107eb5"
-    },
-    {
-      "id": "takaragawa_onsen_ousenkaku_en",
-      "lang": "en",
-      "title": "Takaragawa Onsen Ousenkaku: Japan's Most Epic Outdoor Riverside Baths",
-      "lat": 36.8454,
-      "lng": 139.0485,
-      "categories": [
-        "Mixed Bathing",
-        "Great View",
-        "Riverside Bath",
-        "Historic Ryokan",
-        "Gunma"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/takaragawa_onsen_ousenkaku.jpg",
-      "address": "Minakami, Gunma",
-      "published": "2026-10-27",
-      "summary": "Takaragawa Onsen Ousenkaku in Gunma's Minakami gorge is home to some of Japan's largest and most celebrated outdoor mixed-gender baths. This guide covers its four riverside rotenburo, seasonal appeal, day-trip options, and how to reach this mountain retreat from Tokyo in just over two hours.",
-      "link": "/onsen/takaragawa_onsen_ousenkaku_en",
-      "body_chars": 10926,
-      "body_hash": "a2e2158370ff761a291920675956b04443760c6e"
-    },
-    {
-      "id": "nyuto_onsen_tsurunoyu_ko",
-      "lang": "ko",
-      "title": "뉴토 온천 쓰루노유: 일본 최고의 역사 료칸 완벽 가이드",
-      "lat": 39.7997,
-      "lng": 140.7811,
-      "categories": [
-        "가족탕",
-        "절경",
-        "역사 료칸",
-        "혼탕",
-        "도호쿠"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_tsurunoyu.jpg",
-      "address": "Semboku, Akita",
-      "published": "2026-10-27",
-      "summary": "아키타 산속 깊이 숨겨진 뉴토 온천 쓰루노유는 에도시대 초가지붕 료칸이 그대로 살아있는 일본 최고의 역사 온천입니다. 우윳빛 유황 노천탕과 전통 혼탕 문화로 명성을 떨치며, 설경 속 온천욕이라는 일본 여행의 정수를 경험할 수 있는 곳입니다.",
-      "link": "/onsen/nyuto_onsen_tsurunoyu_ko",
-      "body_chars": 4930,
-      "body_hash": "a1c153f89ebc8e4713302d2f360c37aeb8bbf38c"
-    },
-    {
-      "id": "nyuto_onsen_tsurunoyu_en",
-      "lang": "en",
-      "title": "Nyuto Onsen Tsurunoyu: Japan's Most Iconic Historic Ryokan Review",
-      "lat": 39.7997,
-      "lng": 140.7811,
-      "categories": [
-        "Private Bath",
-        "Great View",
-        "Historic Ryokan",
-        "Mixed Bathing",
-        "Tohoku"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_tsurunoyu.jpg",
-      "address": "Semboku, Akita",
-      "published": "2026-10-27",
-      "summary": "Hidden deep in the Akita mountains, Tsurunoyu is Japan's most iconic Tohoku ryokan — a thatched Edo-period lodge with milky-white sulfurous baths and legendary mixed-gender outdoor pools. This guide covers everything from the spring water types and konyoku etiquette to access tips for navigating the remote mountain road.",
-      "link": "/onsen/nyuto_onsen_tsurunoyu_en",
-      "body_chars": 12158,
-      "body_hash": "dca70ed1570771864653d0ba45fac04606d6173a"
-    },
-    {
-      "id": "nyuto_onsen_kuroyu_ko",
-      "lang": "ko",
-      "title": "뉴토 온천 쿠로유, 아키타 산속에 숨은 400년 유황 온천의 진짜 얼굴",
-      "lat": 39.8111,
-      "lng": 140.7911,
-      "categories": [
-        "아키타 온천",
-        "비경 온천",
-        "전통 료칸"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_kuroyu.jpg",
-      "address": "Semboku, Akita",
-      "published": "2026-10-27",
-      "summary": "아키타현 센보쿠시 깊은 너도밤나무 숲 속, 뉴토 온천향의 원류라 불리는 쿠로유 온천은 초가지붕 본관과 우윳빛 유황탕이 400년 세월을 그대로 간직한 곳이다. 전기도 늦게 들어온 오지의 온천장답게 휴대전화 신호조차 닿지 않는 고립감이 오히려 최고의 사치로 다가온다. 이 글에서는 쿠로유의 역사, 탕질, 객실, 식사, 주변 명소, 실전 팁, 접근 방법까지 여행을 준비하는 데 필요한 모든 정보를 담았다.",
-      "link": "/onsen/nyuto_onsen_kuroyu_ko",
-      "body_chars": 5449,
-      "body_hash": "caa0e13a7e2a3a3f8abb1750117739b5e561859f"
-    },
-    {
-      "id": "nyuto_onsen_kuroyu_en",
-      "lang": "en",
-      "title": "Nyuto Onsen Kuroyu: Akita's Legendary Hidden Hot Spring Retreat",
-      "lat": 39.8111,
-      "lng": 140.7911,
-      "categories": [
-        "Hot Springs",
-        "Ryokan"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_kuroyu.jpg",
-      "address": "Semboku, Akita",
-      "published": "2026-10-27",
-      "summary": "Deep in the beech forests of Nyuto Onsen, Kuroyu preserves a thatched-roof world where thermal rivers, milky sulfur baths, and irori hearths have changed little in three centuries. This is Japan's most atmospheric mixed-bathing onsen for travelers chasing authenticity over polish. Expect wood smoke, mountain silence, and water so mineral-rich it stains stone gold.",
-      "link": "/onsen/nyuto_onsen_kuroyu_en",
-      "body_chars": 7417,
-      "body_hash": "69d2e7a9094cffdf579ce31265b3565bae8e6b19"
-    },
-    {
-      "id": "nyuto_onsen_ganiba_ko",
-      "lang": "ko",
-      "title": "니뉴토 온천 카니바 완벽 가이드: 아키타 너도밤나무 숲 속 비경 노천탕",
-      "lat": 39.8155,
-      "lng": 140.7955,
-      "categories": [
-        "일본 온천",
-        "아키타 노천탕"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg",
-      "address": "Semboku, Akita",
-      "published": "2026-10-27",
-      "summary": "아키타현 센보쿠시, 너도밤나무 숲 깊은 곳에 자리한 니뉴토 온천 카니바는 우윳빛 유백색 온천수와 통나무로 지은 고즈넉한 객실이 어우러진 비경의 온천 마을입니다. 출렁다리를 건너야 닿는 혼욕 노천탕과 사계절마다 옷을 갈아입는 숲의 풍경이 방문객을 압도합니다. 도쿄에서 신칸센과 버스를 갈아타야 도달할 수 있는 접근성 덕분에, 이곳은 여전히 일본인들이 가장 아끼는 '숨겨진 온천'으로 남아 있습니다.",
-      "link": "/onsen/nyuto_onsen_ganiba_ko",
-      "body_chars": 5775,
-      "body_hash": "e13596b0f5779beadadfe564c71e29cd3965f1a8"
-    },
-    {
-      "id": "nyuto_onsen_ganiba_en",
-      "lang": "en",
-      "title": "Ganiba Onsen: The Secret Milky-White Bath Deep in Nyuto's Beech Forest",
-      "lat": 39.8155,
-      "lng": 140.7955,
-      "categories": [
-        "Onsen Ryokan",
-        "Hot Spring Retreat"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg",
-      "address": "Semboku, Akita",
-      "published": "2026-10-27",
-      "summary": "Ganiba Onsen is the smallest and most secluded of the seven hot springs scattered through the Nyuto Onsenkyo valley, reachable only by a narrow forest track above Tsurunoyu. Its milky sulfur water, wood-smoke-scented rooms, and near-total absence of modern distraction make it a pilgrimage site for onsen purists. This guide covers everything from the mineral chemistry of its baths to the exact turns you need to find the place.",
-      "link": "/onsen/nyuto_onsen_ganiba_en",
-      "body_chars": 10050,
-      "body_hash": "66c948cdaf0111b87d1f18407b935ee8899e0cc6"
-    },
     {
       "id": "noboribetsu_onsen_adzuma_en",
       "lang": "en",
@@ -194,253 +18,6 @@
       "link": "/onsen/noboribetsu_onsen_adzuma_en",
       "body_chars": 9077,
       "body_hash": "9474ecfe19e6d69c15553c7e90b23293bb77afae"
-    },
-    {
-      "id": "kusatsu_onsen_hotel_sakurai_ko",
-      "lang": "ko",
-      "title": "쿠사츠 온센 호텔 사쿠라이 | 프리미엄 온천 리조트",
-      "lat": 36.6205,
-      "lng": 138.5999,
-      "categories": [
-        "절경",
-        "로컬"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_sakurai.jpg",
-      "address": "Kusatsu, Gunma",
-      "published": "2026-10-27",
-      "summary": "군마현 쿠사츠 온천의 심장부에 위치한 호텔 사쿠라이는 숨 막히는 자연 경관 속에서 진정한 로컬 온천 경험을 선사합니다. 탁월한 수질의 온천과 최고급 가이세키 요리, 그리고 전통과 현대가 조화된 객실에서 잊을 수 없는 휴식을 만끽하세요. 바쁜 일상에서 벗어나 진정한 재충전을 원하는 여행자에게 이보다 완벽한 곳은 없을 것입니다.",
-      "link": "/onsen/kusatsu_onsen_hotel_sakurai_ko",
-      "body_chars": 9400,
-      "body_hash": "ba1af8baeffa9c3c13017e249e5cb43f5d2914a0"
-    },
-    {
-      "id": "kurokawa_onsen_yumerindo_ko",
-      "lang": "ko",
-      "title": "구로카와 온천 유메린도: 숲속의 은밀한 안식처, 오감으로 경험하는 치유",
-      "lat": 33.0818,
-      "lng": 131.1418,
-      "categories": [
-        "가족탕",
-        "절경",
-        "고급 료칸"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-10-27",
-      "summary": "아소산의 웅장한 자연 속에 자리한 구로카와 온천 유메린도는 절경의 노천탕과 아늑한 전세 가족탕, 그리고 제철 식재료로 빚어낸 가이세키 요리로 진정한 힐링을 선사하는 최고급 료칸입니다. 고즈넉한 숲속에서 프라이빗한 휴식을 꿈꾸는 이들에게 완벽한 선택이며, 오감을 만족시키는 섬세한 서비스와 자연과의 조화가 돋보이는 공간에서 일상의 번잡함을 벗어나 온전한 휴식을 경험할 수 있습니다.",
-      "link": "/onsen/kurokawa_onsen_yumerindo_ko",
-      "body_chars": 9051,
-      "body_hash": "4964f5fe98f6ff30c039601f2c3dd20eca8a365d"
-    },
-    {
-      "id": "kurokawa_onsen_yumerindo_en",
-      "lang": "en",
-      "title": "Kurokawa Onsen Yumerindo: Your Gateway to Kumamoto's Ultimate Private Bath Luxury with Breathtaking Views",
-      "lat": 33.0818,
-      "lng": 131.1418,
-      "categories": [
-        "Private Bath",
-        "Great View",
-        "Luxury"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-10-27",
-      "summary": "Escape to the serene heart of Kumamoto and discover Kurokawa Onsen Yumerindo, an exquisite ryokan offering unparalleled luxury and tranquility. Indulge in the therapeutic embrace of its private open-air baths, where the pristine waters meet breathtaking panoramic views of nature's majesty. This haven promises an unforgettable journey into traditional Japanese hospitality, enveloped by spectacular scenery and ultimate relaxation.",
-      "link": "/onsen/kurokawa_onsen_yumerindo_en",
-      "body_chars": 13805,
-      "body_hash": "7079addeefeeeee4113fd536688556c3026209f3"
-    },
-    {
-      "id": "kurokawa_onsen_noshiyu_ko",
-      "lang": "ko",
-      "title": "아소 숲속의 럭셔리 휴식처, 구로카와 온천 노시유: 최고급 가족탕과 절경이 선사하는 치유의 시간",
-      "lat": 33.0825,
-      "lng": 131.1411,
-      "categories": [
-        "고급 료칸",
-        "가족탕"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_noshiyu.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-10-27",
-      "summary": "구로카와 온천 노시유는 아소산 자락의 울창한 숲 속에 자리한 최고급 료칸으로, 자연 속 진정한 휴식을 선사합니다. 프라이빗한 시간을 위한 개별 가족탕은 물론, 사계절 변하는 절경을 감상하며 온천욕을 즐길 수 있는 특별한 경험을 제공합니다. 섬세한 가이세키 요리와 전통의 미학이 깃든 공간에서 잊지 못할 추억을 만들어보세요.",
-      "link": "/onsen/kurokawa_onsen_noshiyu_ko",
-      "body_chars": 8116,
-      "body_hash": "c7f0fe8f6a9b01c6a0c64329d3fa7fe458d28a44"
-    },
-    {
-      "id": "kurokawa_onsen_noshiyu_en",
-      "lang": "en",
-      "title": "Escape to Serenity: Unveiling the Timeless Elegance and Secluded Luxury of Kurokawa Onsen Noshiyu – Your Ultimate Kumamoto Retreat",
-      "lat": 33.0825,
-      "lng": 131.1411,
-      "categories": [
-        "Luxury",
-        "Private Bath"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_noshiyu.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-10-27",
-      "summary": "Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Noshiyu stands as an epitome of refined Japanese hospitality, offering an unparalleled escape into luxurious tranquility. This exquisite ryokan masterfully blends traditional aesthetics with modern comfort, providing guests an intimate journey into Japan's revered onsen culture. Boasting an array of exceptional private family baths, Noshiyu invites you to immerse yourself in therapeutic waters while surrounded by breathtaking natural beauty, ensuring a deeply personal and unforgettable retreat.",
-      "link": "/onsen/kurokawa_onsen_noshiyu_en",
-      "body_chars": 13802,
-      "body_hash": "9057c890a08ca103adf2c5292ec3c6b1169f20e4"
-    },
-    {
-      "id": "kurokawa_onsen_nanjoen_en",
-      "lang": "en",
-      "title": "Kurokawa Onsen Nanjoen | Tattoo-Friendly Luxury Ryokan Kumamoto",
-      "lat": 33.0812,
-      "lng": 131.1433,
-      "categories": [
-        "Tattoo OK",
-        "Local",
-        "Private Bath"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_nanjoen.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-10-27",
-      "summary": "Discover Kurokawa Onsen Nanjoen, a truly unique Kumamoto ryokan where the warmth of **local hospitality** embraces every guest. Immerse yourself in the therapeutic embrace of its mineral-rich waters, knowing that **tattoos are respectfully welcomed**, a rare and refreshing policy. Experience the unparalleled blend of traditional Japanese charm, exquisite **private bathing**, and breathtaking natural beauty that awaits in this authentic sanctuary.",
-      "link": "/onsen/kurokawa_onsen_nanjoen_en",
-      "body_chars": 15815,
-      "body_hash": "39240987bb53cd19e407def145cf7b20de1e53c7"
-    },
-    {
-      "id": "kurokawa_onsen_ikoi_ryokan_ko",
-      "lang": "ko",
-      "title": "구로카와 온천 이코이 료칸 가이드: 가족탕, 당일 온천 후기 및 예약 팁",
-      "lat": 33.0811,
-      "lng": 131.1411,
-      "categories": [
-        "타투 허용",
-        "절경",
-        "로컬"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-10-27",
-      "summary": "구마모토 미나미오구니의 깊은 산 속에 자리한 이코이 료칸은 빼어난 자연 경관과 진정한 현지 분위기를 만끽할 수 있는 보석 같은 온천입니다. 문신을 한 여행객도 따뜻하게 환영하며, 아늑한 가족탕과 다양한 노천탕에서 몸과 마음의 피로를 완벽하게 풀 수 있습니다. 고요함 속에서 진정한 휴식과 일본 전통의 미학을 경험하고 싶은 분들에게 최고의 선택이 될 것입니다.",
-      "link": "/onsen/kurokawa_onsen_ikoi_ryokan_ko",
-      "body_chars": 7749,
-      "body_hash": "30fa4b7b4dbe0413e0cfde2372f4c9ce8d5a23e4"
-    },
-    {
-      "id": "kurokawa_onsen_ikoi_ryokan_en",
-      "lang": "en",
-      "title": "Kurokawa Onsen Ikoi Ryokan: Tattoo-Friendly & 11 Historic Baths",
-      "lat": 33.0811,
-      "lng": 131.1411,
-      "categories": [
-        "Local",
-        "Great View",
-        "Tattoo OK"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-10-27",
-      "summary": "Nestled in the picturesque valley of Kurokawa Onsen, Ikoi Ryokan exemplifies traditional Japanese hospitality with a progressive spirit. Renowned for its eleven distinct baths, exquisite multi-course kaiseki dining, and classic tatami accommodations, this ryokan offers a deeply restorative experience. Ikoi Ryokan is particularly welcoming, standing out for its inclusive approach, making it an excellent choice for guests with tattoos seeking an authentic hot spring retreat in a stunning natural setting.",
-      "link": "/onsen/kurokawa_onsen_ikoi_ryokan_en",
-      "body_chars": 18529,
-      "body_hash": "b439aae0fcbcd8d9061eee2d5410a4c646e44a1f"
-    },
-    {
-      "id": "kurokawa_onsen_gosho_gekkoju_en",
-      "lang": "en",
-      "title": "Kurokawa Onsen Gosho Gekkoju: Luxury Private-Onsen Ryokan Guide - OKOnsen",
-      "lat": 33.0888,
-      "lng": 131.1355,
-      "categories": [
-        "Luxury",
-        "Great View",
-        "Private Bath"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_gosho_gekkoju.jpg",
-      "address": "Minamioguni, Kumamoto",
-      "published": "2026-10-27",
-      "summary": "A guide to Kurokawa Onsen Gosho Gekkoju, a secluded luxury ryokan known for private onsen villas and mountain views in Kumamoto.",
-      "link": "/onsen/kurokawa_onsen_gosho_gekkoju_en",
-      "body_chars": 12056,
-      "body_hash": "47a7fa497e39ab502bc8cdd2cea24d5e406396d9"
-    },
-    {
-      "id": "kinosaki_onsen_tokiwa_ko",
-      "lang": "ko",
-      "title": "기노사키 온천 도키와: 시간을 초월한 료칸 경험",
-      "lat": 35.6225,
-      "lng": 134.8128,
-      "categories": [
-        "료칸",
-        "온천"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg",
-      "address": "효고현 도요오카시 기노사키초 유시마 467",
-      "published": "2026-10-27",
-      "summary": "기노사키 온천 중심부에 자리잡은 도키와 료칸은 전통과 현대적인 편안함이 조화롭게 어우러진 곳입니다. 7개의 온천 순례를 즐기고, 정갈한 가이세키 요리를 맛보며, 유카타를 입고 거리를 거닐어 보세요. 시간을 초월한 특별한 경험을 선사합니다.",
-      "link": "/onsen/kinosaki_onsen_tokiwa_ko",
-      "body_chars": 8299,
-      "body_hash": "4f824a0d9e775b86bb5343b50efa483e8980cea6"
-    },
-    {
-      "id": "kinosaki_onsen_tokiwa_en",
-      "lang": "en",
-      "title": "Tokiwa Ryokan - Kinosaki Onsen Luxury Hot Spring Resort",
-      "lat": 35.6225,
-      "lng": 134.8128,
-      "categories": [
-        "Onsen",
-        "Ryokan",
-        "Kinosaki",
-        "Hyogo",
-        "Luxury Travel",
-        "Japan Travel"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg",
-      "address": "376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
-      "published": "2026-10-27",
-      "summary": "Kinosaki Onsen Tokiwa offers an enchanting escape into traditional Japanese hospitality. Nestled in the heart of Kinosaki, this ryokan provides unparalleled access to the town's seven iconic public onsen. Experience the ultimate relaxation with exquisite cuisine, elegant rooms, and a serene atmosphere steeped in history and natural beauty.",
-      "link": "/onsen/kinosaki_onsen_tokiwa_en",
-      "body_chars": 12670,
-      "body_hash": "e226863b02aca6b9d41b3e0932a8772eaab647ba"
-    },
-    {
-      "id": "kinosaki_onsen_shinmatsuya_ko",
-      "lang": "ko",
-      "title": "기노사키 온천 신마츠야 완벽 가이드: 최고의 료칸 체험",
-      "lat": 35.6288,
-      "lng": 134.8166,
-      "categories": [
-        "료칸",
-        "온천"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg",
-      "address": "Toyooka, Hyogo",
-      "published": "2026-10-27",
-      "summary": "기노사키 온천의 심장부에 자리 잡은 신마츠야는 전통과 현대적인 편안함이 완벽하게 조화를 이루는 료칸입니다. 7개의 공중 온천 순례와 함께 잊을 수 없는 가이세키 요리, 그리고 고요한 다다미방에서의 휴식은 최고의 온천 경험을 선사합니다. 이 가이드에서 신마츠야의 모든 것을 파헤쳐 보세요.",
-      "link": "/onsen/kinosaki_onsen_shinmatsuya_ko",
-      "body_chars": 9136,
-      "body_hash": "c452b4ed0cc73915fd1c6c03519540c0b2116afd"
-    },
-    {
-      "id": "kinosaki_onsen_shinmatsuya_en",
-      "lang": "en",
-      "title": "Shinmatsuya Ryokan: Kinosaki Onsen Inn with Kaiseki & Hot Springs",
-      "lat": 35.6288,
-      "lng": 134.8166,
-      "categories": [
-        "Onsen",
-        "Ryokan",
-        "Kinosaki",
-        "Hyogo",
-        "Luxury Travel"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg",
-      "address": "376 Kinosakicho Yushima, Toyooka, Hyogo 669-6101, Japan",
-      "published": "2026-10-27",
-      "summary": "Shinmatsuya Ryokan offers a quintessential Kinosaki Onsen experience, blending traditional Japanese hospitality with the town's unique public bath culture. Guests are invited to immerse themselves in mineral-rich waters, savor exquisite seasonal kaiseki, and explore the charming willow-lined streets in a classic yukata, embodying the timeless spirit of this revered hot spring town.",
-      "link": "/onsen/kinosaki_onsen_shinmatsuya_en",
-      "body_chars": 14740,
-      "body_hash": "985fe1bc91816ba9c6a4048f64ca31728b0becd2"
     },
     {
       "id": "jozankei_onsen_suizantei_en",
@@ -461,43 +38,6 @@
       "body_hash": "d793ee36d4b6fe3926a10486451b8adda4d50bee"
     },
     {
-      "id": "jozankei_onsen_shogetsu_grand_hotel_ko",
-      "lang": "ko",
-      "title": "삿포로 근교 최고의 온천, 조잔케이 온센 쇼게츠 그랜드 호텔 완벽 가이드",
-      "lat": 42.9677,
-      "lng": 141.1677,
-      "categories": [
-        "온천 료칸",
-        "홋카이도 여행",
-        "삿포로 근교 여행"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg",
-      "address": "Sapporo, Hokkaido",
-      "published": "2026-10-27",
-      "summary": "삿포로에서 차로 한 시간 거리, 도요히라강 협곡 위에 자리한 조잔케이 온센 쇼게츠 그랜드 호텔은 홋카이도 유수의 노천 온천과 계절마다 옷을 갈아입는 절경으로 유명하다. 이 가이드는 온천수의 성분부터 가이세키 요리, 삿포로 시내 연계 관광까지 방문 전 알아야 할 모든 것을 담았다. 도심의 편리함과 깊은 산속 온천의 정취를 동시에 누리고 싶은 여행자에게 최적의 선택지다.",
-      "link": "/onsen/jozankei_onsen_shogetsu_grand_hotel_ko",
-      "body_chars": 5198,
-      "body_hash": "7bdf1412278cd21d72720c040cf18542ef86ba9d"
-    },
-    {
-      "id": "jozankei_onsen_shogetsu_grand_hotel_en",
-      "lang": "en",
-      "title": "Jozankei Onsen Shogetsu Grand Hotel: A Riverside Sanctuary in the Hokkaido Highlands",
-      "lat": 42.9677,
-      "lng": 141.1677,
-      "categories": [
-        "Hokkaido Onsen",
-        "Luxury Ryokan"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg",
-      "address": "Sapporo, Hokkaido",
-      "published": "2026-10-27",
-      "summary": "Tucked into the forested gorge of Jozankei just an hour from Sapporo, Shogetsu Grand Hotel pairs mineral-rich, milky-white sulfate waters with sweeping views of the Toyohira River. Its blend of classic hospitality and modern comfort makes it a favorite four-season escape for travelers seeking both wilderness and refinement. This guide covers everything from its bathing culture to the exact train and bus routes to get there.",
-      "link": "/onsen/jozankei_onsen_shogetsu_grand_hotel_en",
-      "body_chars": 9078,
-      "body_hash": "71ce8482a3d0584f57c352d3658b1c4d90f8abac"
-    },
-    {
       "id": "jozankei_onsen_nukumorino_yado_furukawa_en",
       "lang": "en",
       "title": "Jozankei Onsen Nukumorino Yado Furukawa: Sapporo's Secluded River Sanctuary",
@@ -516,119 +56,60 @@
       "body_hash": "9f7b666514465e7608f0762ad8e3f82703510c72"
     },
     {
-      "id": "jozankei_onsen_mori_no_uta_ko",
-      "lang": "ko",
-      "title": "정글 속 시적인 쉼, 삿포로 조잔케이 온천 모리노우타 심층 가이드",
-      "lat": 42.9648,
-      "lng": 141.1648,
-      "categories": [
-        "온천",
-        "료칸",
-        "홋카이도",
-        "삿포로",
-        "프리미엄 료칸"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_mori_no_uta.jpg",
-      "address": "北海道札幌市南区定山渓温泉東3丁目192",
-      "published": "2026-10-27",
-      "summary": "숲의 노래가 속삭이는 듯한 삿포로 조잔케이 온천 모리노우타는 자연 속에서 진정한 휴식을 선사하는 프리미엄 료칸입니다. 현대적인 편안함과 전통적인 미학이 조화롭게 어우러진 이곳에서 온전한 힐링을 경험해보세요. 미식의 향연, 사색의 온천, 그리고 고즈넉한 객실이 어우러져 잊지 못할 추억을 선사할 것입니다.",
-      "link": "/onsen/jozankei_onsen_mori_no_uta_ko",
-      "body_chars": 10482,
-      "body_hash": "810ad25c57ba32e89c1f9857773bdf1f3b041fba"
-    },
-    {
-      "id": "jozankei_onsen_mori_no_uta_en",
+      "id": "jozankei_onsen_kuramure_en",
       "lang": "en",
-      "title": "Jozankei Onsen Mori no Uta Review: Worth It Near Sapporo? - OKOnsen",
-      "lat": 42.9648,
-      "lng": 141.1648,
+      "title": "Jozankei Onsen Kuramure: A Sapporo Ryokan Sanctuary Where Art Meets Hot Spring Serenity",
+      "lat": 42.9688,
+      "lng": 141.1688,
       "categories": [
-        "Luxury Onsen",
+        "Onsen",
         "Ryokan",
-        "Hokkaido Onsen",
-        "Forest Retreat",
-        "Kaiseki Dining"
+        "Hokkaido"
       ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_mori_no_uta.jpg",
-      "address": "Jozankei-higashi 3-chome 192, Minami-ku, Sapporo, Hokkaido 061-2302, Japan",
-      "published": "2026-10-27",
-      "summary": "A forest ryokan near Sapporo pairing mineral hot springs and kaiseki dining with modern comfort — see who it suits and what to know before booking.",
-      "link": "/onsen/jozankei_onsen_mori_no_uta_en",
-      "body_chars": 25559,
-      "body_hash": "6b23971c61c8897fde1d111842b5ef671093cf8a"
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kuramure.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-10-01",
+      "summary": "Kuramure is a design-forward ryokan tucked into the Toyohira River gorge of Jozankei Onsen, just an hour from central Sapporo, where sculptural architecture and private open-air baths meet Hokkaido's volcanic hot spring water. Every room carries its own semi-outdoor bath fed by the mineral-rich springs, pairing contemporary art-gallery minimalism with the ritual intimacy of a classic onsen retreat. It's the rare Hokkaido ryokan that feels equally suited to a quiet solo escape and a romantic anniversary stay.",
+      "link": "/onsen/jozankei_onsen_kuramure_en",
+      "body_chars": 9604,
+      "body_hash": "6212c99fd4a1f953f338d031f286084b52c70c9b"
     },
     {
-      "id": "jozankei_onsen_koyotei_ko",
+      "id": "jozankei_onsen_shogetsu_grand_hotel_ko",
       "lang": "ko",
-      "title": "삿포로 근교의 비밀 정원, 죠잔케이 온천 코요테이 완벽 가이드",
-      "lat": 42.9989,
-      "lng": 141.1136,
+      "title": "삿포로 근교 최고의 온천, 조잔케이 온센 쇼게츠 그랜드 호텔 완벽 가이드",
+      "lat": 42.9677,
+      "lng": 141.1677,
       "categories": [
-        "일본 온천",
-        "홋카이도 여행"
+        "온천 료칸",
+        "홋카이도 여행",
+        "삿포로 근교 여행"
       ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg",
       "address": "Sapporo, Hokkaido",
-      "published": "2026-10-27",
-      "summary": "삿포로 시내에서 차로 한 시간 거리에 있는 죠잔케이 온천 코요테이는 도요히라가와 협곡을 품은 프라이빗 료칸으로, 사계절 내내 다른 얼굴을 보여주는 노천탕과 정갈한 가이세키 요리로 유명하다. 와비사비 미학이 살아있는 객실과 세심한 오모테나시가 어우러져 삿포로 여행의 마지막 하이라이트가 되어준다. 이 가이드에서는 역사, 온천수의 성분부터 예약 팁까지 코요테이를 제대로 즐기는 모든 방법을 담았다.",
-      "link": "/onsen/jozankei_onsen_koyotei_ko",
-      "body_chars": 6003,
-      "body_hash": "dec2dae94c1173efc51a1f1f61057011982ec58b"
+      "published": "2026-09-26",
+      "summary": "삿포로에서 차로 한 시간 거리, 도요히라강 협곡 위에 자리한 조잔케이 온센 쇼게츠 그랜드 호텔은 홋카이도 유수의 노천 온천과 계절마다 옷을 갈아입는 절경으로 유명하다. 이 가이드는 온천수의 성분부터 가이세키 요리, 삿포로 시내 연계 관광까지 방문 전 알아야 할 모든 것을 담았다. 도심의 편리함과 깊은 산속 온천의 정취를 동시에 누리고 싶은 여행자에게 최적의 선택지다.",
+      "link": "/onsen/jozankei_onsen_shogetsu_grand_hotel_ko",
+      "body_chars": 5198,
+      "body_hash": "7bdf1412278cd21d72720c040cf18542ef86ba9d"
     },
     {
-      "id": "jozankei_onsen_koyotei_en",
+      "id": "jozankei_onsen_shogetsu_grand_hotel_en",
       "lang": "en",
-      "title": "Jozankei Onsen Koyotei: A Riverside Retreat in Sapporo's Mountain Spa Town",
-      "lat": 42.9631,
-      "lng": 141.1631,
+      "title": "Jozankei Onsen Shogetsu Grand Hotel: A Riverside Sanctuary in the Hokkaido Highlands",
+      "lat": 42.9677,
+      "lng": 141.1677,
       "categories": [
         "Hokkaido Onsen",
-        "Ryokan Guide"
+        "Luxury Ryokan"
       ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg",
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_shogetsu_grand_hotel.jpg",
       "address": "Sapporo, Hokkaido",
-      "published": "2026-10-27",
-      "summary": "Jozankei Onsen Koyotei blends riverside hot spring bathing with refined Hokkaido kaiseki cuisine just 45 minutes from central Sapporo. Its open-air baths overlook the Toyohira River gorge, offering a seasonal theater of autumn foliage and winter snow. This guide covers everything from the mineral composition of the waters to practical booking advice for first-time visitors.",
-      "link": "/onsen/jozankei_onsen_koyotei_en",
-      "body_chars": 9138,
-      "body_hash": "decae01e43f3cabd1843123a01a20b06025dbe1c"
-    },
-    {
-      "id": "jozankei_onsen_kasho_gyoen_ko",
-      "lang": "ko",
-      "title": "삿포로 조잔케이 온천 카쇼교엔: 숲속에 숨은 미네랄 온천의 정수",
-      "lat": 42.8397,
-      "lng": 141.1136,
-      "categories": [
-        "홋카이도 온천",
-        "삿포로 근교 여행",
-        "노천탕 료칸"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg",
-      "address": "Sapporo, Hokkaido",
-      "published": "2026-10-27",
-      "summary": "삿포로 시내에서 차로 한 시간 거리, 시코츠토야 국립공원 자락에 자리한 조잔케이 온천 카쇼교엔은 도요히라강의 협곡 소리를 배경으로 미네랄이 풍부한 온천수를 즐길 수 있는 숨은 명소입니다. 개척 시대의 역사를 간직한 온천 마을 특유의 정취와 홋카이도 대지의 식재료를 살린 가이세키 요리가 어우러져 사계절 내내 색다른 감동을 선사합니다. 단풍과 설경이 특히 아름다운 이곳은 도심 근교 여행이면서도 깊은 산중 휴양지의 고요함을 동시에 누릴 수 있는 특별한 장소입니다.",
-      "link": "/onsen/jozankei_onsen_kasho_gyoen_ko",
-      "body_chars": 5154,
-      "body_hash": "c55fa321b0296ba598c8e99e74de3b7cfcca2ee5"
-    },
-    {
-      "id": "jozankei_onsen_kasho_gyoen_en",
-      "lang": "en",
-      "title": "Jozankei Onsen Kasho Gyoen: Riverside Ryokan Near Sapporo - OKOnsen",
-      "lat": 42.9856,
-      "lng": 141.1136,
-      "categories": [
-        "Onsen Ryokan",
-        "Hokkaido Hot Springs"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg",
-      "address": "Jozankei, Minami-ku, Sapporo, Hokkaido",
-      "published": "2026-10-27",
-      "summary": "Kasho Gyoen is a secluded riverside ryokan in Jozankei Onsen, about an hour from Sapporo, where mineral-rich hot springs meet the Toyohira River gorge and refined Hokkaido cuisine.",
-      "link": "/onsen/jozankei_onsen_kasho_gyoen_en",
-      "body_chars": 9893,
-      "body_hash": "576fe512dc38b81823b6a7cde2dc8e2b2d9f66aa"
+      "published": "2026-09-26",
+      "summary": "Tucked into the forested gorge of Jozankei just an hour from Sapporo, Shogetsu Grand Hotel pairs mineral-rich, milky-white sulfate waters with sweeping views of the Toyohira River. Its blend of classic hospitality and modern comfort makes it a favorite four-season escape for travelers seeking both wilderness and refinement. This guide covers everything from its bathing culture to the exact train and bus routes to get there.",
+      "link": "/onsen/jozankei_onsen_shogetsu_grand_hotel_en",
+      "body_chars": 9078,
+      "body_hash": "71ce8482a3d0584f57c352d3658b1c4d90f8abac"
     },
     {
       "id": "jozankei_onsen_jozankei_hotel_en",
@@ -642,602 +123,11 @@
       ],
       "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_jozankei_hotel.jpg",
       "address": "Sapporo, Hokkaido",
-      "published": "2026-10-27",
+      "published": "2026-09-26",
       "summary": "Jozankei Hotel sits along the emerald curves of the Toyohira River, just forty minutes from downtown Sapporo, offering mineral-rich alkaline waters framed by Hokkaido's dense cedar forest. This guide explores its onsen chemistry, kaiseki cuisine built on Hokkaido's seasonal bounty, and the practical details needed to plan a stay in every season, from spring melt to deep winter snow.",
       "link": "/onsen/jozankei_onsen_jozankei_hotel_en",
       "body_chars": 9361,
       "body_hash": "6ebce5967c78c720089ffe122950f2456d360d31"
-    },
-    {
-      "id": "jozankei_onsen_grand_blissen_hotel_ko",
-      "lang": "ko",
-      "title": "삿포로의 비밀 정원, 조잔케이 온천 그랜드 블리센 호텔 완벽 가이드",
-      "lat": 42.9622,
-      "lng": 141.1622,
-      "categories": [
-        "홋카이도 온천",
-        "삿포로 근교 여행"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg",
-      "address": "Sapporo, Hokkaido",
-      "published": "2026-10-27",
-      "summary": "삿포로 도심에서 불과 한 시간 거리에 자리한 조잔케이 온천 그랜드 블리센 호텔은 도요히라가와 협곡의 절경과 사철천의 부드러운 온천수가 어우러진 홋카이도 대표 온천 리조트다. 사계절 내내 색을 바꾸는 계곡 풍경을 바라보며 즐기는 노천탕과 홋카이도산 식재료로 완성한 가이세키 요리가 여행의 완성도를 높인다. 삿포로 시내 관광과 자연 속 온천 휴양을 동시에 누리고 싶은 여행자에게 이보다 완벽한 선택지는 드물다.",
-      "link": "/onsen/jozankei_onsen_grand_blissen_hotel_ko",
-      "body_chars": 6094,
-      "body_hash": "839d34eea07030200c046a631b6fe9c6351c5305"
-    },
-    {
-      "id": "jozankei_onsen_grand_blissen_hotel_en",
-      "lang": "en",
-      "title": "Jozankei Onsen Grand Blissen Hotel: Sapporo's Riverside Sanctuary of Steam and Forest",
-      "lat": 42.9622,
-      "lng": 141.1622,
-      "categories": [
-        "Hokkaido Onsen",
-        "Sapporo Hot Springs",
-        "Luxury Ryokan"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg",
-      "address": "Sapporo, Hokkaido",
-      "published": "2026-10-27",
-      "summary": "Tucked into the emerald gorge just an hour from downtown Sapporo, Jozankei Onsen Grand Blissen Hotel pairs mineral-rich alkaline waters with panoramic canyon views and refined Hokkaido kaiseki cuisine. It's a rare hybrid: the convenience of a city-adjacent retreat with the immersive wilderness feel of a deep mountain onsen. This guide covers everything from bath chemistry to the best train connections for planning your stay.",
-      "link": "/onsen/jozankei_onsen_grand_blissen_hotel_en",
-      "body_chars": 9572,
-      "body_hash": "148eb06ac76e5e92fab4c300ca1487d64e564b8c"
-    },
-    {
-      "id": "jozankei_onsen_chalet_ivy_jozankei_ko",
-      "lang": "ko",
-      "title": "삿포로 근교 숲속 비밀정원, 조잔케이 온천 샬레 아이비 조잔케이 완벽 가이드",
-      "lat": 42.9681,
-      "lng": 141.1681,
-      "categories": [
-        "온천 료칸",
-        "홋카이도 여행",
-        "삿포로 근교"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg",
-      "address": "Sapporo, Hokkaido",
-      "published": "2026-10-27",
-      "summary": "삿포로 시내에서 차로 한 시간 거리, 도요히라강 협곡 속에 자리한 조잔케이 온천 샬레 아이비 조잔케이는 유럽풍 산장의 정취와 홋카이도 특유의 대자연이 만나는 독특한 숙소입니다. 사계절 색을 달리하는 협곡 뷰 노천탕과 현지 식재료를 살린 프렌치 스타일 가이세키가 어우러져, 도심 근교 온천 료칸 중에서도 유독 이국적인 감성을 자아냅니다. 스키 시즌부터 단풍철까지, 홋카이도 여행의 베이스캠프로 삼기에 더없이 좋은 선택지입니다.",
-      "link": "/onsen/jozankei_onsen_chalet_ivy_jozankei_ko",
-      "body_chars": 5732,
-      "body_hash": "d83a329f7b5a8e0b6d70b78281f544abef23e97b"
-    },
-    {
-      "id": "jozankei_onsen_chalet_ivy_jozankei_en",
-      "lang": "en",
-      "title": "Chalet Ivy Jozankei: A Nordic-Inspired Onsen Retreat in the Sapporo Highlands",
-      "lat": 42.9681,
-      "lng": 141.1681,
-      "categories": [
-        "Hokkaido Onsen",
-        "Family Ryokan",
-        "Hot Spring Resort"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg",
-      "address": "Sapporo, Hokkaido",
-      "published": "2026-10-27",
-      "summary": "Chalet Ivy Jozankei blends Scandinavian-style architecture with the mineral-rich waters of Sapporo's forested onsen town, creating a hybrid retreat unlike any traditional ryokan. Guests soak in riverside baths framed by birch and maple, then retreat to warm, timber-lined rooms designed for genuine relaxation. Just an hour from Sapporo's urban core, it offers an accessible yet deeply restorative escape into Hokkaido's mountain wilderness.",
-      "link": "/onsen/jozankei_onsen_chalet_ivy_jozankei_en",
-      "body_chars": 9436,
-      "body_hash": "fa5562a889e6073f052246d1a069fc04994f88dc"
-    },
-    {
-      "id": "hakone_gora_kadan_ko",
-      "lang": "ko",
-      "title": "하코네 고라 가단: 황실 정원 위의 일본 최고 럭셔리 료칸 완벽 가이드",
-      "lat": 35.2492,
-      "lng": 139.0465,
-      "categories": [
-        "고급 료칸",
-        "가족탕",
-        "절경",
-        "릴레&샤토",
-        "하코네"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_gora_kadan.jpg",
-      "address": "Hakone, Kanagawa",
-      "published": "2026-10-27",
-      "summary": "하코네 고라 가단은 쇼와 황족의 여름 별장 터에 조성된 릴레&샤토 회원 료칸으로, 전객실 전용 노천탕과 세계적으로 인정받은 가이세키 요리, 4계절 아름다운 다단식 정원이 일본 최고의 럭셔리 료칸 경험을 완성합니다.",
-      "link": "/onsen/hakone_gora_kadan_ko",
-      "body_chars": 5276,
-      "body_hash": "3c4e2d9043433b899c5b3a933d6655073511e6c3"
-    },
-    {
-      "id": "hakone_gora_kadan_en",
-      "lang": "en",
-      "title": "Hakone Gora Kadan: A Complete Review of Japan's Imperial Ryokan",
-      "lat": 35.2492,
-      "lng": 139.0465,
-      "categories": [
-        "Luxury Ryokan",
-        "Private Bath",
-        "Great View",
-        "Relais & Chateaux",
-        "Hakone"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_gora_kadan.jpg",
-      "address": "Hakone, Kanagawa",
-      "published": "2026-10-27",
-      "summary": "Hakone Gora Kadan is a Relais & Châteaux member ryokan built on the terraced gardens of a former Imperial summer villa in Gora, Hakone. This guide covers its private outdoor baths, celebrated kaiseki cuisine, elegant garden setting, and what makes it one of Japan's finest luxury ryokan experiences.",
-      "link": "/onsen/hakone_gora_kadan_en",
-      "body_chars": 13378,
-      "body_hash": "db10a7865635fb76d9c82c8a7c60fc1b1b55e956"
-    },
-    {
-      "id": "ginzan_onsen_yanadaya_ko",
-      "lang": "ko",
-      "title": "긴잔온천 야나다야, 다이쇼 로망이 흐르는 강변의 온천 여관",
-      "lat": 38.5718,
-      "lng": 140.5318,
-      "categories": [
-        "온천 료칸",
-        "야마가타 여행",
-        "가이세키 요리"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_yanadaya.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "야마가타현 오바나자와시 긴잔온천의 협곡 한가운데 자리한 야나다야는 다이쇼 시대의 목조 건축과 가스등 불빛이 만들어내는 시간 여행 같은 풍경을 간직한 온천 여관이다. 은은한 유황 향과 부드러운 나트륨 온천수, 협곡의 사계절을 담은 가이세키 요리가 어우러져 오감을 만족시킨다. 눈 내리는 겨울밤 가스등이 켜지는 순간부터, 신록의 여름 계곡 물소리까지 야나다야는 계절마다 전혀 다른 얼굴을 보여주는 곳이다.",
-      "link": "/onsen/ginzan_onsen_yanadaya_ko",
-      "body_chars": 5535,
-      "body_hash": "59d48cf41ea35b7ecc5e91063fc6093b78a54214"
-    },
-    {
-      "id": "ginzan_onsen_yanadaya_en",
-      "lang": "en",
-      "title": "Ginzan Onsen Yanadaya: A Timeless Taisho-Era Retreat in Snow Country",
-      "lat": 38.5718,
-      "lng": 140.5318,
-      "categories": [
-        "Onsen Ryokan",
-        "Yamagata Travel"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_yanadaya.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "Ginzan Onsen Yanadaya is a storied wooden ryokan perched along the gaslit river of Ginzan Onsen, where hot spring bathing, Taisho-era architecture, and refined Yamagata kaiseki cuisine converge. Guests soak in mineral-rich waters framed by the sound of the Ginzan River before retreating to tatami rooms steeped in nostalgic charm. It is a destination best experienced in the hush of falling snow, when the entire village glows like a scene from another century.",
-      "link": "/onsen/ginzan_onsen_yanadaya_en",
-      "body_chars": 9274,
-      "body_hash": "d2eb84ab9683d1bc0c18dc512702da1654f57c5b"
-    },
-    {
-      "id": "ginzan_onsen_takimikan_ko",
-      "lang": "ko",
-      "title": "긴잔 온천 타키미칸: 야마가타 설경 속 시간여행, 미식과 온천의 정수",
-      "lat": 38.5744,
-      "lng": 140.5344,
-      "categories": [
-        "일본 온천",
-        "야마가타 료칸",
-        "긴잔 온천",
-        "전통 료칸",
-        "가이세키"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_takimikan.jpg",
-      "address": "야마가타현 오바나자와시 긴잔 온천 522",
-      "published": "2026-10-27",
-      "summary": "야마가타현 오바나자와의 깊은 산 속에 자리한 긴잔 온천 타키미칸은 다이쇼 시대의 낭만이 살아 숨 쉬는, 마치 시간 여행을 떠난 듯한 특별한 경험을 선사합니다. 은은한 가스등 아래 고즈넉한 온천 마을의 정취를 만끽하며, 천연 온천수와 야마가타 현지 식재료로 빚어낸 호화로운 가이세키 요리는 잊을 수 없는 추억을 선사할 것입니다. 전통의 아름다움과 최상의 휴식을 동시에 선사하는 타키미칸은 진정한 일본 료칸의 매력을 경험하고 싶은 이들에게 완벽한 선택입니다.",
-      "link": "/onsen/ginzan_onsen_takimikan_ko",
-      "body_chars": 9770,
-      "body_hash": "aa5778a5822c84b1e70e114c1fc02ae6eea85b83"
-    },
-    {
-      "id": "ginzan_onsen_takimikan_en",
-      "lang": "en",
-      "title": "Ginzan Onsen Takimikan Guide: Ryokan by Shirogane Waterfall in Yamagata - OKOnsen",
-      "lat": 38.5744,
-      "lng": 140.5344,
-      "categories": [
-        "Onsen Ryokan",
-        "Traditional Japanese Inn",
-        "Winter Destination",
-        "Yamagata",
-        "Historic Onsen"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_takimikan.jpg",
-      "address": "427 Ginzanshinhata, Obanazawa, Yamagata 999-4333, Japan",
-      "published": "2026-10-27",
-      "summary": "Nestled in the heart of the famously picturesque Ginzan Onsen, Takimikan offers an authentic escape to a bygone era, overlooking the iconic Shirogane Waterfall. This guide covers what makes the ryokan distinct and how to plan a visit, especially in winter snow.",
-      "link": "/onsen/ginzan_onsen_takimikan_en",
-      "body_chars": 21091,
-      "body_hash": "e84b51fd5f15ea1b7c3f82c9f24daae6e4ff2f66"
-    },
-    {
-      "id": "ginzan_onsen_showakan_ko",
-      "lang": "ko",
-      "title": "긴잔온센 쇼와칸, 다이쇼 로망이 흐르는 협곡의 온천 여관 완벽 가이드",
-      "lat": 38.5712,
-      "lng": 140.5312,
-      "categories": [
-        "온천 여관",
-        "야마가타 온천"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_showakan.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "긴잔온센 쇼와칸은 다이쇼 시대의 정취가 살아 숨 쉬는 협곡 마을 한복판에서 가스등 불빛과 온천수 흐르는 소리에 둘러싸여 하룻밤을 보낼 수 있는 목조 여관이다. 은빛 광맥의 역사를 간직한 마을의 정취와 야마가타의 산해진미가 어우러진 가이세키 요리, 그리고 계절마다 다른 얼굴을 보여주는 노천탕이 여행자를 기다린다. 눈 내리는 겨울밤의 가스등 풍경만으로도 다시 찾아올 이유가 충분한 곳이다.",
-      "link": "/onsen/ginzan_onsen_showakan_ko",
-      "body_chars": 6065,
-      "body_hash": "b39b6054a0ff08c9c61b2f205b0229f30fc0a947"
-    },
-    {
-      "id": "ginzan_onsen_showakan_en",
-      "lang": "en",
-      "title": "Ginzan Onsen Showakan: A Lantern-Lit Retreat into Yamagata's Taisho-Era Hot Spring Valley",
-      "lat": 38.5712,
-      "lng": 140.5312,
-      "categories": [
-        "Onsen Ryokan",
-        "Yamagata Hot Springs"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_showakan.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "Ginzan Onsen Showakan sits at the heart of a snowbound, gaslit ravine in Obanazawa, where wooden ryokan rise three and four stories above a narrow river gorge. This storied inn blends mineral-rich alkaline waters, Taisho-romantic architecture, and a kaiseki table built on Yamagata's mountain and river bounty. It remains one of the most photogenic and atmospheric onsen towns in Japan, especially when snow falls and the gas lamps flicker on at dusk.",
-      "link": "/onsen/ginzan_onsen_showakan_en",
-      "body_chars": 8167,
-      "body_hash": "14fc742fb90c3a1a13d14b5f77f9767799864f99"
-    },
-    {
-      "id": "ginzan_onsen_senninkan_ko",
-      "lang": "ko",
-      "title": "긴잔온센 센닌칸: 다이쇼 로망 골목 끝, 바위굴 노천탕이 있는 비경의 숙소",
-      "lat": 38.5733,
-      "lng": 140.5333,
-      "categories": [
-        "온천 료칸",
-        "가이세키 요리",
-        "동북 지방 명소"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "야마가타현 오바나자와의 긴잔온센 골목 가장 안쪽, 폭포와 맞닿은 자리에 선 센닌칸은 다이쇼 시대의 목조 건축과 바위를 깎아 만든 동굴 노천탕이 공존하는 료칸이다. 가스등이 켜지는 저녁이면 온천 거리 전체가 옛 영화 속 풍경처럼 물들고, 센닌칸의 객실 창문마다 그 불빛이 스며든다. 온천의 온기와 쇼나이 평야의 식재료가 어우러진 가이세키, 그리고 사계절 다른 표정을 짓는 계곡의 풍경이 이 료칸을 특별하게 만든다.",
-      "link": "/onsen/ginzan_onsen_senninkan_ko",
-      "body_chars": 4569,
-      "body_hash": "f297da7055107cb22f9665f01e4f4e6af632f376"
-    },
-    {
-      "id": "ginzan_onsen_senninkan_en",
-      "lang": "en",
-      "title": "Ginzan Onsen Senninkan: A Timeless Taisho-Era Retreat in Yamagata's Silver Valley",
-      "lat": 38.5733,
-      "lng": 140.5333,
-      "categories": [
-        "Onsen Ryokan",
-        "Yamagata Hot Springs"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "Senninkan is one of the oldest ryokan in Ginzan Onsen, a wooden inn perched beside a waterfall where gaslamps and geothermal steam recreate the mood of early 20th-century Japan. This guide explores its mineral-rich waters, Taisho-era architecture, and refined kaiseki cuisine rooted in Yamagata's mountain harvest. Whether you visit under summer greenery or winter snowlight, Senninkan offers an immersive step back into old Japan.",
-      "link": "/onsen/ginzan_onsen_senninkan_en",
-      "body_chars": 9057,
-      "body_hash": "3641d052421185ed5392ab8977346f9633414a98"
-    },
-    {
-      "id": "ginzan_onsen_notoya_ryokan_ko",
-      "lang": "ko",
-      "title": "시간이 멈춘 그림, 긴잔 온천 노토야 료칸: 시대를 초월한 휴식 가이드",
-      "lat": 38.5711,
-      "lng": 140.5311,
-      "categories": [
-        "럭셔리 료칸",
-        "온천 여행",
-        "일본 전통",
-        "미식 여행",
-        "역사적 건축물"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_notoya_ryokan.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "야마가타현 깊은 산골에 자리한 긴잔 온천은 다이쇼 시대의 낭만이 고스란히 살아 숨 쉬는, 마치 시간 여행을 온 듯한 신비로운 마을입니다. 그 중심에 우뚝 선 노토야 료칸은 이 마을의 상징이자, 수 세기에 걸쳐 손님들을 따뜻하게 맞아온 역사 깊은 숙소입니다. 이곳은 단순한 료칸을 넘어, 일본 전통 건축의 아름다움과 최상급 온천수, 그리고 야마가타의 풍미를 담은 가이세키 요리를 통해 오감을 만족시키는 특별한 경험을 선사합니다.",
-      "link": "/onsen/ginzan_onsen_notoya_ryokan_ko",
-      "body_chars": 11721,
-      "body_hash": "836bd1d46608a360c23628d1ab4823a46d7af994"
-    },
-    {
-      "id": "ginzan_onsen_notoya_ryokan_en",
-      "lang": "en",
-      "title": "Ginzan Onsen Notoya Ryokan: A Timeless Winter Dream in Yamagata's Taisho Romance",
-      "lat": 38.5711,
-      "lng": 140.5311,
-      "categories": [
-        "Luxury Ryokan",
-        "Onsen",
-        "Historic Hotel",
-        "Traditional Japanese Inn",
-        "Winter Wonderland",
-        "Cultural Immersion"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_notoya_ryokan.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "Nestled within the gas-lit fairytale of Ginzan Onsen, Notoya Ryokan offers an unparalleled journey back to the romantic Taisho era. Its exquisite architecture, deeply restorative onsen waters, and refined seasonal kaiseki cuisine create an unforgettable escape. Experience Yamagata's serene beauty and rich traditions wrapped in the comforting embrace of historic luxury, especially enchanting under a blanket of snow.",
-      "link": "/onsen/ginzan_onsen_notoya_ryokan_en",
-      "body_chars": 23542,
-      "body_hash": "e2431fd62493ceb6b94098f8d821483c4089b4d5"
-    },
-    {
-      "id": "ginzan_onsen_kozankaku_ko",
-      "lang": "ko",
-      "title": "긴잔온센 코잔카쿠, 다이쇼 시대로 떠나는 은빛 여행",
-      "lat": 38.5725,
-      "lng": 140.5325,
-      "categories": [
-        "일본 온천",
-        "야마가타 여행",
-        "료칸 가이드"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kozankaku.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "야마가타 오바나자와의 산골 마을 긴잔온센에 자리한 코잔카쿠는 다이쇼 시대의 낭만과 서양 골동품이 공존하는 독특한 료칸이다. 은빛 계곡물이 흐르는 옛 거리 한복판에서 가스등 불빛과 함께 즐기는 온천욕은 시간을 거슬러 오른 듯한 감동을 선사한다. 이 글에서는 코잔카쿠의 역사, 온천의 성분과 전망, 객실의 미학, 가이세키 요리, 그리고 주변 여행지까지 방문에 필요한 모든 정보를 담았다.",
-      "link": "/onsen/ginzan_onsen_kozankaku_ko",
-      "body_chars": 6133,
-      "body_hash": "7ba68cdd859c4cfffb126dc8fd975cfe16c37776"
-    },
-    {
-      "id": "ginzan_onsen_kozankaku_en",
-      "lang": "en",
-      "title": "Ginzan Onsen Kozankaku: A Taisho-Era Dream Beside the Ginzan River",
-      "lat": 38.5725,
-      "lng": 140.5325,
-      "categories": [
-        "Onsen Ryokan",
-        "Yamagata Travel"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kozankaku.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "Kozankaku is a storied wooden ryokan perched along the gaslit Ginzan River, blending Taisho-era romance with warm mineral-rich baths. Guests fall asleep to the sound of rushing water and wake to breakfast trays laden with Yamagata's mountain harvest. It remains one of the most photogenic and atmospheric stays in the whole of Tohoku.",
-      "link": "/onsen/ginzan_onsen_kozankaku_en",
-      "body_chars": 8676,
-      "body_hash": "cfd5d4d99c21ac6c2b97b3b55c6aae30b3fea75f"
-    },
-    {
-      "id": "ginzan_onsen_kosekiya_bekkan_ko",
-      "lang": "ko",
-      "title": "긴잔 온천 코세키야 벳칸: 다이쇼 로망 속 고요한 치유의 여정 | 야마가타 료칸 가이드",
-      "lat": 38.5715,
-      "lng": 140.5315,
-      "categories": [
-        "온천 료칸",
-        "야마가타",
-        "긴잔 온천",
-        "전통 숙박",
-        "가이세키"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kosekiya_bekkan.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "긴잔 온천의 몽환적인 다이쇼 로망 거리에 자리한 코세키야 벳칸은 시간을 초월한 아름다움과 전통의 정수를 선사합니다. 강물 소리, 가스등 불빛, 그리고 눈 덮인 풍경이 어우러진 이곳은 몸과 마음의 깊은 치유를 약속하는 특별한 공간입니다. 야마가타의 신선한 제철 식재료로 빚어낸 가이세키 요리는 오감을 만족시키며, 와비사비 미학이 깃든 객실은 고요한 휴식을 선사합니다.",
-      "link": "/onsen/ginzan_onsen_kosekiya_bekkan_ko",
-      "body_chars": 11833,
-      "body_hash": "01d140de1acdd4464095d8a07ee41873e9d2ca63"
-    },
-    {
-      "id": "ginzan_onsen_kosekiya_bekkan_en",
-      "lang": "en",
-      "title": "Ginzan Onsen Kosekiya Bekkan: A Timeless Winter Dream in Yamagata's Taisho Romance",
-      "lat": 38.5715,
-      "lng": 140.5315,
-      "categories": [
-        "Onsen Ryokan",
-        "Historic",
-        "Winter Wonderland",
-        "Kaiseki",
-        "Yamagata",
-        "Traditional Japanese Inn"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kosekiya_bekkan.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "Nestled within the enchanting, gaslight-lit streets of Ginzan Onsen, Kosekiya Bekkan offers a profound immersion into a bygone era of Japanese hospitality. This guide explores its meticulously preserved traditions, the restorative power of its thermal waters, and the exquisite regional cuisine that defines a stay in this iconic Yamagata retreat, especially magical under a blanket of snow. Experience the serene beauty of a historical onsen town, where every detail evokes the romance of the Taisho period.",
-      "link": "/onsen/ginzan_onsen_kosekiya_bekkan_en",
-      "body_chars": 20572,
-      "body_hash": "727c096a06d1630a722aaa4d846b3d596f0b36c5"
-    },
-    {
-      "id": "ginzan_onsen_izu_no_hana_ko",
-      "lang": "ko",
-      "title": "긴잔온센 이즈노하나: 다이쇼 로망과 온천이 흐르는 협곡의 숙소",
-      "lat": 38.5719,
-      "lng": 140.5319,
-      "categories": [
-        "일본 온천료칸",
-        "야마가타 여행"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "야마가타현 오바나자와, 눈 덮인 협곡 사이로 가스등이 켜지는 긴잔온센 골목 안쪽에 자리한 이즈노하나는 다이쇼 시대의 정취와 현대적 편안함을 동시에 품은 온천료칸이다. 긴잔강의 물소리를 배경으로 삼는 노천탕과 쇼나이·야마가타 산지의 식재료로 차려내는 가이세키 요리가 이 숙소의 진짜 매력이다. 자동차 진입이 통제된 마을 특유의 고요함 속에서 하룻밤을 보내면, 왜 이곳이 '치히로의 행방불명'의 모티브로 불리는지 자연스레 이해하게 된다.",
-      "link": "/onsen/ginzan_onsen_izu_no_hana_ko",
-      "body_chars": 5745,
-      "body_hash": "a374484f8ed6e08b3ac83e34cbab4bc82429af35"
-    },
-    {
-      "id": "ginzan_onsen_izu_no_hana_en",
-      "lang": "en",
-      "title": "Ginzan Onsen Izu no Hana: A Gaslit Dream in Obanazawa, Yamagata",
-      "lat": 38.5719,
-      "lng": 140.5319,
-      "categories": [
-        "Onsen Ryokan",
-        "Yamagata Travel",
-        "Hot Spring Guide"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "Izu no Hana is a storied wooden ryokan on the banks of the Ginzan River, where gaslamps, mineral-rich waters, and Yamagata kaiseki cuisine combine into one of Japan's most cinematic onsen experiences. This guide explores its Taisho-era architecture, the chemistry of its baths, and everything you need to plan a flawless stay in Obanazawa.",
-      "link": "/onsen/ginzan_onsen_izu_no_hana_en",
-      "body_chars": 9244,
-      "body_hash": "7838f1b528f409b689e3bfe7dc5b5517cff66acd"
-    },
-    {
-      "id": "ginzan_onsen_ginzanso_ko",
-      "lang": "ko",
-      "title": "대정 로망의 숨결, 긴잔 온천 긴잔소: 완벽한 숙박 가이드",
-      "lat": 38.5688,
-      "lng": 140.5288,
-      "categories": [
-        "일본 온천",
-        "야마가타",
-        "긴잔 온천",
-        "고급 료칸",
-        "전통 숙박"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_ginzanso.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "시간이 멈춘 듯한 대정 로망의 거리, 긴잔 온천의 중심에 자리한 긴잔소는 단순한 숙박을 넘어선 깊은 경험을 선사합니다. 눈 덮인 풍경과 가스등 불빛 아래 더욱 빛나는 이곳은 야마가타의 풍부한 미식과 치유의 온천수가 어우러진 진정한 휴식처입니다. 전통의 미학이 깃든 객실, 오감을 만족시키는 가이세키 요리, 그리고 자연 속에서 펼쳐지는 온천의 향연은 잊지 못할 추억을 선사할 것입니다.",
-      "link": "/onsen/ginzan_onsen_ginzanso_ko",
-      "body_chars": 12342,
-      "body_hash": "f1accba3e9ad551845f1c1f97f3da67917e128f9"
-    },
-    {
-      "id": "ginzan_onsen_ginzanso_en",
-      "lang": "en",
-      "title": "Ginzan Onsen Ginzanso: A Timeless Winter Dream in Yamagata's Taisho Romance",
-      "lat": 38.5688,
-      "lng": 140.5288,
-      "categories": [
-        "Luxury Ryokan",
-        "Onsen Retreat",
-        "Historic Japan",
-        "Winter Wonderland",
-        "Yamagata Prefecture"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_ginzanso.jpg",
-      "address": "427 Ginzanshinhata, Obanazawa, Yamagata 999-4333, Japan",
-      "published": "2026-10-27",
-      "summary": "Nestled in the heart of the enchanting Ginzan Onsen, Ginzanso offers an unparalleled escape into a snow-laden, gaslit wonderland reminiscent of a bygone Taisho era. This exquisite ryokan masterfully blends traditional Japanese hospitality with luxurious comfort, providing a sanctuary where time seems to slow. Experience sublime onsen baths, exceptional seasonal kaiseki cuisine, and unparalleled views of the iconic silver mountain valley.",
-      "link": "/onsen/ginzan_onsen_ginzanso_en",
-      "body_chars": 21423,
-      "body_hash": "565d5fb09b24c91c2a46d023667243875187a00a"
-    },
-    {
-      "id": "ginzan_onsen_fujiya_ko",
-      "lang": "ko",
-      "title": "시간이 멈춘 듯한 긴잔 온천 후지야: 켄고 쿠마 건축의 미학 속으로",
-      "lat": 38.5722,
-      "lng": 140.5322,
-      "categories": [
-        "일본 온천",
-        "야마가타",
-        "긴잔 온천",
-        "료칸",
-        "럭셔리 숙소",
-        "켄고 쿠마 건축"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_fujiya.jpg",
-      "address": "일본 야마가타현 오바나자와시 긴잔 온천 443 (山形県尾花沢市銀山新畑443)",
-      "published": "2026-10-27",
-      "summary": "야마가타의 깊은 산골, 가스등 불빛 아래 시간이 멈춘 듯한 긴잔 온천 마을에 자리한 후지야 료칸은 건축가 켄고 쿠마의 손길로 재탄생한 현대적 미학과 전통의 조화를 보여줍니다. 고즈넉한 온천 마을의 정취를 만끽하며, 섬세하게 디자인된 객실과 전세탕에서 진정한 휴식과 사색의 시간을 경험할 수 있습니다. 이곳은 단순한 숙박을 넘어, 일본의 아름다움과 장인정신을 오감으로 느낄 수 있는 특별한 문화 체험을 선사합니다.",
-      "link": "/onsen/ginzan_onsen_fujiya_ko",
-      "body_chars": 12340,
-      "body_hash": "d642b6d64251fbe2b428e43531220356ff4fd863"
-    },
-    {
-      "id": "ginzan_onsen_fujiya_en",
-      "lang": "en",
-      "title": "Ginzan Onsen Fujiya: Kengo Kuma&#39;s Timeless Ryokan in Yamagata&#39;s Iconic Valley - OKOnsen",
-      "lat": 38.5722,
-      "lng": 140.5322,
-      "categories": [
-        "Luxury Ryokan",
-        "Onsen",
-        "Yamagata",
-        "Historic Village",
-        "Architectural Gem",
-        "Kengo Kuma Design"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_fujiya.jpg",
-      "address": "Obanazawa, Yamagata",
-      "published": "2026-10-27",
-      "summary": "A guide to Ginzan Onsen Fujiya, Kengo Kuma&#39;s minimalist ryokan blending traditional Japanese design with modern luxury and private onsen baths.",
-      "link": "/onsen/ginzan_onsen_fujiya_en",
-      "body_chars": 24834,
-      "body_hash": "eaf7e8250672374a5ee4b75bb9a2cd75d750c60f"
-    },
-    {
-      "id": "arima_onsen_tosen_goshobo_ko",
-      "lang": "ko",
-      "title": "아리마 온천 도센 고쇼보 완벽 가이드: 800년 전통 금천 료칸 후기 - OKOnsen",
-      "lat": 34.7966,
-      "lng": 135.2477,
-      "categories": [
-        "온천 료칸",
-        "아리마 온천"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg",
-      "address": "고베, 효고현",
-      "published": "2026-10-27",
-      "summary": "아리마 온천의 명품 료칸 도센 고쇼보를 800년 역사, 금천·은천, 가이세키 요리, 방문 팁 중심으로 정리한 가이드입니다.",
-      "link": "/onsen/arima_onsen_tosen_goshobo_ko",
-      "body_chars": 10735,
-      "body_hash": "bf723327b20a5477087e742508d7a7067703070f"
-    },
-    {
-      "id": "arima_onsen_tosen_goshobo_en",
-      "lang": "en",
-      "title": "Arima Onsen Tosen Goshobo: Kobe's Oldest Luxury Ryokan (800+ Years, Kinsen Mineral Baths)",
-      "lat": 34.7966,
-      "lng": 135.2477,
-      "categories": [
-        "Onsen Ryokan",
-        "Luxury Travel",
-        "Cultural Immersion"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg",
-      "address": "Kobe, Hyogo",
-      "published": "2026-10-27",
-      "summary": "Immerse yourself in centuries of tradition and unparalleled luxury at Arima Onsen Tosen Goshobo, Kobe's oldest continuously-operating luxury ryokan with historic Kinsen baths and exquisite kaiseki dining.",
-      "link": "/onsen/arima_onsen_tosen_goshobo_en",
-      "body_chars": 19479,
-      "body_hash": "2e80fbf2bff807a3343d39be0e40dd05e2a5c0a7"
-    },
-    {
-      "id": "arima_onsen_arima_grand_hotel_ko",
-      "lang": "ko",
-      "title": "아리마 그랜드 호텔 온천 료칸 | 금천·은천 2가지 온천 | OKOnsen",
-      "lat": 34.7955,
-      "lng": 135.2455,
-      "categories": [
-        "온천",
-        "료칸",
-        "고베",
-        "아리마 온천"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg",
-      "address": "고베, 효고현",
-      "published": "2026-10-27",
-      "summary": "아리마 온천의 중심에 자리 잡은 아리마 그랜드 호텔은 럭셔리함과 전통이 완벽하게 조화를 이루는 곳입니다. 금천과 은천, 두 가지 독특한 온천수를 경험하고, 최고급 가이세키 요리와 숨 막히는 산 전망을 만끽하세요. 고베 여행의 잊지 못할 추억을 선사할 최고의 온천 료칸입니다.",
-      "link": "/onsen/arima_onsen_arima_grand_hotel_ko",
-      "body_chars": 11818,
-      "body_hash": "3b8cc42596f371bfd00b26a22e7eed23f68e35f2"
-    },
-    {
-      "id": "arima_onsen_arima_grand_hotel_en",
-      "lang": "en",
-      "title": "Arima Grand Hotel Review: Kinsen Gold Water Onsen | OKOnsen",
-      "lat": 34.7955,
-      "lng": 135.2455,
-      "categories": [
-        "Onsen Ryokan",
-        "Luxury Travel",
-        "Hyogo Prefecture"
-      ],
-      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg",
-      "address": "Kobe, Hyogo",
-      "published": "2026-10-27",
-      "summary": "A closer look at whether Arima Grand Hotel's twin Kinsen and Ginsen springs, kaiseki dining, and hospitality earn its reputation among Arima Onsen ryokan.",
-      "link": "/onsen/arima_onsen_arima_grand_hotel_en",
-      "body_chars": 22452,
-      "body_hash": "a43c873f6dbf822b6ebb1f1fe4d26feee974f4a5"
     },
     {
       "id": "nyuto_onsen_magoroku_ko",
@@ -1259,6 +149,117 @@
       "body_hash": "12409d41cd7b6886b6e1345574ebc1daea6dc113"
     },
     {
+      "id": "nyuto_onsen_kuroyu_ko",
+      "lang": "ko",
+      "title": "뉴토 온천 쿠로유, 아키타 산속에 숨은 400년 유황 온천의 진짜 얼굴",
+      "lat": 39.8111,
+      "lng": 140.7911,
+      "categories": [
+        "아키타 온천",
+        "비경 온천",
+        "전통 료칸"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_kuroyu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-09-20",
+      "summary": "아키타현 센보쿠시 깊은 너도밤나무 숲 속, 뉴토 온천향의 원류라 불리는 쿠로유 온천은 초가지붕 본관과 우윳빛 유황탕이 400년 세월을 그대로 간직한 곳이다. 전기도 늦게 들어온 오지의 온천장답게 휴대전화 신호조차 닿지 않는 고립감이 오히려 최고의 사치로 다가온다. 이 글에서는 쿠로유의 역사, 탕질, 객실, 식사, 주변 명소, 실전 팁, 접근 방법까지 여행을 준비하는 데 필요한 모든 정보를 담았다.",
+      "link": "/onsen/nyuto_onsen_kuroyu_ko",
+      "body_chars": 5449,
+      "body_hash": "caa0e13a7e2a3a3f8abb1750117739b5e561859f"
+    },
+    {
+      "id": "nyuto_onsen_ganiba_ko",
+      "lang": "ko",
+      "title": "니뉴토 온천 카니바 완벽 가이드: 아키타 너도밤나무 숲 속 비경 노천탕",
+      "lat": 39.8155,
+      "lng": 140.7955,
+      "categories": [
+        "일본 온천",
+        "아키타 노천탕"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-09-20",
+      "summary": "아키타현 센보쿠시, 너도밤나무 숲 깊은 곳에 자리한 니뉴토 온천 카니바는 우윳빛 유백색 온천수와 통나무로 지은 고즈넉한 객실이 어우러진 비경의 온천 마을입니다. 출렁다리를 건너야 닿는 혼욕 노천탕과 사계절마다 옷을 갈아입는 숲의 풍경이 방문객을 압도합니다. 도쿄에서 신칸센과 버스를 갈아타야 도달할 수 있는 접근성 덕분에, 이곳은 여전히 일본인들이 가장 아끼는 '숨겨진 온천'으로 남아 있습니다.",
+      "link": "/onsen/nyuto_onsen_ganiba_ko",
+      "body_chars": 5775,
+      "body_hash": "e13596b0f5779beadadfe564c71e29cd3965f1a8"
+    },
+    {
+      "id": "jozankei_onsen_koyotei_ko",
+      "lang": "ko",
+      "title": "삿포로 근교의 비밀 정원, 죠잔케이 온천 코요테이 완벽 가이드",
+      "lat": 42.9989,
+      "lng": 141.1136,
+      "categories": [
+        "일본 온천",
+        "홋카이도 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-09-20",
+      "summary": "삿포로 시내에서 차로 한 시간 거리에 있는 죠잔케이 온천 코요테이는 도요히라가와 협곡을 품은 프라이빗 료칸으로, 사계절 내내 다른 얼굴을 보여주는 노천탕과 정갈한 가이세키 요리로 유명하다. 와비사비 미학이 살아있는 객실과 세심한 오모테나시가 어우러져 삿포로 여행의 마지막 하이라이트가 되어준다. 이 가이드에서는 역사, 온천수의 성분부터 예약 팁까지 코요테이를 제대로 즐기는 모든 방법을 담았다.",
+      "link": "/onsen/jozankei_onsen_koyotei_ko",
+      "body_chars": 6003,
+      "body_hash": "dec2dae94c1173efc51a1f1f61057011982ec58b"
+    },
+    {
+      "id": "jozankei_onsen_kasho_gyoen_ko",
+      "lang": "ko",
+      "title": "삿포로 조잔케이 온천 카쇼교엔: 숲속에 숨은 미네랄 온천의 정수",
+      "lat": 42.8397,
+      "lng": 141.1136,
+      "categories": [
+        "홋카이도 온천",
+        "삿포로 근교 여행",
+        "노천탕 료칸"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-09-20",
+      "summary": "삿포로 시내에서 차로 한 시간 거리, 시코츠토야 국립공원 자락에 자리한 조잔케이 온천 카쇼교엔은 도요히라강의 협곡 소리를 배경으로 미네랄이 풍부한 온천수를 즐길 수 있는 숨은 명소입니다. 개척 시대의 역사를 간직한 온천 마을 특유의 정취와 홋카이도 대지의 식재료를 살린 가이세키 요리가 어우러져 사계절 내내 색다른 감동을 선사합니다. 단풍과 설경이 특히 아름다운 이곳은 도심 근교 여행이면서도 깊은 산중 휴양지의 고요함을 동시에 누릴 수 있는 특별한 장소입니다.",
+      "link": "/onsen/jozankei_onsen_kasho_gyoen_ko",
+      "body_chars": 5154,
+      "body_hash": "c55fa321b0296ba598c8e99e74de3b7cfcca2ee5"
+    },
+    {
+      "id": "jozankei_onsen_grand_blissen_hotel_ko",
+      "lang": "ko",
+      "title": "삿포로의 비밀 정원, 조잔케이 온천 그랜드 블리센 호텔 완벽 가이드",
+      "lat": 42.9622,
+      "lng": 141.1622,
+      "categories": [
+        "홋카이도 온천",
+        "삿포로 근교 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-09-20",
+      "summary": "삿포로 도심에서 불과 한 시간 거리에 자리한 조잔케이 온천 그랜드 블리센 호텔은 도요히라가와 협곡의 절경과 사철천의 부드러운 온천수가 어우러진 홋카이도 대표 온천 리조트다. 사계절 내내 색을 바꾸는 계곡 풍경을 바라보며 즐기는 노천탕과 홋카이도산 식재료로 완성한 가이세키 요리가 여행의 완성도를 높인다. 삿포로 시내 관광과 자연 속 온천 휴양을 동시에 누리고 싶은 여행자에게 이보다 완벽한 선택지는 드물다.",
+      "link": "/onsen/jozankei_onsen_grand_blissen_hotel_ko",
+      "body_chars": 6094,
+      "body_hash": "839d34eea07030200c046a631b6fe9c6351c5305"
+    },
+    {
+      "id": "ginzan_onsen_senninkan_ko",
+      "lang": "ko",
+      "title": "긴잔온센 센닌칸: 다이쇼 로망 골목 끝, 바위굴 노천탕이 있는 비경의 숙소",
+      "lat": 38.5733,
+      "lng": 140.5333,
+      "categories": [
+        "온천 료칸",
+        "가이세키 요리",
+        "동북 지방 명소"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-09-20",
+      "summary": "야마가타현 오바나자와의 긴잔온센 골목 가장 안쪽, 폭포와 맞닿은 자리에 선 센닌칸은 다이쇼 시대의 목조 건축과 바위를 깎아 만든 동굴 노천탕이 공존하는 료칸이다. 가스등이 켜지는 저녁이면 온천 거리 전체가 옛 영화 속 풍경처럼 물들고, 센닌칸의 객실 창문마다 그 불빛이 스며든다. 온천의 온기와 쇼나이 평야의 식재료가 어우러진 가이세키, 그리고 사계절 다른 표정을 짓는 계곡의 풍경이 이 료칸을 특별하게 만든다.",
+      "link": "/onsen/ginzan_onsen_senninkan_ko",
+      "body_chars": 4569,
+      "body_hash": "f297da7055107cb22f9665f01e4f4e6af632f376"
+    },
+    {
       "id": "jozankei_onsen_hatago_sakura_ko",
       "lang": "ko",
       "title": "삿포로 근교 비경, 조잔케이 온천 하타고 사쿠라 완벽 가이드",
@@ -1275,6 +276,154 @@
       "link": "/onsen/jozankei_onsen_hatago_sakura_ko",
       "body_chars": 5489,
       "body_hash": "1f7085da6043631a92bafbb53df3fa737cde4920"
+    },
+    {
+      "id": "jozankei_onsen_chalet_ivy_jozankei_ko",
+      "lang": "ko",
+      "title": "삿포로 근교 숲속 비밀정원, 조잔케이 온천 샬레 아이비 조잔케이 완벽 가이드",
+      "lat": 42.9681,
+      "lng": 141.1681,
+      "categories": [
+        "온천 료칸",
+        "홋카이도 여행",
+        "삿포로 근교"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-09-04",
+      "summary": "삿포로 시내에서 차로 한 시간 거리, 도요히라강 협곡 속에 자리한 조잔케이 온천 샬레 아이비 조잔케이는 유럽풍 산장의 정취와 홋카이도 특유의 대자연이 만나는 독특한 숙소입니다. 사계절 색을 달리하는 협곡 뷰 노천탕과 현지 식재료를 살린 프렌치 스타일 가이세키가 어우러져, 도심 근교 온천 료칸 중에서도 유독 이국적인 감성을 자아냅니다. 스키 시즌부터 단풍철까지, 홋카이도 여행의 베이스캠프로 삼기에 더없이 좋은 선택지입니다.",
+      "link": "/onsen/jozankei_onsen_chalet_ivy_jozankei_ko",
+      "body_chars": 5732,
+      "body_hash": "d83a329f7b5a8e0b6d70b78281f544abef23e97b"
+    },
+    {
+      "id": "ginzan_onsen_showakan_ko",
+      "lang": "ko",
+      "title": "긴잔온센 쇼와칸, 다이쇼 로망이 흐르는 협곡의 온천 여관 완벽 가이드",
+      "lat": 38.5712,
+      "lng": 140.5312,
+      "categories": [
+        "온천 여관",
+        "야마가타 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_showakan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-09-04",
+      "summary": "긴잔온센 쇼와칸은 다이쇼 시대의 정취가 살아 숨 쉬는 협곡 마을 한복판에서 가스등 불빛과 온천수 흐르는 소리에 둘러싸여 하룻밤을 보낼 수 있는 목조 여관이다. 은빛 광맥의 역사를 간직한 마을의 정취와 야마가타의 산해진미가 어우러진 가이세키 요리, 그리고 계절마다 다른 얼굴을 보여주는 노천탕이 여행자를 기다린다. 눈 내리는 겨울밤의 가스등 풍경만으로도 다시 찾아올 이유가 충분한 곳이다.",
+      "link": "/onsen/ginzan_onsen_showakan_ko",
+      "body_chars": 6065,
+      "body_hash": "b39b6054a0ff08c9c61b2f205b0229f30fc0a947"
+    },
+    {
+      "id": "nyuto_onsen_kuroyu_en",
+      "lang": "en",
+      "title": "Nyuto Onsen Kuroyu: Akita's Legendary Hidden Hot Spring Retreat",
+      "lat": 39.8111,
+      "lng": 140.7911,
+      "categories": [
+        "Hot Springs",
+        "Ryokan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_kuroyu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-08-31",
+      "summary": "Deep in the beech forests of Nyuto Onsen, Kuroyu preserves a thatched-roof world where thermal rivers, milky sulfur baths, and irori hearths have changed little in three centuries. This is Japan's most atmospheric mixed-bathing onsen for travelers chasing authenticity over polish. Expect wood smoke, mountain silence, and water so mineral-rich it stains stone gold.",
+      "link": "/onsen/nyuto_onsen_kuroyu_en",
+      "body_chars": 7417,
+      "body_hash": "69d2e7a9094cffdf579ce31265b3565bae8e6b19"
+    },
+    {
+      "id": "nyuto_onsen_ganiba_en",
+      "lang": "en",
+      "title": "Ganiba Onsen: The Secret Milky-White Bath Deep in Nyuto's Beech Forest",
+      "lat": 39.8155,
+      "lng": 140.7955,
+      "categories": [
+        "Onsen Ryokan",
+        "Hot Spring Retreat"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_ganiba.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-08-31",
+      "summary": "Ganiba Onsen is the smallest and most secluded of the seven hot springs scattered through the Nyuto Onsenkyo valley, reachable only by a narrow forest track above Tsurunoyu. Its milky sulfur water, wood-smoke-scented rooms, and near-total absence of modern distraction make it a pilgrimage site for onsen purists. This guide covers everything from the mineral chemistry of its baths to the exact turns you need to find the place.",
+      "link": "/onsen/nyuto_onsen_ganiba_en",
+      "body_chars": 10050,
+      "body_hash": "66c948cdaf0111b87d1f18407b935ee8899e0cc6"
+    },
+    {
+      "id": "jozankei_onsen_grand_blissen_hotel_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Grand Blissen Hotel: Sapporo's Riverside Sanctuary of Steam and Forest",
+      "lat": 42.9622,
+      "lng": 141.1622,
+      "categories": [
+        "Hokkaido Onsen",
+        "Sapporo Hot Springs",
+        "Luxury Ryokan"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_grand_blissen_hotel.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-08-31",
+      "summary": "Tucked into the emerald gorge just an hour from downtown Sapporo, Jozankei Onsen Grand Blissen Hotel pairs mineral-rich alkaline waters with panoramic canyon views and refined Hokkaido kaiseki cuisine. It's a rare hybrid: the convenience of a city-adjacent retreat with the immersive wilderness feel of a deep mountain onsen. This guide covers everything from bath chemistry to the best train connections for planning your stay.",
+      "link": "/onsen/jozankei_onsen_grand_blissen_hotel_en",
+      "body_chars": 9572,
+      "body_hash": "148eb06ac76e5e92fab4c300ca1487d64e564b8c"
+    },
+    {
+      "id": "ginzan_onsen_izu_no_hana_ko",
+      "lang": "ko",
+      "title": "긴잔온센 이즈노하나: 다이쇼 로망과 온천이 흐르는 협곡의 숙소",
+      "lat": 38.5719,
+      "lng": 140.5319,
+      "categories": [
+        "일본 온천료칸",
+        "야마가타 여행"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-08-31",
+      "summary": "야마가타현 오바나자와, 눈 덮인 협곡 사이로 가스등이 켜지는 긴잔온센 골목 안쪽에 자리한 이즈노하나는 다이쇼 시대의 정취와 현대적 편안함을 동시에 품은 온천료칸이다. 긴잔강의 물소리를 배경으로 삼는 노천탕과 쇼나이·야마가타 산지의 식재료로 차려내는 가이세키 요리가 이 숙소의 진짜 매력이다. 자동차 진입이 통제된 마을 특유의 고요함 속에서 하룻밤을 보내면, 왜 이곳이 '치히로의 행방불명'의 모티브로 불리는지 자연스레 이해하게 된다.",
+      "link": "/onsen/ginzan_onsen_izu_no_hana_ko",
+      "body_chars": 5745,
+      "body_hash": "a374484f8ed6e08b3ac83e34cbab4bc82429af35"
+    },
+    {
+      "id": "ginzan_onsen_izu_no_hana_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Izu no Hana: A Gaslit Dream in Obanazawa, Yamagata",
+      "lat": 38.5719,
+      "lng": 140.5319,
+      "categories": [
+        "Onsen Ryokan",
+        "Yamagata Travel",
+        "Hot Spring Guide"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_izu_no_hana.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-08-31",
+      "summary": "Izu no Hana is a storied wooden ryokan on the banks of the Ginzan River, where gaslamps, mineral-rich waters, and Yamagata kaiseki cuisine combine into one of Japan's most cinematic onsen experiences. This guide explores its Taisho-era architecture, the chemistry of its baths, and everything you need to plan a flawless stay in Obanazawa.",
+      "link": "/onsen/ginzan_onsen_izu_no_hana_en",
+      "body_chars": 9244,
+      "body_hash": "7838f1b528f409b689e3bfe7dc5b5517cff66acd"
+    },
+    {
+      "id": "jozankei_onsen_chalet_ivy_jozankei_en",
+      "lang": "en",
+      "title": "Chalet Ivy Jozankei: A Nordic-Inspired Onsen Retreat in the Sapporo Highlands",
+      "lat": 42.9681,
+      "lng": 141.1681,
+      "categories": [
+        "Hokkaido Onsen",
+        "Family Ryokan",
+        "Hot Spring Resort"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_chalet_ivy_jozankei.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-08-26",
+      "summary": "Chalet Ivy Jozankei blends Scandinavian-style architecture with the mineral-rich waters of Sapporo's forested onsen town, creating a hybrid retreat unlike any traditional ryokan. Guests soak in riverside baths framed by birch and maple, then retreat to warm, timber-lined rooms designed for genuine relaxation. Just an hour from Sapporo's urban core, it offers an accessible yet deeply restorative escape into Hokkaido's mountain wilderness.",
+      "link": "/onsen/jozankei_onsen_chalet_ivy_jozankei_en",
+      "body_chars": 9436,
+      "body_hash": "fa5562a889e6073f052246d1a069fc04994f88dc"
     },
     {
       "id": "nyuto_onsen_tae-no-yu_ko",
@@ -1294,6 +443,42 @@
       "link": "/onsen/nyuto_onsen_tae-no-yu_ko",
       "body_chars": 5693,
       "body_hash": "4e93637ee37ba5a8a8125cb317378ca542ca6573"
+    },
+    {
+      "id": "jozankei_onsen_koyotei_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Koyotei: A Riverside Retreat in Sapporo's Mountain Spa Town",
+      "lat": 42.9631,
+      "lng": 141.1631,
+      "categories": [
+        "Hokkaido Onsen",
+        "Ryokan Guide"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_koyotei.jpg",
+      "address": "Sapporo, Hokkaido",
+      "published": "2026-08-15",
+      "summary": "Jozankei Onsen Koyotei blends riverside hot spring bathing with refined Hokkaido kaiseki cuisine just 45 minutes from central Sapporo. Its open-air baths overlook the Toyohira River gorge, offering a seasonal theater of autumn foliage and winter snow. This guide covers everything from the mineral composition of the waters to practical booking advice for first-time visitors.",
+      "link": "/onsen/jozankei_onsen_koyotei_en",
+      "body_chars": 9138,
+      "body_hash": "decae01e43f3cabd1843123a01a20b06025dbe1c"
+    },
+    {
+      "id": "jozankei_onsen_kasho_gyoen_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Kasho Gyoen: Riverside Ryokan Near Sapporo - OKOnsen",
+      "lat": 42.9856,
+      "lng": 141.1136,
+      "categories": [
+        "Onsen Ryokan",
+        "Hokkaido Hot Springs"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_kasho_gyoen.jpg",
+      "address": "Jozankei, Minami-ku, Sapporo, Hokkaido",
+      "published": "2026-08-15",
+      "summary": "Kasho Gyoen is a secluded riverside ryokan in Jozankei Onsen, about an hour from Sapporo, where mineral-rich hot springs meet the Toyohira River gorge and refined Hokkaido cuisine.",
+      "link": "/onsen/jozankei_onsen_kasho_gyoen_en",
+      "body_chars": 9893,
+      "body_hash": "576fe512dc38b81823b6a7cde2dc8e2b2d9f66aa"
     },
     {
       "id": "jozankei_onsen_hatago_sakura_en",
@@ -1348,6 +533,727 @@
       "link": "/onsen/nyuto_onsen_magoroku_en",
       "body_chars": 8418,
       "body_hash": "e8eb04f19ce42e36657d9dc408948d650fd2d5e9"
+    },
+    {
+      "id": "ginzan_onsen_yanadaya_ko",
+      "lang": "ko",
+      "title": "긴잔온천 야나다야, 다이쇼 로망이 흐르는 강변의 온천 여관",
+      "lat": 38.5718,
+      "lng": 140.5318,
+      "categories": [
+        "온천 료칸",
+        "야마가타 여행",
+        "가이세키 요리"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_yanadaya.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-08-05",
+      "summary": "야마가타현 오바나자와시 긴잔온천의 협곡 한가운데 자리한 야나다야는 다이쇼 시대의 목조 건축과 가스등 불빛이 만들어내는 시간 여행 같은 풍경을 간직한 온천 여관이다. 은은한 유황 향과 부드러운 나트륨 온천수, 협곡의 사계절을 담은 가이세키 요리가 어우러져 오감을 만족시킨다. 눈 내리는 겨울밤 가스등이 켜지는 순간부터, 신록의 여름 계곡 물소리까지 야나다야는 계절마다 전혀 다른 얼굴을 보여주는 곳이다.",
+      "link": "/onsen/ginzan_onsen_yanadaya_ko",
+      "body_chars": 5535,
+      "body_hash": "59d48cf41ea35b7ecc5e91063fc6093b78a54214"
+    },
+    {
+      "id": "ginzan_onsen_kozankaku_ko",
+      "lang": "ko",
+      "title": "긴잔온센 코잔카쿠, 다이쇼 시대로 떠나는 은빛 여행",
+      "lat": 38.5725,
+      "lng": 140.5325,
+      "categories": [
+        "일본 온천",
+        "야마가타 여행",
+        "료칸 가이드"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kozankaku.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-08-05",
+      "summary": "야마가타 오바나자와의 산골 마을 긴잔온센에 자리한 코잔카쿠는 다이쇼 시대의 낭만과 서양 골동품이 공존하는 독특한 료칸이다. 은빛 계곡물이 흐르는 옛 거리 한복판에서 가스등 불빛과 함께 즐기는 온천욕은 시간을 거슬러 오른 듯한 감동을 선사한다. 이 글에서는 코잔카쿠의 역사, 온천의 성분과 전망, 객실의 미학, 가이세키 요리, 그리고 주변 여행지까지 방문에 필요한 모든 정보를 담았다.",
+      "link": "/onsen/ginzan_onsen_kozankaku_ko",
+      "body_chars": 6133,
+      "body_hash": "7ba68cdd859c4cfffb126dc8fd975cfe16c37776"
+    },
+    {
+      "id": "ginzan_onsen_yanadaya_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Yanadaya: A Timeless Taisho-Era Retreat in Snow Country",
+      "lat": 38.5718,
+      "lng": 140.5318,
+      "categories": [
+        "Onsen Ryokan",
+        "Yamagata Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_yanadaya.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-31",
+      "summary": "Ginzan Onsen Yanadaya is a storied wooden ryokan perched along the gaslit river of Ginzan Onsen, where hot spring bathing, Taisho-era architecture, and refined Yamagata kaiseki cuisine converge. Guests soak in mineral-rich waters framed by the sound of the Ginzan River before retreating to tatami rooms steeped in nostalgic charm. It is a destination best experienced in the hush of falling snow, when the entire village glows like a scene from another century.",
+      "link": "/onsen/ginzan_onsen_yanadaya_en",
+      "body_chars": 9274,
+      "body_hash": "d2eb84ab9683d1bc0c18dc512702da1654f57c5b"
+    },
+    {
+      "id": "ginzan_onsen_showakan_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Showakan: A Lantern-Lit Retreat into Yamagata's Taisho-Era Hot Spring Valley",
+      "lat": 38.5712,
+      "lng": 140.5312,
+      "categories": [
+        "Onsen Ryokan",
+        "Yamagata Hot Springs"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_showakan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-31",
+      "summary": "Ginzan Onsen Showakan sits at the heart of a snowbound, gaslit ravine in Obanazawa, where wooden ryokan rise three and four stories above a narrow river gorge. This storied inn blends mineral-rich alkaline waters, Taisho-romantic architecture, and a kaiseki table built on Yamagata's mountain and river bounty. It remains one of the most photogenic and atmospheric onsen towns in Japan, especially when snow falls and the gas lamps flicker on at dusk.",
+      "link": "/onsen/ginzan_onsen_showakan_en",
+      "body_chars": 8167,
+      "body_hash": "14fc742fb90c3a1a13d14b5f77f9767799864f99"
+    },
+    {
+      "id": "ginzan_onsen_senninkan_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Senninkan: A Timeless Taisho-Era Retreat in Yamagata's Silver Valley",
+      "lat": 38.5733,
+      "lng": 140.5333,
+      "categories": [
+        "Onsen Ryokan",
+        "Yamagata Hot Springs"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_senninkan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-31",
+      "summary": "Senninkan is one of the oldest ryokan in Ginzan Onsen, a wooden inn perched beside a waterfall where gaslamps and geothermal steam recreate the mood of early 20th-century Japan. This guide explores its mineral-rich waters, Taisho-era architecture, and refined kaiseki cuisine rooted in Yamagata's mountain harvest. Whether you visit under summer greenery or winter snowlight, Senninkan offers an immersive step back into old Japan.",
+      "link": "/onsen/ginzan_onsen_senninkan_en",
+      "body_chars": 9057,
+      "body_hash": "3641d052421185ed5392ab8977346f9633414a98"
+    },
+    {
+      "id": "ginzan_onsen_kozankaku_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Kozankaku: A Taisho-Era Dream Beside the Ginzan River",
+      "lat": 38.5725,
+      "lng": 140.5325,
+      "categories": [
+        "Onsen Ryokan",
+        "Yamagata Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kozankaku.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-31",
+      "summary": "Kozankaku is a storied wooden ryokan perched along the gaslit Ginzan River, blending Taisho-era romance with warm mineral-rich baths. Guests fall asleep to the sound of rushing water and wake to breakfast trays laden with Yamagata's mountain harvest. It remains one of the most photogenic and atmospheric stays in the whole of Tohoku.",
+      "link": "/onsen/ginzan_onsen_kozankaku_en",
+      "body_chars": 8676,
+      "body_hash": "cfd5d4d99c21ac6c2b97b3b55c6aae30b3fea75f"
+    },
+    {
+      "id": "takaragawa_onsen_ousenkaku_ko",
+      "lang": "ko",
+      "title": "다카라가와 온천 오센카쿠: 일본 최대 강변 혼탕 노천탕 완벽 가이드",
+      "lat": 36.8454,
+      "lng": 139.0485,
+      "categories": [
+        "혼탕",
+        "절경",
+        "강변 온천",
+        "역사 료칸",
+        "군마"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/takaragawa_onsen_ousenkaku.jpg",
+      "address": "Minakami, Gunma",
+      "published": "2026-07-27",
+      "summary": "군마현 미나카미의 협곡 깊숙이 자리한 다카라가와 온천 오센카쿠는 일본에서 가장 크고 웅장한 혼탕 노천탕으로 유명합니다. 다카라가와 강변을 따라 펼쳐진 네 개의 노천탕과 사계절 절경, 도쿄에서 약 2시간 만에 닿을 수 있는 접근성이 자랑입니다.",
+      "link": "/onsen/takaragawa_onsen_ousenkaku_ko",
+      "body_chars": 4397,
+      "body_hash": "4376dbbaf134b98ef0746558d2a1f7f187107eb5"
+    },
+    {
+      "id": "takaragawa_onsen_ousenkaku_en",
+      "lang": "en",
+      "title": "Takaragawa Onsen Ousenkaku: Japan's Most Epic Outdoor Riverside Baths",
+      "lat": 36.8454,
+      "lng": 139.0485,
+      "categories": [
+        "Mixed Bathing",
+        "Great View",
+        "Riverside Bath",
+        "Historic Ryokan",
+        "Gunma"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/takaragawa_onsen_ousenkaku.jpg",
+      "address": "Minakami, Gunma",
+      "published": "2026-07-27",
+      "summary": "Takaragawa Onsen Ousenkaku in Gunma's Minakami gorge is home to some of Japan's largest and most celebrated outdoor mixed-gender baths. This guide covers its four riverside rotenburo, seasonal appeal, day-trip options, and how to reach this mountain retreat from Tokyo in just over two hours.",
+      "link": "/onsen/takaragawa_onsen_ousenkaku_en",
+      "body_chars": 10926,
+      "body_hash": "a2e2158370ff761a291920675956b04443760c6e"
+    },
+    {
+      "id": "nyuto_onsen_tsurunoyu_ko",
+      "lang": "ko",
+      "title": "뉴토 온천 쓰루노유: 일본 최고의 역사 료칸 완벽 가이드",
+      "lat": 39.7997,
+      "lng": 140.7811,
+      "categories": [
+        "가족탕",
+        "절경",
+        "역사 료칸",
+        "혼탕",
+        "도호쿠"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_tsurunoyu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-07-27",
+      "summary": "아키타 산속 깊이 숨겨진 뉴토 온천 쓰루노유는 에도시대 초가지붕 료칸이 그대로 살아있는 일본 최고의 역사 온천입니다. 우윳빛 유황 노천탕과 전통 혼탕 문화로 명성을 떨치며, 설경 속 온천욕이라는 일본 여행의 정수를 경험할 수 있는 곳입니다.",
+      "link": "/onsen/nyuto_onsen_tsurunoyu_ko",
+      "body_chars": 4930,
+      "body_hash": "a1c153f89ebc8e4713302d2f360c37aeb8bbf38c"
+    },
+    {
+      "id": "nyuto_onsen_tsurunoyu_en",
+      "lang": "en",
+      "title": "Nyuto Onsen Tsurunoyu: Japan's Most Iconic Historic Ryokan Review",
+      "lat": 39.7997,
+      "lng": 140.7811,
+      "categories": [
+        "Private Bath",
+        "Great View",
+        "Historic Ryokan",
+        "Mixed Bathing",
+        "Tohoku"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/nyuto_onsen_tsurunoyu.jpg",
+      "address": "Semboku, Akita",
+      "published": "2026-07-27",
+      "summary": "Hidden deep in the Akita mountains, Tsurunoyu is Japan's most iconic Tohoku ryokan — a thatched Edo-period lodge with milky-white sulfurous baths and legendary mixed-gender outdoor pools. This guide covers everything from the spring water types and konyoku etiquette to access tips for navigating the remote mountain road.",
+      "link": "/onsen/nyuto_onsen_tsurunoyu_en",
+      "body_chars": 12158,
+      "body_hash": "dca70ed1570771864653d0ba45fac04606d6173a"
+    },
+    {
+      "id": "jozankei_onsen_mori_no_uta_ko",
+      "lang": "ko",
+      "title": "정글 속 시적인 쉼, 삿포로 조잔케이 온천 모리노우타 심층 가이드",
+      "lat": 42.9648,
+      "lng": 141.1648,
+      "categories": [
+        "온천",
+        "료칸",
+        "홋카이도",
+        "삿포로",
+        "프리미엄 료칸"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_mori_no_uta.jpg",
+      "address": "北海道札幌市南区定山渓温泉東3丁目192",
+      "published": "2026-07-27",
+      "summary": "숲의 노래가 속삭이는 듯한 삿포로 조잔케이 온천 모리노우타는 자연 속에서 진정한 휴식을 선사하는 프리미엄 료칸입니다. 현대적인 편안함과 전통적인 미학이 조화롭게 어우러진 이곳에서 온전한 힐링을 경험해보세요. 미식의 향연, 사색의 온천, 그리고 고즈넉한 객실이 어우러져 잊지 못할 추억을 선사할 것입니다.",
+      "link": "/onsen/jozankei_onsen_mori_no_uta_ko",
+      "body_chars": 10482,
+      "body_hash": "810ad25c57ba32e89c1f9857773bdf1f3b041fba"
+    },
+    {
+      "id": "jozankei_onsen_mori_no_uta_en",
+      "lang": "en",
+      "title": "Jozankei Onsen Mori no Uta Review: Worth It Near Sapporo? - OKOnsen",
+      "lat": 42.9648,
+      "lng": 141.1648,
+      "categories": [
+        "Luxury Onsen",
+        "Ryokan",
+        "Hokkaido Onsen",
+        "Forest Retreat",
+        "Kaiseki Dining"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/jozankei_onsen_mori_no_uta.jpg",
+      "address": "Jozankei-higashi 3-chome 192, Minami-ku, Sapporo, Hokkaido 061-2302, Japan",
+      "published": "2026-07-27",
+      "summary": "A forest ryokan near Sapporo pairing mineral hot springs and kaiseki dining with modern comfort — see who it suits and what to know before booking.",
+      "link": "/onsen/jozankei_onsen_mori_no_uta_en",
+      "body_chars": 25559,
+      "body_hash": "6b23971c61c8897fde1d111842b5ef671093cf8a"
+    },
+    {
+      "id": "hakone_gora_kadan_ko",
+      "lang": "ko",
+      "title": "하코네 고라 가단: 황실 정원 위의 일본 최고 럭셔리 료칸 완벽 가이드",
+      "lat": 35.2492,
+      "lng": 139.0465,
+      "categories": [
+        "고급 료칸",
+        "가족탕",
+        "절경",
+        "릴레&샤토",
+        "하코네"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_gora_kadan.jpg",
+      "address": "Hakone, Kanagawa",
+      "published": "2026-07-27",
+      "summary": "하코네 고라 가단은 쇼와 황족의 여름 별장 터에 조성된 릴레&샤토 회원 료칸으로, 전객실 전용 노천탕과 세계적으로 인정받은 가이세키 요리, 4계절 아름다운 다단식 정원이 일본 최고의 럭셔리 료칸 경험을 완성합니다.",
+      "link": "/onsen/hakone_gora_kadan_ko",
+      "body_chars": 5276,
+      "body_hash": "3c4e2d9043433b899c5b3a933d6655073511e6c3"
+    },
+    {
+      "id": "hakone_gora_kadan_en",
+      "lang": "en",
+      "title": "Hakone Gora Kadan: A Complete Review of Japan's Imperial Ryokan",
+      "lat": 35.2492,
+      "lng": 139.0465,
+      "categories": [
+        "Luxury Ryokan",
+        "Private Bath",
+        "Great View",
+        "Relais & Chateaux",
+        "Hakone"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/hakone_gora_kadan.jpg",
+      "address": "Hakone, Kanagawa",
+      "published": "2026-07-27",
+      "summary": "Hakone Gora Kadan is a Relais & Châteaux member ryokan built on the terraced gardens of a former Imperial summer villa in Gora, Hakone. This guide covers its private outdoor baths, celebrated kaiseki cuisine, elegant garden setting, and what makes it one of Japan's finest luxury ryokan experiences.",
+      "link": "/onsen/hakone_gora_kadan_en",
+      "body_chars": 13378,
+      "body_hash": "db10a7865635fb76d9c82c8a7c60fc1b1b55e956"
+    },
+    {
+      "id": "ginzan_onsen_takimikan_ko",
+      "lang": "ko",
+      "title": "긴잔 온천 타키미칸: 야마가타 설경 속 시간여행, 미식과 온천의 정수",
+      "lat": 38.5744,
+      "lng": 140.5344,
+      "categories": [
+        "일본 온천",
+        "야마가타 료칸",
+        "긴잔 온천",
+        "전통 료칸",
+        "가이세키"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_takimikan.jpg",
+      "address": "야마가타현 오바나자와시 긴잔 온천 522",
+      "published": "2026-07-27",
+      "summary": "야마가타현 오바나자와의 깊은 산 속에 자리한 긴잔 온천 타키미칸은 다이쇼 시대의 낭만이 살아 숨 쉬는, 마치 시간 여행을 떠난 듯한 특별한 경험을 선사합니다. 은은한 가스등 아래 고즈넉한 온천 마을의 정취를 만끽하며, 천연 온천수와 야마가타 현지 식재료로 빚어낸 호화로운 가이세키 요리는 잊을 수 없는 추억을 선사할 것입니다. 전통의 아름다움과 최상의 휴식을 동시에 선사하는 타키미칸은 진정한 일본 료칸의 매력을 경험하고 싶은 이들에게 완벽한 선택입니다.",
+      "link": "/onsen/ginzan_onsen_takimikan_ko",
+      "body_chars": 9770,
+      "body_hash": "aa5778a5822c84b1e70e114c1fc02ae6eea85b83"
+    },
+    {
+      "id": "ginzan_onsen_takimikan_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Takimikan Guide: Ryokan by Shirogane Waterfall in Yamagata - OKOnsen",
+      "lat": 38.5744,
+      "lng": 140.5344,
+      "categories": [
+        "Onsen Ryokan",
+        "Traditional Japanese Inn",
+        "Winter Destination",
+        "Yamagata",
+        "Historic Onsen"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_takimikan.jpg",
+      "address": "427 Ginzanshinhata, Obanazawa, Yamagata 999-4333, Japan",
+      "published": "2026-07-27",
+      "summary": "Nestled in the heart of the famously picturesque Ginzan Onsen, Takimikan offers an authentic escape to a bygone era, overlooking the iconic Shirogane Waterfall. This guide covers what makes the ryokan distinct and how to plan a visit, especially in winter snow.",
+      "link": "/onsen/ginzan_onsen_takimikan_en",
+      "body_chars": 21091,
+      "body_hash": "e84b51fd5f15ea1b7c3f82c9f24daae6e4ff2f66"
+    },
+    {
+      "id": "ginzan_onsen_notoya_ryokan_ko",
+      "lang": "ko",
+      "title": "시간이 멈춘 그림, 긴잔 온천 노토야 료칸: 시대를 초월한 휴식 가이드",
+      "lat": 38.5711,
+      "lng": 140.5311,
+      "categories": [
+        "럭셔리 료칸",
+        "온천 여행",
+        "일본 전통",
+        "미식 여행",
+        "역사적 건축물"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_notoya_ryokan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-27",
+      "summary": "야마가타현 깊은 산골에 자리한 긴잔 온천은 다이쇼 시대의 낭만이 고스란히 살아 숨 쉬는, 마치 시간 여행을 온 듯한 신비로운 마을입니다. 그 중심에 우뚝 선 노토야 료칸은 이 마을의 상징이자, 수 세기에 걸쳐 손님들을 따뜻하게 맞아온 역사 깊은 숙소입니다. 이곳은 단순한 료칸을 넘어, 일본 전통 건축의 아름다움과 최상급 온천수, 그리고 야마가타의 풍미를 담은 가이세키 요리를 통해 오감을 만족시키는 특별한 경험을 선사합니다.",
+      "link": "/onsen/ginzan_onsen_notoya_ryokan_ko",
+      "body_chars": 11721,
+      "body_hash": "836bd1d46608a360c23628d1ab4823a46d7af994"
+    },
+    {
+      "id": "ginzan_onsen_notoya_ryokan_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Notoya Ryokan: A Timeless Winter Dream in Yamagata's Taisho Romance",
+      "lat": 38.5711,
+      "lng": 140.5311,
+      "categories": [
+        "Luxury Ryokan",
+        "Onsen",
+        "Historic Hotel",
+        "Traditional Japanese Inn",
+        "Winter Wonderland",
+        "Cultural Immersion"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_notoya_ryokan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-27",
+      "summary": "Nestled within the gas-lit fairytale of Ginzan Onsen, Notoya Ryokan offers an unparalleled journey back to the romantic Taisho era. Its exquisite architecture, deeply restorative onsen waters, and refined seasonal kaiseki cuisine create an unforgettable escape. Experience Yamagata's serene beauty and rich traditions wrapped in the comforting embrace of historic luxury, especially enchanting under a blanket of snow.",
+      "link": "/onsen/ginzan_onsen_notoya_ryokan_en",
+      "body_chars": 23542,
+      "body_hash": "e2431fd62493ceb6b94098f8d821483c4089b4d5"
+    },
+    {
+      "id": "ginzan_onsen_kosekiya_bekkan_ko",
+      "lang": "ko",
+      "title": "긴잔 온천 코세키야 벳칸: 다이쇼 로망 속 고요한 치유의 여정 | 야마가타 료칸 가이드",
+      "lat": 38.5715,
+      "lng": 140.5315,
+      "categories": [
+        "온천 료칸",
+        "야마가타",
+        "긴잔 온천",
+        "전통 숙박",
+        "가이세키"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kosekiya_bekkan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-27",
+      "summary": "긴잔 온천의 몽환적인 다이쇼 로망 거리에 자리한 코세키야 벳칸은 시간을 초월한 아름다움과 전통의 정수를 선사합니다. 강물 소리, 가스등 불빛, 그리고 눈 덮인 풍경이 어우러진 이곳은 몸과 마음의 깊은 치유를 약속하는 특별한 공간입니다. 야마가타의 신선한 제철 식재료로 빚어낸 가이세키 요리는 오감을 만족시키며, 와비사비 미학이 깃든 객실은 고요한 휴식을 선사합니다.",
+      "link": "/onsen/ginzan_onsen_kosekiya_bekkan_ko",
+      "body_chars": 11833,
+      "body_hash": "01d140de1acdd4464095d8a07ee41873e9d2ca63"
+    },
+    {
+      "id": "ginzan_onsen_kosekiya_bekkan_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Kosekiya Bekkan: A Timeless Winter Dream in Yamagata's Taisho Romance",
+      "lat": 38.5715,
+      "lng": 140.5315,
+      "categories": [
+        "Onsen Ryokan",
+        "Historic",
+        "Winter Wonderland",
+        "Kaiseki",
+        "Yamagata",
+        "Traditional Japanese Inn"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_kosekiya_bekkan.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-27",
+      "summary": "Nestled within the enchanting, gaslight-lit streets of Ginzan Onsen, Kosekiya Bekkan offers a profound immersion into a bygone era of Japanese hospitality. This guide explores its meticulously preserved traditions, the restorative power of its thermal waters, and the exquisite regional cuisine that defines a stay in this iconic Yamagata retreat, especially magical under a blanket of snow. Experience the serene beauty of a historical onsen town, where every detail evokes the romance of the Taisho period.",
+      "link": "/onsen/ginzan_onsen_kosekiya_bekkan_en",
+      "body_chars": 20572,
+      "body_hash": "727c096a06d1630a722aaa4d846b3d596f0b36c5"
+    },
+    {
+      "id": "ginzan_onsen_ginzanso_ko",
+      "lang": "ko",
+      "title": "대정 로망의 숨결, 긴잔 온천 긴잔소: 완벽한 숙박 가이드",
+      "lat": 38.5688,
+      "lng": 140.5288,
+      "categories": [
+        "일본 온천",
+        "야마가타",
+        "긴잔 온천",
+        "고급 료칸",
+        "전통 숙박"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_ginzanso.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-27",
+      "summary": "시간이 멈춘 듯한 대정 로망의 거리, 긴잔 온천의 중심에 자리한 긴잔소는 단순한 숙박을 넘어선 깊은 경험을 선사합니다. 눈 덮인 풍경과 가스등 불빛 아래 더욱 빛나는 이곳은 야마가타의 풍부한 미식과 치유의 온천수가 어우러진 진정한 휴식처입니다. 전통의 미학이 깃든 객실, 오감을 만족시키는 가이세키 요리, 그리고 자연 속에서 펼쳐지는 온천의 향연은 잊지 못할 추억을 선사할 것입니다.",
+      "link": "/onsen/ginzan_onsen_ginzanso_ko",
+      "body_chars": 12342,
+      "body_hash": "f1accba3e9ad551845f1c1f97f3da67917e128f9"
+    },
+    {
+      "id": "ginzan_onsen_ginzanso_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Ginzanso: A Timeless Winter Dream in Yamagata's Taisho Romance",
+      "lat": 38.5688,
+      "lng": 140.5288,
+      "categories": [
+        "Luxury Ryokan",
+        "Onsen Retreat",
+        "Historic Japan",
+        "Winter Wonderland",
+        "Yamagata Prefecture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_ginzanso.jpg",
+      "address": "427 Ginzanshinhata, Obanazawa, Yamagata 999-4333, Japan",
+      "published": "2026-07-27",
+      "summary": "Nestled in the heart of the enchanting Ginzan Onsen, Ginzanso offers an unparalleled escape into a snow-laden, gaslit wonderland reminiscent of a bygone Taisho era. This exquisite ryokan masterfully blends traditional Japanese hospitality with luxurious comfort, providing a sanctuary where time seems to slow. Experience sublime onsen baths, exceptional seasonal kaiseki cuisine, and unparalleled views of the iconic silver mountain valley.",
+      "link": "/onsen/ginzan_onsen_ginzanso_en",
+      "body_chars": 21423,
+      "body_hash": "565d5fb09b24c91c2a46d023667243875187a00a"
+    },
+    {
+      "id": "ginzan_onsen_fujiya_ko",
+      "lang": "ko",
+      "title": "시간이 멈춘 듯한 긴잔 온천 후지야: 켄고 쿠마 건축의 미학 속으로",
+      "lat": 38.5722,
+      "lng": 140.5322,
+      "categories": [
+        "일본 온천",
+        "야마가타",
+        "긴잔 온천",
+        "료칸",
+        "럭셔리 숙소",
+        "켄고 쿠마 건축"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_fujiya.jpg",
+      "address": "일본 야마가타현 오바나자와시 긴잔 온천 443 (山形県尾花沢市銀山新畑443)",
+      "published": "2026-07-27",
+      "summary": "야마가타의 깊은 산골, 가스등 불빛 아래 시간이 멈춘 듯한 긴잔 온천 마을에 자리한 후지야 료칸은 건축가 켄고 쿠마의 손길로 재탄생한 현대적 미학과 전통의 조화를 보여줍니다. 고즈넉한 온천 마을의 정취를 만끽하며, 섬세하게 디자인된 객실과 전세탕에서 진정한 휴식과 사색의 시간을 경험할 수 있습니다. 이곳은 단순한 숙박을 넘어, 일본의 아름다움과 장인정신을 오감으로 느낄 수 있는 특별한 문화 체험을 선사합니다.",
+      "link": "/onsen/ginzan_onsen_fujiya_ko",
+      "body_chars": 12340,
+      "body_hash": "d642b6d64251fbe2b428e43531220356ff4fd863"
+    },
+    {
+      "id": "ginzan_onsen_fujiya_en",
+      "lang": "en",
+      "title": "Ginzan Onsen Fujiya: Kengo Kuma&#39;s Timeless Ryokan in Yamagata&#39;s Iconic Valley - OKOnsen",
+      "lat": 38.5722,
+      "lng": 140.5322,
+      "categories": [
+        "Luxury Ryokan",
+        "Onsen",
+        "Yamagata",
+        "Historic Village",
+        "Architectural Gem",
+        "Kengo Kuma Design"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/ginzan_onsen_fujiya.jpg",
+      "address": "Obanazawa, Yamagata",
+      "published": "2026-07-27",
+      "summary": "A guide to Ginzan Onsen Fujiya, Kengo Kuma&#39;s minimalist ryokan blending traditional Japanese design with modern luxury and private onsen baths.",
+      "link": "/onsen/ginzan_onsen_fujiya_en",
+      "body_chars": 24834,
+      "body_hash": "eaf7e8250672374a5ee4b75bb9a2cd75d750c60f"
+    },
+    {
+      "id": "kurokawa_onsen_yumerindo_ko",
+      "lang": "ko",
+      "title": "구로카와 온천 유메린도: 숲속의 은밀한 안식처, 오감으로 경험하는 치유",
+      "lat": 33.0818,
+      "lng": 131.1418,
+      "categories": [
+        "가족탕",
+        "절경",
+        "고급 료칸"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg",
+      "address": "Minamioguni, Kumamoto",
+      "published": "2026-06-27",
+      "summary": "아소산의 웅장한 자연 속에 자리한 구로카와 온천 유메린도는 절경의 노천탕과 아늑한 전세 가족탕, 그리고 제철 식재료로 빚어낸 가이세키 요리로 진정한 힐링을 선사하는 최고급 료칸입니다. 고즈넉한 숲속에서 프라이빗한 휴식을 꿈꾸는 이들에게 완벽한 선택이며, 오감을 만족시키는 섬세한 서비스와 자연과의 조화가 돋보이는 공간에서 일상의 번잡함을 벗어나 온전한 휴식을 경험할 수 있습니다.",
+      "link": "/onsen/kurokawa_onsen_yumerindo_ko",
+      "body_chars": 9051,
+      "body_hash": "4964f5fe98f6ff30c039601f2c3dd20eca8a365d"
+    },
+    {
+      "id": "kurokawa_onsen_yumerindo_en",
+      "lang": "en",
+      "title": "Kurokawa Onsen Yumerindo: Your Gateway to Kumamoto's Ultimate Private Bath Luxury with Breathtaking Views",
+      "lat": 33.0818,
+      "lng": 131.1418,
+      "categories": [
+        "Private Bath",
+        "Great View",
+        "Luxury"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_yumerindo.jpg",
+      "address": "Minamioguni, Kumamoto",
+      "published": "2026-06-27",
+      "summary": "Escape to the serene heart of Kumamoto and discover Kurokawa Onsen Yumerindo, an exquisite ryokan offering unparalleled luxury and tranquility. Indulge in the therapeutic embrace of its private open-air baths, where the pristine waters meet breathtaking panoramic views of nature's majesty. This haven promises an unforgettable journey into traditional Japanese hospitality, enveloped by spectacular scenery and ultimate relaxation.",
+      "link": "/onsen/kurokawa_onsen_yumerindo_en",
+      "body_chars": 13805,
+      "body_hash": "7079addeefeeeee4113fd536688556c3026209f3"
+    },
+    {
+      "id": "kurokawa_onsen_noshiyu_ko",
+      "lang": "ko",
+      "title": "아소 숲속의 럭셔리 휴식처, 구로카와 온천 노시유: 최고급 가족탕과 절경이 선사하는 치유의 시간",
+      "lat": 33.0825,
+      "lng": 131.1411,
+      "categories": [
+        "고급 료칸",
+        "가족탕"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_noshiyu.jpg",
+      "address": "Minamioguni, Kumamoto",
+      "published": "2026-06-27",
+      "summary": "구로카와 온천 노시유는 아소산 자락의 울창한 숲 속에 자리한 최고급 료칸으로, 자연 속 진정한 휴식을 선사합니다. 프라이빗한 시간을 위한 개별 가족탕은 물론, 사계절 변하는 절경을 감상하며 온천욕을 즐길 수 있는 특별한 경험을 제공합니다. 섬세한 가이세키 요리와 전통의 미학이 깃든 공간에서 잊지 못할 추억을 만들어보세요.",
+      "link": "/onsen/kurokawa_onsen_noshiyu_ko",
+      "body_chars": 8116,
+      "body_hash": "c7f0fe8f6a9b01c6a0c64329d3fa7fe458d28a44"
+    },
+    {
+      "id": "kurokawa_onsen_noshiyu_en",
+      "lang": "en",
+      "title": "Escape to Serenity: Unveiling the Timeless Elegance and Secluded Luxury of Kurokawa Onsen Noshiyu – Your Ultimate Kumamoto Retreat",
+      "lat": 33.0825,
+      "lng": 131.1411,
+      "categories": [
+        "Luxury",
+        "Private Bath"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_noshiyu.jpg",
+      "address": "Minamioguni, Kumamoto",
+      "published": "2026-06-27",
+      "summary": "Nestled deep within the verdant embrace of Minamioguni, Kurokawa Onsen Noshiyu stands as an epitome of refined Japanese hospitality, offering an unparalleled escape into luxurious tranquility. This exquisite ryokan masterfully blends traditional aesthetics with modern comfort, providing guests an intimate journey into Japan's revered onsen culture. Boasting an array of exceptional private family baths, Noshiyu invites you to immerse yourself in therapeutic waters while surrounded by breathtaking natural beauty, ensuring a deeply personal and unforgettable retreat.",
+      "link": "/onsen/kurokawa_onsen_noshiyu_en",
+      "body_chars": 13802,
+      "body_hash": "9057c890a08ca103adf2c5292ec3c6b1169f20e4"
+    },
+    {
+      "id": "kinosaki_onsen_tokiwa_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 도키와: 시간을 초월한 료칸 경험",
+      "lat": 35.6225,
+      "lng": 134.8128,
+      "categories": [
+        "료칸",
+        "온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg",
+      "address": "효고현 도요오카시 기노사키초 유시마 467",
+      "published": "2026-06-27",
+      "summary": "기노사키 온천 중심부에 자리잡은 도키와 료칸은 전통과 현대적인 편안함이 조화롭게 어우러진 곳입니다. 7개의 온천 순례를 즐기고, 정갈한 가이세키 요리를 맛보며, 유카타를 입고 거리를 거닐어 보세요. 시간을 초월한 특별한 경험을 선사합니다.",
+      "link": "/onsen/kinosaki_onsen_tokiwa_ko",
+      "body_chars": 8299,
+      "body_hash": "4f824a0d9e775b86bb5343b50efa483e8980cea6"
+    },
+    {
+      "id": "kinosaki_onsen_tokiwa_en",
+      "lang": "en",
+      "title": "Tokiwa Ryokan - Kinosaki Onsen Luxury Hot Spring Resort",
+      "lat": 35.6225,
+      "lng": 134.8128,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Kinosaki",
+        "Hyogo",
+        "Luxury Travel",
+        "Japan Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_tokiwa.jpg",
+      "address": "376 Yushima, Kinosaki-cho, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-06-27",
+      "summary": "Kinosaki Onsen Tokiwa offers an enchanting escape into traditional Japanese hospitality. Nestled in the heart of Kinosaki, this ryokan provides unparalleled access to the town's seven iconic public onsen. Experience the ultimate relaxation with exquisite cuisine, elegant rooms, and a serene atmosphere steeped in history and natural beauty.",
+      "link": "/onsen/kinosaki_onsen_tokiwa_en",
+      "body_chars": 12670,
+      "body_hash": "e226863b02aca6b9d41b3e0932a8772eaab647ba"
+    },
+    {
+      "id": "kinosaki_onsen_shinmatsuya_ko",
+      "lang": "ko",
+      "title": "기노사키 온천 신마츠야 완벽 가이드: 최고의 료칸 체험",
+      "lat": 35.6288,
+      "lng": 134.8166,
+      "categories": [
+        "료칸",
+        "온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg",
+      "address": "Toyooka, Hyogo",
+      "published": "2026-06-27",
+      "summary": "기노사키 온천의 심장부에 자리 잡은 신마츠야는 전통과 현대적인 편안함이 완벽하게 조화를 이루는 료칸입니다. 7개의 공중 온천 순례와 함께 잊을 수 없는 가이세키 요리, 그리고 고요한 다다미방에서의 휴식은 최고의 온천 경험을 선사합니다. 이 가이드에서 신마츠야의 모든 것을 파헤쳐 보세요.",
+      "link": "/onsen/kinosaki_onsen_shinmatsuya_ko",
+      "body_chars": 9136,
+      "body_hash": "c452b4ed0cc73915fd1c6c03519540c0b2116afd"
+    },
+    {
+      "id": "kinosaki_onsen_shinmatsuya_en",
+      "lang": "en",
+      "title": "Shinmatsuya Ryokan: Kinosaki Onsen Inn with Kaiseki & Hot Springs",
+      "lat": 35.6288,
+      "lng": 134.8166,
+      "categories": [
+        "Onsen",
+        "Ryokan",
+        "Kinosaki",
+        "Hyogo",
+        "Luxury Travel"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kinosaki_onsen_shinmatsuya.jpg",
+      "address": "376 Kinosakicho Yushima, Toyooka, Hyogo 669-6101, Japan",
+      "published": "2026-06-27",
+      "summary": "Shinmatsuya Ryokan offers a quintessential Kinosaki Onsen experience, blending traditional Japanese hospitality with the town's unique public bath culture. Guests are invited to immerse themselves in mineral-rich waters, savor exquisite seasonal kaiseki, and explore the charming willow-lined streets in a classic yukata, embodying the timeless spirit of this revered hot spring town.",
+      "link": "/onsen/kinosaki_onsen_shinmatsuya_en",
+      "body_chars": 14740,
+      "body_hash": "985fe1bc91816ba9c6a4048f64ca31728b0becd2"
+    },
+    {
+      "id": "arima_onsen_tosen_goshobo_ko",
+      "lang": "ko",
+      "title": "아리마 온천 도센 고쇼보 완벽 가이드: 800년 전통 금천 료칸 후기 - OKOnsen",
+      "lat": 34.7966,
+      "lng": 135.2477,
+      "categories": [
+        "온천 료칸",
+        "아리마 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg",
+      "address": "고베, 효고현",
+      "published": "2026-06-27",
+      "summary": "아리마 온천의 명품 료칸 도센 고쇼보를 800년 역사, 금천·은천, 가이세키 요리, 방문 팁 중심으로 정리한 가이드입니다.",
+      "link": "/onsen/arima_onsen_tosen_goshobo_ko",
+      "body_chars": 10735,
+      "body_hash": "bf723327b20a5477087e742508d7a7067703070f"
+    },
+    {
+      "id": "arima_onsen_tosen_goshobo_en",
+      "lang": "en",
+      "title": "Arima Onsen Tosen Goshobo: Inside Kobe's Oldest Luxury Ryokan - OKOnsen",
+      "lat": 34.7966,
+      "lng": 135.2477,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Cultural Immersion"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_tosen_goshobo.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-06-27",
+      "summary": "Immerse yourself in centuries of tradition and unparalleled luxury at Arima Onsen Tosen Goshobo, Kobe's oldest and most prestigious ryokan. This article offers an in-depth exploration of its historic Kinsen baths, exquisite kaiseki dining, refined Japanese architecture, and the serene ambiance that defines this iconic retreat in the heart of Arima Onsen.",
+      "link": "/onsen/arima_onsen_tosen_goshobo_en",
+      "body_chars": 19148,
+      "body_hash": "2ccaa580ddbad9c86c70316c6c80b7d06ddbd0f1"
+    },
+    {
+      "id": "arima_onsen_arima_grand_hotel_ko",
+      "lang": "ko",
+      "title": "아리마 그랜드 호텔 온천 료칸 | 금천·은천 2가지 온천 | OKOnsen",
+      "lat": 34.7955,
+      "lng": 135.2455,
+      "categories": [
+        "온천",
+        "료칸",
+        "고베",
+        "아리마 온천"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg",
+      "address": "고베, 효고현",
+      "published": "2026-06-27",
+      "summary": "아리마 온천의 중심에 자리 잡은 아리마 그랜드 호텔은 럭셔리함과 전통이 완벽하게 조화를 이루는 곳입니다. 금천과 은천, 두 가지 독특한 온천수를 경험하고, 최고급 가이세키 요리와 숨 막히는 산 전망을 만끽하세요. 고베 여행의 잊지 못할 추억을 선사할 최고의 온천 료칸입니다.",
+      "link": "/onsen/arima_onsen_arima_grand_hotel_ko",
+      "body_chars": 11818,
+      "body_hash": "3b8cc42596f371bfd00b26a22e7eed23f68e35f2"
+    },
+    {
+      "id": "arima_onsen_arima_grand_hotel_en",
+      "lang": "en",
+      "title": "Arima Grand Hotel Review: Kinsen Gold Water Onsen | OKOnsen",
+      "lat": 34.7955,
+      "lng": 135.2455,
+      "categories": [
+        "Onsen Ryokan",
+        "Luxury Travel",
+        "Hyogo Prefecture"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/arima_onsen_arima_grand_hotel.jpg",
+      "address": "Kobe, Hyogo",
+      "published": "2026-06-27",
+      "summary": "A closer look at whether Arima Grand Hotel's twin Kinsen and Ginsen springs, kaiseki dining, and hospitality earn its reputation among Arima Onsen ryokan.",
+      "link": "/onsen/arima_onsen_arima_grand_hotel_en",
+      "body_chars": 22452,
+      "body_hash": "a43c873f6dbf822b6ebb1f1fe4d26feee974f4a5"
     },
     {
       "id": "kurokawa_onsen_oku_no_yu_ko",
@@ -1489,6 +1395,24 @@
       "body_hash": "ae3715f6371421f947adb0960f117a752a7cef10"
     },
     {
+      "id": "kusatsu_onsen_hotel_sakurai_ko",
+      "lang": "ko",
+      "title": "쿠사츠 온센 호텔 사쿠라이 | 프리미엄 온천 리조트",
+      "lat": 36.6205,
+      "lng": 138.5999,
+      "categories": [
+        "절경",
+        "로컬"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kusatsu_onsen_hotel_sakurai.jpg",
+      "address": "Kusatsu, Gunma",
+      "published": "2026-04-12",
+      "summary": "군마현 쿠사츠 온천의 심장부에 위치한 호텔 사쿠라이는 숨 막히는 자연 경관 속에서 진정한 로컬 온천 경험을 선사합니다. 탁월한 수질의 온천과 최고급 가이세키 요리, 그리고 전통과 현대가 조화된 객실에서 잊을 수 없는 휴식을 만끽하세요. 바쁜 일상에서 벗어나 진정한 재충전을 원하는 여행자에게 이보다 완벽한 곳은 없을 것입니다.",
+      "link": "/onsen/kusatsu_onsen_hotel_sakurai_ko",
+      "body_chars": 9400,
+      "body_hash": "ba1af8baeffa9c3c13017e249e5cb43f5d2914a0"
+    },
+    {
       "id": "kurokawa_onsen_yamamizuki_ko",
       "lang": "ko",
       "title": "아소의 비경 속 힐링: 쿠로카와 온천 야마미즈키, 자연이 선사하는 최고의 휴식처",
@@ -1600,6 +1524,63 @@
       "body_hash": "62c7504b9d78c9084d0254c0c0c6f50c997d207f"
     },
     {
+      "id": "kurokawa_onsen_nanjoen_en",
+      "lang": "en",
+      "title": "Kurokawa Onsen Nanjoen | Tattoo-Friendly Luxury Ryokan Kumamoto",
+      "lat": 33.0812,
+      "lng": 131.1433,
+      "categories": [
+        "Tattoo OK",
+        "Local",
+        "Private Bath"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_nanjoen.jpg",
+      "address": "Minamioguni, Kumamoto",
+      "published": "2026-04-12",
+      "summary": "Discover Kurokawa Onsen Nanjoen, a truly unique Kumamoto ryokan where the warmth of **local hospitality** embraces every guest. Immerse yourself in the therapeutic embrace of its mineral-rich waters, knowing that **tattoos are respectfully welcomed**, a rare and refreshing policy. Experience the unparalleled blend of traditional Japanese charm, exquisite **private bathing**, and breathtaking natural beauty that awaits in this authentic sanctuary.",
+      "link": "/onsen/kurokawa_onsen_nanjoen_en",
+      "body_chars": 15815,
+      "body_hash": "39240987bb53cd19e407def145cf7b20de1e53c7"
+    },
+    {
+      "id": "kurokawa_onsen_ikoi_ryokan_ko",
+      "lang": "ko",
+      "title": "구로카와 온천 이코이 료칸 가이드: 가족탕, 당일 온천 후기 및 예약 팁",
+      "lat": 33.0811,
+      "lng": 131.1411,
+      "categories": [
+        "타투 허용",
+        "절경",
+        "로컬"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg",
+      "address": "Minamioguni, Kumamoto",
+      "published": "2026-04-12",
+      "summary": "구마모토 미나미오구니의 깊은 산 속에 자리한 이코이 료칸은 빼어난 자연 경관과 진정한 현지 분위기를 만끽할 수 있는 보석 같은 온천입니다. 문신을 한 여행객도 따뜻하게 환영하며, 아늑한 가족탕과 다양한 노천탕에서 몸과 마음의 피로를 완벽하게 풀 수 있습니다. 고요함 속에서 진정한 휴식과 일본 전통의 미학을 경험하고 싶은 분들에게 최고의 선택이 될 것입니다.",
+      "link": "/onsen/kurokawa_onsen_ikoi_ryokan_ko",
+      "body_chars": 7749,
+      "body_hash": "30fa4b7b4dbe0413e0cfde2372f4c9ce8d5a23e4"
+    },
+    {
+      "id": "kurokawa_onsen_ikoi_ryokan_en",
+      "lang": "en",
+      "title": "Kurokawa Onsen Ikoi Ryokan: Tattoo-Friendly & 11 Historic Baths",
+      "lat": 33.0811,
+      "lng": 131.1411,
+      "categories": [
+        "Local",
+        "Great View",
+        "Tattoo OK"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_ikoi_ryokan.jpg",
+      "address": "Minamioguni, Kumamoto",
+      "published": "2026-04-12",
+      "summary": "Nestled in the picturesque valley of Kurokawa Onsen, Ikoi Ryokan exemplifies traditional Japanese hospitality with a progressive spirit. Renowned for its eleven distinct baths, exquisite multi-course kaiseki dining, and classic tatami accommodations, this ryokan offers a deeply restorative experience. Ikoi Ryokan is particularly welcoming, standing out for its inclusive approach, making it an excellent choice for guests with tattoos seeking an authentic hot spring retreat in a stunning natural setting.",
+      "link": "/onsen/kurokawa_onsen_ikoi_ryokan_en",
+      "body_chars": 18529,
+      "body_hash": "b439aae0fcbcd8d9061eee2d5410a4c646e44a1f"
+    },
+    {
       "id": "kurokawa_onsen_hozantei_en",
       "lang": "en",
       "title": "Kurokawa Onsen Hozantei: Ultimate Riverside Ryokan Guide",
@@ -1617,6 +1598,25 @@
       "link": "/onsen/kurokawa_onsen_hozantei_en",
       "body_chars": 21002,
       "body_hash": "11d8d516dae7884357316897a7f3954f26fd13a0"
+    },
+    {
+      "id": "kurokawa_onsen_gosho_gekkoju_en",
+      "lang": "en",
+      "title": "Kurokawa Onsen Gosho Gekkoju: Luxury Private-Onsen Ryokan Guide - OKOnsen",
+      "lat": 33.0888,
+      "lng": 131.1355,
+      "categories": [
+        "Luxury",
+        "Great View",
+        "Private Bath"
+      ],
+      "thumbnail": "https://storage.googleapis.com/ok-project-assets/okonsen/kurokawa_onsen_gosho_gekkoju.jpg",
+      "address": "Minamioguni, Kumamoto",
+      "published": "2026-04-12",
+      "summary": "A guide to Kurokawa Onsen Gosho Gekkoju, a secluded luxury ryokan known for private onsen villas and mountain views in Kumamoto.",
+      "link": "/onsen/kurokawa_onsen_gosho_gekkoju_en",
+      "body_chars": 12056,
+      "body_hash": "47a7fa497e39ab502bc8cdd2cea24d5e406396d9"
     },
     {
       "id": "beppu_showaen_en",
@@ -1949,8 +1949,8 @@
       "published": "2026-03-24",
       "summary": "See if this Hakone ryokan is right for your trip: Lake Ashi view highlights, private bath options, room tips, and what to book first.",
       "link": "/onsen/the_prince_hakone_lake_ashinoko_en",
-      "body_chars": 18369,
-      "body_hash": "9a0977142fa8777b9822238afd5eff46de9ca0ad"
+      "body_chars": 18013,
+      "body_hash": "1321d123514fbb56a52e4ab0f53c68ba969c6711"
     },
     {
       "id": "matsuzakaya_honten_ko",

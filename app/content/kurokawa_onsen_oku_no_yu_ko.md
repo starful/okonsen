@@ -1,6 +1,4 @@
 ---
-youtube_id: OmqsWzH81Z0
-
 lang: ko
 title: "구로카와 온천 오쿠노유 료칸 완벽 가이드: 신비로운 동굴탕부터 온수풀까지"
 lat: 33.0799
